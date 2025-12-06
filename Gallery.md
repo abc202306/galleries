@@ -12,6 +12,11 @@ mtime: 2025-11-18T17:26:50+08:00
 
 - base: [[Gallery Base.base]]
 
+> [!Note]
+> 1. [[#剪藏器]]
+> 2. [[#Views of Gallery Base.base]]
+> 3. [[#Other Notes]]
+
 ## 剪藏器
 
 - EXHentai Web Clipper for Obsidian | https://github.com/abc202306/exhentai-web-clipper-for-obsidian
@@ -45,3 +50,10 @@ mtime: 2025-11-18T17:26:50+08:00
 	2. | | [[rape]]
 5. mixed
 	1. | | [[kodomo-doushi]]
+
+## Other Notes
+
+- [[exhentai-2865638-cb55311189]] | [\#遊戯王 抱き枕ラドリー - すずきとと的插畫 - pixiv](https://www.pixiv.net/artworks/115876138)
+- [[nhentai-408273]] | [[2025-09-13 文献引用信息]]
+- [[exhentai-3351524-d9eaac6215]] | [[2025-11-04 元数据提取结果]]
+- [[nhentai-558981]] | [[2025-12-11 来源于搜索结果 soutubot.moe]]

@@ -50,25 +50,17 @@ character:
 
 ![[nhentai-572725.webp|200]]
 
-| | |
-| --- | --- |
-| title_en | `[Nameraka Seinikuten (kamasu)] TENSHI GA UTI NI TOMARINIKITA. \| 小小的天使降临到我家中。 [Chinese] [吗喽汉化组] [Tarotha123个人无修]` |
-| title_jp | `[滑らか精肉店 (kamasu)] 天使が家に泊まりに来た。 [中国翻訳] [無修正]` |
-| url | https://nhentai.net/g/572725/ |
-| Parodies | [[original]] |
-| Characters |  |
-| Tags | [[sole-female]], [[sole-male]], [[lolicon]], [[blowjob]], [[incest]], [[x-ray]], [[defloration]], [[uncensored]], [[kissing]], [[urination]], [[stomach-deformation]], [[bald]], [[sleeping]], [[squirting]], [[gaping]], [[sumata]], [[niece]] |
-| Artists | [[kamasu]] |
-| Groups | [[yawaraka-seinikuten]] |
-| Languages | [[translated]], [[chinese]] |
-| Categories | [[doujinshi]] |
-| Pages | 120 |
-| Uploaded | 2025-05-12T02:03:48.113374+00:00 |
-
-## Note
-
-- 【滑らか精肉店 (kamasu)】天使が家に泊まりに来た
-
-![[【滑らか精肉店 (kamasu)】 天使が家に泊まりに来た。 【中国翻訳】 【無修正】-6B4D7E8662C606E966B1315836E141F4.jpg|200]]
-- `[滑らか精肉店 (kamasu)] 天使が家に泊まりに来た。`
-- 880 日圆 110 页的萝莉本  而且肉戏充足 性价比拉满
+|            |                                                                                                                                                                                                                                                 |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| title_en   | `[Nameraka Seinikuten (kamasu)] TENSHI GA UTI NI TOMARINIKITA. \| 小小的天使降临到我家中。 [Chinese] [吗喽汉化组] [Tarotha123个人无修]`                                                                                                                              |
+| title_jp   | `[滑らか精肉店 (kamasu)] 天使が家に泊まりに来た。 [中国翻訳] [無修正]`                                                                                                                                                                                                   |
+| url        | https://nhentai.net/g/572725/                                                                                                                                                                                                                   |
+| Parodies   | [[original]]                                                                                                                                                                                                                                    |
+| Characters |                                                                                                                                                                                                                                                 |
+| Tags       | [[sole-female]], [[sole-male]], [[lolicon]], [[blowjob]], [[incest]], [[x-ray]], [[defloration]], [[uncensored]], [[kissing]], [[urination]], [[stomach-deformation]], [[bald]], [[sleeping]], [[squirting]], [[gaping]], [[sumata]], [[niece]] |
+| Artists    | [[kamasu]]                                                                                                                                                                                                                                      |
+| Groups     | [[yawaraka-seinikuten]]                                                                                                                                                                                                                         |
+| Languages  | [[translated]], [[chinese]]                                                                                                                                                                                                                     |
+| Categories | [[doujinshi]]                                                                                                                                                                                                                                   |
+| Pages      | 120                                                                                                                                                                                                                                             |
+| Uploaded   | 2025-05-12T02:03:48.113374+00:00                                                                                                                                                                                                                |

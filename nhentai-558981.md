@@ -42,23 +42,17 @@ character:
 
 ![[nhentai-558981.webp|200]]
 
-| | |
-| --- | --- |
-| title_en | `[Maka Fushigi] JS Kikaku - JS Standards [English] [MTL]` |
-| title_jp | `[魔訶不思議] JS規格 [英訳]` |
-| url | https://nhentai.net/g/558981/ |
-| Parodies |  |
-| Characters |  |
-| Tags | [[group]], [[anal]], [[lolicon]], [[blowjob]], [[schoolgirl-uniform]], [[glasses]], [[shotacon]], [[rape]], [[double-penetration]], [[tankoubon]], [[exhibitionism]], [[rough-translation]] |
-| Artists | [[maka-fushigi]] |
-| Groups |  |
-| Languages | [[translated]], [[english]] |
-| Categories | [[manga]] |
-| Pages | 202 |
-| Uploaded | 2025-02-28T11:03:59.161347+00:00 |
-
-## Note
-
-- 【maka fushigi】【【Maka Fushigi】 JS Kikaku - JS Standards 【Chinese】】
-
-| 来源于搜索结果 https | //soutubot.moe/results/2025012119161548 |
+|            |                                                                                                                                                                                             |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| title_en   | `[Maka Fushigi] JS Kikaku - JS Standards [English] [MTL]`                                                                                                                                   |
+| title_jp   | `[魔訶不思議] JS規格 [英訳]`                                                                                                                                                                         |
+| url        | https://nhentai.net/g/558981/                                                                                                                                                               |
+| Parodies   |                                                                                                                                                                                             |
+| Characters |                                                                                                                                                                                             |
+| Tags       | [[group]], [[anal]], [[lolicon]], [[blowjob]], [[schoolgirl-uniform]], [[glasses]], [[shotacon]], [[rape]], [[double-penetration]], [[tankoubon]], [[exhibitionism]], [[rough-translation]] |
+| Artists    | [[maka-fushigi]]                                                                                                                                                                            |
+| Groups     |                                                                                                                                                                                             |
+| Languages  | [[translated]], [[english]]                                                                                                                                                                 |
+| Categories | [[manga]]                                                                                                                                                                                   |
+| Pages      | 202                                                                                                                                                                                         |
+| Uploaded   | 2025-02-28T11:03:59.161347+00:00                                                                                                                                                            |
