@@ -1,0 +1,155 @@
+
+# 
+# > Table of Contents 
+#
+# - 1 D - Directories
+#     - 1.1 DR - Root Directories
+# - 2 F - Files
+#     - 2.1 FN - Files with Special Name
+#     - 2.2 FE - Files with Special Extension
+#         - 2.2.1 FEP - Pictures
+#             - 2.2.1.1 FEPB - Pictures - Bitmap File
+#             - 2.2.1.2 FEPS - Pictures - Scalable File
+#             - 2.2.1.3 FEPI - Pictures - Icon File
+#             - 2.2.1.4 FEPD - Pictures - Dinamic File
+#         - 2.2.2 FEA - Audio
+#         - 2.2.3 FEV - Video
+#         - 2.2.4 FED - Documents
+#             - 2.2.4.1 FEDB - Documents - Binary File
+#                 - 2.2.4.1.1 FEDBO - Binary Office Files
+#                 - 2.2.4.1.2 FEDBB - Binary Book Files
+#                 - 2.2.4.1.3 FEDBS - Software Binary Files
+#                 - 2.2.4.1.4 FEDBC - Compressed Binary Files
+#                 - 2.2.4.1.5 FEDBL - Link Files
+#             - 2.2.4.2 FEDT - Documents - Text File
+#                 - 2.2.4.2.1 FEDTT - Text Documents
+#                 - 2.2.4.2.2 FEDTS - Script Files
+#                 - 2.2.4.2.3 FEDTD - Data Files
+#                 - 2.2.4.2.4 FEDTW - Webpage Files
+#                 - 2.2.4.2.5 FEDTO - Obsidian Specific Files
+# - 3 T - Tracked Items
+#     - 3.1 TD - Doc
+#     - 3.2 TC - Config
+#
+
+# # 1 D - Directories
+
+# ## 1.1 DR - Root Directories
+
+/.obsidian/
+/.trash/
+
+# ## 2.1 FN - Files with Special Name
+
+# desktop.ini
+
+# ## 2.2 FE - Files with Special Extension
+
+# ### 2.2.1 FEP - Pictures
+
+# #### 2.2.1.1 FEPB - Pictures - Bitmap File
+
+# *.png
+# *.jpg
+# *.jpeg
+# *.webp
+# *.tiff
+
+# #### 2.2.1.2 FEPS - Pictures - Scalable File
+
+# *.bmp
+# *.svg
+
+# #### 2.2.1.3 FEPI - Pictures - Icon File
+
+# *.ico
+
+# #### 2.2.1.4 FEPD - Pictures - Dinamic File
+
+# *.gif
+
+# ### 2.2.2 FEA - Audio
+
+# *.mp3
+# *.wav
+# *.flac
+# *.ogg
+# *.aac
+
+# ### 2.2.3 FEV - Video
+
+# *.mov
+# *.avi
+# *.mp4
+
+# ### 2.2.4 FED - Documents
+
+# #### 2.2.4.1 FEDB - Documents - Binary File
+
+# ##### 2.2.4.1.1 FEDBO - Binary Office Files
+
+# *.docx
+# *.doc
+# *.xls
+# *.xlsx
+# *.ppt
+
+# ##### 2.2.4.1.2 FEDBB - Binary Book Files
+
+# *.pdf
+# *.epub
+
+# ##### 2.2.4.1.3 FEDBS - Software Binary Files
+
+# *.bin
+# *.exe
+# *.dll
+# *.a
+
+# ##### 2.2.4.1.4 FEDBC - Compressed Binary Files
+
+# *.zip
+
+# ##### 2.2.4.1.5 FEDBL - Link Files
+
+# *.lnk
+
+# #### 2.2.4.2 FEDT - Documents - Text File
+
+# ##### 2.2.4.2.1 FEDTT - Text Documents
+
+# *.txt
+
+# ##### 2.2.4.2.2 FEDTS - Script Files
+
+# *.py
+# *.ts
+# *.js
+# *.ps1
+
+# ##### 2.2.4.2.3 FEDTD - Data Files
+
+# *.xml
+# *.csv
+# *.json
+
+# ##### 2.2.4.2.4 FEDTW - Webpage Files
+
+# *.html
+# *.css
+
+# ##### 2.2.4.2.5 FEDTO - Obsidian Specific Files
+
+# *.canvas
+
+# # 3 T - Tracked Items
+
+# ## 3.1 TD - Doc
+
+!*.md
+!*.base
+
+# ## 3.2 TC - Config
+
+!*.gitignore
+!*.gitattributes
