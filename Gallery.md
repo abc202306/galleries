@@ -48,7 +48,9 @@ mtime: 2025-11-18T17:26:50+08:00
 4. female
 	1. | | [[lolicon]]
 	2. | | [[rape]]
-5. mixed
+5. male
+	1. | | [[sole-male]]
+6. mixed
 	1. | | [[kodomo-doushi]]
 
 ## Other Notes

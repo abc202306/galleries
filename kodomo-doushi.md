@@ -5,4 +5,4 @@ mtime: 2025-11-16T16:02:04+08:00
 
 # kodomo-doushi
 
-![[Gallery Base.base#mixed/kodomo-doushi]]
+[[Gallery Base.base#mixed/kodomo-doushi]]
