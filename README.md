@@ -31,11 +31,12 @@
 3. [[Gallery Base.base#artist/utatane|utatane]] | 4 | [[utatane]]
 4. [[Gallery Base.base#artist/wancho|wancho]] | 4 | [[wancho]]
 5. [[Gallery Base.base#artist/custom-udon|custom-udon]] | 3 | [[custom-udon]]
-6. [[Gallery Base.base#artist/hikami-izuto|hikami-izuto]] | 2 | [[hikami-izuto]]
-7. [[Gallery Base.base#artist/murai-renji|murai-renji]] | 1 | [[murai-renji]]
-8. [[Gallery Base.base#artist/yoyomax|yoyomax]] | 1 | [[yoyomax]]
-9. [[Gallery Base.base#artist/kani-biimu|kani-biimu]] | 1 | [[kani-biimu]]
-10. [[Gallery Base.base#artist/baku-p|baku-p]] | 1 | [[baku-p]]
+6. [[Gallery Base.base#artist/komugi|komugi]] | 3 | [[komugi]]
+7. [[Gallery Base.base#artist/hikami-izuto|hikami-izuto]] | 2 | [[hikami-izuto]]
+8. [[Gallery Base.base#artist/murai-renji|murai-renji]] | 1 | [[murai-renji]]
+9. [[Gallery Base.base#artist/yoyomax|yoyomax]] | 1 | [[yoyomax]]
+10. [[Gallery Base.base#artist/kani-biimu|kani-biimu]] | 1 | [[kani-biimu]]
+11. [[Gallery Base.base#artist/baku-p|baku-p]] | 1 | [[baku-p]]
 
 ### [[Gallery Base.base#categories|categories]]
 

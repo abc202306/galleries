@@ -676,3 +676,14 @@ views:
     order:
       - formula.filetitle
     image: formula.image01
+  - type: cards
+    name: artist/komugi
+    filters:
+      and:
+        - file.hasLink("komugi")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
