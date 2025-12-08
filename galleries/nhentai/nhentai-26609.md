@@ -31,7 +31,7 @@ mtime: 2025-12-05T16:23:39+08:00
 character:
 ---
 
-# 【Furaipan Daimaou - ふらいぱん大魔王】 Ecoco no Heon - えここの絵本 (Ecoco) 【Lolicon】
+# `[Furaipan Daimaou - ふらいぱん大魔王] Ecoco no Heon - えここの絵本 (Ecoco) [Lolicon]`
 
 ![[nhentai-26609.jpg|200]]
 

@@ -42,7 +42,7 @@ group:
 character:
 ---
 
-# 【kanabun】 P活チサちゃん 【中国翻訳】 【無修正】
+# `[kanabun] P活チサちゃん [中国翻訳] [無修正]`
 
 ![[nhentai-576379.webp|200]]
 

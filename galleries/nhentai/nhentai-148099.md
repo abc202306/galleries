@@ -31,7 +31,7 @@ parody:
 character:
 ---
 
-# (C87) 【Mieow (らする)】 Little Girl 10 【中国翻訳】
+# `(C87) [Mieow (らする)] Little Girl 10 [中国翻訳]`
 
 ![[nhentai-148099.jpg|200]]
 

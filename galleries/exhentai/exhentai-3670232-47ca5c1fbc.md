@@ -47,7 +47,7 @@ ctime: 2025-12-08T14:23:16+08:00
 mtime: 2025-12-08T14:23:16+08:00
 ---
 
-# Poruserin decensored +Hardcore edits (Virgin, blood, deflowered) 【HQC】
+# `Poruserin decensored +Hardcore edits (Virgin, blood, deflowered) [HQC]`
 
 ![[exhentai-3670232-47ca5c1fbc.webp|200]]
 

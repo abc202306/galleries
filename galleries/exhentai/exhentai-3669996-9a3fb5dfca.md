@@ -56,7 +56,7 @@ ctime: 2025-12-08T14:22:40+08:00
 mtime: 2025-12-08T14:22:40+08:00
 ---
 
-# 【fanbox】 onion (from 2023.01)
+# `[fanbox] onion (from 2023.01)`
 
 ![[exhentai-3669996-9a3fb5dfca.webp|200]]
 

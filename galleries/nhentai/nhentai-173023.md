@@ -37,7 +37,7 @@ parody:
 character:
 ---
 
-# 【MonsieuR (MUK)】 Tiny Evil 【英訳】 【無修正】 【DL版】
+# `[MonsieuR (MUK)] Tiny Evil [英訳] [無修正] [DL版]`
 
 ![[nhentai-173023.jpg|200]]
 

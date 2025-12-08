@@ -38,7 +38,7 @@ mtime: 2025-12-05T16:33:27+08:00
 character:
 ---
 
-# 【imotare (moyori)】 ふたりでふたご - Extra Galleries 【英訳】
+# `[imotare (moyori)] ふたりでふたご - Extra Galleries [英訳]`
 
 ![[nhentai-451419.png|200]]
 

@@ -57,7 +57,7 @@ mtime: 2025-12-05T17:20:44+08:00
 character:
 ---
 
-# (C104) 【P.A.Project (てるき熊)】 スケベワークス —Skeb-e Works— 06 (よろず)
+# `(C104) [P.A.Project (てるき熊)] スケベワークス —Skeb-e Works— 06 (よろず)`
 
 ![[nhentai-527886.jpg|200]]
 

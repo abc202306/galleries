@@ -32,7 +32,7 @@ ctime: 2025-12-05T17:20:03+08:00
 mtime: 2025-12-05T17:20:03+08:00
 ---
 
-# (C89) 【Caramel Macchiato (まき)】 チルノちゃんにいいねいいね (東方Project) 【中国翻訳】
+# `(C89) [Caramel Macchiato (まき)] チルノちゃんにいいねいいね (東方Project) [中国翻訳]`
 
 ![[nhentai-171814.jpg|200]]
 

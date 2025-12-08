@@ -44,7 +44,7 @@ ctime: 2025-12-05T19:41:11+08:00
 mtime: 2025-12-05T19:41:11+08:00
 ---
 
-# 【Fanbox】 Custom Udon (Exclude video)
+# `[Fanbox] Custom Udon (Exclude video)`
 
 ![[exhentai-2917300-e760d27fec.webp|200]]
 

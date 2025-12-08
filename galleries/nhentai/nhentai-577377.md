@@ -31,7 +31,7 @@ parody:
 character:
 ---
 
-# 【Sody】 四尺様 (1尺＝約30cm) (COMIC 阿吽 2025年4月号) 【中国翻訳】
+# `[Sody] 四尺様 (1尺＝約30cm) (COMIC 阿吽 2025年4月号) [中国翻訳]`
 
 ![[nhentai-577377.webp|200]]
 

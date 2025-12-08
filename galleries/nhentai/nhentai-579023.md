@@ -34,7 +34,7 @@ group:
 character:
 ---
 
-# 【SCなる】 英里奈ちゃん
+# `[SCなる] 英里奈ちゃん`
 
 ![[nhentai-579023.webp|200]]
 

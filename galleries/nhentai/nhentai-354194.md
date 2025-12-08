@@ -41,7 +41,7 @@ parody:
 character:
 ---
 
-# 【アンソロジー】 LQ -Little Queen- Vol.33 【DL版】
+# `[アンソロジー] LQ -Little Queen- Vol.33 [DL版]`
 
 ![[nhentai-354194.jpg|200]]
 

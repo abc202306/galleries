@@ -45,7 +45,7 @@ ctime: 2025-12-05T19:44:27+08:00
 mtime: 2025-12-05T19:44:27+08:00
 ---
 
-# LostLife
+# `LostLife`
 
 ![[exhentai-2248673-3bb2a907cd.webp|200]]
 

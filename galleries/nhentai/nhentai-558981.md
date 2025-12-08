@@ -38,7 +38,7 @@ parody:
 character:
 ---
 
-# 【魔訶不思議】 JS規格 【英訳】
+# `[魔訶不思議] JS規格 [英訳]`
 
 ![[nhentai-558981.webp|200]]
 

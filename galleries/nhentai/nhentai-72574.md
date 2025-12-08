@@ -37,7 +37,7 @@ ctime: 2025-12-05T17:16:15+08:00
 mtime: 2025-12-05T17:16:15+08:00
 ---
 
-# (例大祭8) 【ひまわりまんぢぅ (倉澤まこと)】 Sweet Lovely Syrup (東方Project) 【英訳】
+# `(例大祭8) [ひまわりまんぢぅ (倉澤まこと)] Sweet Lovely Syrup (東方Project) [英訳]`
 
 ![[nhentai-72574.jpg|200]]
 

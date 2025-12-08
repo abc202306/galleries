@@ -54,7 +54,7 @@ ctime: 2025-12-05T19:45:29+08:00
 mtime: 2025-12-05T19:45:29+08:00
 ---
 
-# 【HappyLambBarn】 良い夢_
+# `[HappyLambBarn] 良い夢_`
 
 ![[exhentai-1441702-ccfb872c30.webp|200]]
 

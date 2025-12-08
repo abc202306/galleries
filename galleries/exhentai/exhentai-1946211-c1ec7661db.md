@@ -54,7 +54,7 @@ ctime: 2025-12-05T19:40:12+08:00
 mtime: 2025-12-05T19:40:12+08:00
 ---
 
-# 【Remonsan Project (Syokuyou-Mogura)】 SHISAKU-13GOU
+# `[Remonsan Project (Syokuyou-Mogura)] SHISAKU-13GOU`
 
 ![[exhentai-1946211-c1ec7661db.webp|200]]
 

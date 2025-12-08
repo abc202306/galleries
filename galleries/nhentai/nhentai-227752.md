@@ -19,7 +19,7 @@ group:
 language:
   - "[[translated]]"
   - "[[chinese]]"
-mhtml: "[[【nhentai.net】 2024.10.27—Miu-chan to Veranda XX » nhentai- hentai doujinshi and manga - 快捷方式.mhtml.lnk]]"
+mhtml: "[[[nhentai.net] 2024.10.27—Miu-chan to Veranda XX » nhentai- hentai doujinshi and manga - 快捷方式.mhtml.lnk]]"
 pagecount: 37
 aliases:
   - (C93) [Little Hamlet (Kiira)] Miu-chan to Veranda XX [Chinese] [萝莉援助汉化组]
@@ -36,7 +36,7 @@ parody:
 character:
 ---
 
-# (C93) 【りとる☆はむれっと (きぃら～☆)】 美羽ちゃんとベランダXX 【中国翻訳】
+# `(C93) [りとる☆はむれっと (きぃら～☆)] 美羽ちゃんとベランダXX [中国翻訳]`
 
 ![[nhentai-227752.jpg|200]]
 

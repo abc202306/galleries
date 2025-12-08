@@ -39,7 +39,7 @@ ctime: 2025-12-04T21:19:29+08:00
 mtime: 2025-12-04T21:19:29+08:00
 ---
 
-# 【Dr.VERMILION (ペテン師)】 import emotion! (VOICEROID) 【中国翻訳】 【無修正】 【DL版】
+# `[Dr.VERMILION (ペテン師)] import emotion! (VOICEROID) [中国翻訳] [無修正] [DL版]`
 
 ![[nhentai-430343.png|200]]
 

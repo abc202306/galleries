@@ -36,7 +36,7 @@ ctime: 2025-12-05T17:24:41+08:00
 mtime: 2025-12-05T17:24:41+08:00
 ---
 
-# (サンクリ36) 【RAT TAIL (IRIE YAMAZAKI)】 Lucky☆Star FILE (らき☆すた) 【英訳】
+# `(サンクリ36) [RAT TAIL (IRIE YAMAZAKI)] Lucky☆Star FILE (らき☆すた) [英訳]`
 
 ![[nhentai-50887.jpg|200]]
 

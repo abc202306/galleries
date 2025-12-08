@@ -35,7 +35,7 @@ ctime: 2025-12-05T17:24:20+08:00
 mtime: 2025-12-05T17:24:20+08:00
 ---
 
-# (COMIC1☆8) 【HellDevice (nalvas)】 とかいのキャベツ畑 (未確認で進行形)
+# `(COMIC1☆8) [HellDevice (nalvas)] とかいのキャベツ畑 (未確認で進行形)`
 
 ![[nhentai-126575.jpg|200]]
 
