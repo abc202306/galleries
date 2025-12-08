@@ -15,7 +15,6 @@ english: (C103) [Awaya (Ema)] Lady no Tebiki | 淑女的入门课 (Blue Archive)
 japanese: (C103) [あわや (えま)] 淑女の手引き (ブルーアーカイブ) [中国翻訳]
 url: https://nhentai.net/g/533601/
 artist:
-  - "[[えま]]"
 parody:
   - "[[blue-archive]]"
 character:

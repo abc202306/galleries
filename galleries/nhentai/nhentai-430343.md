@@ -5,7 +5,7 @@ categories:
   - "[[doujinshi]]"
 keywords:
   - "[[sole-male]]"
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[stockings]]"
   - "[[ffm-threesome]]"
@@ -50,7 +50,7 @@ mtime: 2025-12-04T21:19:29+08:00
 | url | https://nhentai.net/g/430343/ |
 | Parodies | [[voiceroid]] |
 | Characters | [[akane-kotonoha]], [[aoi-kotonoha]] |
-| Tags | [[sole-male]], [[Group]], [[lolicon]], [[stockings]], [[ffm-threesome]], [[uncensored]], [[twins]], [[shimaidon]], [[layer-cake]], [[shared-senses]] |
+| Tags | [[sole-male]], [[group]], [[lolicon]], [[stockings]], [[ffm-threesome]], [[uncensored]], [[twins]], [[shimaidon]], [[layer-cake]], [[shared-senses]] |
 | Artists | [[petenshi]] |
 | Groups | [[dr.vermilion]] |
 | Languages | [[translated]], [[chinese]] |

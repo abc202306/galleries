@@ -15,7 +15,6 @@ english: (Sensei no Archive 13) [Sabasonikku! (Sabashi)] Ibuki no Hajimete Akume
 japanese: (せんせーのアーカイ13) [さばそにっく! (さば氏)] いぶきのはじめてあくめ 丹花イブキ (ブルーアーカイブ) [中国翻訳]
 url: https://nhentai.net/g/585852/
 artist:
-  - "[[さば氏]]"
 parody:
   - "[[blue-archive]]"
 character:

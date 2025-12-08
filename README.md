@@ -3,6 +3,7 @@
 
 - collection: [[gallery]]
 - base: [[gallery-base.base]]
+- template: [[basic-template]]
 
 > [!Note]
 > 1. [[#Views of gallery-base.base]]

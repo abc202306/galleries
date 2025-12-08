@@ -7,7 +7,7 @@ keywords:
   - "[[sole-female]]"
   - "[[sole-male]]"
   - "[[lolicon]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[teacher]]"
 english: "[Youdou Sakusen! (Zetsuen)] Watashi ga Kanojo ja Dame desu ka? 2 [Chinese] [绅士仓库汉化] [Digital]"
 japanese: "[ようどうさくせん！ (ぜつえん)] わたしが彼女じゃだめですか？2 [中国翻訳] [DL版]"

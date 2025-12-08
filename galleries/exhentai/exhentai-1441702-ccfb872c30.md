@@ -19,7 +19,7 @@ female:
   - "[[unusual-pupils]]"
 male:
 mixed:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[mmf-threesome]]"
   - "[[group]]"
 location:

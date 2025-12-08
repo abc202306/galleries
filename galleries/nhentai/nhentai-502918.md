@@ -12,7 +12,6 @@ english: "[5ナン] ナルサク漫画 (Naruto)"
 japanese: "[5ナン] ナルサク漫画 (NARUTO -ナルト-)"
 url: https://nhentai.net/g/502918/
 artist:
-  - "[[5ナン]]"
 parody:
   - "[[naruto]]"
 character:

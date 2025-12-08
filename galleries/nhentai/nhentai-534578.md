@@ -5,7 +5,7 @@ categories:
   - "[[doujinshi]]"
 keywords:
   - "[[sole-male]]"
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[rape]]"
   - "[[dark-skin]]"
@@ -49,7 +49,7 @@ mtime: 2025-12-04T21:12:32+08:00
 | url | https://nhentai.net/g/534578/ |
 | Parodies | [[bakemonogatari]] |
 | Characters | [[shinobu-oshino]] |
-| Tags | [[sole-male]], [[Group]], [[lolicon]], [[rape]], [[dark-skin]], [[defloration]], [[impregnation]], [[bbm]], [[slave]], [[rough-translation]], [[vampire]] |
+| Tags | [[sole-male]], [[group]], [[lolicon]], [[rape]], [[dark-skin]], [[defloration]], [[impregnation]], [[bbm]], [[slave]], [[rough-translation]], [[vampire]] |
 | Artists |  |
 | Groups | [[radical-tenshi]] |
 | Languages | [[translated]], [[chinese]] |

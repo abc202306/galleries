@@ -13,7 +13,7 @@ male:
 mixed:
 location:
 other:
-  - "[[3D]]"
+  - "[[3d]]"
   - "[[3d-imageset]]"
   - "[[uncensored]]"
   - "[[3d]]"

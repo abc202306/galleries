@@ -4,7 +4,7 @@ up:
 categories:
   - "[[doujinshi]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[mosaic-censorship]]"
   - "[[defloration]]"
@@ -48,7 +48,7 @@ mtime: 2025-12-04T21:20:32+08:00
 | url | https://nhentai.net/g/379731/ |
 | Parodies | [[original]] |
 | Characters |  |
-| Tags | [[Group]], [[lolicon]], [[mosaic-censorship]], [[defloration]], [[ffm-threesome]], [[fingering]], [[condom]], [[bukkake]], [[twins]], [[shimaidon]], [[multiple-paizuri]] |
+| Tags | [[group]], [[lolicon]], [[mosaic-censorship]], [[defloration]], [[ffm-threesome]], [[fingering]], [[condom]], [[bukkake]], [[twins]], [[shimaidon]], [[multiple-paizuri]] |
 | Artists | [[wada-wau]] |
 | Groups | [[circle-feed]] |
 | Languages | [[japanese]] |

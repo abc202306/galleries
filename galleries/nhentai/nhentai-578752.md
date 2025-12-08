@@ -17,7 +17,7 @@ japanese: "[Rico] 未熟なからだと誘惑ぱんつ [中国翻訳] [DL版]"
 url: https://nhentai.net/g/578752/
 artist:
   - "[[Rico]]"
-  - "[[rico]]"
+  - "[[Rico]]"
 language:
   - "[[translated]]"
   - "[[chinese]]"
@@ -46,7 +46,7 @@ character:
 | Parodies |  |
 | Characters |  |
 | Tags | [[lolicon]], [[blowjob]], [[incest]], [[tankoubon]], [[twintails]], [[sister]], [[handjob]], [[hair-buns]] |
-| Artists | [[rico]] |
+| Artists | [[Rico]] |
 | Groups |  |
 | Languages | [[translated]], [[chinese]] |
 | Categories | [[manga]] |

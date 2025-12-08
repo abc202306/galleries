@@ -5,7 +5,7 @@ categories:
   - "[[manga]]"
 keywords:
   - "[[sole-male]]"
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[blowjob]]"
   - "[[incest]]"

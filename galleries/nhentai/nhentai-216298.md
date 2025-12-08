@@ -9,7 +9,6 @@ english: "[うえだしろ] ククリとくすぐったい魔法陣"
 japanese: "[うえだしろ] ククリとくすぐったい魔法陣"
 url: https://nhentai.net/g/216298/
 artist:
-  - "[[うえだしろ]]"
 parody:
   - "[[mahoujin-guru-guru]]"
 character:

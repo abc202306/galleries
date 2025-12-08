@@ -4,7 +4,7 @@ up:
 categories:
   - "[[manga]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[dark-skin]]"
   - "[[tankoubon]]"
@@ -52,7 +52,7 @@ mtime: 2025-12-04T21:40:49+08:00
 | url | https://nhentai.net/g/450868/ |
 | Parodies |  |
 | Characters |  |
-| Tags | [[Group]], [[lolicon]], [[dark-skin]], [[tankoubon]], [[defloration]], [[ffm-threesome]], [[kemonomimi]], [[story-arc]], [[tail]], [[blindfold]], [[monster-girl]], [[fox-girl]], [[drunk]], [[vampire]], [[clone]], [[shared-senses]] |
+| Tags | [[group]], [[lolicon]], [[dark-skin]], [[tankoubon]], [[defloration]], [[ffm-threesome]], [[kemonomimi]], [[story-arc]], [[tail]], [[blindfold]], [[monster-girl]], [[fox-girl]], [[drunk]], [[vampire]], [[clone]], [[shared-senses]] |
 | Artists | [[mutou-mato]] |
 | Groups |  |
 | Languages | [[translated]], [[chinese]] |

@@ -4,7 +4,7 @@ up:
 categories:
   - "[[doujinshi]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[group]]"
 english: (C68) [Uropyon (Urotan)] Eco Splash 6 (Ecoko) [English]

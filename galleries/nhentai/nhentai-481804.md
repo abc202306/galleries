@@ -8,7 +8,7 @@ keywords:
   - "[[glasses]]"
   - "[[twintails]]"
   - "[[kemonomimi]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[catgirl]]"
   - "[[tail]]"
   - "[[teacher]]"

@@ -25,7 +25,7 @@ male:
 mixed:
 location:
 other:
-  - "[[3D]]"
+  - "[[3d]]"
   - "[[mosaic-censorship]]"
   - "[[3d]]"
 english: "[Nadeshikosan] Elf Maid no Choukyou Hakusho"

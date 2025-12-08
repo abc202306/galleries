@@ -4,7 +4,7 @@ up:
 categories:
   - "[[manga]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[stockings]]"
   - "[[nakadashi]]"
@@ -60,7 +60,7 @@ mtime: 2025-12-04T21:45:15+08:00
 | url | https://nhentai.net/g/507733/ |
 | Parodies |  |
 | Characters |  |
-| Tags | [[Group]], [[lolicon]], [[stockings]], [[nakadashi]], [[schoolgirl-uniform]], [[blowjob]], [[mosaic-censorship]], [[incest]], [[tankoubon]], [[defloration]], [[ffm-threesome]], [[sister]], [[cunnilingus]], [[virginity]], [[inseki]], [[school-swimsuit]], [[eye-covering-bang]], [[twins]], [[cousin]], [[randoseru]], [[shimaidon]], [[tutor]], [[mesugaki]] |
+| Tags | [[group]], [[lolicon]], [[stockings]], [[nakadashi]], [[schoolgirl-uniform]], [[blowjob]], [[mosaic-censorship]], [[incest]], [[tankoubon]], [[defloration]], [[ffm-threesome]], [[sister]], [[cunnilingus]], [[virginity]], [[inseki]], [[school-swimsuit]], [[eye-covering-bang]], [[twins]], [[cousin]], [[randoseru]], [[shimaidon]], [[tutor]], [[mesugaki]] |
 | Artists | [[arumamai-ayuka-plus]], [[aruma]] |
 | Groups |  |
 | Languages | [[translated]], [[english]] |

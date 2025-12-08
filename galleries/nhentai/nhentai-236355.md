@@ -4,7 +4,7 @@ up:
 categories:
   - "[[manga]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[stockings]]"
   - "[[schoolgirl-uniform]]"
@@ -53,7 +53,7 @@ mtime: 2025-12-04T21:22:02+08:00
 | url | https://nhentai.net/g/236355/ |
 | Parodies |  |
 | Characters |  |
-| Tags | [[Group]], [[lolicon]], [[stockings]], [[schoolgirl-uniform]], [[blowjob]], [[glasses]], [[rape]], [[incest]], [[tankoubon]], [[defloration]], [[twintails]], [[sister]], [[kemonomimi]], [[unusual-pupils]], [[catgirl]], [[tanlines]], [[tracksuit]] |
+| Tags | [[group]], [[lolicon]], [[stockings]], [[schoolgirl-uniform]], [[blowjob]], [[glasses]], [[rape]], [[incest]], [[tankoubon]], [[defloration]], [[twintails]], [[sister]], [[kemonomimi]], [[unusual-pupils]], [[catgirl]], [[tanlines]], [[tracksuit]] |
 | Artists | [[leafy]] |
 | Groups |  |
 | Languages | [[translated]], [[chinese]] |

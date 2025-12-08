@@ -11,7 +11,7 @@ keywords:
   - "[[yuri]]"
   - "[[twintails]]"
   - "[[kemonomimi]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[teacher]]"
 english: (SC38) [Surume no Oka (Yukino Koreyuki)] Kuro Masterpiece War! (Kodomo no Jikan) [Chinese] [靴下汉化组]
 japanese: (サンクリ38) [するめの丘 (之之之之)] KURO MASTERPIECE WAR! (こどものじかん) [中国翻訳]

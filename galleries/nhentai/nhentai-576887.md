@@ -5,7 +5,7 @@ categories:
   - "[[doujinshi]]"
 keywords:
   - "[[sole-male]]"
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[shotacon]]"
   - "[[incest]]"

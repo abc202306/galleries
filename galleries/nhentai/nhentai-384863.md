@@ -4,7 +4,7 @@ up:
 categories:
   - "[[doujinshi]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[stockings]]"
   - "[[nakadashi]]"

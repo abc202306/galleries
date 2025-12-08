@@ -18,7 +18,6 @@ english: "[Manmaru Megane (Hiame Sou)] Chiisana Seitokaichou o Odoshite Kuppuku 
 japanese: "[まんまるめがね (日飴ソウ)] 小さな生徒会長を脅して屈服させよう"
 url: https://nhentai.net/g/525073/
 artist:
-  - "[[日飴ソウ]]"
 parody:
   - "[[original]]"
 language:

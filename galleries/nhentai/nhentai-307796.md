@@ -4,7 +4,7 @@ up:
 categories:
   - "[[manga]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[stockings]]"
   - "[[nakadashi]]"

@@ -7,7 +7,7 @@ keywords:
   - "[[sole-female]]"
   - "[[sole-male]]"
   - "[[lolicon]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
 english: "[Miyasaka Takaji] Oshiete Sensee (COMIC LO 2016-05) [Chinese] [4K漢化組]"
 japanese: "[ミヤサカタカジ] おしえてせんせぇ (COMIC LO 2016年5月号) [中国翻訳]"
 url: https://nhentai.net/g/170880/
@@ -40,7 +40,7 @@ mtime: 2025-12-04T21:09:39+08:00
 | url | https://nhentai.net/g/170880/ |
 | Parodies |  |
 | Characters |  |
-| Tags | [[sole-female]], [[sole-male]], [[lolicon]], [[Teacher]] |
+| Tags | [[sole-female]], [[sole-male]], [[lolicon]], [[teacher]] |
 | Artists | [[miyasaka-takaji]] |
 | Groups |  |
 | Languages | [[translated]], [[chinese]] |

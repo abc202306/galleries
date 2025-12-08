@@ -4,7 +4,7 @@ up:
 categories:
   - "[[manga]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[stockings]]"
   - "[[nakadashi]]"
@@ -25,7 +25,7 @@ keywords:
   - "[[sister]]"
   - "[[masturbation]]"
   - "[[exhibitionism]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[footjob]]"
   - "[[beauty-mark]]"
   - "[[cunnilingus]]"

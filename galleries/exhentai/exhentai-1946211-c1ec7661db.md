@@ -21,7 +21,7 @@ female:
   - "[[vaginal-sticker]]"
 male:
 mixed:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[group]]"
 location:
 other:

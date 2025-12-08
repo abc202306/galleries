@@ -4,7 +4,7 @@ up:
 categories:
   - "[[misc]]"
 keywords:
-  - "[[3D]]"
+  - "[[3d]]"
 female:
   - "[[blowjob]]"
   - "[[kissing]]"
@@ -18,13 +18,12 @@ male:
 mixed:
 location:
 other:
-  - "[[3D]]"
+  - "[[3d]]"
   - "[[3d]]"
 english: "[Jホシタロウ] 天狗おじさん精子と性教育 1"
 japanese: ""
 url: https://exhentai.org/g/2917562/e8bcc160d5
 artist:
-  - "[[Jホシタロウ]]"
 group:
 parody:
 character:

@@ -22,7 +22,6 @@ english: "[Toukarachi] Mahou Shoujo Futanari Haiboku | Magical Girl Futanari Def
 japanese: "[とうからち] 魔法少女ふたなり敗北 [英訳]"
 url: https://nhentai.net/g/577236/
 artist:
-  - "[[とうからち]]"
 group:
   - "[[toukarachi]]"
 parody:

@@ -8,7 +8,7 @@ keywords:
   - "[[sole-male]]"
   - "[[lolicon]]"
   - "[[multi-work-series]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[condom]]"
   - "[[gender-bender]]"
   - "[[very-long-hair]]"

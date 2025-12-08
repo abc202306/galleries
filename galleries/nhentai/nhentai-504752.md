@@ -16,7 +16,7 @@ keywords:
   - "[[defloration]]"
   - "[[sister]]"
   - "[[mind-break]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[kissing]]"
   - "[[cunnilingus]]"
   - "[[blackmail]]"

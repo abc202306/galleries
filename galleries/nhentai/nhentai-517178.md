@@ -5,7 +5,7 @@ categories:
   - "[[doujinshi]]"
 keywords:
   - "[[sole-female]]"
-  - "[[Group]]"
+  - "[[group]]"
   - "[[anal]]"
   - "[[lolicon]]"
   - "[[stockings]]"

@@ -5,7 +5,7 @@ categories:
   - "[[doujinshi]]"
 keywords:
   - "[[sole-male]]"
-  - "[[Group]]"
+  - "[[group]]"
   - "[[anal]]"
   - "[[lolicon]]"
   - "[[nakadashi]]"
@@ -48,7 +48,7 @@ mtime: 2025-12-04T21:21:08+08:00
 | url | https://nhentai.net/g/464827/ |
 | Parodies | [[touhou-project]] |
 | Characters | [[flandre-scarlet]], [[remilia-scarlet]] |
-| Tags | [[sole-male]], [[Group]], [[anal]], [[lolicon]], [[nakadashi]], [[impregnation]], [[mind-control]], [[wings]] |
+| Tags | [[sole-male]], [[group]], [[anal]], [[lolicon]], [[nakadashi]], [[impregnation]], [[mind-control]], [[wings]] |
 | Artists | [[koizumi-hitsuji]] |
 | Groups | [[divine-fountain]] |
 | Languages | [[translated]], [[english]] |

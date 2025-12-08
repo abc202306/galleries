@@ -9,7 +9,6 @@ english: ケ十キ @atat250
 japanese: ケ十キ @atat250
 url: https://nhentai.net/g/514739/
 artist:
-  - "[[ケ十キ]]"
 parody:
   - "[[blue-archive]]"
 character:

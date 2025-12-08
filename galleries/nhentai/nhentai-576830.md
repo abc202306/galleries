@@ -5,7 +5,7 @@ categories:
   - "[[doujinshi]]"
 keywords:
   - "[[sole-male]]"
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[stockings]]"
   - "[[glasses]]"
@@ -18,7 +18,7 @@ japanese: "[メロンブックス (Rico)] メロンでエロエロ [英訳]"
 url: https://nhentai.net/g/576830/
 artist:
   - "[[Rico]]"
-  - "[[rico]]"
+  - "[[Rico]]"
 parody:
   - "[[original]]"
 language:
@@ -48,7 +48,7 @@ character:
 | Parodies | [[original]] |
 | Characters |  |
 | Tags | [[sole-male]], [[group]], [[lolicon]], [[stockings]], [[glasses]], [[mosaic-censorship]], [[ffm-threesome]], [[twintails]] |
-| Artists | [[rico]] |
+| Artists | [[Rico]] |
 | Groups |  |
 | Languages | [[translated]], [[english]] |
 | Categories | [[doujinshi]] |

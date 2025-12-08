@@ -19,7 +19,7 @@ keywords:
   - "[[bbm]]"
   - "[[uncensored]]"
   - "[[mind-break]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[drugs]]"
   - "[[stomach-deformation]]"
   - "[[blindfold]]"

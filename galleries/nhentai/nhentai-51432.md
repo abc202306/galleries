@@ -12,7 +12,6 @@ english: "[Tasuichi] Haitoku o Kanaderu Ubugoe - Kouhen (Dragon Quest V)"
 japanese: "[たすいち] 背徳を奏でる産声-後編 (ドラゴンクエストV)"
 url: https://nhentai.net/g/51432/
 artist:
-  - "[[たすいち]]"
 parody:
   - "[[dragon-quest-v]]"
 character:

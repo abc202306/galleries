@@ -14,7 +14,7 @@ mixed:
   - "[[incest]]"
 location:
 other:
-  - "[[3D]]"
+  - "[[3d]]"
   - "[[3d-imageset]]"
   - "[[already-uploaded]]"
   - "[[3d]]"

@@ -12,7 +12,7 @@ female:
   - "[[double-penetration]]"
   - "[[fft-threesome]]"
   - "[[futanari]]"
-  - "[[Group]]"
+  - "[[group]]"
   - "[[impregnation]]"
   - "[[incest]]"
   - "[[kindergarten-uniform]]"
@@ -26,7 +26,7 @@ female:
   - "[[squirting]]"
   - "[[stockings]]"
   - "[[stomach-deformation]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[toddlercon]]"
   - "[[vaginal-birth]]"
   - "[[group]]"
@@ -42,7 +42,6 @@ url: https://exhentai.org/g/2063977/b04e312bbc
 artist:
   - "[[momomo]]"
   - "[[momomo-gasshuukoku]]"
-  - "[[ももも合衆国]]"
 group:
   - "[[izumo-gasshuukoku]]"
 parody:

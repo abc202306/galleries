@@ -8,7 +8,7 @@ keywords:
   - "[[full-color]]"
   - "[[defloration]]"
   - "[[ponytail]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[tanlines]]"
   - "[[incomplete]]"
   - "[[teacher]]"
@@ -17,7 +17,7 @@ japanese: "[kanabun] こっち向いてせんせぇっ!! [進行中]"
 url: https://nhentai.net/g/454271/
 artist:
   - "[[Kanabun]]"
-  - "[[kanabun]]"
+  - "[[Kanabun]]"
 parody:
   - "[[original]]"
 language:
@@ -46,7 +46,7 @@ character:
 | Parodies | [[original]] |
 | Characters |  |
 | Tags | [[lolicon]], [[full-color]], [[defloration]], [[ponytail]], [[teacher]], [[tanlines]], [[incomplete]] |
-| Artists | [[kanabun]] |
+| Artists | [[Kanabun]] |
 | Groups |  |
 | Languages | [[japanese]] |
 | Categories | [[doujinshi]] |

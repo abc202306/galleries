@@ -4,7 +4,7 @@ up:
 categories:
   - "[[manga]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[stockings]]"
   - "[[nakadashi]]"
@@ -23,7 +23,7 @@ keywords:
   - "[[story-arc]]"
   - "[[bikini]]"
   - "[[exhibitionism]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[lingerie]]"
   - "[[handjob]]"
   - "[[fingering]]"

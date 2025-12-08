@@ -4,7 +4,7 @@ up:
 categories:
   - "[[doujinshi]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[anal]]"
   - "[[lolicon]]"
   - "[[stockings]]"
@@ -32,7 +32,7 @@ japanese: "[しいたけ農園 (kanabun)] パパっ子倶楽部 [中国翻訳] [
 url: https://nhentai.net/g/410744/
 artist:
   - "[[Kanabun]]"
-  - "[[kanabun]]"
+  - "[[Kanabun]]"
 group:
   - "[[shiitake-nouen]]"
 language:
@@ -62,7 +62,7 @@ character:
 | Parodies |  |
 | Characters |  |
 | Tags | [[group]], [[anal]], [[lolicon]], [[stockings]], [[nakadashi]], [[blowjob]], [[full-color]], [[incest]], [[sex-toys]], [[swimsuit]], [[dilf]], [[collar]], [[kemonomimi]], [[bikini]], [[anal-intercourse]], [[uncensored]], [[bunny-girl]], [[tanlines]], [[bukkake]], [[daughter]], [[tail-plug]], [[swinging]] |
-| Artists | [[kanabun]] |
+| Artists | [[Kanabun]] |
 | Groups | [[shiitake-nouen]] |
 | Languages | [[translated]], [[chinese]] |
 | Categories | [[doujinshi]] |

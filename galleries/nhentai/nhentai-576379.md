@@ -23,7 +23,7 @@ japanese: "[kanabun] P活チサちゃん [中国翻訳] [無修正]"
 url: https://nhentai.net/g/576379/
 artist:
   - "[[Kanabun]]"
-  - "[[kanabun]]"
+  - "[[Kanabun]]"
 parody:
   - "[[original]]"
 language:
@@ -54,7 +54,7 @@ character:
 | Parodies | [[original]] |
 | Characters |  |
 | Tags | [[sole-female]], [[sole-male]], [[lolicon]], [[stockings]], [[nakadashi]], [[full-color]], [[incest]], [[twintails]], [[swimsuit]], [[collar]], [[kemonomimi]], [[bikini]], [[uncensored]], [[daughter]] |
-| Artists | [[kanabun]] |
+| Artists | [[Kanabun]] |
 | Groups |  |
 | Languages | [[translated]], [[chinese]] |
 | Categories | [[doujinshi]] |

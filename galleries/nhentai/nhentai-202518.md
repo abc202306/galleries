@@ -5,7 +5,7 @@ categories:
   - "[[doujinshi]]"
 keywords:
   - "[[sole-male]]"
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[nakadashi]]"
   - "[[incest]]"
@@ -49,7 +49,7 @@ mtime: 2025-12-04T21:30:20+08:00
 | url | https://nhentai.net/g/202518/ |
 | Parodies | [[granblue-fantasy]] |
 | Characters |  |
-| Tags | [[sole-male]], [[Group]], [[lolicon]], [[nakadashi]], [[incest]], [[multi-work-series]], [[impregnation]], [[harem]], [[elf]], [[daughter]], [[oyakodon]] |
+| Tags | [[sole-male]], [[group]], [[lolicon]], [[nakadashi]], [[incest]], [[multi-work-series]], [[impregnation]], [[harem]], [[elf]], [[daughter]], [[oyakodon]] |
 | Artists | [[zanzi]] |
 | Groups | [[asgo]] |
 | Languages | [[translated]], [[chinese]] |

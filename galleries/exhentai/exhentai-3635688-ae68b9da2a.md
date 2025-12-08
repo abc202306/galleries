@@ -16,7 +16,7 @@ mixed:
   - "[[kodomo-doushi]]"
 location:
 other:
-  - "[[3D]]"
+  - "[[3d]]"
   - "[[uncensored]]"
   - "[[3d]]"
 english: "[Doa666] Emi {updated)"

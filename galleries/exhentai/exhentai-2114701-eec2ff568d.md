@@ -13,7 +13,7 @@ male:
 mixed:
 location:
 other:
-  - "[[3D]]"
+  - "[[3d]]"
   - "[[mosaic-censorship]]"
   - "[[3d]]"
 english: yoyomax EP-1 Tomomi and doctor

@@ -105,7 +105,6 @@ views:
     name: table
     order:
       - formula.image01
-      - formula.filenamelen
       - formula.filetitle
       - artist
       - group
@@ -131,20 +130,18 @@ views:
       - visible
       - filesize
     sort:
-      - property: formula.filenamelen
-        direction: DESC
-    limit: 50
+      - property: character
+        direction: ASC
     columnSize:
       formula.image01: -10
-      formula.filenamelen: 62
       formula.filetitle: 224
-      note.artist: 109
-      note.group: 86
+      note.artist: 97
+      note.group: 137
       note.keywords: 98
       note.url: 109
-      note.parody: 99
-      note.language: 262
-      note.character: 96
+      note.parody: 100
+      note.language: 216
+      note.character: 1182
       note.pagecount: 37
       note.female: 75
       note.male: 66
@@ -300,9 +297,7 @@ views:
       - filesize
       - parent
       - cover
-    sort:
-      - property: ctime
-        direction: DESC
+    sort: []
     columnSize:
       formula.image01: -10
       formula.filetitle: 90
@@ -313,16 +308,16 @@ views:
       note.japanese: 70
       note.categories: 68
       note.parody: 68
-      note.language: 162
+      note.language: 152
       note.character: 62
-      note.uploader: 60
+      note.uploader: 192
       note.uploaded: 63
       note.pagecount: 44
-      note.female: 73
-      note.male: 64
-      note.mixed: 70
-      note.location: 58
-      note.other: 60
+      note.female: 100
+      note.male: 122
+      note.mixed: 94
+      note.location: 135
+      note.other: 193
       note.rating: 52
       note.favorited: 51
       note.visible: 38

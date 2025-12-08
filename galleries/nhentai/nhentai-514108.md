@@ -4,7 +4,7 @@ up:
 categories:
   - "[[doujinshi]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[rape]]"
   - "[[multi-work-series]]"
@@ -43,7 +43,7 @@ mtime: 2025-12-04T21:45:37+08:00
 | url | https://nhentai.net/g/514108/ |
 | Parodies | [[original]] |
 | Characters |  |
-| Tags | [[Group]], [[lolicon]], [[rape]], [[multi-work-series]], [[mmf-threesome]], [[ryona]] |
+| Tags | [[group]], [[lolicon]], [[rape]], [[multi-work-series]], [[mmf-threesome]], [[ryona]] |
 | Artists | [[nanoko]] |
 | Groups | [[omamagoto]] |
 | Languages | [[japanese]] |

@@ -46,7 +46,7 @@ male:
   - "[[horse-boy]]"
   - "[[pig]]"
 mixed:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[group]]"
 location:
 other:
@@ -90,7 +90,6 @@ artist:
   - "[[yaemugura]]"
   - "[[yahagi-wakahiko]]"
   - "[[yoda-kikunai]]"
-  - "[[よろず]]"
 group:
   - "[[harmonear]]"
 parody:

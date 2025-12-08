@@ -14,7 +14,7 @@ keywords:
   - "[[defloration]]"
   - "[[twintails]]"
   - "[[sister]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[fingering]]"
   - "[[urination]]"
   - "[[cunnilingus]]"
@@ -57,7 +57,7 @@ mtime: 2025-12-04T21:09:14+08:00
 | url | https://nhentai.net/g/529632/ |
 | Parodies |  |
 | Characters |  |
-| Tags | [[lolicon]], [[stockings]], [[nakadashi]], [[glasses]], [[ahegao]], [[incest]], [[tankoubon]], [[defloration]], [[twintails]], [[sister]], [[Teacher]], [[fingering]], [[urination]], [[cunnilingus]], [[sleeping]], [[squirting]], [[inseki]], [[nipple-stimulation]], [[thick-eyebrows]], [[multiple-orgasms]], [[clothed-male-nude-female]] |
+| Tags | [[lolicon]], [[stockings]], [[nakadashi]], [[glasses]], [[ahegao]], [[incest]], [[tankoubon]], [[defloration]], [[twintails]], [[sister]], [[teacher]], [[fingering]], [[urination]], [[cunnilingus]], [[sleeping]], [[squirting]], [[inseki]], [[nipple-stimulation]], [[thick-eyebrows]], [[multiple-orgasms]], [[clothed-male-nude-female]] |
 | Artists | [[oosawa-ofuda]] |
 | Groups |  |
 | Languages | [[translated]], [[english]] |

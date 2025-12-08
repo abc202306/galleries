@@ -4,7 +4,7 @@ up:
 categories:
   - "[[doujinshi]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[multi-work-series]]"
   - "[[mmf-threesome]]"
@@ -42,7 +42,7 @@ mtime: 2025-12-04T21:36:38+08:00
 | url | https://nhentai.net/g/489725/ |
 | Parodies | [[original]] |
 | Characters |  |
-| Tags | [[Group]], [[lolicon]], [[multi-work-series]], [[mmf-threesome]], [[tanlines]] |
+| Tags | [[group]], [[lolicon]], [[multi-work-series]], [[mmf-threesome]], [[tanlines]] |
 | Artists | [[motiyuki]] |
 | Groups | [[muchi-egao-takushiage-daisuki-club]] |
 | Languages | [[japanese]] |

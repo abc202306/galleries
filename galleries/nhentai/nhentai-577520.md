@@ -4,7 +4,7 @@ up:
 categories:
   - "[[manga]]"
 keywords:
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[nakadashi]]"
   - "[[blowjob]]"
@@ -23,7 +23,7 @@ keywords:
   - "[[masturbation]]"
   - "[[uncensored]]"
   - "[[sweating]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[handjob]]"
   - "[[cunnilingus]]"
   - "[[blackmail]]"

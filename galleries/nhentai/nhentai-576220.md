@@ -19,7 +19,7 @@ keywords:
   - "[[kemonomimi]]"
   - "[[anal-intercourse]]"
   - "[[pregnant]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[maid]]"
   - "[[tail]]"
   - "[[horns]]"

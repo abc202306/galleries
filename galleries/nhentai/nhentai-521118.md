@@ -17,7 +17,6 @@ english: 真终之夏
 japanese: 真终之夏
 url: https://nhentai.net/g/521118/
 artist:
-  - "[[渡里laboratory]]"
 group:
   - "[[watari-laboratory]]"
 parody:

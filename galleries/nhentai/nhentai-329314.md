@@ -11,7 +11,7 @@ keywords:
   - "[[twintails]]"
   - "[[sister]]"
   - "[[bikini]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[prostitution]]"
   - "[[no-penetration]]"
   - "[[daughter]]"

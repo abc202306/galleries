@@ -13,7 +13,7 @@ japanese: (C94) [Rico-ba (Rico)] サキュバス売り子とオフパコえっ�
 url: https://nhentai.net/g/250639/
 artist:
   - "[[Rico]]"
-  - "[[rico]]"
+  - "[[Rico]]"
 group:
   - "[[rico-ba]]"
 parody:
@@ -43,7 +43,7 @@ character:
 | Parodies | [[original]] |
 | Characters |  |
 | Tags | [[lolicon]], [[glasses]], [[demon-girl]], [[horns]] |
-| Artists | [[rico]] |
+| Artists | [[Rico]] |
 | Groups | [[rico-ba]] |
 | Languages | [[japanese]] |
 | Categories | [[doujinshi]] |

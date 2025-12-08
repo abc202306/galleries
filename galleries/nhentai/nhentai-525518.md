@@ -15,7 +15,7 @@ keywords:
   - "[[femdom]]"
   - "[[sister]]"
   - "[[uncensored]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[fingering]]"
   - "[[cunnilingus]]"
   - "[[school-swimsuit]]"
@@ -54,7 +54,7 @@ mtime: 2025-12-04T21:45:23+08:00
 | url | https://nhentai.net/g/525518/ |
 | Parodies |  |
 | Characters |  |
-| Tags | [[lolicon]], [[nakadashi]], [[schoolgirl-uniform]], [[blowjob]], [[glasses]], [[incest]], [[tankoubon]], [[swimsuit]], [[femdom]], [[sister]], [[uncensored]], [[Teacher]], [[fingering]], [[cunnilingus]], [[school-swimsuit]], [[breast-feeding]], [[eye-covering-bang]], [[mesugaki]] |
+| Tags | [[lolicon]], [[nakadashi]], [[schoolgirl-uniform]], [[blowjob]], [[glasses]], [[incest]], [[tankoubon]], [[swimsuit]], [[femdom]], [[sister]], [[uncensored]], [[teacher]], [[fingering]], [[cunnilingus]], [[school-swimsuit]], [[breast-feeding]], [[eye-covering-bang]], [[mesugaki]] |
 | Artists | [[pirason]] |
 | Groups |  |
 | Languages | [[translated]], [[chinese]] |

@@ -5,7 +5,7 @@ categories:
   - "[[doujinshi]]"
 keywords:
   - "[[sole-male]]"
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[nakadashi]]"
   - "[[blowjob]]"
@@ -28,7 +28,7 @@ japanese: "[しいたけ農園 (Kanabun)] ビーチであそぼ [完全]"
 url: https://nhentai.net/g/383488/
 artist:
   - "[[Kanabun]]"
-  - "[[kanabun]]"
+  - "[[Kanabun]]"
 group:
   - "[[shiitake-nouen]]"
 parody:
@@ -60,7 +60,7 @@ character:
 | Parodies | [[original]] |
 | Characters |  |
 | Tags | [[sole-male]], [[group]], [[lolicon]], [[nakadashi]], [[blowjob]], [[full-color]], [[x-ray]], [[defloration]], [[ffm-threesome]], [[swimsuit]], [[bikini]], [[exhibitionism]], [[harem]], [[tanlines]], [[school-swimsuit]], [[oppai-loli]], [[shimaidon]], [[rough-grammar]] |
-| Artists | [[kanabun]] |
+| Artists | [[Kanabun]] |
 | Groups | [[shiitake-nouen]] |
 | Languages | [[translated]], [[english]] |
 | Categories | [[doujinshi]] |

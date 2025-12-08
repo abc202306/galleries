@@ -10,7 +10,7 @@ keywords:
   - "[[rape]]"
   - "[[incest]]"
   - "[[sister]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[teacher]]"
 english: "[Nogiwa Kaede] Onee-chan Sensei (COMIC Anthurium 2018-08) [English] [aerozext] [Digital]"
 japanese: "[野際かえで] お姉ちゃん先生 (COMIC アンスリウム 2018年8月号) [英訳] [DL版]"

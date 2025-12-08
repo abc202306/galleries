@@ -5,7 +5,7 @@ categories:
   - "[[manga]]"
 keywords:
   - "[[sole-male]]"
-  - "[[Group]]"
+  - "[[group]]"
   - "[[lolicon]]"
   - "[[stockings]]"
   - "[[blowjob]]"
@@ -48,7 +48,7 @@ mtime: 2025-12-04T21:20:09+08:00
 | url | https://nhentai.net/g/408991/ |
 | Parodies |  |
 | Characters |  |
-| Tags | [[sole-male]], [[Group]], [[lolicon]], [[stockings]], [[blowjob]], [[rape]], [[mosaic-censorship]], [[defloration]], [[ffm-threesome]], [[bbm]], [[blackmail]], [[shimaidon]] |
+| Tags | [[sole-male]], [[group]], [[lolicon]], [[stockings]], [[blowjob]], [[rape]], [[mosaic-censorship]], [[defloration]], [[ffm-threesome]], [[bbm]], [[blackmail]], [[shimaidon]] |
 | Artists | [[osanpo-suisou]] |
 | Groups |  |
 | Languages | [[translated]], [[chinese]] |

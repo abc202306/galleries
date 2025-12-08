@@ -10,7 +10,7 @@ keywords:
   - "[[glasses]]"
   - "[[bondage]]"
   - "[[twintails]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[teacher]]"
 english: (C72) [Surume no Oka (Yukino Koreyuki)] Rin Daisakusen! (Kodomo no Jikan) [Chinese] [澄音个人汉化]
 japanese: (C72) [するめの丘 (之之之之)] りん大作戦! (こどものじかん) [中国翻訳]

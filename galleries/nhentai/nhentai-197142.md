@@ -16,7 +16,7 @@ keywords:
   - "[[pantyhose]]"
   - "[[sister]]"
   - "[[schoolboy-uniform]]"
-  - "[[Teacher]]"
+  - "[[teacher]]"
   - "[[sleeping]]"
   - "[[foot-licking]]"
   - "[[teacher]]"
