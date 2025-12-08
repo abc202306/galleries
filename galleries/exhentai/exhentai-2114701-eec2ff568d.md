@@ -54,7 +54,7 @@ mtime: 2025-12-05T19:20:17+08:00
 | url | https://exhentai.org/g/2114701/eec2ff568d/ |
 | parody |  |
 | character |  |
-| artist |  |
+| artist | [[yoyomax]] |
 | group |  |
 | languages | [[japanese]], [[english]] |
 | categories | [[misc]] |

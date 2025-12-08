@@ -489,6 +489,39 @@ views:
     imageFit: contain
     imageAspectRatio: 1.45
   - type: cards
+    name: artist/murai-renji
+    filters:
+      and:
+        - file.hasLink("murai-renji")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+  - type: cards
+    name: artist/wancho
+    filters:
+      and:
+        - file.hasLink("wancho")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+  - type: cards
+    name: artist/kani-biimu
+    filters:
+      and:
+        - file.hasLink("kani-biimu")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+  - type: cards
     name: parody
     image: formula.image01
   - type: cards
@@ -524,6 +557,14 @@ views:
     filters:
       and:
         - file.hasLink("rape")
+    order:
+      - formula.filetitle
+    image: formula.image01
+  - type: cards
+    name: female/lolicon
+    filters:
+      and:
+        - file.hasLink("lolicon")
     order:
       - formula.filetitle
     image: formula.image01
@@ -614,21 +655,13 @@ views:
       - formula.filetitle
     image: formula.image01
   - type: cards
-    name: artist/murai-renji
+    name: artist/yoyomax
     filters:
       and:
-        - file.hasLink("murai-renji")
+        - file.hasLink("yoyomax")
     order:
       - formula.filetitle
       - artist
     image: note.cover
     imageFit: contain
     imageAspectRatio: 1.45
-  - type: cards
-    name: female/lolicon
-    filters:
-      and:
-        - file.hasLink("lolicon")
-    order:
-      - formula.filetitle
-    image: formula.image01
