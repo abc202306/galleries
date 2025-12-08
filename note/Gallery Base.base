@@ -478,6 +478,17 @@ views:
     imageFit: contain
     imageAspectRatio: 1.45
   - type: cards
+    name: artist/custom-udon
+    filters:
+      and:
+        - file.hasLink("custom-udon")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+  - type: cards
     name: parody
     image: formula.image01
   - type: cards
@@ -499,6 +510,14 @@ views:
     filters:
       and:
         - file.hasLink("mahoujin-guru-guru")
+    image: formula.image01
+  - type: cards
+    name: parody/original
+    filters:
+      and:
+        - file.hasLink("original")
+    order:
+      - formula.filetitle
     image: formula.image01
   - type: cards
     name: female/rape
@@ -591,6 +610,25 @@ views:
     filters:
       and:
         - file.hasLink("western")
+    order:
+      - formula.filetitle
+    image: formula.image01
+  - type: cards
+    name: artist/murai-renji
+    filters:
+      and:
+        - file.hasLink("murai-renji")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+  - type: cards
+    name: female/lolicon
+    filters:
+      and:
+        - file.hasLink("lolicon")
     order:
       - formula.filetitle
     image: formula.image01

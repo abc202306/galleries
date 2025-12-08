@@ -5,4 +5,4 @@ mtime: 2025-11-18T17:26:58+08:00
 
 # murai-renji
 
-![[exhentai-2094866-66514afca7|artist - murai renji]]
+![[Gallery Base.base#artist/murai-renji|murai-renji]]

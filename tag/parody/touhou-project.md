@@ -4,3 +4,5 @@ mtime: 2025-11-15T23:46:13+08:00
 ---
 
 # touhou-project
+
+![[Gallery Base.base#parody/touhou-project|touhou-project]]

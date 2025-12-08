@@ -4,3 +4,5 @@ mtime: 2025-11-16T16:02:04+08:00
 ---
 
 # artist-cg
+
+![[Gallery Base.base#categories/artist-cg|artist-cg]]
