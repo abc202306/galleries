@@ -5,4 +5,4 @@ mtime: 2025-11-18T17:54:52+08:00
 
 # kiira
 
-![[Gallery Base.base#artist/kiira]]
+![[gallery-base.base#artist/kiira]]

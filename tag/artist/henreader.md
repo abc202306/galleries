@@ -5,4 +5,4 @@ mtime: 2025-11-19T15:13:09+08:00
 
 # henreader
 
-![[Gallery Base.base#artist/henreader|henreader]]
+![[gallery-base.base#artist/henreader|henreader]]

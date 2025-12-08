@@ -5,4 +5,4 @@ mtime: 2025-11-16T16:02:04+08:00
 
 # misc
 
-![[Gallery Base.base#categories/misc|misc]]
+![[gallery-base.base#categories/misc|misc]]

@@ -5,4 +5,4 @@ mtime: 2025-12-08T15:26:48+08:00
 
 # utatane
 
-![[Gallery Base.base#artist/utatane|utatane]]
+![[gallery-base.base#artist/utatane|utatane]]

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Gallery]]"
+  - "[[gallery]]"
 categories:
   - "[[game-cg]]"
 female:

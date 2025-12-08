@@ -1,6 +1,6 @@
 filters:
   and:
-    - up.containsAny(link("Gallery"))
+    - up.containsAny(link("gallery"))
     - '!file.inFolder("templater")'
 formulas:
   image01: image(if(cover,cover,icon))

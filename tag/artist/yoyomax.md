@@ -7,4 +7,4 @@ tags:
 
 # yoyomax
 
-![[Gallery Base.base#artist/yoyomax|yoyomax]]
+![[gallery-base.base#artist/yoyomax|yoyomax]]

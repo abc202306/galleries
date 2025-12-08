@@ -5,4 +5,4 @@ mtime: 2025-11-18T20:07:03+08:00
 
 # blue-archive
 
-![[Gallery Base.base#parody/blue-archive]]
+![[gallery-base.base#parody/blue-archive]]

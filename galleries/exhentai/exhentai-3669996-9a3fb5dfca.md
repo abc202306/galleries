@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Gallery]]"
+  - "[[gallery]]"
 categories:
   - "[[image-set]]"
 female:

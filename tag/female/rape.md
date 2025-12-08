@@ -5,4 +5,4 @@ mtime: 2025-11-18T19:10:34+08:00
 
 # rape
 
-![[Gallery Base.base#female/rape]]
+![[gallery-base.base#female/rape]]

@@ -5,4 +5,4 @@ mtime: 2025-11-16T16:02:04+08:00
 
 # game-cg
 
-![[Gallery Base.base#categories/game-cg|game-cg]]
+![[gallery-base.base#categories/game-cg|game-cg]]

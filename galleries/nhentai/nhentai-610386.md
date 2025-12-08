@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Gallery]]"
+  - "[[gallery]]"
 categories:
   - "[[doujinshi]]"
 english: "[Nekko] 健全碧蓝档案合集１９(Blue Archive) [Chinese] [小桃汉化组]"

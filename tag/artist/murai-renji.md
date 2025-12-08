@@ -5,4 +5,4 @@ mtime: 2025-11-18T17:26:58+08:00
 
 # murai-renji
 
-![[Gallery Base.base#artist/murai-renji|murai-renji]]
+![[gallery-base.base#artist/murai-renji|murai-renji]]

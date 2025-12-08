@@ -1,15 +1,15 @@
 
 # README
 
-- collection: [[Gallery]]
-- base: [[Gallery Base.base]]
+- collection: [[gallery]]
+- base: [[gallery-base.base]]
 
 > [!Note]
-> 1. [[#Views of Gallery Base.base]]
+> 1. [[#Views of gallery-base.base]]
 > 2. [[#Web Clipper]]
 > 3. [[#Notes]]
 
-## Views of [[Gallery Base.base]]
+## Views of [[gallery-base.base]]
 
 1. artist
 2. categories
@@ -19,53 +19,53 @@
 6. mixed
 7. character
 
-### [[Gallery Base.base#artist|artist]]
+### [[gallery-base.base#artist|artist]]
 
-1. [[Gallery Base.base#artist/kiira|kiira]] | 5 | [[kiira]]
-2. [[Gallery Base.base#artist/henreader|henreader]] | 5 | [[henreader]]
-3. [[Gallery Base.base#artist/utatane|utatane]] | 4 | [[utatane]]
-4. [[Gallery Base.base#artist/wancho|wancho]] | 4 | [[wancho]]
-5. [[Gallery Base.base#artist/custom-udon|custom-udon]] | 3 | [[custom-udon]]
-6. [[Gallery Base.base#artist/komugi|komugi]] | 3 | [[komugi]]
-7. [[Gallery Base.base#artist/hikami-izuto|hikami-izuto]] | 2 | [[hikami-izuto]]
-8. [[Gallery Base.base#artist/murai-renji|murai-renji]] | 1 | [[murai-renji]]
-9. [[Gallery Base.base#artist/yoyomax|yoyomax]] | 1 | [[yoyomax]]
-10. [[Gallery Base.base#artist/kani-biimu|kani-biimu]] | 1 | [[kani-biimu]]
-11. [[Gallery Base.base#artist/baku-p|baku-p]] | 1 | [[baku-p]]
+1. [[gallery-base.base#artist/kiira|kiira]] | 5 | [[kiira]]
+2. [[gallery-base.base#artist/henreader|henreader]] | 5 | [[henreader]]
+3. [[gallery-base.base#artist/utatane|utatane]] | 4 | [[utatane]]
+4. [[gallery-base.base#artist/wancho|wancho]] | 4 | [[wancho]]
+5. [[gallery-base.base#artist/custom-udon|custom-udon]] | 3 | [[custom-udon]]
+6. [[gallery-base.base#artist/komugi|komugi]] | 3 | [[komugi]]
+7. [[gallery-base.base#artist/hikami-izuto|hikami-izuto]] | 2 | [[hikami-izuto]]
+8. [[gallery-base.base#artist/murai-renji|murai-renji]] | 1 | [[murai-renji]]
+9. [[gallery-base.base#artist/yoyomax|yoyomax]] | 1 | [[yoyomax]]
+10. [[gallery-base.base#artist/kani-biimu|kani-biimu]] | 1 | [[kani-biimu]]
+11. [[gallery-base.base#artist/baku-p|baku-p]] | 1 | [[baku-p]]
 
-### [[Gallery Base.base#categories|categories]]
+### [[gallery-base.base#categories|categories]]
 
-1. [[Gallery Base.base#categories/doujinshi|doujinshi]] | 441 | [[doujinshi]]
-2. [[Gallery Base.base#categories/manga|manga]] | 110 | [[manga]]
-3. [[Gallery Base.base#categories/image-set|image-set]] | 26 | [[image-set]]
-4. [[Gallery Base.base#categories/misc|misc]] | 22 | [[misc]]
-5. [[Gallery Base.base#categories/artist-cg|artist-cg]] | 13 | [[artist-cg]]
-6. [[Gallery Base.base#categories/game-cg|game-cg]] | 7 | [[game-cg]]
-7. [[Gallery Base.base#categories/non-h|non-h]] | 3 | [[non-h]]
-8. [[Gallery Base.base#categories/western|western]] | 1 | [[western]]
+1. [[gallery-base.base#categories/doujinshi|doujinshi]] | 441 | [[doujinshi]]
+2. [[gallery-base.base#categories/manga|manga]] | 110 | [[manga]]
+3. [[gallery-base.base#categories/image-set|image-set]] | 26 | [[image-set]]
+4. [[gallery-base.base#categories/misc|misc]] | 22 | [[misc]]
+5. [[gallery-base.base#categories/artist-cg|artist-cg]] | 13 | [[artist-cg]]
+6. [[gallery-base.base#categories/game-cg|game-cg]] | 7 | [[game-cg]]
+7. [[gallery-base.base#categories/non-h|non-h]] | 3 | [[non-h]]
+8. [[gallery-base.base#categories/western|western]] | 1 | [[western]]
 
-### [[Gallery Base.base#parody|parody]]
+### [[gallery-base.base#parody|parody]]
 
-1. [[Gallery Base.base#parody/original|original]] | 180 | [[original]]
-2. [[Gallery Base.base#parody/blue-archive|blue-archive]] | 81 | [[blue-archive]]
-3. [[Gallery Base.base#parody/touhou-project|touhou-project]] | 25 | [[touhou-project]]
-4. [[Gallery Base.base#parody/mahoujin-guru-guru|mahoujin-guru-guru]] | 20 | [[mahoujin-guru-guru]]
+1. [[gallery-base.base#parody/original|original]] | 180 | [[original]]
+2. [[gallery-base.base#parody/blue-archive|blue-archive]] | 81 | [[blue-archive]]
+3. [[gallery-base.base#parody/touhou-project|touhou-project]] | 25 | [[touhou-project]]
+4. [[gallery-base.base#parody/mahoujin-guru-guru|mahoujin-guru-guru]] | 20 | [[mahoujin-guru-guru]]
 
 ### female
 
-1. [[Gallery Base.base#female/lolicon|lolicon]] | 592 | [[lolicon]]
-2. [[Gallery Base.base#female/rape|rape]] | 97 | [[rape]]
+1. [[gallery-base.base#female/lolicon|lolicon]] | 592 | [[lolicon]]
+2. [[gallery-base.base#female/rape|rape]] | 97 | [[rape]]
 
 ### male
 
-1. [[Gallery Base.base#male/sole-male|sole-male]] | 277 | [[sole-male]]
+1. [[gallery-base.base#male/sole-male|sole-male]] | 277 | [[sole-male]]
 
 ### mixed
-1. [[Gallery Base.base#mixed/kodomo-doushi|kodomo-doushi]] | 26 | [[kodomo-doushi]]
+1. [[gallery-base.base#mixed/kodomo-doushi|kodomo-doushi]] | 26 | [[kodomo-doushi]]
 
 ### character
 
-1. [[Gallery Base.base#character/kukuri|kukuri]] | 19 | [[kukuri]]
+1. [[gallery-base.base#character/kukuri|kukuri]] | 19 | [[kukuri]]
 
 ## Web Clipper
 

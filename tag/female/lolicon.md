@@ -5,5 +5,5 @@ mtime: 2025-09-27T19:49:14+08:00
 
 # lolicon
 
-![[Gallery Base.base#female/lolicon]]
+![[gallery-base.base#female/lolicon]]
 

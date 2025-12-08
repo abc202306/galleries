@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Gallery]]"
+  - "[[gallery]]"
 description: 880 日圆 110 页的萝莉本  而且肉戏充足 性价比拉满
 categories:
   - "[[doujinshi]]"
