@@ -5,14 +5,9 @@
 - base: [[Gallery Base.base]]
 
 > [!Note]
-> 1. [[#剪藏器]]
-> 2. [[#Views of Gallery Base.base]]
-> 3. [[#Other Notes]]
-
-## 剪藏器
-
-- EXHentai Web Clipper for Obsidian | https://github.com/abc202306/exhentai-web-clipper-for-obsidian
-- NHentai Web Clipper for Obsidian | https://github.com/abc202306/nhentai-web-clipper-for-obsidian
+> 1. [[#Views of Gallery Base.base]]
+> 2. [[#Web Clipper]]
+> 3. [[#Notes]]
 
 ## Views of [[Gallery Base.base]]
 
@@ -63,18 +58,23 @@
 
 ### male
 
-1. | | [[sole-male]]
+1. [[Gallery Base.base#male/sole-male|sole-male]] | 277 | [[sole-male]]
 
 ### mixed
 1. [[Gallery Base.base#mixed/kodomo-doushi|kodomo-doushi]] | 26 | [[kodomo-doushi]]
 
 ### character
 
-1.  | | [[kukuri]]
+1. [[Gallery Base.base#character/kukuri|kukuri]] | 19 | [[kukuri]]
 
-## Other Notes
+## Web Clipper
 
-1. [[2025-09-13 文献引用信息]]
-2. [[2025-11-04 元数据提取结果]]
-3. [[2025-12-11 来源于搜索结果 soutubot.moe]]
-4. [[2025-12-06 遊戯王 抱き枕ラドリー - すずきとと的插畫 - pixiv]]
+- EXHentai Web Clipper for Obsidian | https://github.com/abc202306/exhentai-web-clipper-for-obsidian
+- NHentai Web Clipper for Obsidian | https://github.com/abc202306/nhentai-web-clipper-for-obsidian
+
+## Notes
+
+1. [[2025-09-13 Citation Information]]
+2. [[2025-11-04 Metadata extraction results]]
+3. [[2025-12-06 遊戯王 抱き枕ラドリー - すずきとと的插畫 - pixiv]]
+4. [[2025-12-11 Search results from soutubot.moe]]

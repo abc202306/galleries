@@ -4,3 +4,5 @@ mtime: 2025-11-12T17:12:50+08:00
 ---
 
 # kukuri
+
+![[Gallery Base.base#character/kukuri|kukuri]]

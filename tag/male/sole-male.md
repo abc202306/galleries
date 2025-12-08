@@ -4,3 +4,5 @@ mtime: 2025-12-07T23:25:22+08:00
 ---
 
 # sole-male
+
+![[Gallery Base.base#male/sole-male|sole-male]]

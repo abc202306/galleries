@@ -544,6 +544,17 @@ views:
     imageFit: contain
     imageAspectRatio: 1.45
   - type: cards
+    name: artist/komugi
+    filters:
+      and:
+        - file.hasLink("komugi")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+  - type: cards
     name: parody
     image: formula.image01
   - type: cards
@@ -587,6 +598,14 @@ views:
     filters:
       and:
         - file.hasLink("lolicon")
+    order:
+      - formula.filetitle
+    image: formula.image01
+  - type: cards
+    name: male/sole-male
+    filters:
+      and:
+        - file.hasLink("sole-male")
     order:
       - formula.filetitle
     image: formula.image01
@@ -677,10 +696,10 @@ views:
       - formula.filetitle
     image: formula.image01
   - type: cards
-    name: artist/komugi
+    name: character/kukuri
     filters:
       and:
-        - file.hasLink("komugi")
+        - file.hasLink("kukuri")
     order:
       - formula.filetitle
       - artist
