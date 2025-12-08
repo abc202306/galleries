@@ -522,6 +522,28 @@ views:
     imageFit: contain
     imageAspectRatio: 1.45
   - type: cards
+    name: artist/yoyomax
+    filters:
+      and:
+        - file.hasLink("yoyomax")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+  - type: cards
+    name: artist/baku-p
+    filters:
+      and:
+        - file.hasLink("baku-p")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+  - type: cards
     name: parody
     image: formula.image01
   - type: cards
@@ -654,14 +676,3 @@ views:
     order:
       - formula.filetitle
     image: formula.image01
-  - type: cards
-    name: artist/yoyomax
-    filters:
-      and:
-        - file.hasLink("yoyomax")
-    order:
-      - formula.filetitle
-      - artist
-    image: note.cover
-    imageFit: contain
-    imageAspectRatio: 1.45
