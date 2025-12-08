@@ -48,7 +48,7 @@ ctime: 2025-12-05T20:11:39+08:00
 mtime: 2025-12-05T20:11:39+08:00
 ---
 
-# 【夜のひつじ】 お泊まり恋人ロリータ 【exhentai】 【exhentaiid1019847】 【exhentaitoken3fcb05f20b】
+# 【夜のひつじ】 お泊まり恋人ロリータ
 
 ![[exhentai-1019847-3fcb05f20b.webp|200]]
 

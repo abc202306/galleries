@@ -29,7 +29,7 @@ parody:
 character:
 ---
 
-# Happy Birthday 【English】 【Rewrite】 【olddog51】 【nhentai】 【nhentaiid46103】
+# Happy Birthday 【English】 【Rewrite】 【olddog51】
 
 ![[nhentai-46103.jpg|200]]
 

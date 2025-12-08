@@ -40,7 +40,7 @@ parody:
 character:
 ---
 
-# 【さつよ】 まずはお友達から (COMIC LO 2018年11月号) 【中国翻訳】 【DL版】 【nhentai】 【nhentaiid576638】
+# 【さつよ】 まずはお友達から (COMIC LO 2018年11月号) 【中国翻訳】 【DL版】
 
 ![[nhentai-576638.webp|200]]
 

@@ -31,7 +31,7 @@ group:
 character:
 ---
 
-# 【あいらんどう】 ツンデレ妹との日常 【nhentai】 【nhentaiid578031】
+# 【あいらんどう】 ツンデレ妹との日常
 
 ![[nhentai-578031.webp|200]]
 

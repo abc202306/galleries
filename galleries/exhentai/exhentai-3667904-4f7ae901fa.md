@@ -39,7 +39,7 @@ ctime: 2025-12-05T20:12:57+08:00
 mtime: 2025-12-05T20:12:57+08:00
 ---
 
-# 【FANBOX】 (25GIFs_113p) 赤井 (id=251370) (24_10_03~25_11_05) 【exhentai】 【exhentaiid3667904】 【exhentaitoken4f7ae901fa】
+# 【FANBOX】 (25GIFs_113p) 赤井 (id=251370) (24_10_03~25_11_05)
 
 ![[exhentai-3667904-4f7ae901fa.webp|200]]
 

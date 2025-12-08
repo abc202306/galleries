@@ -49,7 +49,7 @@ ctime: 2025-12-05T19:32:07+08:00
 mtime: 2025-12-05T19:32:07+08:00
 ---
 
-# 【PSD＊商用利用厳禁】ぐらXアメリア抱き枕カバー印刷データ（10k） 【exhentai】 【exhentaiid3638693】 【exhentaitokenb2aa362fca】
+# 【PSD＊商用利用厳禁】ぐらXアメリア抱き枕カバー印刷データ（10k）
 
 ![[exhentai-3638693-b2aa362fca.webp|200]]
 

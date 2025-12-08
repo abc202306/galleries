@@ -57,7 +57,7 @@ ctime: 2025-12-05T20:08:14+08:00
 mtime: 2025-12-05T20:08:14+08:00
 ---
 
-# 【OFF (OKINA)】 壊楽拷問 【DL版】 【exhentai】 【exhentaiid3651950】 【exhentaitokenf3c9c06a8d】
+# 【OFF (OKINA)】 壊楽拷問 【DL版】
 
 ![[exhentai-3651950-f3c9c06a8d.webp|200]]
 

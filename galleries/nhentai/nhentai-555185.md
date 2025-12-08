@@ -39,7 +39,7 @@ group:
 parody:
 ---
 
-# 【5⁹5⁹】 skeb リクエスト絵 (鳩羽つぐ、しぐれうい) 【nhentai】 【nhentaiid555185】
+# 【5⁹5⁹】 skeb リクエスト絵 (鳩羽つぐ、しぐれうい)
 
 ![[nhentai-555185.webp|200]]
 

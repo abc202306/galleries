@@ -30,7 +30,7 @@ parody:
 character:
 ---
 
-# 【ズンにゃんにゃん】 新婚ごっこ (コミック Mate legend Vol.42 2021年12月号) 【中国翻訳】 【DL版】 【nhentai】 【nhentaiid444578】
+# 【ズンにゃんにゃん】 新婚ごっこ (コミック Mate legend Vol.42 2021年12月号) 【中国翻訳】 【DL版】
 
 ![[nhentai-444578.jpg|200]]
 

@@ -76,7 +76,7 @@ ctime: 2025-12-05T17:15:10+08:00
 mtime: 2025-12-05T17:15:10+08:00
 ---
 
-# COMIC LO 2019年5月号 【DL版】 【nhentai】 【nhentaiid269259】
+# COMIC LO 2019年5月号 【DL版】
 
 ![[nhentai-269259.jpg|200]]
 

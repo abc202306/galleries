@@ -49,7 +49,7 @@ ctime: 2025-12-05T20:58:00+08:00
 mtime: 2025-12-05T20:58:00+08:00
 ---
 
-# 【Citrus junos (ゆーね)】 素直になりましょうプラナちゃん♪ (ブルーアーカイブ) 【DL版】 【exhentai】 【exhentaiid3018319】 【exhentaitoken4525bd3cbb】
+# 【Citrus junos (ゆーね)】 素直になりましょうプラナちゃん♪ (ブルーアーカイブ) 【DL版】
 
 ![[exhentai-3018319-4525bd3cbb.webp|200]]
 

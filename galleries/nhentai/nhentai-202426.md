@@ -33,7 +33,7 @@ parody:
 character:
 ---
 
-# 【雪雨こん】 となりのいちかちゃん! (COMIC LO 2017年7月号) 【中国翻訳】 【DL版】 【nhentai】 【nhentaiid202426】
+# 【雪雨こん】 となりのいちかちゃん! (COMIC LO 2017年7月号) 【中国翻訳】 【DL版】
 
 ![[nhentai-202426.jpg|200]]
 

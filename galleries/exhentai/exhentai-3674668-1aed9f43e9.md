@@ -42,7 +42,7 @@ ctime: 2025-12-08T14:29:12+08:00
 mtime: 2025-12-08T14:29:12+08:00
 ---
 
-# 【Pixiv】 きごみー (106329376) 【exhentai】 【exhentaiid3674668】 【exhentaitoken1aed9f43e9】
+# 【Pixiv】 きごみー (106329376)
 
 ![[exhentai-3674668-1aed9f43e9.webp|200]]
 

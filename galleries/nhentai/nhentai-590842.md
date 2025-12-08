@@ -52,7 +52,7 @@ parody:
 character:
 ---
 
-# 【アンソロジー】 催ぷにッ！ 7限目 【nhentai】 【nhentaiid590842】
+# 【アンソロジー】 催ぷにッ！ 7限目
 
 ![[nhentai-590842.webp|200]]
 

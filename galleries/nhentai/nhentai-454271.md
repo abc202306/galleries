@@ -34,7 +34,7 @@ group:
 character:
 ---
 
-# 【kanabun】 こっち向いてせんせぇっ!! 【進行中】 【nhentai】 【nhentaiid454271】
+# 【kanabun】 こっち向いてせんせぇっ!! 【進行中】
 
 ![[nhentai-454271.jpg|200]]
 

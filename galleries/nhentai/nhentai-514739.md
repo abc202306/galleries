@@ -27,7 +27,7 @@ mtime: 2025-12-05T17:07:06+08:00
 group:
 ---
 
-# ケ十キ @atat250 【nhentai】 【nhentaiid514739】
+# ケ十キ @atat250
 
 ![[nhentai-514739.jpg|200]]
 

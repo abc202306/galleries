@@ -40,7 +40,7 @@ ctime: 2025-12-05T19:28:44+08:00
 mtime: 2025-12-05T19:28:44+08:00
 ---
 
-# 【moyori】 おさななじみるく (WEEKLY快楽天 2022 No.07) 韓国翻訳 【exhentai】 【exhentaiid2147290】 【exhentaitokenf7046f6beb】
+# 【moyori】 おさななじみるく (WEEKLY快楽天 2022 No.07) 韓国翻訳
 
 ![[exhentai-2147290-f7046f6beb.webp|200]]
 

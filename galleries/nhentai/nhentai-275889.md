@@ -36,7 +36,7 @@ parody:
 character:
 ---
 
-# 【きのもと杏】 先生お願いします (COMIC LO 2018年10月号) 【英訳】 【DL版】 【nhentai】 【nhentaiid275889】
+# 【きのもと杏】 先生お願いします (COMIC LO 2018年10月号) 【英訳】 【DL版】
 
 ![[nhentai-275889.png|200]]
 

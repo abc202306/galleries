@@ -34,7 +34,7 @@ parody:
 character:
 ---
 
-# 【野際かえで】 かわいい梨々子 (COMIC LO 2023年02月号) 【中国翻訳】 【DL版】 【nhentai】 【nhentaiid435526】
+# 【野際かえで】 かわいい梨々子 (COMIC LO 2023年02月号) 【中国翻訳】 【DL版】
 
 ![[nhentai-435526.jpg|200]]
 

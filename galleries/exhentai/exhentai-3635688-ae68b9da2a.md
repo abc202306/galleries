@@ -46,7 +46,7 @@ ctime: 2025-12-05T19:21:07+08:00
 mtime: 2025-12-05T19:21:07+08:00
 ---
 
-# 【Doa666】 Emi {updated) 【exhentai】 【exhentaiid3635688】 【exhentaitokenae68b9da2a】
+# 【Doa666】 Emi {updated)
 
 ![[exhentai-3635688-ae68b9da2a.webp|200]]
 

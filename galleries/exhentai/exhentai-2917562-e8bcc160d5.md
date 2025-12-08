@@ -47,7 +47,7 @@ ctime: 2025-12-05T19:12:03+08:00
 mtime: 2025-12-05T19:12:03+08:00
 ---
 
-# 【Jホシタロウ】 天狗おじさん精子と性教育 1 【exhentai】 【exhentaiid2917562】 【exhentaitokene8bcc160d5】
+# 【Jホシタロウ】 天狗おじさん精子と性教育 1
 
 ![[exhentai-2917562-e8bcc160d5.webp|200]]
 

@@ -34,7 +34,7 @@ group:
 character:
 ---
 
-# 【しぷおる】 おじさんのおともだち 【中国翻訳】 【DL版】 【nhentai】 【nhentaiid554740】
+# 【しぷおる】 おじさんのおともだち 【中国翻訳】 【DL版】
 
 ![[nhentai-554740.webp|200]]
 

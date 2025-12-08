@@ -31,7 +31,7 @@ parody:
 character:
 ---
 
-# 【冬野みかん】 水着でおべんきょう (COMIC LO 2015年1月号) 【中国翻訳】 【nhentai】 【nhentaiid140428】
+# 【冬野みかん】 水着でおべんきょう (COMIC LO 2015年1月号) 【中国翻訳】
 
 ![[nhentai-140428.jpg|200]]
 

@@ -36,7 +36,7 @@ mtime: 2025-12-05T17:19:53+08:00
 character:
 ---
 
-# (C67) FlavorGraphics_ (瑞井鹿央)】 From Shinyokohama To Akihabara (週刊わたしのおにいちゃん) 【英訳】 【nhentai】 【nhentaiid48805】
+# (C67) FlavorGraphics_ (瑞井鹿央)】 From Shinyokohama To Akihabara (週刊わたしのおにいちゃん) 【英訳】
 
 ![[nhentai-48805.jpg|200]]
 

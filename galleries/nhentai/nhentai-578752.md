@@ -34,7 +34,7 @@ parody:
 character:
 ---
 
-# 【Rico】 未熟なからだと誘惑ぱんつ 【中国翻訳】 【DL版】 【nhentai】 【nhentaiid578752】
+# 【Rico】 未熟なからだと誘惑ぱんつ 【中国翻訳】 【DL版】
 
 ![[nhentai-578752.webp|200]]
 

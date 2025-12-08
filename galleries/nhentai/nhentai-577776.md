@@ -29,7 +29,7 @@ parody:
 character:
 ---
 
-# 我的性奴妹妹 【nhentai】 【nhentaiid577776】
+# 我的性奴妹妹
 
 ![[nhentai-577776.webp|200]]
 

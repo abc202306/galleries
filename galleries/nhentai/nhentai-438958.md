@@ -36,7 +36,7 @@ parody:
 character:
 ---
 
-# 【Asunaro Neat. (ろんな)】 TSロリおじさんの冒険 オナニー編 【英訳】 【DL版】 【nhentai】 【nhentaiid438958】
+# 【Asunaro Neat. (ろんな)】 TSロリおじさんの冒険 オナニー編 【英訳】 【DL版】
 
 ![[nhentai-438958.jpg|200]]
 

@@ -32,7 +32,7 @@ parody:
 character:
 ---
 
-# 【冬野みかん】 女子小学生がいる日々 (COMIC LO 2015年12月号) 【英訳】 【nhentai】 【nhentaiid150095】
+# 【冬野みかん】 女子小学生がいる日々 (COMIC LO 2015年12月号) 【英訳】
 
 ![[nhentai-150095.jpg|200]]
 

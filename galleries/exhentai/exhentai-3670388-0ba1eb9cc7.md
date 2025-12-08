@@ -44,7 +44,7 @@ ctime: 2025-12-08T14:24:51+08:00
 mtime: 2025-12-08T14:24:51+08:00
 ---
 
-# 衣斐レナ (ブルーアーカイブ) 【exhentai】 【exhentaiid3670388】 【exhentaitoken0ba1eb9cc7】
+# 衣斐レナ (ブルーアーカイブ)
 
 ![[exhentai-3670388-0ba1eb9cc7.webp|200]]
 

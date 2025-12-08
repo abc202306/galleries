@@ -66,7 +66,7 @@ ctime: 2025-12-05T17:13:13+08:00
 mtime: 2025-12-05T17:13:13+08:00
 ---
 
-# コミック Mate legend Vol.66 2025年12月号 【DL版】 【nhentai】 【nhentaiid609916】
+# コミック Mate legend Vol.66 2025年12月号 【DL版】
 
 ![[nhentai-609916.webp|200]]
 

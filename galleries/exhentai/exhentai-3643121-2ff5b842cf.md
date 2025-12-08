@@ -37,7 +37,7 @@ ctime: 2025-12-05T19:36:35+08:00
 mtime: 2025-12-05T19:36:35+08:00
 ---
 
-# 【Lumineko】 Huohuo and Tail 【exhentai】 【exhentaiid3643121】 【exhentaitoken2ff5b842cf】
+# 【Lumineko】 Huohuo and Tail
 
 ![[exhentai-3643121-2ff5b842cf.webp|200]]
 

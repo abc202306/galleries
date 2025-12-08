@@ -49,7 +49,7 @@ ctime: 2025-12-05T15:25:18+08:00
 mtime: 2025-12-05T15:25:18+08:00
 ---
 
-# コミック Mate legend Vol.54 2023年12月号 【DL版】 【nhentai】 【nhentaiid481566】
+# コミック Mate legend Vol.54 2023年12月号 【DL版】
 
 ![[nhentai-481566.jpg|200]]
 

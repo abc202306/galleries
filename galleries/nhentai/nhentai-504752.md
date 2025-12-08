@@ -51,7 +51,7 @@ parody:
 character:
 ---
 
-# 【論倫理ろんり】 ちいさなこの恋 【英訳】 【DL版】 【nhentai】 【nhentaiid504752】
+# 【論倫理ろんり】 ちいさなこの恋 【英訳】 【DL版】
 
 ![[nhentai-504752.jpg|200]]
 

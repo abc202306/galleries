@@ -32,7 +32,7 @@ ctime: 2025-12-05T17:26:46+08:00
 mtime: 2025-12-05T17:26:46+08:00
 ---
 
-# (C97) 【Dr.VERMILION (ペテン師)】 和装少女きりたん (VOICEROID) 【nhentai】 【nhentaiid299171】
+# (C97) 【Dr.VERMILION (ペテン師)】 和装少女きりたん (VOICEROID)
 
 ![[nhentai-299171.png|200]]
 

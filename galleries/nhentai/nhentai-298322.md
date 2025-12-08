@@ -32,7 +32,7 @@ parody:
 character:
 ---
 
-# 【ヘルシーマン】 「わたしのおとーさん」 (COMIC LO 2020年2月号) 【中国翻訳】 【DL版】 【nhentai】 【nhentaiid298322】
+# 【ヘルシーマン】 「わたしのおとーさん」 (COMIC LO 2020年2月号) 【中国翻訳】 【DL版】
 
 ![[nhentai-298322.png|200]]
 

@@ -29,7 +29,7 @@ parody:
 character:
 ---
 
-# 【ポンスケ】 骨まで接して♡ (COMIC LO 2021年5月号) 【中国翻訳】 【DL版】 【nhentai】 【nhentaiid360281】
+# 【ポンスケ】 骨まで接して♡ (COMIC LO 2021年5月号) 【中国翻訳】 【DL版】
 
 ![[nhentai-360281.jpg|200]]
 

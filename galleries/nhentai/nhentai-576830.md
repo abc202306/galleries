@@ -36,7 +36,7 @@ group:
 character:
 ---
 
-# 【メロンブックス (Rico)】 メロンでエロエロ 【英訳】 【nhentai】 【nhentaiid576830】
+# 【メロンブックス (Rico)】 メロンでエロエロ 【英訳】
 
 ![[nhentai-576830.webp|200]]
 

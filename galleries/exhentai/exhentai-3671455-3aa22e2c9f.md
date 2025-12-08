@@ -47,7 +47,7 @@ ctime: 2025-12-08T14:25:40+08:00
 mtime: 2025-12-08T14:25:40+08:00
 ---
 
-# 【Skeb &Request】 白告姬小漫画 【exhentai】 【exhentaiid3671455】 【exhentaitoken3aa22e2c9f】
+# 【Skeb &Request】 白告姬小漫画
 
 ![[exhentai-3671455-3aa22e2c9f.webp|200]]
 

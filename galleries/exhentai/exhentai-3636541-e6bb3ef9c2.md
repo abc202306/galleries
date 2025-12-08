@@ -42,7 +42,7 @@ ctime: 2025-12-05T19:17:19+08:00
 mtime: 2025-12-05T19:17:19+08:00
 ---
 
-# genki tarou 【exhentai】 【exhentaiid3636541】 【exhentaitokene6bb3ef9c2】
+# genki tarou
 
 ![[exhentai-3636541-e6bb3ef9c2.webp|200]]
 

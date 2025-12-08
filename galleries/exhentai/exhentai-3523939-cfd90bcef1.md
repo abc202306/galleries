@@ -49,7 +49,7 @@ ctime: 2025-12-05T19:59:49+08:00
 mtime: 2025-12-05T19:59:49+08:00
 ---
 
-# 【きゃらだいん】 骨折り！お世話ガール♥ (COMIC LO 2025年10月号) 【中国翻訳】 【DL版】 【exhentai】 【exhentaiid3523939】 【exhentaitokencfd90bcef1】
+# 【きゃらだいん】 骨折り！お世話ガール♥ (COMIC LO 2025年10月号) 【中国翻訳】 【DL版】
 
 ![[exhentai-3523939-cfd90bcef1.webp|200]]
 

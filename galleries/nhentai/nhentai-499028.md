@@ -33,7 +33,7 @@ group:
 character:
 ---
 
-# 【なきせうろん】 おしっこらくがき 【nhentai】 【nhentaiid499028】
+# 【なきせうろん】 おしっこらくがき
 
 ![[nhentai-499028.jpg|200]]
 

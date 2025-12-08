@@ -41,7 +41,7 @@ ctime: 2025-12-05T19:30:58+08:00
 mtime: 2025-12-05T19:30:58+08:00
 ---
 
-# 子牛のカンナちゃん 【exhentai】 【exhentaiid3640980】 【exhentaitokenea51a3d8d3】
+# 子牛のカンナちゃん
 
 ![[exhentai-3640980-ea51a3d8d3.webp|200]]
 

@@ -50,7 +50,7 @@ parody:
 character:
 ---
 
-# 【しいたけ農園 (kanabun)】 パパっ子倶楽部 【中国翻訳】 【無修正】 【nhentai】 【nhentaiid410744】
+# 【しいたけ農園 (kanabun)】 パパっ子倶楽部 【中国翻訳】 【無修正】
 
 ![[nhentai-410744.jpg|200]]
 

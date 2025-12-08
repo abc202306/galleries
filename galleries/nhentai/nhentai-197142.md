@@ -41,7 +41,7 @@ parody:
 character:
 ---
 
-# 【岡田コウ】 だれにもいえないコト + 8P小冊子 【nhentai】 【nhentaiid197142】
+# 【岡田コウ】 だれにもいえないコト + 8P小冊子
 
 ![[nhentai-197142.jpg|200]]
 

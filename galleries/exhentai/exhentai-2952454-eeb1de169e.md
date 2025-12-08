@@ -38,7 +38,7 @@ ctime: 2025-11-23T15:59:26+08:00
 mtime: 2025-11-23T15:59:26+08:00
 ---
 
-# ケ十キ @atat250 【exhentai】 【exhentaiid2952454】 【exhentaitokeneeb1de169e】
+# ケ十キ @atat250
 
 ![[exhentai-2952454-eeb1de169e.webp|200]]
 

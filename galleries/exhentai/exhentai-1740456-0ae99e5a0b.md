@@ -54,7 +54,7 @@ ctime: 2025-12-05T19:45:56+08:00
 mtime: 2025-12-05T19:45:56+08:00
 ---
 
-# 【HappyLambBarn】 悪魔の石板と呪いの犬姫 【exhentai】 【exhentaiid1740456】 【exhentaitoken0ae99e5a0b】
+# 【HappyLambBarn】 悪魔の石板と呪いの犬姫
 
 ![[exhentai-1740456-0ae99e5a0b.webp|200]]
 

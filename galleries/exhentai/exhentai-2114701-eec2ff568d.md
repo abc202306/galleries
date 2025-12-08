@@ -43,7 +43,7 @@ ctime: 2025-12-05T19:20:17+08:00
 mtime: 2025-12-05T19:20:17+08:00
 ---
 
-# yoyomax EP-1 Tomomi and doctor 【exhentai】 【exhentaiid2114701】 【exhentaitokeneec2ff568d】
+# yoyomax EP-1 Tomomi and doctor
 
 ![[exhentai-2114701-eec2ff568d.webp|200]]
 

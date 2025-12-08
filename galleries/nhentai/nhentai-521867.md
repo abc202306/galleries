@@ -33,7 +33,7 @@ parody:
 character:
 ---
 
-# 【あたげ】 子供で遊ぼう! (COMIC LO 2024年8月号) 【中国翻訳】 【DL版】 【nhentai】 【nhentaiid521867】
+# 【あたげ】 子供で遊ぼう! (COMIC LO 2024年8月号) 【中国翻訳】 【DL版】
 
 ![[nhentai-521867.jpg|200]]
 
