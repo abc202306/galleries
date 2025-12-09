@@ -1,7 +1,7 @@
 
 # README
 
-![](docs/obsidian-vault-galleries-graph-view-image.png)
+![](/docs/obsidian-vault-galleries-graph-view-image.png)
 
 > [!Note]
 > 1. [[#Web Clipper]]
@@ -12,6 +12,7 @@
 
 - EXHentai Web Clipper for Obsidian | https://github.com/abc202306/exhentai-web-clipper-for-obsidian
 - NHentai Web Clipper for Obsidian | https://github.com/abc202306/nhentai-web-clipper-for-obsidian
+
 ## Folder Struct
 
 - [[docs]] | 23
@@ -89,9 +90,9 @@
 1. [[gallery-base.base#male/sole-male|sole-male]] | 277 | [[sole-male]]
 
 ### mixed
+
 1. [[gallery-base.base#mixed/kodomo-doushi|kodomo-doushi]] | 25 | [[kodomo-doushi]]
 
 ### character
 
 1. [[gallery-base.base#character/kukuri|kukuri]] | 19 | [[kukuri]]
-
