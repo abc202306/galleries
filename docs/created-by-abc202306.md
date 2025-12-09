@@ -5,6 +5,4 @@ mtime: 2025-12-08T19:11:07+08:00
 
 # created-by-abc202306
 
-```query
-created-by-abc202306 -file:created-by-abc202306.md
-```
+1. [[yoyomax]]

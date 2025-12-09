@@ -1,0 +1,13 @@
+filters:
+  and:
+    - up.contains(link("gallery"))
+    - file.hasLink(this.file.asLink())
+formulas:
+  filetitle: if(japanese,japanese,english)
+  image01: image(cover)
+views:
+  - type: cards
+    name: Cards
+    order:
+      - formula.filetitle
+    image: formula.image01
