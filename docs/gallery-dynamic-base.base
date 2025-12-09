@@ -1,7 +1,10 @@
 filters:
   and:
     - up.contains(link("gallery"))
-    - file.hasLink(this.file.asLink())
+    - or:
+        - file.hasLink(this.file.asLink())
+        - this.artist.filter(file.hasLink(value))
+        - this.group.filter(file.hasLink(value))
 formulas:
   filetitle: if(japanese,japanese,english)
   image01: image(cover)
