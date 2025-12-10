@@ -1,0 +1,14 @@
+filters:
+  and:
+    - up.containsAny(link("notes"))
+views:
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - seealso
+      - url
+    sort:
+      - property: ctime
+        direction: DESC
+    image: note.cover
