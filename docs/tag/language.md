@@ -1,6 +1,8 @@
 
 # language
 
+> seealso: [[tag]]
+
 1. [[chinese]]
 2. [[translated]]
 3. [[english]]

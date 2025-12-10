@@ -1,6 +1,8 @@
 
 # category
 
+> seealso: [[tag]]
+
 1. [[artist-cg]]
 2. [[doujinshi]]
 3. [[game-cg]]

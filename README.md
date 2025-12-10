@@ -1,7 +1,7 @@
 
 # README
 
-![](/docs/obsidian-vault-galleries-graph-view-image.png)
+![](/docs/image-file/obsidian-vault-galleries-graph-view-image.png)
 
 > [!Note]
 > 1. [[#Web Clipper]]
@@ -15,28 +15,32 @@
 
 ## Folder Struct
 
-- [[docs]] | 23
-	- [[gallery|galleries]] | 2
-	- [[tag]] | 12
-- [[gallery|galleries]] | 1252
-	- [[exhentai]] | 450
-	- [[nhentai]] | 802
-- [[tag]] | 1514
-	- [[artist]] | 510
-	- [[category]] | 8
-	- [[character]] | 249
-	- [[female]] | 189
-	- [[group-ns]] | 234
-	- [[language]] | 9
-	- [[location]] | 3
-	- [[male]] | 103
-	- [[mixed]] | 7
-	- [[other]] | 106
-	- [[parody]] | 95
-	- [[temp]] | 1
-- [[notes]] | 4
-- [[templates]] | 1
-- [[uploader]] | 135
+1. [[notes]] | 5
+2. [[docs]] | 28
+	1. [[gallery|galleries]] | 2
+	2. [[tag]] | 12
+	3. [[keyword]] | 10
+	4. [[base-file]] | 2
+	5. [[image-file]] | 1
+	6. [[notation]] | 1
+3. [[gallery|galleries]] | 1256
+	1. [[exhentai]] | 452
+	2. [[nhentai]] | 804
+4. [[tag]] | 1514
+	1. [[artist]] | 510
+	2. [[category]] | 8
+	3. [[character]] | 249
+	4. [[female]] | 189
+	5. [[group-ns]] | 234
+	6. [[language]] | 9
+	7. [[location]] | 3
+	8. [[male]] | 103
+	9. [[mixed]] | 7
+	10. [[other]] | 106
+	11. [[parody]] | 95
+	12. [[temp]] | 1
+5. [[templates]] | 1
+6. [[uploader]] | 135
 
 ## Views of [[gallery-base.base]]
 

@@ -1,6 +1,8 @@
 
 # male
 
+> seealso: [[tag]]
+
 1. [[abortion]]
 2. [[amputee]]
 3. [[anorexic]]

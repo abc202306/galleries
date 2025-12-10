@@ -3,6 +3,10 @@ ctime: 2025-12-09T10:46:17+08:00
 mtime: 2025-12-09T10:46:17+08:00
 ---
 
+# tag
+
+> seealso: [[README]]
+
 1. [[artist]]
 2. [[category]]
 3. [[character]]

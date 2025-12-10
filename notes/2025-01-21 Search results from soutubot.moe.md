@@ -8,7 +8,7 @@ ctime: 2025-01-21T16:28:59
 mtime: 2025-01-21T16:28:59
 ---
 
-see: [[nhentai-558981|[魔訶不思議] JS規格 [英訳] ]]
+seealso: [[nhentai-558981|[魔訶不思議] JS規格 [英訳] ]]
 
 - 【maka fushigi】【【Maka Fushigi】 JS Kikaku - JS Standards 【Chinese】】
 

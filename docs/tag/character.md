@@ -1,6 +1,8 @@
 
 # character
 
+> seealso: [[tag]]
+
 1. [[aether]]
 2. [[ai-hinatsuru]]
 3. [[akane-kotonoha]]

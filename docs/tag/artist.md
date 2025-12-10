@@ -1,6 +1,8 @@
 
 # artist
 
+> seealso: [[tag]]
+
 1. [[6a-sang]]
 2. [[8aki]]
 3. [[acbins]]

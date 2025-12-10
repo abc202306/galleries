@@ -1,6 +1,8 @@
 
 # other
 
+> seealso: [[tag]]
+
 1. [[3d]]
 2. [[3d-imageset]]
 3. [[age-regression]]

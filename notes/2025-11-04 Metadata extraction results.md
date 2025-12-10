@@ -7,7 +7,7 @@ ctime: 2025-11-04T16:24:41
 mtime: 2025-11-04T16:24:41
 ---
 
-see: [[exhentai-3351524-d9eaac6215|[滑らか精肉店 (kamasu)] 天使が家に泊まりに来た。 [中国翻訳] [無修正] ]]
+seealso: [[exhentai-3351524-d9eaac6215|[滑らか精肉店 (kamasu)] 天使が家に泊まりに来た。 [中国翻訳] [無修正] ]]
 
 ```yaml
 url: "https://exhentai.org/g/3351524/d9eaac6215"

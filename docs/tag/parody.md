@@ -1,6 +1,8 @@
 
 # parody
 
+> seealso: [[tag]]
+
 1. [[aishiteruze-baby]]
 2. [[zenless-zone-zero]]
 3. [[alice-gear-aegis]]
