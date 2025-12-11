@@ -44,13 +44,14 @@
 
 ## Views of [[gallery-base.base]]
 
-1. [[#gallery-base.base artist artist|artist]]
-2. [[#gallery-base.base categories categories|categories]]
-3. [[#gallery-base.base parody parody|parody]]
-4. [[#female|female]]
-5. [[#male|male]]
-6. [[#mixed|mixed]]
-7. [[#character|character]]
+> [!Info]
+> 1. [[#gallery-base.base artist artist|artist]]
+> 2. [[#gallery-base.base categories categories|categories]]
+> 3. [[#gallery-base.base parody parody|parody]]
+> 4. [[#female|female]]
+> 5. [[#male|male]]
+> 6. [[#mixed|mixed]]
+> 7. [[#character|character]]
 
 ### [[gallery-base.base#artist|artist]]
 

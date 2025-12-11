@@ -1,9 +1,8 @@
 ---
-ctime: 2025-12-08T15:38:53+08:00
-mtime: 2025-12-08T15:38:53+08:00
+ctime: 2025-12-11T11:28:49+08:00
+mtime: 2025-12-11T11:28:49+08:00
 ---
 
 # western
 
-![[gallery-base.base#categories/western]]
-
+![[gallery-dynamic-base.base]]

@@ -1,8 +1,8 @@
 ---
-ctime: 2025-11-18T18:19:48+08:00
-mtime: 2025-11-19T15:13:09+08:00
+ctime: 2025-12-11T11:28:42+08:00
+mtime: 2025-12-11T11:28:42+08:00
 ---
 
 # henreader
 
-![[gallery-base.base#artist/henreader|henreader]]
+![[gallery-dynamic-base.base]]

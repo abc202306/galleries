@@ -1,8 +1,8 @@
 ---
-ctime: 2025-11-16T18:05:50+08:00
-mtime: 2025-11-18T17:26:58+08:00
+ctime: 2025-12-11T11:28:41+08:00
+mtime: 2025-12-11T11:28:41+08:00
 ---
 
 # murai-renji
 
-![[gallery-base.base#artist/murai-renji|murai-renji]]
+![[gallery-dynamic-base.base]]

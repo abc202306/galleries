@@ -1,8 +1,8 @@
 ---
-ctime: 2025-11-15T17:48:22+08:00
-mtime: 2025-11-16T16:02:04+08:00
+ctime: 2025-12-11T11:28:31+08:00
+mtime: 2025-12-11T11:28:31+08:00
 ---
 
 # kodomo-doushi
 
-![[gallery-base.base#mixed/kodomo-doushi]]
+![[gallery-dynamic-base.base]]

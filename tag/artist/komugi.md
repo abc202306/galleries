@@ -1,8 +1,8 @@
 ---
-ctime: 2025-12-08T18:22:37+08:00
-mtime: 2025-12-08T18:22:37+08:00
+ctime: 2025-12-11T11:28:41+08:00
+mtime: 2025-12-11T11:28:41+08:00
 ---
 
 # komugi
 
-![[gallery-base.base#artist/komugi|komugi]]
+![[gallery-dynamic-base.base]]

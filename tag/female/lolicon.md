@@ -1,9 +1,8 @@
 ---
-ctime: 2024-10-17T16:43:30+08:00
-mtime: 2025-09-27T19:49:14+08:00
+ctime: 2025-12-11T11:28:45+08:00
+mtime: 2025-12-11T11:28:45+08:00
 ---
 
 # lolicon
 
-![[gallery-base.base#female/lolicon]]
-
+![[gallery-dynamic-base.base]]

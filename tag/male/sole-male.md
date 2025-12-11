@@ -1,8 +1,8 @@
 ---
-ctime: 2025-12-07T23:25:22+08:00
-mtime: 2025-12-07T23:25:22+08:00
+ctime: 2025-12-11T11:28:34+08:00
+mtime: 2025-12-11T11:28:34+08:00
 ---
 
 # sole-male
 
-![[gallery-base.base#male/sole-male|sole-male]]
+![[gallery-dynamic-base.base]]

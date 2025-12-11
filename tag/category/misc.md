@@ -1,8 +1,8 @@
 ---
-ctime: 2025-11-16T16:00:48+08:00
-mtime: 2025-11-16T16:02:04+08:00
+ctime: 2025-12-11T11:28:49+08:00
+mtime: 2025-12-11T11:28:49+08:00
 ---
 
 # misc
 
-![[gallery-base.base#categories/misc|misc]]
+![[gallery-dynamic-base.base]]

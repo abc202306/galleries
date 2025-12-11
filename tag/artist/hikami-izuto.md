@@ -1,8 +1,8 @@
 ---
-ctime: 2025-12-08T15:25:07+08:00
-mtime: 2025-12-08T15:25:07+08:00
+ctime: 2025-12-11T11:28:42+08:00
+mtime: 2025-12-11T11:28:42+08:00
 ---
 
 # hikami-izuto
 
-![[gallery-base.base#artist/hikami-izuto|hikami-izuto]]
+![[gallery-dynamic-base.base]]
