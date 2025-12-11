@@ -18,7 +18,7 @@ other:
   - "[[dakimakura]]"
   - "[[variant-set]]"
 english: "[Arashiya] Gura x Ame Body Pillow Cover (Hololive)"
-japanese: [PSD＊商用利用厳禁]ぐらXアメリア抱き枕カバー印刷データ（10k）
+japanese: "[PSD＊商用利用厳禁]ぐらXアメリア抱き枕カバー印刷データ（10k）"
 url: https://exhentai.org/g/3638693/b2aa362fca/
 artist:
   - "[[arashiya]]"
@@ -35,7 +35,7 @@ language:
 pagecount: 7
 aliases:
   - "[Arashiya] Gura x Ame Body Pillow Cover (Hololive)"
-  - [PSD＊商用利用厳禁]ぐらXアメリア抱き枕カバー印刷データ（10k）
+  - "[PSD＊商用利用厳禁]ぐらXアメリア抱き枕カバー印刷データ（10k）"
 cover: "[[exhentai-3638693-b2aa362fca.webp]]"
 uploader:
   - "[[dokahime]]"
