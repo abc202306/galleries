@@ -18,7 +18,7 @@ views:
       - formula.filetitle
       - artist
     sort:
-      - property: file.ctime
+      - property: note.ctime
         direction: DESC
     columnSize:
       formula.image01: -10
@@ -50,7 +50,7 @@ views:
     name: cardsmini
     order: []
     sort:
-      - property: file.ctime
+      - property: note.ctime
         direction: DESC
     columnSize:
       formula.image01: -10
@@ -85,7 +85,7 @@ views:
       - formula.filetitle
       - formula.cday
     sort:
-      - property: file.ctime
+      - property: note.ctime
         direction: DESC
     limit: 100
     image: formula.image01
@@ -93,7 +93,7 @@ views:
     name: modifiedbutnotcreatedtoday
     filters:
       and:
-        - file.ctime.date() != today()
+        - note.ctime.date() != today()
     order:
       - formula.filetitle
       - formula.mday
@@ -194,7 +194,7 @@ views:
       - formula.filetitle
       - artist
     sort:
-      - property: file.ctime
+      - property: note.ctime
         direction: DESC
     columnSize:
       formula.image01: -10
@@ -234,7 +234,7 @@ views:
       - english
       - url
     sort:
-      - property: file.ctime
+      - property: note.ctime
         direction: DESC
     columnSize:
       formula.image01: -10
@@ -344,7 +344,7 @@ views:
       - uploaded
       - pagecount
     sort:
-      - property: file.ctime
+      - property: note.ctime
         direction: DESC
     columnSize:
       formula.image01: -10
@@ -401,7 +401,7 @@ views:
       - visible
       - filesize
     sort:
-      - property: file.ctime
+      - property: note.ctime
         direction: DESC
     limit: 50
     columnSize:
@@ -620,7 +620,7 @@ views:
     order:
       - formula.filetitle
     sort:
-      - property: file.ctime
+      - property: note.ctime
         direction: DESC
     image: formula.image01
   - type: cards
