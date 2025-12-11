@@ -8,9 +8,15 @@ filters:
 formulas:
   filetitle: if(japanese,japanese,english)
   image01: image(cover)
+  trackedtags: file("tracked-tags").links.filter(file.hasLink(value))
 views:
   - type: cards
     name: Cards
     order:
       - formula.filetitle
+      - formula.trackedtags
+    sort:
+      - property: ctime
+        direction: DESC
     image: formula.image01
+    cardSize: 100
