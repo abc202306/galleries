@@ -3,4 +3,4 @@
 
 > seealso: [[tag]]
 
-1. [[slimdog]]
+- [[slimdog]]

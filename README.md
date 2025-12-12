@@ -7,6 +7,7 @@
 > 1. [[#Web Clipper]]
 > 2. [[#Folder Struct]]
 > 3. [[#Views of gallery-base.base]]
+> 4. [[#Script]]
 
 ## Web Clipper
 
@@ -101,3 +102,45 @@
 ### character
 
 1. [[gallery-base.base#character/kukuri|kukuri]] | 19 | [[kukuri]]
+
+## Script
+
+### Init Empty File as Saved Query Note for Gallery Dynamic Base View
+
+```js
+function getLocalISOStringWithTimezone() {
+  const date = new Date();
+  const pad = n => String(n).padStart(2, "0");
+
+  const offset = -date.getTimezoneOffset(); // actual UTC offset in minutes
+  const sign = offset >= 0 ? "+" : "-";
+  const hours = pad(Math.floor(Math.abs(offset) / 60));
+  const minutes = pad(Math.abs(offset) % 60);
+
+  return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}T` +
+    `${pad(date.getHours())}:${pad(date.getMinutes())}:${pad(date.getSeconds())}` +
+    `${sign}${hours}:${minutes}`;
+}
+
+function getFileContent(title, time) {
+    return `---
+ctime: ${time}
+mtime: ${time}
+---
+
+# ${title}
+
+![[gallery-dynamic-base.base]]
+`
+}
+
+app.vault.getMarkdownFiles()
+  .filter(f=>["tag/", "uploader/"].some(rootDirPath=>f.path.startsWith(rootDirPath)))
+  .filter(f=>app.metadataCache.getFileCache(f).frontmatter===undefined)
+  .forEach(f=>app.vault.process(f, _data=>{
+    const title = f.basename;
+    const time = getLocalISOStringWithTimezone();
+    return getFileContent(title, time);
+  }));
+  
+```
