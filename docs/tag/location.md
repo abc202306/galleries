@@ -3,7 +3,7 @@
 
 > seealso: [[tag]]
 
-- [[bathing-room]]
-- [[beach]]
-- [[classroom]]
-- [[sentou]]
+1. [[bathing-room]]
+1. [[beach]]
+1. [[classroom]]
+1. [[sentou]]
