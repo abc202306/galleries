@@ -287,9 +287,9 @@ views:
       - japanese
       - categories
       - parody
-      - language
       - character
       - uploader
+      - language
       - uploaded
       - pagecount
       - female
@@ -303,27 +303,29 @@ views:
       - filesize
       - parent
       - cover
-    sort: []
+    sort:
+      - property: ctime
+        direction: DESC
     columnSize:
       formula.image01: -10
       formula.filetitle: 90
       note.url: 71
       note.artist: 191
-      note.group: 65
+      note.group: 72
       note.english: 67
       note.japanese: 70
-      note.categories: 68
-      note.parody: 68
-      note.language: 152
-      note.character: 62
+      note.categories: 138
+      note.parody: 244
+      note.character: 428
       note.uploader: 192
+      note.language: 152
       note.uploaded: 63
       note.pagecount: 44
-      note.female: 100
-      note.male: 122
-      note.mixed: 94
+      note.female: 427
+      note.male: 211
+      note.mixed: 384
       note.location: 135
-      note.other: 193
+      note.other: 422
       note.rating: 52
       note.favorited: 51
       note.visible: 38
