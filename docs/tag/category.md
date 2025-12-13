@@ -4,6 +4,7 @@
 > seealso: [[tag]]
 
 - [[artist-cg]]
+- [[cosplay]]
 - [[doujinshi]]
 - [[game-cg]]
 - [[image-set]]
