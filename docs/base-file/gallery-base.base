@@ -568,6 +568,17 @@ views:
     imageAspectRatio: 1.45
     cardSize: 100
   - type: cards
+    name: artist/empty
+    filters:
+      and:
+        - artist.isEmpty()
+    order:
+      - formula.filetitle
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
     name: parody
     image: formula.image01
     cardSize: 100
