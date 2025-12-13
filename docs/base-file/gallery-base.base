@@ -17,6 +17,7 @@ views:
     order:
       - formula.filetitle
       - artist
+      - group
     sort:
       - property: ctime
         direction: DESC

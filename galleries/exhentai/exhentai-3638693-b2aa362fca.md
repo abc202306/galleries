@@ -31,7 +31,6 @@ character:
 language:
   - "[[n_a|n/a]]"
   - "[[speechless]]"
-  - "[[n/a]]"
 pagecount: 7
 aliases:
   - "[Arashiya] Gura x Ame Body Pillow Cover (Hololive)"
