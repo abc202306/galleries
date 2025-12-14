@@ -17,12 +17,12 @@
 ## Folder Struct
 
 1. [[notes]] | 7
-2. [[docs]] | 29
-	1. [[gallery|galleries]] | 2
-	2. [[tag]] | 12
-	3. [[keyword]] | 11
-	4. [[base-file]] | 2
-	5. [[image-file]] | 1
+2. [[docs]] | 30
+	1. [[tag]] | 12
+	2. [[gallery|galleries]] | 2
+	3. [[base-file]] | 2
+	4. [[image-file]] | 1
+	5. [[canvas]] | 1
 	6. [[notation]] | 1
 3. [[gallery|galleries]] | 1260
 	1. [[exhentai]] | 454
