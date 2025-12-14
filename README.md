@@ -16,36 +16,39 @@
 
 ## Folder Struct
 
-1. [[notes]] | 7
-2. [[docs]] | 30
-	1. [[tag]] | 12
-	2. [[gallery|galleries]] | 2
-	3. [[base-file]] | 2
-	4. [[image-file]] | 1
-	5. [[canvas]] | 1
-	6. [[notation]] | 1
-3. [[gallery|galleries]] | 1260
-	1. [[exhentai]] | 454
-	2. [[nhentai]] | 806
-4. [[tag]] | 1524
-	1. [[artist]] | 513
-	2. [[categories]] | 8
-	3. [[character]] | 251
-	4. [[female]] | 192
-	5. [[group-ns]] | 235
-	6. [[language]] | 9
-	7. [[location]] | 3
-	8. [[male]] | 103
-	9. [[mixed]] | 7
-	10. [[other]] | 106
-	11. [[parody]] | 96
-	12. [[temp]] | 1
-5. [[templates]] | 1
-6. [[uploader]] | 136
+| Folder Path | DFC |
+| :--- | ---: |
+| docs | 31 |
+| docs/base-file | 2 |
+| docs/canvas | 1 |
+| docs/galleries | 2 |
+| docs/image-file | 1 |
+| docs/notation | 1 |
+| docs/tag | 13 |
+| galleries | 1348 |
+| galleries/exhentai | 542 |
+| galleries/nhentai | 806 |
+| notes | 7 |
+| tag | 1574 |
+| tag/artist | 529 |
+| tag/categories | 10 |
+| tag/character | 260 |
+| tag/female | 198 |
+| tag/group-ns | 243 |
+| tag/language | 9 |
+| tag/location | 4 |
+| tag/male | 103 |
+| tag/mixed | 7 |
+| tag/other | 107 |
+| tag/parody | 103 |
+| tag/temp | 1 |
+| templates | 1 |
+| uploader | 154 |
 
 ## Views of [[gallery-base.base]]
 
-> [!Info]
+> [!Note]
+> 
 > 1. [[#gallery-base.base artist artist|artist]]
 > 2. [[#gallery-base.base categories categories|categories]]
 > 3. [[#gallery-base.base parody parody|parody]]
@@ -181,4 +184,11 @@ app.vault.getMarkdownFiles()
 		return getTagGroupFileContent(title, time);
 	}))
 
+```
+
+## Log Folder Statics
+
+```js
+const files = app.vault.getFiles();
+console.log("| Folder Path | DFC |\n| :--- | ---: |\n"+app.vault.getAllFolders().sort((a,b)=>a.path.localeCompare(b.path)).map(fd=>`| ${fd.path} | ${files.filter(f=>f.path.startsWith(fd.path+"/")).length} |`).join("\n"))
 ```
