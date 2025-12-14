@@ -9,7 +9,6 @@ keywords:
   - "[[schoolgirl-uniform]]"
   - "[[full-color]]"
   - "[[bunny-girl]]"
-  - "[[group]]"
 english: (C72) [CANDYMAN (Youta)] Ero Star (Lucky Star) [Chinese] [Polaris个人汉化]
 japanese: (C72) [CANDYMAN (よう太)] えろ☆すた (らき☆すた) [中国翻訳]
 url: https://nhentai.net/g/576648/

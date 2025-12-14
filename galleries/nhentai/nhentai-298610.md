@@ -15,7 +15,6 @@ keywords:
   - "[[shimaidon]]"
   - "[[layer-cake]]"
   - "[[shared-senses]]"
-  - "[[group]]"
 english: "[Dr.VERMILION (Petenshi)] import emotion! (VOICEROID) [English] [2d-market.com] [Decensored] [Digital]"
 japanese: "[Dr.VERMILION (ペテン師)] import emotion! (VOICEROID) [英訳] [無修正] [DL版]"
 url: https://nhentai.net/g/298610/

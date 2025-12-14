@@ -29,7 +29,6 @@ keywords:
   - "[[large-insertions]]"
   - "[[petplay]]"
   - "[[age-regression]]"
-  - "[[teacher]]"
 english: "[Arunemu] Shuerin! to no!! Jikken | An! Experiment!! With Shunling (Blue Archive) [English] (decensored)"
 japanese: "[アルネム] シュエリン！との！！実験 (ブルーアーカイブ) [英語]"
 url: https://nhentai.net/g/577493/

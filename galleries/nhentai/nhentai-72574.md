@@ -10,7 +10,6 @@ keywords:
   - "[[yuri]]"
   - "[[tentacles]]"
   - "[[fairy]]"
-  - "[[group]]"
 english: (Reitaisai 8) [Himawari Mandiu (Kurasawa Makoto)] Sweet Lovely Syrup (Touhou Project) [English] [Sharpie Translations]
 japanese: (例大祭8) [ひまわりまんぢぅ (倉澤まこと)] Sweet Lovely Syrup (東方Project) [英訳]
 url: https://nhentai.net/g/72574/

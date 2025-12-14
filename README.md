@@ -186,9 +186,33 @@ app.vault.getMarkdownFiles()
 
 ```
 
-## Log Folder Statics
+### Log Folder Statics
 
 ```js
 const files = app.vault.getFiles();
 console.log("| Folder Path | DFC |\n| :--- | ---: |\n"+app.vault.getAllFolders().sort((a,b)=>a.path.localeCompare(b.path)).map(fd=>`| ${fd.path} | ${files.filter(f=>f.path.startsWith(fd.path+"/")).length} |`).join("\n"))
+```
+
+### Remove Duplicate Value in Each Array Property in Front Matter for All Markdown Files
+
+```js
+app.vault.getMarkdownFiles().forEach(f=>{
+    const fc = app.metadataCache.getFileCache(f);
+    if (!fc.frontmatter){
+        return;
+    }
+    for (let k in fc.frontmatter){
+        const v1 = fc.frontmatter[k];
+        if (!Array.isArray(v1)){
+            continue;
+        }
+        const v2 = v1.unique();
+        if (v2.length === v1.length){
+            continue;
+        }
+        app.fileManager.processFrontMatter(f,fm=>{
+            fm[k] = v2;
+        })
+    }
+})
 ```

@@ -7,7 +7,6 @@ keywords:
   - "[[group]]"
   - "[[lolicon]]"
   - "[[full-color]]"
-  - "[[group]]"
 english: "[Kamikadou (Ginyou Haru)] Touhou no Eroge 5 (Touhou Project) [Chinese] [oo君の個人漢化] [Digital]"
 japanese: "[かみか堂 (銀曜ハル)] 東方のエロゲー5 (東方Project) [中国翻訳] [DL版]"
 url: https://nhentai.net/g/133566/

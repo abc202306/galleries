@@ -16,7 +16,6 @@ keywords:
   - "[[cunnilingus]]"
   - "[[small-breasts]]"
   - "[[prostitution]]"
-  - "[[group]]"
 english: "[Toranoe no Makimono (Toranoe)] Pap-shou Uraaka Girls (Pripara) [English] [Dundrf] [Digital]"
 japanese: "[とらのえのまきもの (トラノエ)] パプ小裏アカガールズ (プリパラ) [英訳] [DL版]"
 url: https://nhentai.net/g/384863/

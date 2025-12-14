@@ -21,7 +21,6 @@ keywords:
   - "[[niece]]"
   - "[[shimaidon]]"
   - "[[smalldom]]"
-  - "[[group]]"
 english: "[Kamita] Daremo Shiranai Hana | Unknown Flowers (Akuma mitai ni kimi wa tatteta) [English] [Xzosk + Sloppy Seconds] [Digital] [Decensored]"
 japanese: "[かみ田] だれも知らない花 (悪魔みたいにキミは立ってた) [英訳] [DL版] [無修正]"
 url: https://nhentai.net/g/444716/

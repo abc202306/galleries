@@ -19,7 +19,6 @@ keywords:
   - "[[daughter]]"
   - "[[possession]]"
   - "[[selfcest]]"
-  - "[[group]]"
 english: "[Blue Syndrome (Yuasa)] Ninja Izonshou Vol. 8 (Naruto) [English] [naxusnl] [Digital]"
 japanese: "[青色症候群 (ユアサ)] 忍者依存症 Vol.8 (NARUTO -ナルト-) [英訳] [DL版]"
 url: https://nhentai.net/g/161398/

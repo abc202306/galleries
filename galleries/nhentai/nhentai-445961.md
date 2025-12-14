@@ -19,7 +19,6 @@ keywords:
   - "[[bloomers]]"
   - "[[tail-plug]]"
   - "[[school-gym-uniform]]"
-  - "[[group]]"
 english: (C101) [Märchen BOX (Various)] GirlPan Youjo Club (Girls und Panzer)
 japanese: (C101) [メルヘンBOX (よろず)] ガルパン幼女倶楽部 (ガールズ＆パンツァー)
 url: https://nhentai.net/g/445961/

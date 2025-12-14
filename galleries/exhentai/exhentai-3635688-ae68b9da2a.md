@@ -18,7 +18,6 @@ location:
 other:
   - "[[3d]]"
   - "[[uncensored]]"
-  - "[[3d]]"
 english: "[Doa666] Emi {updated)"
 japanese: ""
 url: https://exhentai.org/g/3635688/ae68b9da2a/

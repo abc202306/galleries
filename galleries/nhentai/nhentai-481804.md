@@ -11,7 +11,6 @@ keywords:
   - "[[teacher]]"
   - "[[catgirl]]"
   - "[[tail]]"
-  - "[[teacher]]"
 english: (C100) [Paperer’s Nest (Tenkyou Ryuune)] Sensei, Naisho da yo? [Chinese] [白杨柠檬茶]
 japanese: (C100) [Paperer’s Nest (天響龍音)] せんせー、ないしょだよ? [中国翻訳]
 url: https://nhentai.net/g/481804/

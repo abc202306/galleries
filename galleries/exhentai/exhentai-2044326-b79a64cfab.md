@@ -27,7 +27,6 @@ location:
 other:
   - "[[3d]]"
   - "[[mosaic-censorship]]"
-  - "[[3d]]"
 english: "[Nadeshikosan] Elf Maid no Choukyou Hakusho"
 japanese: "[なでしこさん] エルフメイドの調教白書"
 url: https://exhentai.org/g/2044326/b79a64cfab/

@@ -14,7 +14,6 @@ keywords:
   - "[[anal-intercourse]]"
   - "[[hair-buns]]"
   - "[[leash]]"
-  - "[[group]]"
 english: "[GASOBooK!! (Matsumomo Mahiru)] Nijiura Runner 5-gatsu-gou (Futaba Channel)"
 japanese: "[GASOBooK!! (松百まひる)] ニジウランナー5月号 (ふたばちゃんねる)"
 url: https://nhentai.net/g/516915/

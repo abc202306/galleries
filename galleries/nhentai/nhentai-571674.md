@@ -15,7 +15,6 @@ keywords:
   - "[[twins]]"
   - "[[kodomo-doushi]]"
   - "[[kodomo-only]]"
-  - "[[group]]"
 english: "[Jiko Moratorium (Sayaka)] 3-nin no Himitsu da yo [Digital]"
 japanese: "[自己モラトリアム (さやか)] 3人のひみつだよ [DL版]"
 url: https://nhentai.net/g/571674/

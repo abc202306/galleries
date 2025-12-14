@@ -13,7 +13,6 @@ keywords:
   - "[[twintails]]"
   - "[[bikini]]"
   - "[[gloves]]"
-  - "[[group]]"
 english: "[Tenta Cruise (Takemitsu Tenta)] Guru Guru Zanmai (Mahoujin Guru Guru)"
 japanese: "[テンタクルーズ (たけみつてんた)] グルグル三昧 (魔法陣グルグル)"
 url: https://nhentai.net/g/477735/

@@ -15,7 +15,6 @@ location:
 other:
   - "[[3d]]"
   - "[[mosaic-censorship]]"
-  - "[[3d]]"
 english: yoyomax EP-1 Tomomi and doctor
 japanese: ""
 url: https://exhentai.org/g/2114701/eec2ff568d/

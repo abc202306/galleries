@@ -27,7 +27,6 @@ keywords:
   - "[[randoseru]]"
   - "[[shimaidon]]"
   - "[[low-shotacon]]"
-  - "[[group]]"
 english: (C104) [P.A.Project (Teruki Kuma)] Skeb-e Works 06 (Various)
 japanese: (C104) [P.A.Project (てるき熊)] スケベワークス —Skeb-e Works— 06 (よろず)
 url: https://nhentai.net/g/527886/

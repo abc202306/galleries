@@ -12,7 +12,6 @@ keywords:
   - "[[ffm-threesome]]"
   - "[[twintails]]"
   - "[[tail]]"
-  - "[[group]]"
 english: (Puniket 36) [CAT GARDEN (Nekotewi)] 碧蓝射爆 (Azur Lane)
 japanese: (ぷにけっと36) [CAT GARDEN (ねこてゐ)] 碧蓝射爆 (アズールレーン)
 url: https://nhentai.net/g/577643/

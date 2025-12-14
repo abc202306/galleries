@@ -11,7 +11,6 @@ keywords:
   - "[[swimsuit]]"
   - "[[bikini]]"
   - "[[teacher]]"
-  - "[[teacher]]"
 english: "[Yukiu Con] Tonari no Ichika-chan! (COMIC LO 2017-07) [Chinese] [萝莉援助汉化组] [Digital]"
 japanese: "[雪雨こん] となりのいちかちゃん! (COMIC LO 2017年7月号) [中国翻訳] [DL版]"
 url: https://nhentai.net/g/202426/

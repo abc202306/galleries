@@ -47,7 +47,6 @@ male:
   - "[[pig]]"
 mixed:
   - "[[group]]"
-  - "[[group]]"
 location:
 other:
   - "[[full-color]]"

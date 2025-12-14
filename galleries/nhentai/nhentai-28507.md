@@ -8,7 +8,6 @@ keywords:
   - "[[sole-male]]"
   - "[[lolicon]]"
   - "[[teacher]]"
-  - "[[teacher]]"
 english: (C75) [23.4do (Ichiri, Kazuto)] Toaru Kyoushi no Curriculum (Toaru Majutsu no Index)
 japanese: (C75) [23.4ド (イチリ, カズト)] とある教師の特別指導 (とある魔術の禁書目録)
 url: https://nhentai.net/g/28507/

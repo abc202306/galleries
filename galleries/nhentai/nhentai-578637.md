@@ -51,7 +51,6 @@ keywords:
   - "[[horse]]"
   - "[[pig]]"
   - "[[syringe]]"
-  - "[[group]]"
 english: "[HAMMER_HEAD (Makabe Gorou)] HAMMER_HEAD IM@S Soushuuhen+ (THE IDOLM@STER CINDERELLA GIRLS, THE iDOLM@STER: Shiny Colors) [Digital]"
 japanese: "[HAMMER_HEAD (真壁吾郎)] HAMMER_HEAD アイマス総集編+ (アイドルマスター シンデレラガールズ、アイドルマスター シャイニーカラーズ) [DL版]"
 url: https://nhentai.net/g/578637/

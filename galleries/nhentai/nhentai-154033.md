@@ -7,7 +7,6 @@ keywords:
   - "[[group]]"
   - "[[lolicon]]"
   - "[[full-color]]"
-  - "[[group]]"
 english: (C88) [Nanmin Festival (Gibuchoko)] Satori to Koishi no Youjo demo Kozukuri ga Shitai! (Touhou Project)
 japanese: (C88) [難民ふぇすてぃばる (ぎヴちょこ)] さとりとこいしのようじょでもこづくりがしたいっ! (東方Project)
 url: https://nhentai.net/g/154033/

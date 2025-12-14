@@ -6,7 +6,6 @@ categories:
 keywords:
   - "[[group]]"
   - "[[lolicon]]"
-  - "[[group]]"
 english: (C68) [Uropyon (Urotan)] Eco Splash 6 (Ecoko) [English]
 japanese: (C68) [うろぴょん☆ (うろたん)] エコスプラッシュ6 (エコ子) [英訳]
 url: https://nhentai.net/g/10430/

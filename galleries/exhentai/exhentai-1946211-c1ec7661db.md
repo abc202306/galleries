@@ -22,7 +22,6 @@ female:
 male:
 mixed:
   - "[[group]]"
-  - "[[group]]"
 location:
 other:
   - "[[mosaic-censorship]]"

@@ -17,7 +17,6 @@ other:
   - "[[3d]]"
   - "[[3d-imageset]]"
   - "[[already-uploaded]]"
-  - "[[3d]]"
 english: "El Gran Secreto: Family Incest Stories Vol. 230"
 japanese: ""
 url: https://exhentai.org/g/3245907/fe8b1b7e7b/

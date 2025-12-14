@@ -22,7 +22,6 @@ keywords:
   - "[[kodomo-doushi]]"
   - "[[kodomo-only]]"
   - "[[tabi-socks]]"
-  - "[[group]]"
 english: "[Chirimen Naoyuki (Naoyuki)] Rorikko Taisha no Kamikakushi | Spirited Away at the Fox Shrine [English] [ForeignOkka] [Digital]"
 japanese: "[ちりめんなおゆき (なおゆき)] 露里狐大社の神隠し [英訳] [DL版]"
 url: https://nhentai.net/g/576887/

@@ -29,8 +29,6 @@ female:
   - "[[teacher]]"
   - "[[toddlercon]]"
   - "[[vaginal-birth]]"
-  - "[[group]]"
-  - "[[teacher]]"
 male:
 mixed:
 location:

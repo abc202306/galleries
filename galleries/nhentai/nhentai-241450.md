@@ -10,7 +10,6 @@ keywords:
   - "[[incest]]"
   - "[[sister]]"
   - "[[teacher]]"
-  - "[[teacher]]"
 english: "[Nogiwa Kaede] Onee-chan Sensei (COMIC Anthurium 2018-08) [Chinese] [理琰珹个人汉化] [Digital]"
 japanese: "[野際かえで] お姉ちゃん先生 (COMIC アンスリウム 2018年8月号) [中国翻訳] [DL版]"
 url: https://nhentai.net/g/241450/

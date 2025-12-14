@@ -12,7 +12,6 @@ keywords:
   - "[[condom]]"
   - "[[gender-bender]]"
   - "[[very-long-hair]]"
-  - "[[teacher]]"
 english: "[Codeine Girl (Dobato)] TS Shoujo Haruki-kun 5 [Digital]"
 japanese: "[コデインガール (ドバト)] TS少女ハルキくん 5 [DL版]"
 url: https://nhentai.net/g/489882/

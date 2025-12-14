@@ -11,7 +11,6 @@ keywords:
   - "[[dilf]]"
   - "[[bikini]]"
   - "[[very-long-hair]]"
-  - "[[group]]"
   - "[[rimjob]]"
 english: "[horonaminZ (horonamin)] Onnanoko no Seiyoku ga Tsuyo Sugiru Teisou Kannen Gyakuten shita Sekai ni Mayoikonda Lolicon no Oji-san ga Onnanoko no Yume o Kanaete Ageru Hanashi [Digital]"
 japanese: "[ホロナミンZ (ホロナミン)] 女の子の性欲が強すぎる貞操観念逆転した世界に迷い込んだロリコンのおじさんが女の子の夢を叶えてあげる話（fantia版）"

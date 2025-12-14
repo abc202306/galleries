@@ -16,7 +16,6 @@ keywords:
   - "[[tankoubon]]"
   - "[[exhibitionism]]"
   - "[[rough-translation]]"
-  - "[[group]]"
 english: "[Maka Fushigi] JS Kikaku - JS Standards [English] [MTL]"
 japanese: "[魔訶不思議] JS規格 [英訳]"
 url: https://nhentai.net/g/558981/

@@ -12,12 +12,10 @@ keywords:
   - "[[mosaic-censorship]]"
   - "[[ffm-threesome]]"
   - "[[twintails]]"
-  - "[[group]]"
 english: "[Melonbooks (Rico)] Melon de Ero Ero [English] [NNLT4]"
 japanese: "[メロンブックス (Rico)] メロンでエロエロ [英訳]"
 url: https://nhentai.net/g/576830/
 artist:
-  - "[[rico]]"
   - "[[rico]]"
 parody:
   - "[[original]]"

@@ -38,8 +38,6 @@ keywords:
   - "[[randoseru]]"
   - "[[freckles]]"
   - "[[tutor]]"
-  - "[[group]]"
-  - "[[teacher]]"
 english: COMIC LO 2019-05 [Digital]
 japanese: COMIC LO 2019年5月号 [DL版]
 url: https://nhentai.net/g/269259/

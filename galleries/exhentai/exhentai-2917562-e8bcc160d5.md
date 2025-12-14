@@ -19,7 +19,6 @@ mixed:
 location:
 other:
   - "[[3d]]"
-  - "[[3d]]"
 english: "[Jホシタロウ] 天狗おじさん精子と性教育 1"
 japanese: ""
 url: https://exhentai.org/g/2917562/e8bcc160d5

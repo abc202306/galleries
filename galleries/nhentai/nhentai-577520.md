@@ -36,8 +36,6 @@ keywords:
   - "[[multimouth-blowjob]]"
   - "[[tutor]]"
   - "[[infantilism]]"
-  - "[[group]]"
-  - "[[teacher]]"
 english: "[Sabaku] Onnanoko no Omocha [Chinese] [茜新社公式翻訳 & 轟媽無修正] [Decensored] [Digital]"
 japanese: "[砂漠] 女の子のおもちゃ [中国翻訳] [無修正] [DL版]"
 url: https://nhentai.net/g/577520/

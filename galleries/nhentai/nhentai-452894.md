@@ -18,7 +18,6 @@ keywords:
   - "[[eye-covering-bang]]"
   - "[[cousin]]"
   - "[[soushuuhen]]"
-  - "[[group]]"
 english: "[Noraneko-no-Tama (Yukino Minato)] Hikari no Kimi no Saganaki Keikaku <Soushuuhen> [Digital]"
 japanese: "[ノラネコノタマ (雪野みなと)] 光の君のさがなき計画 <総集編> [DL版]"
 url: https://nhentai.net/g/452894/

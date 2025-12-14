@@ -16,7 +16,6 @@ keywords:
   - "[[randoseru]]"
   - "[[kodomo-doushi]]"
   - "[[kodomo-only]]"
-  - "[[group]]"
 english: "[5⁹5⁹] skeb Request E (Hatoba Tsugu, Shigure Ui)"
 japanese: "[5⁹5⁹] skeb リクエスト絵 (鳩羽つぐ、しぐれうい)"
 url: https://nhentai.net/g/555185/

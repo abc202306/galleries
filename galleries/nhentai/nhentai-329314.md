@@ -17,7 +17,6 @@ keywords:
   - "[[daughter]]"
   - "[[gokkun]]"
   - "[[lab-coat]]"
-  - "[[teacher]]"
 english: (COMITIA123) [kuma-puro (Various)] Kodomo to Okuchix! [English] [B.E.C. Scans]
 japanese: (コミティア123) [kuma-puro (よろず)] こどもとおくちっくす! [英訳]
 url: https://nhentai.net/g/329314/

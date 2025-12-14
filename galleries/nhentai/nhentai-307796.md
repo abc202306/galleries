@@ -35,7 +35,6 @@ keywords:
   - "[[leash]]"
   - "[[sundress]]"
   - "[[petplay]]"
-  - "[[group]]"
 english: "[Atage] Tsugou ga Yokute Kawaii Mesu. [Chinese] [篆儀通文書坊漢化]"
 japanese: "[あたげ] 都合が良くて可愛いメス。 [中国翻訳]"
 url: https://nhentai.net/g/307796/

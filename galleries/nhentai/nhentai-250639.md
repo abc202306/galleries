@@ -13,7 +13,6 @@ japanese: (C94) [Rico-ba (Rico)] サキュバス売り子とオフパコえっ�
 url: https://nhentai.net/g/250639/
 artist:
   - "[[rico]]"
-  - "[[rico]]"
 group:
   - "[[rico-ba]]"
 parody:

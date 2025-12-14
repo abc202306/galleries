@@ -16,7 +16,6 @@ keywords:
   - "[[oppai-loli]]"
   - "[[oyakodon]]"
   - "[[midget]]"
-  - "[[group]]"
 english: "[ASGO (Zanzi)] Rei no Shima ni Draph ga Futtekita. (Zenpen) | On A Certain Island, Draph Rain From The Sky (Part One) (Granblue Fantasy) [English] [Tremalkinger] [Digital]"
 japanese: "[ASGO (暫時)] 例の島にドラフが降ってきた。(前編) (グランブルーファンタジー) [英訳] [DL版]"
 url: https://nhentai.net/g/192089/

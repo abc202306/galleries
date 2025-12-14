@@ -19,7 +19,6 @@ keywords:
   - "[[teacher]]"
   - "[[sleeping]]"
   - "[[foot-licking]]"
-  - "[[teacher]]"
 english: "[Okada Kou] Dare ni mo Ienai Koto [English] [BlindEye]"
 japanese: "[岡田コウ] だれにもいえないコト + 8P小冊子"
 url: https://nhentai.net/g/197142/

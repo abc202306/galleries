@@ -24,7 +24,6 @@ keywords:
   - "[[old-man]]"
   - "[[time-stop]]"
   - "[[dougi]]"
-  - "[[group]]"
   - "[[rape]]"
 english: "[Anthology] Saipuni! 7-genme"
 japanese: "[アンソロジー] 催ぷにッ！ 7限目"

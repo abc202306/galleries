@@ -26,12 +26,10 @@ keywords:
   - "[[daughter]]"
   - "[[tail-plug]]"
   - "[[swinging]]"
-  - "[[group]]"
 english: "[Shiitake Nouen (kanabun)] Papakko Club [Chinese] [SAN个人汉化] [Decensored]"
 japanese: "[しいたけ農園 (kanabun)] パパっ子倶楽部 [中国翻訳] [無修正]"
 url: https://nhentai.net/g/410744/
 artist:
-  - "[[kanabun]]"
   - "[[kanabun]]"
 group:
   - "[[shiitake-nouen]]"

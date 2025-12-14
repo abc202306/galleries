@@ -16,7 +16,6 @@ other:
   - "[[3d]]"
   - "[[3d-imageset]]"
   - "[[uncensored]]"
-  - "[[3d]]"
 english: Top Loli Girls Assorted 3D Collection Vol.19
 japanese: ""
 url: https://exhentai.org/g/3623284/d8d81ed9e0/

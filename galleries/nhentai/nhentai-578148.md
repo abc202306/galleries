@@ -11,7 +11,6 @@ keywords:
   - "[[gloves]]"
   - "[[tail]]"
   - "[[halo]]"
-  - "[[group]]"
 english: '[Chiizu Ore] Hikari & Nozomi 3P Manga "Zenpen" (Blue Archive) [Chinese] [欶澜汉化组]'
 japanese: "[ちぃずオレ] ヒカリ＆ノゾミ３Ｐ漫画[前編] (ブルーアーカイブ) [中国翻訳]"
 url: https://nhentai.net/g/578148/

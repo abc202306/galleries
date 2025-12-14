@@ -18,7 +18,6 @@ keywords:
   - "[[catgirl]]"
   - "[[tanlines]]"
   - "[[tail-plug]]"
-  - "[[group]]"
 english: "[Neko Gosho (Yanagi Yuu)] NekoNekoNote10.1 Choukyouzumi Shoujo Oji-san-tachi to Rankou Ecchi [Chinese] [小衣ゆうき机翻润色] [Digital]"
 japanese: "[ネコゴショ (ヤナギユウ)] NekoNekoNote10.1 調教済み少女 おじさん達と乱交えっち [中国翻訳] [DL版]"
 url: https://nhentai.net/g/517178/

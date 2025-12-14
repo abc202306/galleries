@@ -11,7 +11,6 @@ keywords:
   - "[[halo]]"
   - "[[twins]]"
   - "[[shimaidon]]"
-  - "[[group]]"
 english: "[Kumamitsusya (Kumano Foo)] Ecchi Ecchi Play de Level Up!! | 靠色色Play来Level Up!! (Blue Archive) [Chinese] [欶澜汉化组] [Digital]"
 japanese: "[熊蜜舎 (熊野ふぅ)] えちえちプレイでレベルアップ！！ (ブルーアーカイブ) [中国翻訳] [DL版]"
 url: https://nhentai.net/g/577887/

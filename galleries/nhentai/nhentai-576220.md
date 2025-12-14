@@ -31,7 +31,6 @@ keywords:
   - "[[randoseru]]"
   - "[[vaginal-birth]]"
   - "[[heterochromia]]"
-  - "[[teacher]]"
 english: "[Leonat Koubou (Leonat)] SCHALE Houkokusho: Ninshin / Shussan Kiroku2 | SCHALE Report: Records of Pregnancies/Births 2 (Blue Archive) [English] [Digital]"
 japanese: "[レオナト工房 (Leonat)] シャーレ報告書:妊娠/出産記録2 (ブルーアーカイブ) [英訳] [DL版]"
 url: https://nhentai.net/g/576220/

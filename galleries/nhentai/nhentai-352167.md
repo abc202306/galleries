@@ -30,7 +30,6 @@ keywords:
   - "[[wings]]"
   - "[[domination-loss]]"
   - "[[heterochromia]]"
-  - "[[group]]"
 english: "[Tamano Kedama] Boku wa Chiisana Succubus no Shimobe - I am a slave of a small succubus [English] {CapableScoutMan & bigk40k & Marv} [Decensored]"
 japanese: ""
 url: https://nhentai.net/g/352167/

@@ -42,7 +42,6 @@ keywords:
   - "[[lab-coat]]"
   - "[[dog-girl]]"
   - "[[multimouth-blowjob]]"
-  - "[[group]]"
 english: "[konnyaku] Nakayoshi Onaho Saika-chan Aki-chan"
 japanese: "[こんにゃく] 仲良しオナホ彩香ちゃん亜希ちゃん"
 url: https://nhentai.net/g/576228/

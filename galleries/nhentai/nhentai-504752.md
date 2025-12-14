@@ -28,7 +28,6 @@ keywords:
   - "[[niece]]"
   - "[[tutor]]"
   - "[[mesugaki]]"
-  - "[[teacher]]"
 english: "[Ronrinri Ronri] Chiisana Ko no Koi | A Small Child's Love [English] {Mistvern} [Digital]"
 japanese: "[論倫理ろんり] ちいさなこの恋 [英訳] [DL版]"
 url: https://nhentai.net/g/504752/

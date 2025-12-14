@@ -8,7 +8,6 @@ keywords:
   - "[[lolicon]]"
   - "[[full-color]]"
   - "[[incomplete]]"
-  - "[[group]]"
 english: "[Byousatsu Tanukidan (Saeki Tatsuya)] Matroos no Yu [Incomplete]"
 japanese: "[秒殺狸団 (佐伯達也)] マドロスの湯 [ページ欠落]"
 url: https://nhentai.net/g/138768/

@@ -23,7 +23,6 @@ japanese: "[kanabun] P活チサちゃん [中国翻訳] [無修正]"
 url: https://nhentai.net/g/576379/
 artist:
   - "[[kanabun]]"
-  - "[[kanabun]]"
 parody:
   - "[[original]]"
 language:

@@ -9,7 +9,6 @@ keywords:
   - "[[full-color]]"
   - "[[bukkake]]"
   - "[[incomplete]]"
-  - "[[group]]"
 english: "[Furaipan Daimaou - ふらいぱん大魔王] Ecoco no Heon - えここの絵本 (Ecoco) [Lolicon]"
 japanese: ""
 url: https://nhentai.net/g/26609/

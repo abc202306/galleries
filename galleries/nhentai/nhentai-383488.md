@@ -22,12 +22,10 @@ keywords:
   - "[[oppai-loli]]"
   - "[[shimaidon]]"
   - "[[rough-grammar]]"
-  - "[[group]]"
 english: "[Shiitake Nouen (Kanabun)] I want to play on a beach | Beach de Asobo [English]"
 japanese: "[しいたけ農園 (Kanabun)] ビーチであそぼ [完全]"
 url: https://nhentai.net/g/383488/
 artist:
-  - "[[kanabun]]"
   - "[[kanabun]]"
 group:
   - "[[shiitake-nouen]]"

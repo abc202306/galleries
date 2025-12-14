@@ -41,8 +41,6 @@ keywords:
   - "[[niece]]"
   - "[[assjob]]"
   - "[[oil]]"
-  - "[[group]]"
-  - "[[teacher]]"
 english: "[Kunisaki Kei] Kodomo Datte H Nano | They're just kids but they're sluts [English] [Rin]"
 japanese: "[国崎蛍] 子供だってエッチなの [英訳]"
 url: https://nhentai.net/g/167586/

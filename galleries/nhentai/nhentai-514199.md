@@ -10,7 +10,6 @@ keywords:
   - "[[mosaic-censorship]]"
   - "[[chikan]]"
   - "[[randoseru]]"
-  - "[[group]]"
 english: (C100) [Shiritsu Sakuranbo Shougakkou (Misooden)] Lolicon Kaisoku Shoujo Kanin Sharyou [Chinese] [灰羽社汉化组]
 japanese: (C100) [私立さくらんぼ小学校 (みそおでん)] ロリコン快速 少女姦淫車両 [中国翻訳]
 url: https://nhentai.net/g/514199/

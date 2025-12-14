@@ -21,7 +21,6 @@ male:
 mixed:
   - "[[group]]"
   - "[[mmf-threesome]]"
-  - "[[group]]"
 location:
 other:
   - "[[animated]]"

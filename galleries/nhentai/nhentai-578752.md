@@ -17,7 +17,6 @@ japanese: "[Rico] 未熟なからだと誘惑ぱんつ [中国翻訳] [DL版]"
 url: https://nhentai.net/g/578752/
 artist:
   - "[[rico]]"
-  - "[[rico]]"
 language:
   - "[[translated]]"
   - "[[chinese]]"

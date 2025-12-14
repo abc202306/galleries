@@ -18,7 +18,6 @@ keywords:
   - "[[mind-break]]"
   - "[[shimaidon]]"
   - "[[layer-cake]]"
-  - "[[group]]"
 english: "[Osanpo Suisou] Donut-ya-san no Jouren-san | Donut Shop Regulars (COMIC LO 2020-10) [English] [Digital]"
 japanese: "[おさんぽ水槽] ドーナツ屋さんの常連さん (COMIC LO 2020年10月号) [英訳] [DL版]"
 url: https://nhentai.net/g/409103/
