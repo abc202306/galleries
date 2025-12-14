@@ -29,7 +29,7 @@
 	2. [[nhentai]] | 806
 4. [[tag]] | 1524
 	1. [[artist]] | 513
-	2. [[category]] | 8
+	2. [[categories]] | 8
 	3. [[character]] | 251
 	4. [[female]] | 192
 	5. [[group-ns]] | 235
@@ -105,7 +105,7 @@
 
 ## Script
 
-### Init Empty File as Saved Query Note for Gallery Dynamic Base View
+### Init Empty File as Saved Query Note for Gallery Dynamic Base View and Generate File Content of Related Tag Group Note
 
 ```js
 function getLocalISOStringWithTimezone() {
@@ -122,7 +122,7 @@ function getLocalISOStringWithTimezone() {
     `${sign}${hours}:${minutes}`;
 }
 
-function getFileContent(title, time) {
+function getTagFileContent(title, time) {
     return `---
 ctime: ${time}
 mtime: ${time}
@@ -134,13 +134,51 @@ mtime: ${time}
 `
 }
 
+function removeWikiLinkMark(str){
+	return str.replace(/^\[\[/,"").replace(/\]\]$/,"");
+}
+
+function getTagGroupMOC(title) {
+	const property = title.replace(/-ns$/,"");
+	return app.vault.getMarkdownFiles()
+		.filter(f=>f.path.startsWith("galleries/"))
+		.flatMap(f=>(app.metadataCache.getFileCache(f)?.frontmatter||new Object())[property])
+		.unique()
+		.filter(v=>v)
+		.sort((a,b)=>removeWikiLinkMark(a).localeCompare(removeWikiLinkMark(b)))
+		.map(v=>"1. "+v)
+		.join("\n");
+}
+
+function getTagGroupFileContent(title, time) {
+    return `---
+ctime: ${time}
+mtime: ${time}
+---
+
+# ${title}
+
+> seealso: [[tag]]
+
+${getTagGroupMOC(title)}
+`
+}
+
 app.vault.getMarkdownFiles()
   .filter(f=>["tag/", "uploader/"].some(rootDirPath=>f.path.startsWith(rootDirPath)))
   .filter(f=>app.metadataCache.getFileCache(f).frontmatter===undefined)
   .forEach(f=>app.vault.process(f, _data=>{
     const title = f.basename;
     const time = getLocalISOStringWithTimezone();
-    return getFileContent(title, time);
+    return getTagFileContent(title, time);
   }));
-  
+
+app.vault.getMarkdownFiles()
+	.filter(f=>f.path.startsWith("docs/tag/"))
+	.forEach(f=>app.vault.process(f, _data=>{
+		const title = f.basename;
+	    const time = getLocalISOStringWithTimezone();
+		return getTagGroupFileContent(title, time);
+	}))
+
 ```

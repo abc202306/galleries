@@ -61,7 +61,7 @@ mtime: 2025-12-05T19:32:07+08:00
 | character | [[gawr-gura]], [[watson-amelia]] |
 | artist | [[arashiya]] |
 | group |  |
-| languages | [[n_a]], [[speechless]] |
+| languages | [[n_a\|n/a]], [[speechless]] |
 | categories | [[artist-cg]] |
 | female | [[catgirl]], [[females-only]], [[glasses]], [[kemonomimi]], [[lolicon]], [[tail]], [[vtuber]] |
 | male |  |

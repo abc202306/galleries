@@ -22,8 +22,8 @@ english: "[kanabun] P-Katsu Chisa-Chan | 做爸爸活的千沙酱 [Chinese] [感
 japanese: "[kanabun] P活チサちゃん [中国翻訳] [無修正]"
 url: https://nhentai.net/g/576379/
 artist:
-  - "[[Kanabun]]"
-  - "[[Kanabun]]"
+  - "[[kanabun]]"
+  - "[[kanabun]]"
 parody:
   - "[[original]]"
 language:
@@ -54,7 +54,7 @@ character:
 | Parodies | [[original]] |
 | Characters |  |
 | Tags | [[sole-female]], [[sole-male]], [[lolicon]], [[stockings]], [[nakadashi]], [[full-color]], [[incest]], [[twintails]], [[swimsuit]], [[collar]], [[kemonomimi]], [[bikini]], [[uncensored]], [[daughter]] |
-| Artists | [[Kanabun]] |
+| Artists | [[kanabun]] |
 | Groups |  |
 | Languages | [[translated]], [[chinese]] |
 | Categories | [[doujinshi]] |

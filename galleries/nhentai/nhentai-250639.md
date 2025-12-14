@@ -12,8 +12,8 @@ english: (C94) [Rico-ba (Rico)] Succubus Uriko to Off-Pako Ecchi
 japanese: (C94) [Rico-ba (Rico)] サキュバス売り子とオフパコえっち❤
 url: https://nhentai.net/g/250639/
 artist:
-  - "[[Rico]]"
-  - "[[Rico]]"
+  - "[[rico]]"
+  - "[[rico]]"
 group:
   - "[[rico-ba]]"
 parody:
@@ -43,7 +43,7 @@ character:
 | Parodies | [[original]] |
 | Characters |  |
 | Tags | [[lolicon]], [[glasses]], [[demon-girl]], [[horns]] |
-| Artists | [[Rico]] |
+| Artists | [[rico]] |
 | Groups | [[rico-ba]] |
 | Languages | [[japanese]] |
 | Categories | [[doujinshi]] |

@@ -27,8 +27,8 @@ english: "[Shiitake Nouen (Kanabun)] I want to play on a beach | Beach de Asobo 
 japanese: "[しいたけ農園 (Kanabun)] ビーチであそぼ [完全]"
 url: https://nhentai.net/g/383488/
 artist:
-  - "[[Kanabun]]"
-  - "[[Kanabun]]"
+  - "[[kanabun]]"
+  - "[[kanabun]]"
 group:
   - "[[shiitake-nouen]]"
 parody:
@@ -60,7 +60,7 @@ character:
 | Parodies | [[original]] |
 | Characters |  |
 | Tags | [[sole-male]], [[group]], [[lolicon]], [[nakadashi]], [[blowjob]], [[full-color]], [[x-ray]], [[defloration]], [[ffm-threesome]], [[swimsuit]], [[bikini]], [[exhibitionism]], [[harem]], [[tanlines]], [[school-swimsuit]], [[oppai-loli]], [[shimaidon]], [[rough-grammar]] |
-| Artists | [[Kanabun]] |
+| Artists | [[kanabun]] |
 | Groups | [[shiitake-nouen]] |
 | Languages | [[translated]], [[english]] |
 | Categories | [[doujinshi]] |

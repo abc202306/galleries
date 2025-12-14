@@ -16,8 +16,8 @@ english: "[Kanabun] Kocchi Muite Sensei!! [Ongoing]"
 japanese: "[kanabun] こっち向いてせんせぇっ!! [進行中]"
 url: https://nhentai.net/g/454271/
 artist:
-  - "[[Kanabun]]"
-  - "[[Kanabun]]"
+  - "[[kanabun]]"
+  - "[[kanabun]]"
 parody:
   - "[[original]]"
 language:
@@ -46,7 +46,7 @@ character:
 | Parodies | [[original]] |
 | Characters |  |
 | Tags | [[lolicon]], [[full-color]], [[defloration]], [[ponytail]], [[teacher]], [[tanlines]], [[incomplete]] |
-| Artists | [[Kanabun]] |
+| Artists | [[kanabun]] |
 | Groups |  |
 | Languages | [[japanese]] |
 | Categories | [[doujinshi]] |

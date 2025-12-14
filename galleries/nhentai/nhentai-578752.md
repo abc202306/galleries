@@ -16,8 +16,8 @@ english: "[Rico] Mijukuna Karada to Yuuwaku Pantsu - Tiny Body and Junior Linger
 japanese: "[Rico] 未熟なからだと誘惑ぱんつ [中国翻訳] [DL版]"
 url: https://nhentai.net/g/578752/
 artist:
-  - "[[Rico]]"
-  - "[[Rico]]"
+  - "[[rico]]"
+  - "[[rico]]"
 language:
   - "[[translated]]"
   - "[[chinese]]"
@@ -46,7 +46,7 @@ character:
 | Parodies |  |
 | Characters |  |
 | Tags | [[lolicon]], [[blowjob]], [[incest]], [[tankoubon]], [[twintails]], [[sister]], [[handjob]], [[hair-buns]] |
-| Artists | [[Rico]] |
+| Artists | [[rico]] |
 | Groups |  |
 | Languages | [[translated]], [[chinese]] |
 | Categories | [[manga]] |

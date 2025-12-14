@@ -1,3 +1,7 @@
+---
+ctime: 2025-12-14T23:38:14+08:00
+mtime: 2025-12-14T23:38:14+08:00
+---
 
 # character
 
@@ -127,6 +131,7 @@
 1. [[lilo-pelekai]]
 1. [[lily-baker]]
 1. [[lione]]
+1. [[little-red-riding-hood]]
 1. [[livewire-or-leslie-willis]]
 1. [[luna-child]]
 1. [[luz-noceda]]
@@ -243,6 +248,7 @@
 1. [[touma-kamijou]]
 1. [[tsukasa-hiiragi]]
 1. [[tsukasa-kudamaki]]
+1. [[tsumugi-shinonome]]
 1. [[ui-kozeki]]
 1. [[umaru-doma]]
 1. [[unicorn]]

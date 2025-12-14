@@ -17,8 +17,8 @@ english: "[Melonbooks (Rico)] Melon de Ero Ero [English] [NNLT4]"
 japanese: "[メロンブックス (Rico)] メロンでエロエロ [英訳]"
 url: https://nhentai.net/g/576830/
 artist:
-  - "[[Rico]]"
-  - "[[Rico]]"
+  - "[[rico]]"
+  - "[[rico]]"
 parody:
   - "[[original]]"
 language:
@@ -48,7 +48,7 @@ character:
 | Parodies | [[original]] |
 | Characters |  |
 | Tags | [[sole-male]], [[group]], [[lolicon]], [[stockings]], [[glasses]], [[mosaic-censorship]], [[ffm-threesome]], [[twintails]] |
-| Artists | [[Rico]] |
+| Artists | [[rico]] |
 | Groups |  |
 | Languages | [[translated]], [[english]] |
 | Categories | [[doujinshi]] |

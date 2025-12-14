@@ -1,3 +1,7 @@
+---
+ctime: 2025-12-14T23:38:14+08:00
+mtime: 2025-12-14T23:38:14+08:00
+---
 
 # artist
 
@@ -61,6 +65,7 @@
 1. [[chiizu-ore-or-zanzibal]]
 1. [[chimaq]]
 1. [[chino-fumiyu]]
+1. [[chipokan]]
 1. [[choco-dice]]
 1. [[chouchin-ankou]]
 1. [[clearite]]
@@ -170,7 +175,7 @@
 1. [[kaji-chan]]
 1. [[kamasu]]
 1. [[kamita]]
-1. [[Kanabun]]
+1. [[kanabun]]
 1. [[kanabun-or-wakaru-tissue]]
 1. [[kanbe-nagi]]
 1. [[kani-biimu]]
@@ -261,6 +266,7 @@
 1. [[mizui-kaou]]
 1. [[mizunashi-tomo]]
 1. [[mizuno-ato]]
+1. [[mochi]]
 1. [[mochidora]]
 1. [[momokumo]]
 1. [[momomo]]
@@ -355,7 +361,7 @@
 1. [[rasu]]
 1. [[ray-kbys]]
 1. [[rekisitaihoonoji]]
-1. [[Rico]]
+1. [[rico]]
 1. [[ricochet]]
 1. [[rioemon]]
 1. [[ro]]
@@ -520,6 +526,7 @@
 1. [[yusa]]
 1. [[yuu-hi]]
 1. [[yuune]]
+1. [[yuzumitsu-satou]]
 1. [[zabbuk]]
 1. [[zairi]]
 1. [[zan]]

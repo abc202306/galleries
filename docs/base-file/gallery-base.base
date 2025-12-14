@@ -312,7 +312,7 @@ views:
       formula.filetitle: 90
       note.url: 71
       note.artist: 191
-      note.group: 72
+      note.group: 109
       note.english: 67
       note.japanese: 70
       note.categories: 138
@@ -322,8 +322,8 @@ views:
       note.language: 152
       note.uploaded: 63
       note.pagecount: 44
-      note.female: 427
-      note.male: 211
+      note.female: 996
+      note.male: 581
       note.mixed: 384
       note.location: 135
       note.other: 422

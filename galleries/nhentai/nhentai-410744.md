@@ -31,8 +31,8 @@ english: "[Shiitake Nouen (kanabun)] Papakko Club [Chinese] [SAN个人汉化] [D
 japanese: "[しいたけ農園 (kanabun)] パパっ子倶楽部 [中国翻訳] [無修正]"
 url: https://nhentai.net/g/410744/
 artist:
-  - "[[Kanabun]]"
-  - "[[Kanabun]]"
+  - "[[kanabun]]"
+  - "[[kanabun]]"
 group:
   - "[[shiitake-nouen]]"
 language:
@@ -62,7 +62,7 @@ character:
 | Parodies |  |
 | Characters |  |
 | Tags | [[group]], [[anal]], [[lolicon]], [[stockings]], [[nakadashi]], [[blowjob]], [[full-color]], [[incest]], [[sex-toys]], [[swimsuit]], [[dilf]], [[collar]], [[kemonomimi]], [[bikini]], [[anal-intercourse]], [[uncensored]], [[bunny-girl]], [[tanlines]], [[bukkake]], [[daughter]], [[tail-plug]], [[swinging]] |
-| Artists | [[Kanabun]] |
+| Artists | [[kanabun]] |
 | Groups | [[shiitake-nouen]] |
 | Languages | [[translated]], [[chinese]] |
 | Categories | [[doujinshi]] |
