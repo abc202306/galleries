@@ -18,32 +18,32 @@
 
 | Folder Path | DFC |
 | :--- | ---: |
-| docs | 31 |
-| docs/base-file | 2 |
-| docs/canvas | 1 |
-| docs/galleries | 2 |
-| docs/image-file | 1 |
-| docs/notation | 1 |
-| docs/tag | 13 |
-| galleries | 1348 |
-| galleries/exhentai | 542 |
-| galleries/nhentai | 806 |
-| notes | 7 |
-| tag | 1574 |
-| tag/artist | 529 |
-| tag/categories | 10 |
-| tag/character | 260 |
-| tag/female | 198 |
-| tag/group-ns | 243 |
-| tag/language | 9 |
-| tag/location | 4 |
-| tag/male | 103 |
-| tag/mixed | 7 |
-| tag/other | 107 |
-| tag/parody | 103 |
-| tag/temp | 1 |
-| templates | 1 |
-| uploader | 154 |
+| [[docs]] | 32 |
+| [[docs]]/[[base-file]] | 2 |
+| [[docs]]/[[canvas]] | 1 |
+| [[docs]]/[[galleries]] | 2 |
+| [[docs]]/[[image-file]] | 1 |
+| [[docs]]/[[notation]] | 1 |
+| [[docs]]/[[tag]] | 13 |
+| [[galleries]] | 1348 |
+| [[galleries]]/[[exhentai]] | 542 |
+| [[galleries]]/[[nhentai]] | 806 |
+| [[notes]] | 7 |
+| [[tag]] | 1574 |
+| [[tag]]/[[artist]] | 529 |
+| [[tag]]/[[categories]] | 10 |
+| [[tag]]/[[character]] | 260 |
+| [[tag]]/[[female]] | 198 |
+| [[tag]]/[[group-ns]] | 243 |
+| [[tag]]/[[language]] | 9 |
+| [[tag]]/[[location]] | 4 |
+| [[tag]]/[[male]] | 103 |
+| [[tag]]/[[mixed]] | 7 |
+| [[tag]]/[[other]] | 107 |
+| [[tag]]/[[parody]] | 103 |
+| [[tag]]/[[temp]] | 1 |
+| [[templates]] | 1 |
+| [[uploader]] | 154 |
 
 ## Views of [[gallery-base.base]]
 
@@ -107,6 +107,11 @@
 1. [[gallery-base.base#character/kukuri|kukuri]] | 19 | [[kukuri]]
 
 ## Script
+
+> [!Note]
+> 1. [[#Init Empty File as Saved Query Note for Gallery Dynamic Base View and Generate File Content of Related Tag Group Note]]
+> 1. [[#Log Folder Statics]]
+> 1. [[#Remove Duplicate Value in Each Array Property in Front Matter for All Markdown Files]]
 
 ### Init Empty File as Saved Query Note for Gallery Dynamic Base View and Generate File Content of Related Tag Group Note
 
@@ -190,7 +195,7 @@ app.vault.getMarkdownFiles()
 
 ```js
 const files = app.vault.getFiles();
-console.log("| Folder Path | DFC |\n| :--- | ---: |\n"+app.vault.getAllFolders().sort((a,b)=>a.path.localeCompare(b.path)).map(fd=>`| ${fd.path} | ${files.filter(f=>f.path.startsWith(fd.path+"/")).length} |`).join("\n"))
+console.log("| Folder Path | DFC |\n| :--- | ---: |\n"+app.vault.getAllFolders().sort((a,b)=>a.path.localeCompare(b.path)).map(fd=>`| ${fd.path.split("/").map(part=>"[["+part+"]]").join("/")} | ${files.filter(f=>f.path.startsWith(fd.path+"/")).length} |`).join("\n"))
 ```
 
 ### Remove Duplicate Value in Each Array Property in Front Matter for All Markdown Files
