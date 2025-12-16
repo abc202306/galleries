@@ -113,6 +113,7 @@
 > 1. [[#Init Empty File as Saved Query Note for Gallery Dynamic Base View and Generate File Content of Related Tag Group Note]]
 > 1. [[#Log Folder Statics]]
 > 1. [[#Remove Duplicate Value in Each Array Property in Front Matter for All Markdown Files]]
+> 1. [[#Log Unresolved Link]]
 
 ### Init Empty File as Saved Query Note for Gallery Dynamic Base View and Generate File Content of Related Tag Group Note
 
@@ -269,4 +270,11 @@ app.vault.getMarkdownFiles().forEach(f=>{
         })
     }
 })
+```
+### Log Unresolved Link
+
+```js
+const galleryNoteMDFiles = app.vault.getMarkdownFiles().filter(f=>f.path.startsWith("galleries"));
+const unresolvedLinktexts = galleryNoteMDFiles.flatMap(f=>Object.keys(app.metadataCache.unresolvedLinks[f.path]))
+console.log(unresolvedLinktexts.join("\n"))
 ```
