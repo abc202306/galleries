@@ -158,10 +158,10 @@ function getTagGroupMOC(title) {
 		.join("\n");
 }
 
-function getTagGroupFileContent(title, time) {
+function getTagGroupFileContent(title, ctime, mtime) {
     return `---
-ctime: ${time}
-mtime: ${time}
+ctime: ${ctime}
+mtime: ${mtime}
 ---
 
 # ${title}
@@ -183,10 +183,17 @@ app.vault.getMarkdownFiles()
 
 app.vault.getMarkdownFiles()
 	.filter(f=>f.path.startsWith("docs/tag/"))
-	.forEach(f=>app.vault.process(f, _data=>{
+	.forEach(f=>app.vault.process(f, data=>{
 		const title = f.basename;
-	    const time = getLocalISOStringWithTimezone();
-		return getTagGroupFileContent(title, time);
+		const fc = app.metadataCache.getFileCache(f);
+	    const mtime = getLocalISOStringWithTimezone();
+		let ctime = fc?.frontmatter?.mtime || mtime;
+		const newData = getTagGroupFileContent(title, ctime, mtime);
+		if (newData.split("\n").length!==data.split("\n").length){
+			return newData;
+		} else {
+			return data;
+		}
 	}))
 
 ```

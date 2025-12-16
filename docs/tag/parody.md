@@ -1,6 +1,6 @@
 ---
-ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-14T23:38:14+08:00
+ctime: 2025-12-16T19:31:39+08:00
+mtime: 2025-12-16T19:31:39+08:00
 ---
 
 # parody
@@ -108,5 +108,6 @@ mtime: 2025-12-14T23:38:14+08:00
 1. [[watashi-ni-tenshi-ga-maiorita]]
 1. [[wonderful-precure]]
 1. [[world-trigger]]
+1. [[xenogears]]
 1. [[yu-gi-oh]]
 1. [[zenless-zone-zero]]

@@ -5,7 +5,7 @@ mtime: 2025-12-09T10:46:17+08:00
 
 # tag
 
-> seealso: [[README]]
+> seealso: [[docs]]
 
 1. [[artist]]
 2. [[categories]]

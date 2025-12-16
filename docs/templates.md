@@ -5,6 +5,6 @@ mtime: 2025-12-09T10:44:25+08:00
 
 # templates
 
-> seealso: [[README]]
+> seealso: [[docs]]
 
 1. [[basic-template]]

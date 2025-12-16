@@ -1,6 +1,6 @@
 ---
-ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-14T23:38:14+08:00
+ctime: 2025-12-16T19:31:39+08:00
+mtime: 2025-12-16T19:31:39+08:00
 ---
 
 # character
@@ -56,6 +56,7 @@ mtime: 2025-12-14T23:38:14+08:00
 1. [[djeeta]]
 1. [[dori-sangemah-bay]]
 1. [[einhart-stratos]]
+1. [[emeralda-kasim]]
 1. [[fern]]
 1. [[fine]]
 1. [[flandre-scarlet]]
@@ -106,6 +107,7 @@ mtime: 2025-12-14T23:38:14+08:00
 1. [[kazuhiko-nukumizu]]
 1. [[kiritan-tohoku]]
 1. [[kisaki-ryuuge]]
+1. [[kisaragi]]
 1. [[kitchen-dragonmaid]]
 1. [[koakuma]]
 1. [[kobo-kanaeru]]
@@ -128,11 +130,14 @@ mtime: 2025-12-14T23:38:14+08:00
 1. [[laffey]]
 1. [[lana]]
 1. [[laplus-darknesss]]
+1. [[le-malin]]
+1. [[le-triomphant]]
 1. [[lilo-pelekai]]
 1. [[lily-baker]]
 1. [[lione]]
 1. [[little-red-riding-hood]]
 1. [[livewire-or-leslie-willis]]
+1. [[luca]]
 1. [[luna-child]]
 1. [[luz-noceda]]
 1. [[madoka-kuki]]
@@ -143,6 +148,7 @@ mtime: 2025-12-14T23:38:14+08:00
 1. [[mano-sakuragi]]
 1. [[maomao]]
 1. [[mari-iochi]]
+1. [[maria-balthasar]]
 1. [[marie]]
 1. [[marisa-kirisame]]
 1. [[marlene-wallace]]
@@ -187,6 +193,7 @@ mtime: 2025-12-14T23:38:14+08:00
 1. [[plana]]
 1. [[producer]]
 1. [[qiqi]]
+1. [[queen-zephyr]]
 1. [[ranko-kanzaki]]
 1. [[reimu-hakurei]]
 1. [[rein]]
@@ -223,6 +230,7 @@ mtime: 2025-12-14T23:38:14+08:00
 1. [[sherlock-shellingford]]
 1. [[shigure-mayoi]]
 1. [[shigure-ui]]
+1. [[shikikan]]
 1. [[shinobu-oshino]]
 1. [[shiroko-sunaookami]]
 1. [[shizuka-minamoto]]

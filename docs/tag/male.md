@@ -1,6 +1,6 @@
 ---
-ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-14T23:38:14+08:00
+ctime: 2025-12-16T19:31:39+08:00
+mtime: 2025-12-16T19:31:39+08:00
 ---
 
 # male
@@ -16,6 +16,7 @@ mtime: 2025-12-14T23:38:14+08:00
 1. [[bear-boy]]
 1. [[beauty-mark]]
 1. [[big-penis]]
+1. [[blindfold]]
 1. [[blood]]
 1. [[bull]]
 1. [[butler]]
@@ -35,6 +36,7 @@ mtime: 2025-12-14T23:38:14+08:00
 1. [[dog-boy]]
 1. [[exhibitionism]]
 1. [[facial-hair]]
+1. [[feminization]]
 1. [[first-person-perspective]]
 1. [[foot-licking]]
 1. [[furry]]
@@ -64,6 +66,7 @@ mtime: 2025-12-14T23:38:14+08:00
 1. [[old-man]]
 1. [[onahole]]
 1. [[orc]]
+1. [[piercing]]
 1. [[pig]]
 1. [[piss-drinking]]
 1. [[rape]]

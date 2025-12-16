@@ -1,6 +1,6 @@
 ---
-ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-14T23:38:14+08:00
+ctime: 2025-12-16T19:31:39+08:00
+mtime: 2025-12-16T19:31:39+08:00
 ---
 
 # artist
@@ -354,6 +354,7 @@ mtime: 2025-12-14T23:38:14+08:00
 1. [[pu-en]]
 1. [[puchiyama]]
 1. [[pumo]]
+1. [[pumpkinspicelatte]]
 1. [[qndebaser]]
 1. [[quorl-crossbreed]]
 1. [[racer]]
