@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:55:20+08:00
 
 # hikami-izuto
 
-> seealso: [[README]], [[artist]]
+> seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
 

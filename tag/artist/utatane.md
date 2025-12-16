@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:55:08+08:00
 
 # utatane
 
-> seealso: [[README]], [[artist]]
+> seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
 

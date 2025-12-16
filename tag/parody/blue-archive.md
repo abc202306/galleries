@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:54:32+08:00
 
 # blue-archive
 
-> seealso: [[README]], [[parody]]
+> seealso: [[parody]]
 
 ![[gallery-dynamic-base.base]]
 

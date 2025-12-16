@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:54:30+08:00
 
 # original
 
-> seealso: [[README]], [[parody]]
+> seealso: [[parody]]
 
 ![[gallery-dynamic-base.base]]
 

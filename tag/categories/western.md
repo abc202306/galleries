@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:55:05+08:00
 
 # western
 
-> seealso: [[README]], [[categories]]
+> seealso: [[categories]]
 
 ![[gallery-dynamic-base.base]]
 

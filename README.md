@@ -134,7 +134,7 @@ function getLocalISOStringWithTimezone() {
 function getTagFileContent(title, ctime, mtime) {
 	const f = app.metadataCache.getFirstLinkpathDest(title);
 	const paths = [...app.metadataCache.getBacklinksForFile(f).data.keys()];
-	const ngls = paths.filter(i=>!i.startsWith("galleries/")).sort();
+	const ngls = paths.filter(i=>!i.startsWith("galleries/")).filter(i=>i!=="README.md").sort();
 	const gls = paths.filter(i=>i.startsWith("galleries/")).sort();
 	const ngstr = "> seealso: "+ngls.map(i=>"[["+app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(i))+"]]").join(", ");
 	const gstr = gls.map(path=>{

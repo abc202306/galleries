@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:55:24+08:00
 
 # baku-p
 
-> seealso: [[README]], [[artist]]
+> seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
 

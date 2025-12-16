@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:54:30+08:00
 
 # mahoujin-guru-guru
 
-> seealso: [[README]], [[parody]]
+> seealso: [[parody]]
 
 ![[gallery-dynamic-base.base]]
 

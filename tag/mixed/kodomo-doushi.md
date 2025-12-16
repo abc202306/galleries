@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:54:35+08:00
 
 # kodomo-doushi
 
-> seealso: [[README]], [[female]], [[keywords]], [[mixed]], [[tracked-tags]]
+> seealso: [[female]], [[keywords]], [[mixed]], [[tracked-tags]]
 
 ![[gallery-dynamic-base.base]]
 

@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:55:01+08:00
 
 # kukuri
 
-> seealso: [[README]], [[character]], [[tracked-tags]]
+> seealso: [[character]], [[tracked-tags]]
 
 ![[gallery-dynamic-base.base]]
 

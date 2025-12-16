@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:55:07+08:00
 
 # yoyomax
 
-> seealso: [[README]], [[created-by-abc202306]], [[artist]]
+> seealso: [[created-by-abc202306]], [[artist]]
 
 ![[gallery-dynamic-base.base]]
 

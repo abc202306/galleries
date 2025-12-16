@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:54:29+08:00
 
 # touhou-project
 
-> seealso: [[README]], [[parody]]
+> seealso: [[parody]]
 
 ![[gallery-dynamic-base.base]]
 

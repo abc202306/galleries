@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:54:49+08:00
 
 # rape
 
-> seealso: [[README]], [[female]], [[keywords]], [[male]], [[tracked-tags]]
+> seealso: [[female]], [[keywords]], [[male]], [[tracked-tags]]
 
 ![[gallery-dynamic-base.base]]
 

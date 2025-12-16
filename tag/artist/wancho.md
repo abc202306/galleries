@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:55:07+08:00
 
 # wancho
 
-> seealso: [[README]], [[artist]]
+> seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
 

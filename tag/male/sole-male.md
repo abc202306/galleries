@@ -5,7 +5,7 @@ mtime: 2025-12-16T20:54:35+08:00
 
 # sole-male
 
-> seealso: [[README]], [[keywords]], [[male]]
+> seealso: [[keywords]], [[male]]
 
 ![[gallery-dynamic-base.base]]
 
