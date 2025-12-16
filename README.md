@@ -18,32 +18,33 @@
 
 | Folder Path | DFC |
 | :--- | ---: |
-| [[docs]] | 32 |
+| [[docs]] | 33 |
 | [[docs]]/[[base-file]] | 2 |
 | [[docs]]/[[canvas]] | 1 |
 | [[docs]]/[[galleries]] | 2 |
 | [[docs]]/[[image-file]] | 1 |
 | [[docs]]/[[notation]] | 1 |
-| [[docs]]/[[tag]] | 13 |
-| [[galleries]] | 1348 |
-| [[galleries]]/[[exhentai]] | 542 |
+| [[docs]]/[[tag]] | 14 |
+| [[galleries]] | 1358 |
+| [[galleries]]/[[exhentai]] | 552 |
 | [[galleries]]/[[nhentai]] | 806 |
 | [[notes]] | 7 |
-| [[tag]] | 1574 |
-| [[tag]]/[[artist]] | 529 |
+| [[tag]] | 1588 |
+| [[tag]]/[[artist]] | 531 |
 | [[tag]]/[[categories]] | 10 |
-| [[tag]]/[[character]] | 260 |
-| [[tag]]/[[female]] | 198 |
+| [[tag]]/[[character]] | 268 |
+| [[tag]]/[[cosplayer]] | 1 |
+| [[tag]]/[[female]] | 199 |
 | [[tag]]/[[group-ns]] | 243 |
 | [[tag]]/[[language]] | 9 |
 | [[tag]]/[[location]] | 4 |
-| [[tag]]/[[male]] | 103 |
+| [[tag]]/[[male]] | 104 |
 | [[tag]]/[[mixed]] | 7 |
 | [[tag]]/[[other]] | 107 |
-| [[tag]]/[[parody]] | 103 |
+| [[tag]]/[[parody]] | 104 |
 | [[tag]]/[[temp]] | 1 |
 | [[templates]] | 1 |
-| [[uploader]] | 154 |
+| [[uploader]] | 157 |
 
 ## Views of [[gallery-base.base]]
 
@@ -196,8 +197,8 @@ app.vault.getMarkdownFiles()
 	.filter(f=>["tag/", "uploader/"].some(rootDirPath=>f.path.startsWith(rootDirPath)))
 	.forEach(f=>app.vault.process(f, data=>{
 		const title = f.basename;
-		const ctime = app.metadataCache.getFileCache(f)?.frontmatter?.mtime || mtime;
 		const mtime = getLocalISOStringWithTimezone();
+		const ctime = app.metadataCache.getFileCache(f)?.frontmatter?.mtime || mtime;
 
 		const newData = getTagFileContent(title, ctime, mtime);
 		if (newData.split("\n").length!==data.split("\n").length){
@@ -228,7 +229,22 @@ app.vault.getMarkdownFiles()
 
 ```js
 const files = app.vault.getFiles();
-console.log("| Folder Path | DFC |\n| :--- | ---: |\n"+app.vault.getAllFolders().sort((a,b)=>a.path.localeCompare(b.path)).map(fd=>`| ${fd.path.split("/").map(part=>"[["+part+"]]").join("/")} | ${files.filter(f=>f.path.startsWith(fd.path+"/")).length} |`).join("\n"))
+const folders = app.vault.getAllFolders().sort((a,b)=>a.path.localeCompare(b.path));
+function getRenderedFolderPath(folder){
+	return folder.path.split("/").map(part=>"[["+part+"]]").join("/")
+}
+function getDecendantFilesCount(folder,files){
+	return files.filter(f=>f.path.startsWith(folder.path+"/")).length;
+}
+const tableStr = `| Folder Path | DFC |
+| :--- | ---: |
+${
+folders.map(folder=>
+	`| ${getRenderedFolderPath(folder)} | ${getDecendantFilesCount(folder,files)} |`
+).join("\n")
+}`;
+
+console.log(tableStr)
 ```
 
 ### Remove Duplicate Value in Each Array Property in Front Matter for All Markdown Files

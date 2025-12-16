@@ -9,7 +9,6 @@ mtime: 2025-12-10T18:16:59+08:00
 
 1. [[base-file]]
 1. [[canvas]]
-1. [[docs]]
 1. [[galleries]]
 1. [[gallery]]
 1. [[image-file]]
