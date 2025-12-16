@@ -1,8 +1,15 @@
 ---
 ctime: 2025-12-11T11:28:37+08:00
-mtime: 2025-12-11T11:28:37+08:00
+mtime: 2025-12-16T20:55:03+08:00
 ---
 
 # hanabi-hyuga
 
+> seealso: [[character]]
+
 ![[gallery-dynamic-base.base]]
+
+1. [[exhentai-3654138-3da18a717b|[Dr.tan90º] 今天又是变强的一天 (NARUTO -ナルト-) [中国語] ]]
+	- ![[exhentai-3654138-3da18a717b.webp|200]]
+1. [[nhentai-161398|[青色症候群 (ユアサ)] 忍者依存症 Vol.8 (NARUTO -ナルト-) [英訳] [DL版] ]]
+	- ![[nhentai-161398.jpg|200]]

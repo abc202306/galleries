@@ -130,15 +130,35 @@ function getLocalISOStringWithTimezone() {
     `${sign}${hours}:${minutes}`;
 }
 
-function getTagFileContent(title, time) {
+function getTagFileContent(title, ctime, mtime) {
+	const f = app.metadataCache.getFirstLinkpathDest(title);
+	const paths = [...app.metadataCache.getBacklinksForFile(f).data.keys()];
+	const ngls = paths.filter(i=>!i.startsWith("galleries/")).sort();
+	const gls = paths.filter(i=>i.startsWith("galleries/")).sort();
+	const ngstr = "> seealso: "+ngls.map(i=>"[["+app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(i))+"]]").join(", ");
+	const gstr = gls.map(path=>{
+		const f2 = app.vault.getAbstractFileByPath(path);
+		const linktext2 = app.metadataCache.fileToLinktext(f2);
+		const fc2 = app.metadataCache.getFileCache(f2);
+		const display2 = fc2?.frontmatter?.japanese || fc2?.frontmatter?.english || linktext2;
+		const link2 = display2 === linktext2 ? ("[["+linktext2+"]]") : ("[["+linktext2+"|"+display2+" ]]");
+		const res = /^\[\[(?<linktext3>[^\|]*)\|?.*\]\]$/.exec(fc2?.frontmatter?.cover);
+		const coverEmbed = res ? ("\n\t- "+"![["+res.groups.linktext3+"|200]]"):"";
+		
+		return "1. "+link2+coverEmbed;
+	}).join("\n");
     return `---
-ctime: ${time}
-mtime: ${time}
+ctime: ${ctime}
+mtime: ${mtime}
 ---
 
 # ${title}
 
+${ngstr}
+
 ![[gallery-dynamic-base.base]]
+
+${gstr}
 `
 }
 
@@ -173,21 +193,27 @@ ${getTagGroupMOC(title)}
 }
 
 app.vault.getMarkdownFiles()
-  .filter(f=>["tag/", "uploader/"].some(rootDirPath=>f.path.startsWith(rootDirPath)))
-  .filter(f=>app.metadataCache.getFileCache(f).frontmatter===undefined)
-  .forEach(f=>app.vault.process(f, _data=>{
-    const title = f.basename;
-    const time = getLocalISOStringWithTimezone();
-    return getTagFileContent(title, time);
-  }));
+	.filter(f=>["tag/", "uploader/"].some(rootDirPath=>f.path.startsWith(rootDirPath)))
+	.forEach(f=>app.vault.process(f, data=>{
+		const title = f.basename;
+		const ctime = app.metadataCache.getFileCache(f)?.frontmatter?.mtime || mtime;
+		const mtime = getLocalISOStringWithTimezone();
+
+		const newData = getTagFileContent(title, ctime, mtime);
+		if (newData.split("\n").length!==data.split("\n").length){
+			return newData;
+		} else {
+			return data;
+		}
+	}));
 
 app.vault.getMarkdownFiles()
 	.filter(f=>f.path.startsWith("docs/tag/"))
 	.forEach(f=>app.vault.process(f, data=>{
 		const title = f.basename;
-		const fc = app.metadataCache.getFileCache(f);
 	    const mtime = getLocalISOStringWithTimezone();
-		let ctime = fc?.frontmatter?.mtime || mtime;
+		const ctime = app.metadataCache.getFileCache(f)?.frontmatter?.mtime || mtime;
+		
 		const newData = getTagGroupFileContent(title, ctime, mtime);
 		if (newData.split("\n").length!==data.split("\n").length){
 			return newData;

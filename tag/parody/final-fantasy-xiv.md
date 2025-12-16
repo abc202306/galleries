@@ -1,8 +1,15 @@
 ---
 ctime: 2025-12-11T11:28:33+08:00
-mtime: 2025-12-11T11:28:33+08:00
+mtime: 2025-12-16T20:54:31+08:00
 ---
 
 # final-fantasy-xiv
 
+> seealso: [[parody]]
+
 ![[gallery-dynamic-base.base]]
+
+1. [[exhentai-3631905-9b99716fdf|Loli Cunnygram + Loli Streams ]]
+	- ![[exhentai-3631905-9b99716fdf.webp|200]]
+1. [[exhentai-3673326-5d8c116322|Loli Cunnygram + Loli Streams ]]
+	- ![[exhentai-3673326-5d8c116322.webp|200]]
