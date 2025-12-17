@@ -26,6 +26,7 @@ aliases:
   - "[Kinnokami (Scarfy)] Suyasuya Archives 2"
   - "[きんのかみ (すかーふぃ)] すやすやArchives2 (ブルーアーカイブ) [中国翻訳] [DL版]"
 cover: "[[nhentai-590320.png]]"
+group:
 uploaded: 2025-08-17T01:01:25.598795+00:00
 ctime: 2025-08-24T13:21:43+08:00
 mtime: 2025-11-18T17:26:43+08:00
