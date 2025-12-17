@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-13T17:00:39+08:00
-mtime: 2025-12-16T20:54:26+08:00
+mtime: 2025-12-17T18:57:51+08:00
 ---
 
 # Human. People
 
-> seealso: 
+> seealso: [[uploader]]
 
 ![[gallery-dynamic-base.base]]
 

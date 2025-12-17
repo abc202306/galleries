@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-13T17:00:39+08:00
-mtime: 2025-12-16T20:54:24+08:00
+mtime: 2025-12-17T18:57:34+08:00
 ---
 
 # zz12zzxx
 
-> seealso: 
+> seealso: [[uploader]]
 
 ![[gallery-dynamic-base.base]]
 

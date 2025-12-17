@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-14T22:52:21+08:00
-mtime: 2025-12-16T20:54:25+08:00
+mtime: 2025-12-17T18:57:45+08:00
 ---
 
 # Lolifinity
 
-> seealso: 
+> seealso: [[uploader]]
 
 ![[gallery-dynamic-base.base]]
 

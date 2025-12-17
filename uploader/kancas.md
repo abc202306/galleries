@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-12T22:01:38+08:00
-mtime: 2025-12-16T20:54:26+08:00
+mtime: 2025-12-17T18:57:47+08:00
 ---
 
 # kancas
 
-> seealso: 
+> seealso: [[uploader]]
 
 ![[gallery-dynamic-base.base]]
 

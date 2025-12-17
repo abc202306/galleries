@@ -132,31 +132,43 @@ function getLocalISOStringWithTimezone() {
     `${sign}${hours}:${minutes}`;
 }
 
-function getTagFileContent(title, ctime, mtime) {
+function compareGalleryPathWithPropertyUploaded(path1, path2) {
+	const f1 = app.vault.getAbstractFileByPath(path1);
+	const f2 = app.vault.getAbstractFileByPath(path2);
+	const fc1 = app.metadataCache.getFileCache(f1);
+	const fc2 = app.metadataCache.getFileCache(f2);
+	const v1 = fc1?.frontmatter?.uploaded || "_";
+	const v2 = fc2?.frontmatter?.uploaded || "_";
+	return -v1.localeCompare(v2);
+}
+
+function getGalleryPathRepresentationStr(path) {
+	const f2 = app.vault.getAbstractFileByPath(path);
+	const linktext2 = app.metadataCache.fileToLinktext(f2);
+	const fc2 = app.metadataCache.getFileCache(f2);
+	const display2 = fc2?.frontmatter?.japanese || fc2?.frontmatter?.english || linktext2;
+	const link2 = display2 === linktext2 ? ("[["+linktext2+"]]") : ("[["+linktext2+"|"+display2+" ]]");
+	const res = /^\[\[(?<linktext3>[^\|]*)\|?.*\]\]$/.exec(fc2?.frontmatter?.cover);
+	const coverEmbed = res ? ("\n\t- "+"![["+res.groups.linktext3+"|200]]"):"";
+	
+	return "1. "+link2+coverEmbed;
+}
+
+function getNGStrAndGStr(title) {
 	const f = app.metadataCache.getFirstLinkpathDest(title);
 	const paths = [...app.metadataCache.getBacklinksForFile(f).data.keys()];
+	
 	const ngls = paths.filter(i=>!i.startsWith("galleries/")).filter(i=>i!=="README.md").sort();
-	const gls = paths.filter(i=>i.startsWith("galleries/")).sort((path1,path2)=>{
-		const f1 = app.vault.getAbstractFileByPath(path1);
-		const f2 = app.vault.getAbstractFileByPath(path2);
-		const fc1 = app.metadataCache.getFileCache(f1);
-		const fc2 = app.metadataCache.getFileCache(f2);
-		const v1 = fc1?.frontmatter?.uploaded || "_";
-		const v2 = fc2?.frontmatter?.uploaded || "_";
-		return -v1.localeCompare(v2);
-	});
-	const ngstr = "> seealso: "+ngls.map(i=>"[["+app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(i))+"]]").join(", ");
-	const gstr = gls.map(path=>{
-		const f2 = app.vault.getAbstractFileByPath(path);
-		const linktext2 = app.metadataCache.fileToLinktext(f2);
-		const fc2 = app.metadataCache.getFileCache(f2);
-		const display2 = fc2?.frontmatter?.japanese || fc2?.frontmatter?.english || linktext2;
-		const link2 = display2 === linktext2 ? ("[["+linktext2+"]]") : ("[["+linktext2+"|"+display2+" ]]");
-		const res = /^\[\[(?<linktext3>[^\|]*)\|?.*\]\]$/.exec(fc2?.frontmatter?.cover);
-		const coverEmbed = res ? ("\n\t- "+"![["+res.groups.linktext3+"|200]]"):"";
-		
-		return "1. "+link2+coverEmbed;
-	}).join("\n");
+	const gls = paths.filter(i=>i.startsWith("galleries/")).sort(compareGalleryPathWithPropertyUploaded);
+	
+	const ngstr = "> seealso: "+ngls.map(path=>"[["+app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path))+"]]").join(", ");
+	const gstr = gls.map(getGalleryPathRepresentationStr).join("\n");
+	
+	return {ngstr, gstr};
+}
+
+function getTagFileContent(title, ctime, mtime) {
+	const {ngstr, gstr} = getNGStrAndGStr(title);
     return `---
 ctime: ${ctime}
 mtime: ${mtime}
@@ -188,7 +200,7 @@ function getTagGroupMOC(title) {
 		.join("\n");
 }
 
-function getTagGroupFileContent(title, ctime, mtime) {
+function getGroupFileContent(title, ctime, mtime, seealso) {
     return `---
 ctime: ${ctime}
 mtime: ${mtime}
@@ -196,40 +208,61 @@ mtime: ${mtime}
 
 # ${title}
 
-> seealso: [[tag]]
+> seealso: ${seealso}
 
 ${getTagGroupMOC(title)}
 `
 }
 
-function getFileContent(f, data, getSpecTypeFileContent){
-	const title = f.basename;
-	const fc = app.metadataCache.getFileCache(f);
-	const fmctime = fc?.frontmatter?.ctime;
-	const fmmtime = fc?.frontmatter?.mtime;
+function getTagGroupFileContent(title, ctime, mtime) {
+    return getGroupFileContent(title, ctime, mtime, "[[tag]]")
+}
+
+function getUploaderGroupFileContent(title, ctime, mtime) {
+    return getGroupFileContent(title, ctime, mtime, "[[docs]]")
+}
+
+function getFileContent(file, data, getSpecTypeFileContent){
+	const title = file.basename;
+	const fileCache = app.metadataCache.getFileCache(file);
+	
+	const ctimeInFrontMatter = fileCache?.frontmatter?.ctime;
+	const mtimeInFrontMatter = fileCache?.frontmatter?.mtime;
+	
 	const mtime = getLocalISOStringWithTimezone();
-	const ctime =  fmctime || mtime;
+	const ctime =  ctimeInFrontMatter || mtime;
 
 	const formattedData = data.replace(/\r/g,"");
 
-	const newData1 = getSpecTypeFileContent(title, fmctime, fmmtime);
+	const newData1 = getSpecTypeFileContent(title, ctimeInFrontMatter, mtimeInFrontMatter);
 	const newData2 = getSpecTypeFileContent(title, ctime, mtime);
-	if (formattedData !== newData1){
-		console.log("return newData2")
-		return newData2;
-	} else {
-		console.log("return data")
+
+	if (formattedData === newData1) {
 		return data;
 	}
+
+	return newData2;
+}
+
+function processFileWith(getSpecTypeFileContent) {
+	function processFileWrapper(file){
+		app.vault.process(file, data=>getFileContent(file, data, getSpecTypeFileContent));
+	}
+	return processFileWrapper;
 }
 
 app.vault.getMarkdownFiles()
-	.filter(f=>["tag/", "uploader/"].some(rootDirPath=>f.path.startsWith(rootDirPath)))
-	.forEach(f=>app.vault.process(f, data=>getFileContent(f, data, getTagFileContent)));
+	.filter(f=>f.path.startsWith("docs/tag/"))
+	.forEach(processFileWith(getTagGroupFileContent))
+
+const uploaderFile = app.vault.getAbstractFileByPath("docs/uploader.md");
+const uploaderFileProcesser = processFileWith(getUploaderGroupFileContent);
+
+uploaderFileProcesser(uploaderFile)
 
 app.vault.getMarkdownFiles()
-	.filter(f=>f.path.startsWith("docs/tag/"))
-	.forEach(f=>app.vault.process(f, data=>getFileContent(f, data, getTagGroupFileContent)))
+	.filter(f=>["tag/", "uploader/"].some(rootDirPath=>f.path.startsWith(rootDirPath)))
+	.forEach(processFileWith(getTagFileContent));
 
 ```
 

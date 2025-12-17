@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-17T16:13:00+08:00
-mtime: 2025-12-17T17:02:35+08:00
+mtime: 2025-12-17T19:00:57+08:00
 ---
 
 # irokohaku
 
-> seealso: [[artist]], [[PolarisMio]]
+> seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
 
