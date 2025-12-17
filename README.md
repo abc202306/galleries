@@ -396,6 +396,8 @@ function createFilesFromUnresolvedLinksForAllGalleryNoteFiles() {
     });
 }
 
+console.time("run_script")
+
 let promiseList = [];
 
 createFilesFromUnresolvedLinksForAllGalleryNoteFiles();
@@ -432,5 +434,6 @@ promiseList.push(removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdown
 await Promise.all(promiseList);
 
 console.log("==end")
+console.timeEnd("run_script")
 
 ```
