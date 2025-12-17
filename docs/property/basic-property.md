@@ -5,6 +5,8 @@ mtime: 2025-12-17T20:21:31+08:00
 
 # basic-property
 
+> seealso: [[docs]], [[galleries]], [[notes]], [[property]]
+
 1. [[property-aliases]]
 1. [[property-cover]]
 1. [[property-ctime]]

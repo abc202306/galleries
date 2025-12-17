@@ -1,3 +1,7 @@
+---
+ctime: 2025-12-17T20:55:15+08:00
+mtime: 2025-12-17T20:55:15+08:00
+---
 
 # README
 
@@ -51,7 +55,7 @@
 | [[tag]]/[[other]] | 107 |
 | [[tag]]/[[parody]] | 104 |
 | [[tag]]/[[temp]] | 1 |
-| [[templates]] | 1 |
+| [[templates]] | 2 |
 | [[uploader]] | 158 |
 
 ## Views of [[gallery-base.base]]

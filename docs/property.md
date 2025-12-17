@@ -5,7 +5,7 @@ mtime: 2025-12-17T20:20:11+08:00
 
 # property
 
-> seealso: [[docs]]
+> seealso: [[docs]], [[galleries]], [[notes]]
 
 1. [[basic-property]]
 1. [[docs-property]]

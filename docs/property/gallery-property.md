@@ -5,6 +5,8 @@ mtime: 2025-12-17T20:22:48+08:00
 
 # gallery-property
 
+> seealso: [[gallery]], [[property]]
+
 1. [[property-artist]]
 1. [[property-categories]]
 1. [[property-character]]
