@@ -20,3 +20,13 @@ views:
         direction: DESC
     image: formula.image01
     cardSize: 100
+  - type: cards
+    name: uploadedrecently
+    order:
+      - formula.filetitle
+      - formula.trackedtags
+    sort:
+      - property: uploaded
+        direction: DESC
+    image: formula.image01
+    cardSize: 100

@@ -1,7 +1,7 @@
 filters:
   and:
-    - up.containsAny(link("gallery"))
-    - '!file.inFolder("templater")'
+    - file.inFolder("galleries")
+    - file.ext == "md"
 formulas:
   image01: image(if(cover,cover,icon))
   cday: ctime.date()
