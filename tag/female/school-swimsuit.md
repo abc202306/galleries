@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:45+08:00
-mtime: 2025-12-17T17:00:05+08:00
+mtime: 2025-12-17T22:33:29+08:00
 ---
 
 # school-swimsuit
@@ -9,6 +9,8 @@ mtime: 2025-12-17T17:00:05+08:00
 
 ![[gallery-dynamic-base.base]]
 
+1. [[exhentai-3690021-e698e27b22|[Usacastle (うさ城まに)] ままかつどう2 [中国翻訳] [DL版] ]]
+	- ![[exhentai-3690021-e698e27b22.webp|200]]
 1. [[exhentai-3674834-31ed4e594f|[Come Through (あづみ一樹)] CuteArchive (ブルーアーカイブ) [DL版] ]]
 	- ![[exhentai-3674834-31ed4e594f.webp|200]]
 1. [[exhentai-3674825-91707e2ad3|[Come Through (あづみ一樹)] 先生、今夜は誰とする？ (ブルーアーカイブ) [DL版] ]]

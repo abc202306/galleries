@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-17T21:40:02+08:00
+mtime: 2025-12-17T22:31:59+08:00
 ---
 
 # other
@@ -22,7 +22,7 @@ mtime: 2025-12-17T21:40:02+08:00
 1. [[kodomo-only]] | 3
 1. [[missing-cover]] | 1
 1. [[mosaic-censorship]] | 50
-1. [[multi-work-series]] | 20
+1. [[multi-work-series]] | 21
 1. [[no-penetration]] | 3
 1. [[non-nude]] | 1
 1. [[novel]] | 1

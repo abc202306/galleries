@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-17T21:40:02+08:00
+mtime: 2025-12-17T22:31:59+08:00
 ---
 
 # group-ns
@@ -243,6 +243,7 @@ mtime: 2025-12-17T21:40:02+08:00
 1. [[type-57]] | 1
 1. [[unagiyasan]] | 3
 1. [[uropyon]] | 2
+1. [[usacastle]] | 1
 1. [[usagi-youchien]] | 1
 1. [[utsusumi-onsen]] | 1
 1. [[wancho-ke]] | 3

@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-17T21:40:03+08:00
+mtime: 2025-12-17T22:31:59+08:00
 ---
 
 # artist
@@ -480,7 +480,7 @@ mtime: 2025-12-17T21:40:03+08:00
 1. [[usa-jo]] | 2
 1. [[usagi-tosame]] | 2
 1. [[usakun]] | 1
-1. [[usashiro-mani-or-mani]] | 1
+1. [[usashiro-mani-or-mani]] | 2
 1. [[ushi-kousen]] | 1
 1. [[usitora-tatumi]] | 1
 1. [[utatane]] | 4
