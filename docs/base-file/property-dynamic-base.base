@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.hasProperty(this.file.name.replace(/^property-/,""))
+formulas:
+  specproperty: file.properties[this.file.name.replace(/^property-/,"")]
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - formula.specproperty

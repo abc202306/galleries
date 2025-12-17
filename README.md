@@ -16,19 +16,27 @@
 
 ## Folder Struct
 
+> DFC refers to Decendants File Count
+
 | Folder Path | DFC |
 | :--- | ---: |
-| [[docs]] | 33 |
-| [[docs]]/[[base-file]] | 2 |
+| [[docs]] | 39 |
+| [[docs]]/[[base-file]] | 3 |
 | [[docs]]/[[canvas]] | 1 |
 | [[docs]]/[[galleries]] | 2 |
 | [[docs]]/[[image-file]] | 1 |
 | [[docs]]/[[notation]] | 1 |
+| [[docs]]/[[property]] | 4 |
 | [[docs]]/[[tag]] | 14 |
 | [[galleries]] | 1362 |
 | [[galleries]]/[[exhentai]] | 556 |
 | [[galleries]]/[[nhentai]] | 806 |
 | [[notes]] | 7 |
+| [[property]] | 32 |
+| [[property]]/[[basic-property]] | 8 |
+| [[property]]/[[docs-property]] | 1 |
+| [[property]]/[[gallery-property]] | 22 |
+| [[property]]/[[notes-property]] | 1 |
 | [[tag]] | 1590 |
 | [[tag]]/[[artist]] | 532 |
 | [[tag]]/[[categories]] | 10 |
@@ -161,7 +169,7 @@ function getNGStrAndGStr(title) {
 	const ngls = paths.filter(i=>!i.startsWith("galleries/")).filter(i=>i!=="README.md").sort();
 	const gls = paths.filter(i=>i.startsWith("galleries/")).sort(compareGalleryPathWithPropertyUploaded);
 	
-	const ngstr = "> seealso: "+ngls.map(path=>"[["+app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path))+"]]").join(", ");
+	const ngstr = ngls.map(path=>"[["+app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path))+"]]").join(", ");
 	const gstr = gls.map(getGalleryPathRepresentationStr).join("\n");
 	
 	return {ngstr, gstr};
@@ -176,7 +184,7 @@ mtime: ${mtime}
 
 # ${title}
 
-${ngstr}
+> seealso: ${ngstr}
 
 ![[gallery-dynamic-base.base]]
 
@@ -222,6 +230,21 @@ function getUploaderGroupFileContent(title, ctime, mtime) {
     return getGroupFileContent(title, ctime, mtime, "[[docs]]")
 }
 
+function getPropertyFileContent(title, ctime, mtime) {
+	const {ngstr, gstr} = getNGStrAndGStr(title);
+    return `---
+ctime: ${ctime}
+mtime: ${mtime}
+---
+
+# ${title}
+
+> seealso: ${ngstr}
+
+![[property-dynamic-base.base]]
+`
+}
+
 function getFileContent(file, data, getSpecTypeFileContent){
 	const title = file.basename;
 	const fileCache = app.metadataCache.getFileCache(file);
@@ -259,6 +282,10 @@ const uploaderFile = app.vault.getAbstractFileByPath("docs/uploader.md");
 const uploaderFileProcesser = processFileWith(getUploaderGroupFileContent);
 
 uploaderFileProcesser(uploaderFile)
+
+app.vault.getMarkdownFiles()
+	.filter(f=>f.path.startsWith("property/"))
+	.forEach(processFileWith(getPropertyFileContent))
 
 app.vault.getMarkdownFiles()
 	.filter(f=>["tag/", "uploader/"].some(rootDirPath=>f.path.startsWith(rootDirPath)))
