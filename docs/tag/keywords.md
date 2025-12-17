@@ -1,325 +1,325 @@
 ---
 ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-14T23:38:14+08:00
+mtime: 2025-12-17T21:40:02+08:00
 ---
 
 # keywords
 
 > seealso: [[tag]]
 
-1. [[3d]]
-1. [[age-regression]]
-1. [[ahegao]]
-1. [[amputee]]
-1. [[anal]]
-1. [[anal-intercourse]]
-1. [[anthology]]
-1. [[apron]]
-1. [[armpit-sex]]
-1. [[artbook]]
-1. [[artistcg]]
-1. [[asphyxiation]]
-1. [[assjob]]
-1. [[bald]]
-1. [[bandages]]
-1. [[bathing-room]]
-1. [[bbm]]
-1. [[bdsm]]
-1. [[beauty-mark]]
-1. [[bestiality]]
-1. [[big-areolae]]
-1. [[big-breasts]]
-1. [[big-penis]]
-1. [[bike-shorts]]
-1. [[bikini]]
-1. [[bisexual]]
-1. [[blackmail]]
-1. [[blindfold]]
-1. [[blood]]
-1. [[bloomers]]
-1. [[blowjob]]
-1. [[blowjob-face]]
-1. [[body-swap]]
-1. [[body-writing]]
-1. [[bondage]]
-1. [[breast-feeding]]
-1. [[bride]]
-1. [[bukkake]]
-1. [[bunny-boy]]
-1. [[bunny-girl]]
-1. [[business-suit]]
-1. [[catboy]]
-1. [[catgirl]]
-1. [[cervix-penetration]]
-1. [[cervix-prolapse]]
-1. [[cheating]]
-1. [[cheerleader]]
-1. [[chikan]]
-1. [[chinese-dress]]
-1. [[chloroform]]
-1. [[clit-stimulation]]
-1. [[clone]]
-1. [[clothed-male-nude-female]]
-1. [[coach]]
-1. [[collar]]
-1. [[condom]]
-1. [[confinement]]
-1. [[corpse]]
-1. [[corruption]]
-1. [[corset]]
-1. [[cousin]]
-1. [[cowgirl]]
-1. [[crossdressing]]
-1. [[crotch-tattoo]]
-1. [[crying]]
-1. [[cumflation]]
-1. [[cunnilingus]]
-1. [[dark-nipples]]
-1. [[dark-sclera]]
-1. [[dark-skin]]
-1. [[daughter]]
-1. [[deepthroat]]
-1. [[defloration]]
-1. [[demon]]
-1. [[demon-girl]]
-1. [[detached-sleeves]]
-1. [[diaper]]
-1. [[dickgirl-on-female]]
-1. [[dilf]]
-1. [[dog]]
-1. [[dog-girl]]
-1. [[domination-loss]]
-1. [[double-penetration]]
-1. [[dougi]]
-1. [[drill-hair]]
-1. [[drugs]]
-1. [[drunk]]
-1. [[elf]]
-1. [[emotionless-sex]]
-1. [[enema]]
-1. [[exhibitionism]]
-1. [[exposed-clothing]]
-1. [[extraneous-ads]]
-1. [[eye-covering-bang]]
-1. [[eyepatch]]
-1. [[facesitting]]
-1. [[facial-hair]]
-1. [[fairy]]
-1. [[females-only]]
-1. [[femdom]]
-1. [[ffm-threesome]]
-1. [[filming]]
-1. [[fingering]]
-1. [[first-person-perspective]]
-1. [[focus-anal]]
-1. [[focus-blowjob]]
-1. [[foot-licking]]
-1. [[footjob]]
-1. [[forced-exposure]]
-1. [[fox-girl]]
-1. [[freckles]]
-1. [[full-censorship]]
-1. [[full-color]]
-1. [[fundoshi]]
-1. [[futanari]]
-1. [[futanarization]]
-1. [[gag]]
-1. [[gaping]]
-1. [[garter-belt]]
-1. [[gender-bender]]
-1. [[gender-change]]
-1. [[gender-morph]]
-1. [[ghost]]
-1. [[glasses]]
-1. [[gloves]]
-1. [[goblin]]
-1. [[gokkun]]
-1. [[goudoushi]]
-1. [[granddaughter]]
-1. [[group]]
-1. [[guro]]
-1. [[hair-buns]]
-1. [[halo]]
-1. [[handjob]]
-1. [[harem]]
-1. [[heterochromia]]
-1. [[hidden-sex]]
-1. [[horns]]
-1. [[horse]]
-1. [[hotpants]]
-1. [[how-to]]
-1. [[huge-penis]]
-1. [[humiliation]]
-1. [[impregnation]]
-1. [[incest]]
-1. [[incomplete]]
-1. [[infantilism]]
-1. [[inflation]]
-1. [[insect]]
-1. [[inseki]]
-1. [[internal-urination]]
-1. [[inverted-nipples]]
-1. [[kemonomimi]]
-1. [[kimono]]
-1. [[kindergarten-uniform]]
-1. [[kissing]]
-1. [[kodomo-doushi]]
-1. [[kodomo-only]]
-1. [[lab-coat]]
-1. [[lactation]]
-1. [[large-insertions]]
-1. [[layer-cake]]
-1. [[leash]]
-1. [[leg-lock]]
-1. [[leotard]]
-1. [[lingerie]]
-1. [[lolicon]]
-1. [[low-lolicon]]
-1. [[low-scat]]
-1. [[low-shotacon]]
-1. [[magical-girl]]
-1. [[maid]]
-1. [[males-only]]
-1. [[masked-face]]
-1. [[masturbation]]
-1. [[mesugaki]]
-1. [[mesuiki]]
-1. [[midget]]
-1. [[miko]]
-1. [[milf]]
-1. [[mind-break]]
-1. [[mind-control]]
-1. [[mmf-threesome]]
-1. [[monster-girl]]
-1. [[moral-degeneration]]
-1. [[mosaic-censorship]]
-1. [[mother]]
-1. [[multi-work-series]]
-1. [[multimouth-blowjob]]
-1. [[multipanel-sequence]]
-1. [[multiple-orgasms]]
-1. [[multiple-paizuri]]
-1. [[muscle]]
-1. [[mute]]
-1. [[nakadashi]]
-1. [[necrophilia]]
-1. [[netorare]]
-1. [[niece]]
-1. [[nipple-stimulation]]
-1. [[no-penetration]]
-1. [[nudity-only]]
-1. [[nun]]
-1. [[oil]]
-1. [[old-man]]
-1. [[omorashi]]
-1. [[oni]]
-1. [[onsen]]
-1. [[oppai-loli]]
-1. [[oyakodon]]
-1. [[painted-nails]]
-1. [[paizuri]]
-1. [[pantyhose]]
-1. [[pasties]]
-1. [[petplay]]
-1. [[phimosis]]
-1. [[piercing]]
-1. [[pig]]
-1. [[piss-drinking]]
-1. [[pixie-cut]]
-1. [[ponytail]]
-1. [[possession]]
-1. [[pregnant]]
-1. [[prolapse]]
-1. [[prostate-massage]]
-1. [[prostitution]]
-1. [[randoseru]]
-1. [[rape]]
-1. [[replaced]]
-1. [[rimjob]]
-1. [[rough-grammar]]
-1. [[rough-translation]]
-1. [[ryona]]
-1. [[saliva]]
-1. [[scat]]
-1. [[school-gym-uniform]]
-1. [[school-swimsuit]]
-1. [[schoolboy-uniform]]
-1. [[schoolgirl-uniform]]
-1. [[selfcest]]
-1. [[sentou]]
-1. [[sex-toys]]
-1. [[shared-senses]]
-1. [[shemale]]
-1. [[shibari]]
-1. [[shimaidon]]
-1. [[shimapan]]
-1. [[shotacon]]
-1. [[sister]]
-1. [[slave]]
-1. [[sleeping]]
-1. [[slime-girl]]
-1. [[small-breasts]]
-1. [[smalldom]]
-1. [[smegma]]
-1. [[smell]]
-1. [[snuff]]
-1. [[sockjob]]
-1. [[sole-dickgirl]]
-1. [[sole-female]]
-1. [[sole-male]]
-1. [[solo-action]]
-1. [[soushuuhen]]
-1. [[squirting]]
-1. [[stockings]]
-1. [[stomach-deformation]]
-1. [[story-arc]]
-1. [[stretching]]
-1. [[stuck-in-wall]]
-1. [[sumata]]
-1. [[sundress]]
-1. [[sweating]]
-1. [[swimsuit]]
-1. [[swinging]]
-1. [[syringe]]
-1. [[tabi-socks]]
-1. [[tail]]
-1. [[tail-plug]]
-1. [[tankoubon]]
-1. [[tanlines]]
-1. [[teacher]]
-1. [[tentacles]]
-1. [[thick-eyebrows]]
-1. [[thigh-high-boots]]
-1. [[tiara]]
-1. [[time-stop]]
-1. [[tomboy]]
-1. [[tomgirl]]
-1. [[torture]]
-1. [[tracksuit]]
-1. [[transparent-clothing]]
-1. [[tribadism]]
-1. [[tutor]]
-1. [[twins]]
-1. [[twintails]]
-1. [[uncensored]]
-1. [[unusual-insertions]]
-1. [[unusual-pupils]]
-1. [[unusual-teeth]]
-1. [[urination]]
-1. [[vaginal-birth]]
-1. [[vampire]]
-1. [[variant-set]]
-1. [[very-long-hair]]
-1. [[virginity]]
-1. [[vomit]]
-1. [[voyeurism]]
-1. [[vtuber]]
-1. [[watermarked]]
-1. [[widower]]
-1. [[wings]]
-1. [[witch]]
-1. [[wooden-horse]]
-1. [[x-ray]]
-1. [[yandere]]
-1. [[yaoi]]
-1. [[yuri]]
+1. [[3d]] | 1
+1. [[age-regression]] | 4
+1. [[ahegao]] | 27
+1. [[amputee]] | 1
+1. [[anal]] | 31
+1. [[anal-intercourse]] | 15
+1. [[anthology]] | 7
+1. [[apron]] | 3
+1. [[armpit-sex]] | 1
+1. [[artbook]] | 3
+1. [[artistcg]] | 1
+1. [[asphyxiation]] | 4
+1. [[assjob]] | 1
+1. [[bald]] | 21
+1. [[bandages]] | 1
+1. [[bathing-room]] | 1
+1. [[bbm]] | 35
+1. [[bdsm]] | 2
+1. [[beauty-mark]] | 7
+1. [[bestiality]] | 4
+1. [[big-areolae]] | 1
+1. [[big-breasts]] | 2
+1. [[big-penis]] | 11
+1. [[bike-shorts]] | 3
+1. [[bikini]] | 31
+1. [[bisexual]] | 1
+1. [[blackmail]] | 6
+1. [[blindfold]] | 10
+1. [[blood]] | 2
+1. [[bloomers]] | 4
+1. [[blowjob]] | 99
+1. [[blowjob-face]] | 3
+1. [[body-swap]] | 1
+1. [[body-writing]] | 2
+1. [[bondage]] | 28
+1. [[breast-feeding]] | 4
+1. [[bride]] | 1
+1. [[bukkake]] | 10
+1. [[bunny-boy]] | 1
+1. [[bunny-girl]] | 8
+1. [[business-suit]] | 5
+1. [[catboy]] | 1
+1. [[catgirl]] | 16
+1. [[cervix-penetration]] | 3
+1. [[cervix-prolapse]] | 1
+1. [[cheating]] | 8
+1. [[cheerleader]] | 2
+1. [[chikan]] | 5
+1. [[chinese-dress]] | 4
+1. [[chloroform]] | 3
+1. [[clit-stimulation]] | 1
+1. [[clone]] | 1
+1. [[clothed-male-nude-female]] | 2
+1. [[coach]] | 3
+1. [[collar]] | 33
+1. [[condom]] | 6
+1. [[confinement]] | 1
+1. [[corpse]] | 1
+1. [[corruption]] | 2
+1. [[corset]] | 1
+1. [[cousin]] | 5
+1. [[cowgirl]] | 1
+1. [[crossdressing]] | 2
+1. [[crotch-tattoo]] | 7
+1. [[crying]] | 4
+1. [[cumflation]] | 2
+1. [[cunnilingus]] | 27
+1. [[dark-nipples]] | 1
+1. [[dark-sclera]] | 1
+1. [[dark-skin]] | 24
+1. [[daughter]] | 21
+1. [[deepthroat]] | 11
+1. [[defloration]] | 58
+1. [[demon]] | 1
+1. [[demon-girl]] | 11
+1. [[detached-sleeves]] | 1
+1. [[diaper]] | 1
+1. [[dickgirl-on-female]] | 1
+1. [[dilf]] | 37
+1. [[dog]] | 3
+1. [[dog-girl]] | 1
+1. [[domination-loss]] | 1
+1. [[double-penetration]] | 8
+1. [[dougi]] | 1
+1. [[drill-hair]] | 2
+1. [[drugs]] | 12
+1. [[drunk]] | 4
+1. [[elf]] | 4
+1. [[emotionless-sex]] | 2
+1. [[enema]] | 1
+1. [[exhibitionism]] | 22
+1. [[exposed-clothing]] | 1
+1. [[extraneous-ads]] | 17
+1. [[eye-covering-bang]] | 10
+1. [[eyepatch]] | 1
+1. [[facesitting]] | 2
+1. [[facial-hair]] | 2
+1. [[fairy]] | 2
+1. [[females-only]] | 15
+1. [[femdom]] | 9
+1. [[ffm-threesome]] | 28
+1. [[filming]] | 14
+1. [[fingering]] | 26
+1. [[first-person-perspective]] | 3
+1. [[focus-anal]] | 2
+1. [[focus-blowjob]] | 1
+1. [[foot-licking]] | 2
+1. [[footjob]] | 6
+1. [[forced-exposure]] | 3
+1. [[fox-girl]] | 8
+1. [[freckles]] | 2
+1. [[full-censorship]] | 5
+1. [[full-color]] | 55
+1. [[fundoshi]] | 1
+1. [[futanari]] | 3
+1. [[futanarization]] | 1
+1. [[gag]] | 5
+1. [[gaping]] | 2
+1. [[garter-belt]] | 2
+1. [[gender-bender]] | 6
+1. [[gender-change]] | 2
+1. [[gender-morph]] | 2
+1. [[ghost]] | 1
+1. [[glasses]] | 42
+1. [[gloves]] | 15
+1. [[goblin]] | 1
+1. [[gokkun]] | 3
+1. [[goudoushi]] | 3
+1. [[granddaughter]] | 1
+1. [[group]] | 61
+1. [[guro]] | 3
+1. [[hair-buns]] | 8
+1. [[halo]] | 44
+1. [[handjob]] | 15
+1. [[harem]] | 8
+1. [[heterochromia]] | 5
+1. [[hidden-sex]] | 2
+1. [[horns]] | 22
+1. [[horse]] | 2
+1. [[hotpants]] | 2
+1. [[how-to]] | 1
+1. [[huge-penis]] | 1
+1. [[humiliation]] | 2
+1. [[impregnation]] | 37
+1. [[incest]] | 68
+1. [[incomplete]] | 4
+1. [[infantilism]] | 1
+1. [[inflation]] | 3
+1. [[insect]] | 1
+1. [[inseki]] | 3
+1. [[internal-urination]] | 1
+1. [[inverted-nipples]] | 2
+1. [[kemonomimi]] | 56
+1. [[kimono]] | 9
+1. [[kindergarten-uniform]] | 3
+1. [[kissing]] | 19
+1. [[kodomo-doushi]] | 15
+1. [[kodomo-only]] | 13
+1. [[lab-coat]] | 2
+1. [[lactation]] | 4
+1. [[large-insertions]] | 6
+1. [[layer-cake]] | 3
+1. [[leash]] | 16
+1. [[leg-lock]] | 2
+1. [[leotard]] | 1
+1. [[lingerie]] | 3
+1. [[lolicon]] | 385
+1. [[low-lolicon]] | 1
+1. [[low-scat]] | 2
+1. [[low-shotacon]] | 3
+1. [[magical-girl]] | 1
+1. [[maid]] | 7
+1. [[males-only]] | 1
+1. [[masked-face]] | 4
+1. [[masturbation]] | 26
+1. [[mesugaki]] | 6
+1. [[mesuiki]] | 1
+1. [[midget]] | 1
+1. [[miko]] | 2
+1. [[milf]] | 1
+1. [[mind-break]] | 6
+1. [[mind-control]] | 16
+1. [[mmf-threesome]] | 8
+1. [[monster-girl]] | 4
+1. [[moral-degeneration]] | 1
+1. [[mosaic-censorship]] | 64
+1. [[mother]] | 1
+1. [[multi-work-series]] | 31
+1. [[multimouth-blowjob]] | 3
+1. [[multipanel-sequence]] | 1
+1. [[multiple-orgasms]] | 3
+1. [[multiple-paizuri]] | 1
+1. [[muscle]] | 7
+1. [[mute]] | 1
+1. [[nakadashi]] | 115
+1. [[necrophilia]] | 1
+1. [[netorare]] | 9
+1. [[niece]] | 6
+1. [[nipple-stimulation]] | 8
+1. [[no-penetration]] | 11
+1. [[nudity-only]] | 1
+1. [[nun]] | 1
+1. [[oil]] | 1
+1. [[old-man]] | 4
+1. [[omorashi]] | 4
+1. [[oni]] | 1
+1. [[onsen]] | 1
+1. [[oppai-loli]] | 5
+1. [[oyakodon]] | 2
+1. [[painted-nails]] | 1
+1. [[paizuri]] | 4
+1. [[pantyhose]] | 9
+1. [[pasties]] | 1
+1. [[petplay]] | 5
+1. [[phimosis]] | 1
+1. [[piercing]] | 3
+1. [[pig]] | 2
+1. [[piss-drinking]] | 4
+1. [[pixie-cut]] | 1
+1. [[ponytail]] | 18
+1. [[possession]] | 1
+1. [[pregnant]] | 18
+1. [[prolapse]] | 1
+1. [[prostate-massage]] | 2
+1. [[prostitution]] | 6
+1. [[randoseru]] | 27
+1. [[rape]] | 51
+1. [[replaced]] | 2
+1. [[rimjob]] | 4
+1. [[rough-grammar]] | 1
+1. [[rough-translation]] | 15
+1. [[ryona]] | 6
+1. [[saliva]] | 1
+1. [[scat]] | 3
+1. [[school-gym-uniform]] | 5
+1. [[school-swimsuit]] | 15
+1. [[schoolboy-uniform]] | 5
+1. [[schoolgirl-uniform]] | 36
+1. [[selfcest]] | 1
+1. [[sentou]] | 1
+1. [[sex-toys]] | 27
+1. [[shared-senses]] | 3
+1. [[shemale]] | 1
+1. [[shibari]] | 2
+1. [[shimaidon]] | 12
+1. [[shimapan]] | 1
+1. [[shotacon]] | 40
+1. [[sister]] | 40
+1. [[slave]] | 7
+1. [[sleeping]] | 21
+1. [[slime-girl]] | 2
+1. [[small-breasts]] | 3
+1. [[smalldom]] | 3
+1. [[smegma]] | 1
+1. [[smell]] | 1
+1. [[snuff]] | 4
+1. [[sockjob]] | 1
+1. [[sole-dickgirl]] | 1
+1. [[sole-female]] | 197
+1. [[sole-male]] | 199
+1. [[solo-action]] | 5
+1. [[soushuuhen]] | 2
+1. [[squirting]] | 8
+1. [[stockings]] | 71
+1. [[stomach-deformation]] | 34
+1. [[story-arc]] | 5
+1. [[stretching]] | 1
+1. [[stuck-in-wall]] | 1
+1. [[sumata]] | 6
+1. [[sundress]] | 2
+1. [[sweating]] | 7
+1. [[swimsuit]] | 31
+1. [[swinging]] | 1
+1. [[syringe]] | 1
+1. [[tabi-socks]] | 1
+1. [[tail]] | 35
+1. [[tail-plug]] | 13
+1. [[tankoubon]] | 16
+1. [[tanlines]] | 18
+1. [[teacher]] | 21
+1. [[tentacles]] | 8
+1. [[thick-eyebrows]] | 2
+1. [[thigh-high-boots]] | 1
+1. [[tiara]] | 1
+1. [[time-stop]] | 1
+1. [[tomboy]] | 4
+1. [[tomgirl]] | 2
+1. [[torture]] | 1
+1. [[tracksuit]] | 1
+1. [[transparent-clothing]] | 1
+1. [[tribadism]] | 3
+1. [[tutor]] | 10
+1. [[twins]] | 9
+1. [[twintails]] | 75
+1. [[uncensored]] | 29
+1. [[unusual-insertions]] | 5
+1. [[unusual-pupils]] | 21
+1. [[unusual-teeth]] | 1
+1. [[urination]] | 17
+1. [[vaginal-birth]] | 8
+1. [[vampire]] | 2
+1. [[variant-set]] | 1
+1. [[very-long-hair]] | 20
+1. [[virginity]] | 5
+1. [[vomit]] | 2
+1. [[voyeurism]] | 3
+1. [[vtuber]] | 3
+1. [[watermarked]] | 2
+1. [[widower]] | 1
+1. [[wings]] | 23
+1. [[witch]] | 1
+1. [[wooden-horse]] | 1
+1. [[x-ray]] | 36
+1. [[yandere]] | 1
+1. [[yaoi]] | 4
+1. [[yuri]] | 19

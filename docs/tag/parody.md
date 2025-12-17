@@ -1,113 +1,113 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-16T19:31:39+08:00
+mtime: 2025-12-17T21:40:02+08:00
 ---
 
 # parody
 
 > seealso: [[tag]]
 
-1. [[aishiteruze-baby]]
-1. [[alice-gear-aegis]]
-1. [[alice-in-wonderland]]
-1. [[ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai]]
-1. [[arknights]]
-1. [[azur-lane]]
-1. [[bakemonogatari]]
-1. [[blue-archive]]
-1. [[bocchi-the-rock]]
-1. [[boruto]]
-1. [[buddy-daddies]]
-1. [[cardcaptor-sakura]]
-1. [[doraemon]]
-1. [[dorei-to-no-seikatsu]]
-1. [[dragon-ball]]
-1. [[dragon-quest-v]]
-1. [[dragon-quest-x]]
-1. [[ecoko]]
-1. [[eromanga-sensei]]
-1. [[etrian-odyssey-or-sekaiju-no-meikyuu]]
-1. [[fate-grand-order]]
-1. [[final-fantasy-vii]]
-1. [[final-fantasy-xiv]]
-1. [[flower-knight-girl]]
-1. [[fushigiboshi-no-futagohime]]
-1. [[fushigiboshi-no-futagohime-or-twin-princesses-of-the-wonder-planet]]
-1. [[gacen-shoujo-to-ibunka-kouryuu]]
-1. [[genshin-impact]]
-1. [[girls-frontline]]
-1. [[girls-und-panzer]]
-1. [[gochuumon-wa-usagi-desu-ka]]
-1. [[gochuumon-wa-usagi-desu-ka-or-is-the-order-a-rabbit]]
-1. [[goddess-of-victory-nikke]]
-1. [[granblue-fantasy]]
-1. [[hacka-doll]]
-1. [[himesama-goumon-no-jikan-desu]]
-1. [[himouto-umaru-chan]]
-1. [[hololive]]
-1. [[honkai-star-rail]]
-1. [[idoly-pride]]
-1. [[inou-battle-wa-nichijou-kei-no-naka-de]]
-1. [[kaminaki-sekai-no-kamisama-katsudou]]
-1. [[kantai-collection]]
-1. [[kobayashi-san-chi-no-maid-dragon]]
-1. [[kodomo-no-jikan]]
-1. [[koikatsu]]
-1. [[lilo-and-stitch]]
-1. [[little-busters]]
-1. [[little-red-riding-hood]]
-1. [[log-horizon]]
-1. [[lucky-star]]
-1. [[mahou-shoujo-lyrical-nanoha-or-magical-girl-lyrical-nanoha]]
-1. [[mahoujin-guru-guru]]
-1. [[make-heroine-ga-oosugiru]]
-1. [[medalist]]
-1. [[megaman-or-rockman]]
-1. [[mikakunin-de-shinkoukei]]
-1. [[mobile-suit-gundam-the-witch-from-mercury]]
-1. [[my-hero-academia-or-boku-no-hero-academia]]
-1. [[my-little-pony-friendship-is-magic]]
-1. [[naruto]]
-1. [[new-game]]
-1. [[nichijou]]
-1. [[nijisanji]]
-1. [[non-non-biyori]]
-1. [[ongeki]]
-1. [[onii-chan-wa-oshimai]]
-1. [[original]]
-1. [[oshi-no-ko]]
-1. [[pokemon-or-pocket-monsters]]
-1. [[princess-connect]]
-1. [[pripara]]
-1. [[puella-magi-madoka-magica-side-story-magia-record]]
-1. [[puniru-wa-kawaii-slime]]
-1. [[qualidea-code]]
-1. [[ryuuou-no-oshigoto]]
-1. [[seiken-densetsu-3]]
-1. [[sewayaki-kitsune-no-senko-san]]
-1. [[shakugan-no-shana]]
-1. [[shugo-chara]]
-1. [[shuukan-watashi-no-onii-chan]]
-1. [[sister-princess]]
-1. [[slow-loop]]
-1. [[sousou-no-frieren-or-frieren-beyond-journeys-end]]
-1. [[spy-x-family]]
-1. [[takopii-no-genzai]]
-1. [[tantei-opera-milky-holmes]]
-1. [[the-idolmaster]]
-1. [[the-legend-of-zelda]]
-1. [[the-owl-house]]
-1. [[the-powerpuff-girls]]
-1. [[the-wolf-and-the-seven-young-kids]]
-1. [[toaru-majutsu-no-index]]
-1. [[toradora]]
-1. [[touhou-project]]
-1. [[violated-heroine]]
-1. [[voiceroid]]
-1. [[warioware]]
-1. [[watashi-ni-tenshi-ga-maiorita]]
-1. [[wonderful-precure]]
-1. [[world-trigger]]
-1. [[xenogears]]
-1. [[yu-gi-oh]]
-1. [[zenless-zone-zero]]
+1. [[aishiteruze-baby]] | 1
+1. [[alice-gear-aegis]] | 1
+1. [[alice-in-wonderland]] | 2
+1. [[ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai]] | 1
+1. [[arknights]] | 1
+1. [[azur-lane]] | 7
+1. [[bakemonogatari]] | 1
+1. [[blue-archive]] | 93
+1. [[bocchi-the-rock]] | 1
+1. [[boruto]] | 4
+1. [[buddy-daddies]] | 1
+1. [[cardcaptor-sakura]] | 6
+1. [[doraemon]] | 1
+1. [[dorei-to-no-seikatsu]] | 1
+1. [[dragon-ball]] | 1
+1. [[dragon-quest-v]] | 4
+1. [[dragon-quest-x]] | 1
+1. [[ecoko]] | 4
+1. [[eromanga-sensei]] | 2
+1. [[etrian-odyssey-or-sekaiju-no-meikyuu]] | 1
+1. [[fate-grand-order]] | 2
+1. [[final-fantasy-vii]] | 1
+1. [[final-fantasy-xiv]] | 2
+1. [[flower-knight-girl]] | 2
+1. [[fushigiboshi-no-futagohime]] | 3
+1. [[fushigiboshi-no-futagohime-or-twin-princesses-of-the-wonder-planet]] | 2
+1. [[gacen-shoujo-to-ibunka-kouryuu]] | 1
+1. [[genshin-impact]] | 4
+1. [[girls-frontline]] | 1
+1. [[girls-und-panzer]] | 3
+1. [[gochuumon-wa-usagi-desu-ka]] | 5
+1. [[gochuumon-wa-usagi-desu-ka-or-is-the-order-a-rabbit]] | 3
+1. [[goddess-of-victory-nikke]] | 3
+1. [[granblue-fantasy]] | 4
+1. [[hacka-doll]] | 1
+1. [[himesama-goumon-no-jikan-desu]] | 1
+1. [[himouto-umaru-chan]] | 1
+1. [[hololive]] | 5
+1. [[honkai-star-rail]] | 2
+1. [[idoly-pride]] | 1
+1. [[inou-battle-wa-nichijou-kei-no-naka-de]] | 1
+1. [[kaminaki-sekai-no-kamisama-katsudou]] | 1
+1. [[kantai-collection]] | 8
+1. [[kobayashi-san-chi-no-maid-dragon]] | 1
+1. [[kodomo-no-jikan]] | 2
+1. [[koikatsu]] | 2
+1. [[lilo-and-stitch]] | 2
+1. [[little-busters]] | 1
+1. [[little-red-riding-hood]] | 1
+1. [[log-horizon]] | 1
+1. [[lucky-star]] | 4
+1. [[mahou-shoujo-lyrical-nanoha-or-magical-girl-lyrical-nanoha]] | 1
+1. [[mahoujin-guru-guru]] | 20
+1. [[make-heroine-ga-oosugiru]] | 3
+1. [[medalist]] | 4
+1. [[megaman-or-rockman]] | 1
+1. [[mikakunin-de-shinkoukei]] | 2
+1. [[mobile-suit-gundam-the-witch-from-mercury]] | 1
+1. [[my-hero-academia-or-boku-no-hero-academia]] | 3
+1. [[my-little-pony-friendship-is-magic]] | 2
+1. [[naruto]] | 5
+1. [[new-game]] | 1
+1. [[nichijou]] | 1
+1. [[nijisanji]] | 2
+1. [[non-non-biyori]] | 1
+1. [[ongeki]] | 2
+1. [[onii-chan-wa-oshimai]] | 7
+1. [[original]] | 193
+1. [[oshi-no-ko]] | 1
+1. [[pokemon-or-pocket-monsters]] | 2
+1. [[princess-connect]] | 6
+1. [[pripara]] | 6
+1. [[puella-magi-madoka-magica-side-story-magia-record]] | 1
+1. [[puniru-wa-kawaii-slime]] | 2
+1. [[qualidea-code]] | 1
+1. [[ryuuou-no-oshigoto]] | 3
+1. [[seiken-densetsu-3]] | 1
+1. [[sewayaki-kitsune-no-senko-san]] | 1
+1. [[shakugan-no-shana]] | 1
+1. [[shugo-chara]] | 1
+1. [[shuukan-watashi-no-onii-chan]] | 1
+1. [[sister-princess]] | 1
+1. [[slow-loop]] | 1
+1. [[sousou-no-frieren-or-frieren-beyond-journeys-end]] | 1
+1. [[spy-x-family]] | 4
+1. [[takopii-no-genzai]] | 1
+1. [[tantei-opera-milky-holmes]] | 1
+1. [[the-idolmaster]] | 33
+1. [[the-legend-of-zelda]] | 1
+1. [[the-owl-house]] | 2
+1. [[the-powerpuff-girls]] | 2
+1. [[the-wolf-and-the-seven-young-kids]] | 1
+1. [[toaru-majutsu-no-index]] | 1
+1. [[toradora]] | 2
+1. [[touhou-project]] | 25
+1. [[violated-heroine]] | 1
+1. [[voiceroid]] | 8
+1. [[warioware]] | 1
+1. [[watashi-ni-tenshi-ga-maiorita]] | 4
+1. [[wonderful-precure]] | 1
+1. [[world-trigger]] | 1
+1. [[xenogears]] | 1
+1. [[yu-gi-oh]] | 1
+1. [[zenless-zone-zero]] | 1

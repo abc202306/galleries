@@ -7,17 +7,17 @@ mtime: 2025-12-09T10:46:17+08:00
 
 > seealso: [[docs]]
 
-1. [[artist]]
-1. [[categories]]
-1. [[character]]
-1. [[cosplayer]]
-1. [[female]]
-1. [[group-ns]]
-1. [[keywords]]
-1. [[language]]
-1. [[location]]
-1. [[male]]
-1. [[mixed]]
-1. [[other]]
-1. [[parody]]
-1. [[temp]]
+1. [[artist]] | 531
+1. [[categories]] | 10
+1. [[character]] | 269
+1. [[cosplayer]] | 1
+1. [[female]] | 265
+1. [[group-ns]] | 249
+1. [[keywords]] | 316
+1. [[language]] | 9
+1. [[location]] | 4
+1. [[male]] | 83
+1. [[mixed]] | 7
+1. [[other]] | 33
+1. [[parody]] | 104
+1. [[temp]] | 1

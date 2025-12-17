@@ -87,34 +87,34 @@ mtime: 2025-12-17T20:55:15+08:00
 
 ### [[gallery-base.base#categories|categories]]
 
-1. [[gallery-base.base#categories/doujinshi|doujinshi]] | 446 | [[doujinshi]]
-2. [[gallery-base.base#categories/manga|manga]] | 110 | [[manga]]
-3. [[gallery-base.base#categories/image-set|image-set]] | 26 | [[image-set]]
+1. [[gallery-base.base#categories/doujinshi|doujinshi]] | 464 | [[doujinshi]]
+2. [[gallery-base.base#categories/manga|manga]] | 112 | [[manga]]
+3. [[gallery-base.base#categories/image-set|image-set]] | 37 | [[image-set]]
 4. [[gallery-base.base#categories/misc|misc]] | 23 | [[misc]]
-5. [[gallery-base.base#categories/artist-cg|artist-cg]] | 13 | [[artist-cg]]
+5. [[gallery-base.base#categories/artist-cg|artist-cg]] | 33 | [[artist-cg]]
 6. [[gallery-base.base#categories/game-cg|game-cg]] | 8 | [[game-cg]]
-7. [[gallery-base.base#categories/non-h|non-h]] | 3 | [[non-h]]
+7. [[gallery-base.base#categories/non-h|non-h]] | 4 | [[non-h]]
 8. [[gallery-base.base#categories/western|western]] | 1 | [[western]]
 
 ### [[gallery-base.base#parody|parody]]
 
-1. [[gallery-base.base#parody/original|original]] | 182 | [[original]]
-2. [[gallery-base.base#parody/blue-archive|blue-archive]] | 89 | [[blue-archive]]
+1. [[gallery-base.base#parody/original|original]] | 193 | [[original]]
+2. [[gallery-base.base#parody/blue-archive|blue-archive]] | 93 | [[blue-archive]]
 3. [[gallery-base.base#parody/touhou-project|touhou-project]] | 25 | [[touhou-project]]
 4. [[gallery-base.base#parody/mahoujin-guru-guru|mahoujin-guru-guru]] | 20 | [[mahoujin-guru-guru]]
 
 ### female
 
-1. [[gallery-base.base#female/lolicon|lolicon]] | 598 | [[lolicon]]
-2. [[gallery-base.base#female/rape|rape]] | 98 | [[rape]]
+1. [[gallery-base.base#female/lolicon|lolicon]] | 641 | [[lolicon]]
+2. [[gallery-base.base#female/rape|rape]] | 106 | [[rape]]
 
 ### male
 
-1. [[gallery-base.base#male/sole-male|sole-male]] | 279 | [[sole-male]]
+1. [[gallery-base.base#male/sole-male|sole-male]] | 290 | [[sole-male]]
 
 ### mixed
 
-1. [[gallery-base.base#mixed/kodomo-doushi|kodomo-doushi]] | 26 | [[kodomo-doushi]]
+1. [[gallery-base.base#mixed/kodomo-doushi|kodomo-doushi]] | 27 | [[kodomo-doushi]]
 
 ### character
 
@@ -201,15 +201,33 @@ function removeWikiLinkMark(str){
 	return str.replace(/^\[\[/,"").replace(/\]\]$/,"");
 }
 
+function toValueArray(value) {
+	if (!value) {
+		return [];
+	}
+	if (Array.isArray(value)) {
+		return value;
+	}
+	return [value];
+}
+
 function getTagGroupMOC(title) {
 	const property = title.replace(/-ns$/,"");
-	return app.vault.getMarkdownFiles()
+	const galleryMDFileCaches = app.vault.getMarkdownFiles()
 		.filter(f=>f.path.startsWith("galleries/"))
-		.flatMap(f=>(app.metadataCache.getFileCache(f)?.frontmatter||new Object())[property])
+		.map(f=>app.metadataCache.getFileCache(f));
+	return galleryMDFileCaches
+		.flatMap(fc=>(fc?.frontmatter||new Object())[property])
 		.unique()
 		.filter(v=>v)
 		.sort((a,b)=>removeWikiLinkMark(a).localeCompare(removeWikiLinkMark(b)))
-		.map(v=>"1. "+v)
+		.map(v=>"1. "
+			+v
+			+" | "
+			+galleryMDFileCaches
+				.filter(fc=>toValueArray((fc?.frontmatter||new Object())[property]).includes(v))
+				.length
+			)
 		.join("\n");
 }
 

@@ -1,278 +1,278 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-16T19:31:39+08:00
+mtime: 2025-12-17T21:40:02+08:00
 ---
 
 # character
 
 > seealso: [[tag]]
 
-1. [[aether]]
-1. [[ai-hinatsuru]]
-1. [[akane-kotonoha]]
-1. [[akashi]]
-1. [[akatsuki]]
-1. [[akiho-shinomoto]]
-1. [[alice-liddell]]
-1. [[alice-tendou]]
-1. [[altessa]]
-1. [[amana-osaki]]
-1. [[amu-hinamori]]
-1. [[anya-forger]]
-1. [[anzu-futaba]]
-1. [[aoba-suzukaze]]
-1. [[aoi-kotonoha]]
-1. [[arisu-shimada]]
-1. [[arisu-tachibana]]
-1. [[aroma-kurosu]]
-1. [[arona]]
-1. [[ashley]]
-1. [[asuha-chigusa]]
-1. [[asuka-ninomiya]]
-1. [[aya-shameimaru]]
-1. [[ayaka-ichijo]]
-1. [[azusa-shirasu]]
-1. [[becky-blackbell]]
-1. [[bianca-whitaker]]
-1. [[big-bad-wolf]]
-1. [[boruto-uzumaki]]
-1. [[camieux]]
-1. [[charlotta-fenia]]
-1. [[charlotte]]
-1. [[charlotte-dizoard]]
-1. [[chi-chi]]
-1. [[chie-sasaki]]
-1. [[chifuyu-himeki]]
-1. [[chika-amatori]]
-1. [[chika-yokoyama]]
-1. [[chinatsu-hinata]]
-1. [[chino-kafuu]]
-1. [[chloe-von-einzbern]]
-1. [[cirno]]
-1. [[cure-friendly]]
-1. [[daetta]]
-1. [[daisuke-aoki]]
-1. [[debora-briscoletti]]
-1. [[djeeta]]
-1. [[dori-sangemah-bay]]
-1. [[einhart-stratos]]
-1. [[emeralda-kasim]]
-1. [[fern]]
-1. [[fine]]
-1. [[flandre-scarlet]]
-1. [[g41]]
-1. [[ganyu]]
-1. [[gawr-gura]]
-1. [[gigi-murin]]
-1. [[ginko-sora]]
-1. [[gran]]
-1. [[hacka-doll-no.3]]
-1. [[hajime-shinoda]]
-1. [[hakase-shinonome]]
-1. [[hammann]]
-1. [[hana-shirosaki]]
-1. [[hanabi-hyuga]]
-1. [[hanako-urawa]]
-1. [[haru-yuuki]]
-1. [[hatoba-tsugu]]
-1. [[hibiki-or-verniy]]
-1. [[hifumi-ajitani]]
-1. [[hifumi-takimoto]]
-1. [[hikari-tachibana]]
-1. [[himawari-uzumaki]]
-1. [[himiko-toga]]
-1. [[hina-sorasaki]]
-1. [[hinata-hoshino]]
-1. [[hinata-hyuga]]
-1. [[hinata-wakaba]]
-1. [[hook]]
-1. [[hoshino-takanashi]]
-1. [[hotaru-ichijou]]
-1. [[i-401]]
-1. [[ibuki-tanga]]
-1. [[illyasviel-von-einzbern]]
-1. [[ino-yamanaka]]
-1. [[inori-yuitsuka]]
-1. [[iroha-natsume]]
-1. [[ju-fufu]]
-1. [[jujuku-shunamur]]
-1. [[kagami-hiiragi]]
-1. [[kaho]]
-1. [[kaju-nukumizu]]
-1. [[kana-arima]]
-1. [[kanna-kamui]]
-1. [[kanoe-itagaki]]
-1. [[kaoru-ryuzaki]]
-1. [[kasumi-chigusa]]
-1. [[kazuhiko-nukumizu]]
-1. [[kiritan-tohoku]]
-1. [[kisaki-ryuuge]]
-1. [[kisaragi]]
-1. [[kitchen-dragonmaid]]
-1. [[koakuma]]
-1. [[kobo-kanaeru]]
-1. [[koharu-shimoe]]
-1. [[koi-yoshinaga]]
-1. [[koishi-komeiji]]
-1. [[kokkoro-or-kokoro-natsume]]
-1. [[kokoa-hoto]]
-1. [[kokona-sunohara]]
-1. [[komari-koshigaya]]
-1. [[komoe-tsukuyomi]]
-1. [[konata-izumi]]
-1. [[koseki-bijou]]
-1. [[kozue-yusa]]
-1. [[kudryavka-noumi]]
-1. [[kukuri]]
-1. [[kuro-kagami]]
-1. [[kyouka-hikawa]]
-1. [[laala-manaka]]
-1. [[laffey]]
-1. [[lana]]
-1. [[laplus-darknesss]]
-1. [[le-malin]]
-1. [[le-triomphant]]
-1. [[lilo-pelekai]]
-1. [[lily-baker]]
-1. [[lione]]
-1. [[little-red-riding-hood]]
-1. [[livewire-or-leslie-willis]]
-1. [[luca]]
-1. [[luna-child]]
-1. [[luz-noceda]]
-1. [[madoka-kuki]]
-1. [[mahiro-oyama]]
-1. [[mai-fukuyama]]
-1. [[maki-konuri]]
-1. [[malon]]
-1. [[mano-sakuragi]]
-1. [[maomao]]
-1. [[mari-iochi]]
-1. [[maria-balthasar]]
-1. [[marie]]
-1. [[marisa-kirisame]]
-1. [[marlene-wallace]]
-1. [[marnie]]
-1. [[masamune-izumi]]
-1. [[mashiro-mitsumine]]
-1. [[midori-saiba]]
-1. [[mihari-oyama]]
-1. [[mikan-shiratama]]
-1. [[miku-maekawa]]
-1. [[minato-senkawa]]
-1. [[miria-akagi]]
-1. [[mirlo]]
-1. [[mitama]]
-1. [[miyako-hoshino]]
-1. [[miyako-tsukiyuki]]
-1. [[miyu-kasumizawa]]
-1. [[miyuki-takara]]
-1. [[momoi-saiba]]
-1. [[momoka-sakurai]]
-1. [[morinaka-kazaki]]
-1. [[murakumo]]
-1. [[murasaki-shion]]
-1. [[nahida]]
-1. [[nana-ebina]]
-1. [[naruto-uzumaki]]
-1. [[nekomiya-hinata]]
-1. [[nera-briscoletti]]
-1. [[nijika-ijichi]]
-1. [[nike]]
-1. [[nina-ichihara]]
-1. [[niyaniya-kyouju]]
-1. [[noa-himesaka]]
-1. [[nobita-nobi]]
-1. [[non-manaka]]
-1. [[nonomi-izayoi]]
-1. [[nozomi-tachibana]]
-1. [[nurse-dragonmaid]]
-1. [[paimon]]
-1. [[patchouli-knowledge]]
-1. [[pipkin-pippa]]
-1. [[plana]]
-1. [[producer]]
-1. [[qiqi]]
-1. [[queen-zephyr]]
-1. [[ranko-kanzaki]]
-1. [[reimu-hakurei]]
-1. [[rein]]
-1. [[reisen-udongein-inaba]]
-1. [[remilia-scarlet]]
-1. [[rena-kinui]]
-1. [[renji-kusakabe]]
-1. [[rika-jougasaki]]
-1. [[riki-naoe]]
-1. [[rin-kaenbyou]]
-1. [[rin-kokonoe]]
-1. [[rin-shibuya]]
-1. [[risa-matoba]]
-1. [[roll]]
-1. [[rumia]]
-1. [[ryuuji-takasu]]
-1. [[sachiko-koshimizu]]
-1. [[sado]]
-1. [[sagiri-izumi]]
-1. [[sakura-haruno]]
-1. [[sakura-kinomoto]]
-1. [[sakurako-utazumi]]
-1. [[sameko-saba]]
-1. [[sanae-kochiya]]
-1. [[sasaki-saku]]
-1. [[sasuke-uchiha]]
-1. [[satori-komeiji]]
-1. [[seia-yurizono]]
-1. [[senko]]
-1. [[sensei]]
-1. [[serena-fuoco-le-brillante-de-la-grazia]]
-1. [[shamare]]
-1. [[shana]]
-1. [[sherlock-shellingford]]
-1. [[shigure-mayoi]]
-1. [[shigure-ui]]
-1. [[shikikan]]
-1. [[shinobu-oshino]]
-1. [[shiroko-sunaookami]]
-1. [[shizuka-minamoto]]
-1. [[shun-sunohara]]
-1. [[shuro-yabuki]]
-1. [[shuuka-hanazono]]
-1. [[sora]]
-1. [[star-sapphire]]
-1. [[suika-ibuki]]
-1. [[suletta-mercury]]
-1. [[sunny-milk]]
-1. [[suzuran]]
-1. [[sylvie]]
-1. [[tabitha]]
-1. [[taiga-aisaka]]
-1. [[taihei-doma]]
-1. [[teitoku]]
-1. [[tenka-osaki]]
-1. [[tenma-maemi]]
-1. [[tewi-inaba]]
-1. [[tio]]
-1. [[tokiko]]
-1. [[touma-kamijou]]
-1. [[tsukasa-hiiragi]]
-1. [[tsukasa-kudamaki]]
-1. [[tsumugi-shinonome]]
-1. [[ui-kozeki]]
-1. [[umaru-doma]]
-1. [[unicorn]]
-1. [[usada-pekora]]
-1. [[utsuho-reiuji]]
-1. [[uzuki-shimamura]]
-1. [[vivio-takamachi]]
-1. [[watson-amelia]]
-1. [[yaia]]
-1. [[yaoyao]]
-1. [[yayoi]]
-1. [[yoshino-yorita]]
-1. [[yukimi-sajo]]
-1. [[yun-iijima]]
-1. [[yuni-shingyouji]]
-1. [[yuuka-hayase]]
-1. [[yuuta-sakurada]]
-1. [[yuzu-hanaoka]]
-1. [[zundamon]]
+1. [[aether]] | 2
+1. [[ai-hinatsuru]] | 1
+1. [[akane-kotonoha]] | 3
+1. [[akashi]] | 1
+1. [[akatsuki]] | 1
+1. [[akiho-shinomoto]] | 2
+1. [[alice-liddell]] | 2
+1. [[alice-tendou]] | 4
+1. [[altessa]] | 3
+1. [[amana-osaki]] | 1
+1. [[amu-hinamori]] | 1
+1. [[anya-forger]] | 7
+1. [[anzu-futaba]] | 2
+1. [[aoba-suzukaze]] | 1
+1. [[aoi-kotonoha]] | 3
+1. [[arisu-shimada]] | 1
+1. [[arisu-tachibana]] | 10
+1. [[aroma-kurosu]] | 1
+1. [[arona]] | 6
+1. [[ashley]] | 1
+1. [[asuha-chigusa]] | 1
+1. [[asuka-ninomiya]] | 1
+1. [[aya-shameimaru]] | 1
+1. [[ayaka-ichijo]] | 1
+1. [[azusa-shirasu]] | 2
+1. [[becky-blackbell]] | 3
+1. [[bianca-whitaker]] | 1
+1. [[big-bad-wolf]] | 1
+1. [[boruto-uzumaki]] | 2
+1. [[camieux]] | 1
+1. [[charlotta-fenia]] | 1
+1. [[charlotte]] | 1
+1. [[charlotte-dizoard]] | 1
+1. [[chi-chi]] | 1
+1. [[chie-sasaki]] | 5
+1. [[chifuyu-himeki]] | 1
+1. [[chika-amatori]] | 1
+1. [[chika-yokoyama]] | 1
+1. [[chinatsu-hinata]] | 1
+1. [[chino-kafuu]] | 7
+1. [[chloe-von-einzbern]] | 1
+1. [[cirno]] | 1
+1. [[cure-friendly]] | 1
+1. [[daetta]] | 1
+1. [[daisuke-aoki]] | 2
+1. [[debora-briscoletti]] | 1
+1. [[djeeta]] | 1
+1. [[dori-sangemah-bay]] | 1
+1. [[einhart-stratos]] | 1
+1. [[emeralda-kasim]] | 1
+1. [[fern]] | 1
+1. [[fine]] | 4
+1. [[flandre-scarlet]] | 6
+1. [[g41]] | 1
+1. [[ganyu]] | 1
+1. [[gawr-gura]] | 4
+1. [[gigi-murin]] | 1
+1. [[ginko-sora]] | 1
+1. [[gran]] | 1
+1. [[hacka-doll-no.3]] | 1
+1. [[hajime-shinoda]] | 1
+1. [[hakase-shinonome]] | 1
+1. [[hammann]] | 1
+1. [[hana-shirosaki]] | 2
+1. [[hanabi-hyuga]] | 2
+1. [[hanako-urawa]] | 2
+1. [[haru-yuuki]] | 2
+1. [[hatoba-tsugu]] | 2
+1. [[hibiki-or-verniy]] | 1
+1. [[hifumi-ajitani]] | 4
+1. [[hifumi-takimoto]] | 1
+1. [[hikari-tachibana]] | 3
+1. [[himawari-uzumaki]] | 4
+1. [[himiko-toga]] | 3
+1. [[hina-sorasaki]] | 7
+1. [[hinata-hoshino]] | 3
+1. [[hinata-hyuga]] | 3
+1. [[hinata-wakaba]] | 2
+1. [[hook]] | 1
+1. [[hoshino-takanashi]] | 8
+1. [[hotaru-ichijou]] | 1
+1. [[i-401]] | 1
+1. [[ibuki-tanga]] | 17
+1. [[illyasviel-von-einzbern]] | 1
+1. [[ino-yamanaka]] | 1
+1. [[inori-yuitsuka]] | 4
+1. [[iroha-natsume]] | 1
+1. [[ju-fufu]] | 1
+1. [[jujuku-shunamur]] | 5
+1. [[kagami-hiiragi]] | 3
+1. [[kaho]] | 1
+1. [[kaju-nukumizu]] | 3
+1. [[kana-arima]] | 1
+1. [[kanna-kamui]] | 2
+1. [[kanoe-itagaki]] | 1
+1. [[kaoru-ryuzaki]] | 5
+1. [[kasumi-chigusa]] | 1
+1. [[kazuhiko-nukumizu]] | 3
+1. [[kiritan-tohoku]] | 4
+1. [[kisaki-ryuuge]] | 5
+1. [[kisaragi]] | 1
+1. [[kitchen-dragonmaid]] | 1
+1. [[koakuma]] | 1
+1. [[kobo-kanaeru]] | 1
+1. [[koharu-shimoe]] | 10
+1. [[koi-yoshinaga]] | 1
+1. [[koishi-komeiji]] | 3
+1. [[kokkoro-or-kokoro-natsume]] | 1
+1. [[kokoa-hoto]] | 5
+1. [[kokona-sunohara]] | 7
+1. [[komari-koshigaya]] | 1
+1. [[komoe-tsukuyomi]] | 1
+1. [[konata-izumi]] | 3
+1. [[koseki-bijou]] | 2
+1. [[kozue-yusa]] | 4
+1. [[kudryavka-noumi]] | 1
+1. [[kukuri]] | 19
+1. [[kuro-kagami]] | 1
+1. [[kyouka-hikawa]] | 3
+1. [[laala-manaka]] | 1
+1. [[laffey]] | 2
+1. [[lana]] | 1
+1. [[laplus-darknesss]] | 1
+1. [[le-malin]] | 1
+1. [[le-triomphant]] | 1
+1. [[lilo-pelekai]] | 2
+1. [[lily-baker]] | 1
+1. [[lione]] | 2
+1. [[little-red-riding-hood]] | 1
+1. [[livewire-or-leslie-willis]] | 2
+1. [[luca]] | 1
+1. [[luna-child]] | 2
+1. [[luz-noceda]] | 2
+1. [[madoka-kuki]] | 1
+1. [[mahiro-oyama]] | 7
+1. [[mai-fukuyama]] | 1
+1. [[maki-konuri]] | 3
+1. [[malon]] | 1
+1. [[mano-sakuragi]] | 1
+1. [[maomao]] | 1
+1. [[mari-iochi]] | 6
+1. [[maria-balthasar]] | 1
+1. [[marie]] | 1
+1. [[marisa-kirisame]] | 2
+1. [[marlene-wallace]] | 1
+1. [[marnie]] | 1
+1. [[masamune-izumi]] | 1
+1. [[mashiro-mitsumine]] | 2
+1. [[midori-saiba]] | 7
+1. [[mihari-oyama]] | 1
+1. [[mikan-shiratama]] | 1
+1. [[miku-maekawa]] | 1
+1. [[minato-senkawa]] | 1
+1. [[miria-akagi]] | 4
+1. [[mirlo]] | 1
+1. [[mitama]] | 1
+1. [[miyako-hoshino]] | 2
+1. [[miyako-tsukiyuki]] | 1
+1. [[miyu-kasumizawa]] | 4
+1. [[miyuki-takara]] | 1
+1. [[momoi-saiba]] | 7
+1. [[momoka-sakurai]] | 6
+1. [[morinaka-kazaki]] | 1
+1. [[murakumo]] | 1
+1. [[murasaki-shion]] | 2
+1. [[nahida]] | 2
+1. [[nana-ebina]] | 1
+1. [[naruto-uzumaki]] | 3
+1. [[nekomiya-hinata]] | 1
+1. [[nera-briscoletti]] | 1
+1. [[nijika-ijichi]] | 1
+1. [[nike]] | 7
+1. [[nina-ichihara]] | 2
+1. [[niyaniya-kyouju]] | 1
+1. [[noa-himesaka]] | 2
+1. [[nobita-nobi]] | 1
+1. [[non-manaka]] | 2
+1. [[nonomi-izayoi]] | 1
+1. [[nozomi-tachibana]] | 3
+1. [[nurse-dragonmaid]] | 1
+1. [[paimon]] | 2
+1. [[patchouli-knowledge]] | 2
+1. [[pipkin-pippa]] | 1
+1. [[plana]] | 4
+1. [[producer]] | 5
+1. [[qiqi]] | 1
+1. [[queen-zephyr]] | 1
+1. [[ranko-kanzaki]] | 1
+1. [[reimu-hakurei]] | 2
+1. [[rein]] | 4
+1. [[reisen-udongein-inaba]] | 1
+1. [[remilia-scarlet]] | 5
+1. [[rena-kinui]] | 2
+1. [[renji-kusakabe]] | 1
+1. [[rika-jougasaki]] | 1
+1. [[riki-naoe]] | 1
+1. [[rin-kaenbyou]] | 1
+1. [[rin-kokonoe]] | 2
+1. [[rin-shibuya]] | 1
+1. [[risa-matoba]] | 6
+1. [[roll]] | 1
+1. [[rumia]] | 1
+1. [[ryuuji-takasu]] | 2
+1. [[sachiko-koshimizu]] | 1
+1. [[sado]] | 1
+1. [[sagiri-izumi]] | 2
+1. [[sakura-haruno]] | 2
+1. [[sakura-kinomoto]] | 6
+1. [[sakurako-utazumi]] | 2
+1. [[sameko-saba]] | 2
+1. [[sanae-kochiya]] | 1
+1. [[sasaki-saku]] | 1
+1. [[sasuke-uchiha]] | 1
+1. [[satori-komeiji]] | 2
+1. [[seia-yurizono]] | 5
+1. [[senko]] | 1
+1. [[sensei]] | 50
+1. [[serena-fuoco-le-brillante-de-la-grazia]] | 1
+1. [[shamare]] | 1
+1. [[shana]] | 1
+1. [[sherlock-shellingford]] | 1
+1. [[shigure-mayoi]] | 1
+1. [[shigure-ui]] | 1
+1. [[shikikan]] | 1
+1. [[shinobu-oshino]] | 1
+1. [[shiroko-sunaookami]] | 1
+1. [[shizuka-minamoto]] | 1
+1. [[shun-sunohara]] | 9
+1. [[shuro-yabuki]] | 1
+1. [[shuuka-hanazono]] | 1
+1. [[sora]] | 2
+1. [[star-sapphire]] | 1
+1. [[suika-ibuki]] | 1
+1. [[suletta-mercury]] | 1
+1. [[sunny-milk]] | 1
+1. [[suzuran]] | 1
+1. [[sylvie]] | 1
+1. [[tabitha]] | 1
+1. [[taiga-aisaka]] | 2
+1. [[taihei-doma]] | 1
+1. [[teitoku]] | 5
+1. [[tenka-osaki]] | 1
+1. [[tenma-maemi]] | 1
+1. [[tewi-inaba]] | 2
+1. [[tio]] | 1
+1. [[tokiko]] | 1
+1. [[touma-kamijou]] | 1
+1. [[tsukasa-hiiragi]] | 3
+1. [[tsukasa-kudamaki]] | 1
+1. [[tsumugi-shinonome]] | 1
+1. [[ui-kozeki]] | 2
+1. [[umaru-doma]] | 1
+1. [[unicorn]] | 1
+1. [[usada-pekora]] | 1
+1. [[utsuho-reiuji]] | 1
+1. [[uzuki-shimamura]] | 1
+1. [[vivio-takamachi]] | 1
+1. [[watson-amelia]] | 2
+1. [[yaia]] | 1
+1. [[yaoyao]] | 1
+1. [[yayoi]] | 1
+1. [[yoshino-yorita]] | 2
+1. [[yukimi-sajo]] | 2
+1. [[yun-iijima]] | 1
+1. [[yuni-shingyouji]] | 2
+1. [[yuuka-hayase]] | 2
+1. [[yuuta-sakurada]] | 1
+1. [[yuzu-hanaoka]] | 1
+1. [[zundamon]] | 1
