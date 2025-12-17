@@ -9,7 +9,7 @@ mtime: 2025-12-10T18:16:59+08:00
 
 1. [[base-file]]
 1. [[canvas]]
-1. [[gallery]]
+1. [[collection]]
 1. [[image-file]]
 1. [[notation]]
 1. [[tag]]
@@ -20,8 +20,12 @@ mtime: 2025-12-10T18:16:59+08:00
 ## important-docs
 
 1. [[galleries]]
-1. [[notes]]
 1. [[property]]
+
+## [[collection]]
+
+1. [[gallery]]
+1. [[notes]]
 
 ## [[property]]
 

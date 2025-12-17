@@ -24,9 +24,10 @@ mtime: 2025-12-17T20:55:15+08:00
 
 | Folder Path | DFC |
 | :--- | ---: |
-| [[docs]] | 39 |
+| [[docs]] | 40 |
 | [[docs]]/[[base-file]] | 3 |
 | [[docs]]/[[canvas]] | 1 |
+| [[docs]]/[[collection]] | 2 |
 | [[docs]]/[[galleries]] | 2 |
 | [[docs]]/[[image-file]] | 1 |
 | [[docs]]/[[notation]] | 1 |

@@ -9,4 +9,4 @@ mtime: 2025-11-18T17:26:50+08:00
 
 # gallery
 
-> seealso: [[galleries]]
+> seealso: [[collection]], [[galleries]]
