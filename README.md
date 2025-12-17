@@ -20,7 +20,7 @@ mtime: 2025-12-17T20:55:15+08:00
 
 ## Folder Struct
 
-> DFC refers to Decendants File Count
+> DFC stands for the total number of descendant files
 
 | Folder Path | DFC |
 | :--- | ---: |
