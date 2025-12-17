@@ -25,17 +25,17 @@
 | [[docs]]/[[image-file]] | 1 |
 | [[docs]]/[[notation]] | 1 |
 | [[docs]]/[[tag]] | 14 |
-| [[galleries]] | 1358 |
-| [[galleries]]/[[exhentai]] | 552 |
+| [[galleries]] | 1362 |
+| [[galleries]]/[[exhentai]] | 556 |
 | [[galleries]]/[[nhentai]] | 806 |
 | [[notes]] | 7 |
-| [[tag]] | 1588 |
-| [[tag]]/[[artist]] | 531 |
+| [[tag]] | 1590 |
+| [[tag]]/[[artist]] | 532 |
 | [[tag]]/[[categories]] | 10 |
 | [[tag]]/[[character]] | 268 |
 | [[tag]]/[[cosplayer]] | 1 |
 | [[tag]]/[[female]] | 199 |
-| [[tag]]/[[group-ns]] | 243 |
+| [[tag]]/[[group-ns]] | 244 |
 | [[tag]]/[[language]] | 9 |
 | [[tag]]/[[location]] | 4 |
 | [[tag]]/[[male]] | 104 |
@@ -44,7 +44,7 @@
 | [[tag]]/[[parody]] | 104 |
 | [[tag]]/[[temp]] | 1 |
 | [[templates]] | 1 |
-| [[uploader]] | 157 |
+| [[uploader]] | 158 |
 
 ## Views of [[gallery-base.base]]
 
@@ -136,7 +136,15 @@ function getTagFileContent(title, ctime, mtime) {
 	const f = app.metadataCache.getFirstLinkpathDest(title);
 	const paths = [...app.metadataCache.getBacklinksForFile(f).data.keys()];
 	const ngls = paths.filter(i=>!i.startsWith("galleries/")).filter(i=>i!=="README.md").sort();
-	const gls = paths.filter(i=>i.startsWith("galleries/")).sort();
+	const gls = paths.filter(i=>i.startsWith("galleries/")).sort((path1,path2)=>{
+		const f1 = app.vault.getAbstractFileByPath(path1);
+		const f2 = app.vault.getAbstractFileByPath(path2);
+		const fc1 = app.metadataCache.getFileCache(f1);
+		const fc2 = app.metadataCache.getFileCache(f2);
+		const v1 = fc1?.frontmatter?.uploaded || "_";
+		const v2 = fc2?.frontmatter?.uploaded || "_";
+		return -v1.localeCompare(v2);
+	});
 	const ngstr = "> seealso: "+ngls.map(i=>"[["+app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(i))+"]]").join(", ");
 	const gstr = gls.map(path=>{
 		const f2 = app.vault.getAbstractFileByPath(path);
@@ -194,35 +202,34 @@ ${getTagGroupMOC(title)}
 `
 }
 
+function getFileContent(f, data, getSpecTypeFileContent){
+	const title = f.basename;
+	const fc = app.metadataCache.getFileCache(f);
+	const fmctime = fc?.frontmatter?.ctime;
+	const fmmtime = fc?.frontmatter?.mtime;
+	const mtime = getLocalISOStringWithTimezone();
+	const ctime =  fmctime || mtime;
+
+	const formattedData = data.replace(/\r/g,"");
+
+	const newData1 = getSpecTypeFileContent(title, fmctime, fmmtime);
+	const newData2 = getSpecTypeFileContent(title, ctime, mtime);
+	if (formattedData !== newData1){
+		console.log("return newData2")
+		return newData2;
+	} else {
+		console.log("return data")
+		return data;
+	}
+}
+
 app.vault.getMarkdownFiles()
 	.filter(f=>["tag/", "uploader/"].some(rootDirPath=>f.path.startsWith(rootDirPath)))
-	.forEach(f=>app.vault.process(f, data=>{
-		const title = f.basename;
-		const mtime = getLocalISOStringWithTimezone();
-		const ctime = app.metadataCache.getFileCache(f)?.frontmatter?.mtime || mtime;
-
-		const newData = getTagFileContent(title, ctime, mtime);
-		if (newData.split("\n").length!==data.split("\n").length){
-			return newData;
-		} else {
-			return data;
-		}
-	}));
+	.forEach(f=>app.vault.process(f, data=>getFileContent(f, data, getTagFileContent)));
 
 app.vault.getMarkdownFiles()
 	.filter(f=>f.path.startsWith("docs/tag/"))
-	.forEach(f=>app.vault.process(f, data=>{
-		const title = f.basename;
-	    const mtime = getLocalISOStringWithTimezone();
-		const ctime = app.metadataCache.getFileCache(f)?.frontmatter?.mtime || mtime;
-		
-		const newData = getTagGroupFileContent(title, ctime, mtime);
-		if (newData.split("\n").length!==data.split("\n").length){
-			return newData;
-		} else {
-			return data;
-		}
-	}))
+	.forEach(f=>app.vault.process(f, data=>getFileContent(f, data, getTagGroupFileContent)))
 
 ```
 

@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-16T19:31:39+08:00
+mtime: 2025-12-17T16:13:58+08:00
 ---
 
 # artist
@@ -162,6 +162,7 @@ mtime: 2025-12-16T19:31:39+08:00
 1. [[inuboshi]]
 1. [[irie-yamazaki]]
 1. [[irispoplar]]
+1. [[irokohaku]]
 1. [[isawa-nohri]]
 1. [[isenori]]
 1. [[ishimari-yuuya]]

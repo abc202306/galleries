@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:38+08:00
-mtime: 2025-12-16T20:55:08+08:00
+mtime: 2025-12-17T17:01:31+08:00
 ---
 
 # wada-wau
@@ -9,9 +9,9 @@ mtime: 2025-12-16T20:55:08+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [[exhentai-2904331-8f300b5938|COMIC LO 2024年6月号 [DL版] ]]
-	- ![[exhentai-2904331-8f300b5938.webp|200]]
 1. [[exhentai-2958022-122ac2c2ab|[和田羽烏] ひとけたっ子♡あどラブる [英訳] [無修正] [DL版] ]]
 	- ![[exhentai-2958022-122ac2c2ab.webp|200]]
+1. [[exhentai-2904331-8f300b5938|COMIC LO 2024年6月号 [DL版] ]]
+	- ![[exhentai-2904331-8f300b5938.webp|200]]
 1. [[nhentai-379731|[Circle FEED (ワウ)] 双ごっ娘 ]]
 	- ![[nhentai-379731.jpg|200]]
