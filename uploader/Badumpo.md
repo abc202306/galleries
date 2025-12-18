@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T12:06:28+08:00
-mtime: 2025-12-18T08:54:58+08:00
+mtime: 2025-12-18T09:43:59+08:00
 ---
 
 # Badumpo
@@ -9,7 +9,7 @@ mtime: 2025-12-18T08:54:58+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. David and Ella 2nd batch | [[exhentai-2616364-16475e46b5]]
+1. `David and Ella 2nd batch` | [[exhentai-2616364-16475e46b5]]
 	- ![[exhentai-2616364-16475e46b5.webp|200]]
-1. David and Ella | [[exhentai-2600535-28ca405e7a]]
+1. `David and Ella` | [[exhentai-2600535-28ca405e7a]]
 	- ![[exhentai-2600535-28ca405e7a.webp|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:35+08:00
-mtime: 2025-12-18T08:55:51+08:00
+mtime: 2025-12-18T09:45:19+08:00
 ---
 
 # tokiko
@@ -9,5 +9,5 @@ mtime: 2025-12-18T08:55:51+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. Lost Life | [[exhentai-1483885-a050ebf354]]
+1. `Lost Life` | [[exhentai-1483885-a050ebf354]]
 	- ![[exhentai-1483885-a050ebf354.webp|200]]

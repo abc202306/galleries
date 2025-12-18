@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-12T22:01:38+08:00
-mtime: 2025-12-18T08:55:46+08:00
+mtime: 2025-12-18T09:45:11+08:00
 ---
 
 # eggs
@@ -9,5 +9,5 @@ mtime: 2025-12-18T08:55:46+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [CHAOS-R] 神聖昂燐ダクリュオン ～正しい天使の育てかた～ | [[exhentai-1864094-ebbbbede46]]
+1. `[CHAOS-R] 神聖昂燐ダクリュオン ～正しい天使の育てかた～` | [[exhentai-1864094-ebbbbede46]]
 	- ![[exhentai-1864094-ebbbbede46.webp|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:47+08:00
-mtime: 2025-12-18T08:55:25+08:00
+mtime: 2025-12-18T09:44:41+08:00
 ---
 
 # remonsan-project
@@ -9,5 +9,5 @@ mtime: 2025-12-18T08:55:25+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [Remonsan Project (Syokuyou-Mogura)] SHISAKU-13GOU | [[exhentai-1946211-c1ec7661db]]
+1. `[Remonsan Project (Syokuyou-Mogura)] SHISAKU-13GOU` | [[exhentai-1946211-c1ec7661db]]
 	- ![[exhentai-1946211-c1ec7661db.webp|200]]

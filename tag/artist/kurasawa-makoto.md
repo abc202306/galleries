@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:41+08:00
-mtime: 2025-12-18T08:56:24+08:00
+mtime: 2025-12-18T09:46:05+08:00
 ---
 
 # kurasawa-makoto
@@ -9,5 +9,5 @@ mtime: 2025-12-18T08:56:24+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. (例大祭8) [ひまわりまんぢぅ (倉澤まこと)] Sweet Lovely Syrup (東方Project) [英訳] | [[nhentai-72574]]
+1. `(例大祭8) [ひまわりまんぢぅ (倉澤まこと)] Sweet Lovely Syrup (東方Project) [英訳]` | [[nhentai-72574]]
 	- ![[nhentai-72574.jpg|200]]

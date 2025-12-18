@@ -154,7 +154,7 @@ function getGalleryPathRepresentationStr(path) {
     const linktext2 = app.metadataCache.fileToLinktext(f2);
     const fc2 = app.metadataCache.getFileCache(f2);
     const display2 = fc2?.frontmatter?.japanese || fc2?.frontmatter?.english || linktext2;
-    const link2 = display2 === linktext2 ? ("| [[" + linktext2 + "]]") : (display2 + " | [[" + linktext2 + "]]");
+    const link2 = display2 === linktext2 ? ("| [[" + linktext2 + "]]") : ("`"+display2 + "` | [[" + linktext2 + "]]");
     const res = /^\[\[(?<linktext3>[^\|]*)\|?.*\]\]$/.exec(fc2?.frontmatter?.cover);
     const coverEmbed = res ? ("\n\t- " + "![[" + res.groups.linktext3 + "|200]]") : "";
 

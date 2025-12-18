@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T12:06:28+08:00
-mtime: 2025-12-18T08:54:57+08:00
+mtime: 2025-12-18T09:43:58+08:00
 ---
 
 # changl
@@ -9,5 +9,5 @@ mtime: 2025-12-18T08:54:57+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [moyori] おさななじみるく (WEEKLY 快楽天 2022 No.07) [中国翻訳] | [[exhentai-2368194-3d2eaeccb9]]
+1. `[moyori] おさななじみるく (WEEKLY 快楽天 2022 No.07) [中国翻訳]` | [[exhentai-2368194-3d2eaeccb9]]
 	- ![[exhentai-2368194-3d2eaeccb9.webp|200]]

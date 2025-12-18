@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:42+08:00
-mtime: 2025-12-18T08:56:25+08:00
+mtime: 2025-12-18T09:46:06+08:00
 ---
 
 # kinomoto-anzu
@@ -9,7 +9,7 @@ mtime: 2025-12-18T08:56:25+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [きのもと杏] 先生お願いします (COMIC LO 2018年10月号) [英訳] [DL版] | [[nhentai-275889]]
+1. `[きのもと杏] 先生お願いします (COMIC LO 2018年10月号) [英訳] [DL版]` | [[nhentai-275889]]
 	- ![[nhentai-275889.png|200]]
-1. COMIC LO 2019年5月号 [DL版] | [[nhentai-269259]]
+1. `COMIC LO 2019年5月号 [DL版]` | [[nhentai-269259]]
 	- ![[nhentai-269259.jpg|200]]

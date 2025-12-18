@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:40+08:00
-mtime: 2025-12-18T08:56:18+08:00
+mtime: 2025-12-18T09:45:58+08:00
 ---
 
 # nekogen
@@ -9,7 +9,7 @@ mtime: 2025-12-18T08:56:18+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [アンソロジー] LQ -Little Queen- Vol.33 [DL版] | [[nhentai-354194]]
+1. `[アンソロジー] LQ -Little Queen- Vol.33 [DL版]` | [[nhentai-354194]]
 	- ![[nhentai-354194.jpg|200]]
-1. (C95) [T4P (猫玄)] 隣のロリは犯れるロリ。 | [[nhentai-260008]]
+1. `(C95) [T4P (猫玄)] 隣のロリは犯れるロリ。` | [[nhentai-260008]]
 	- ![[nhentai-260008.jpg|200]]

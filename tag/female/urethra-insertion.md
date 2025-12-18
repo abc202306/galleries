@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:44+08:00
-mtime: 2025-12-18T08:55:38+08:00
+mtime: 2025-12-18T09:44:55+08:00
 ---
 
 # urethra-insertion
@@ -9,5 +9,5 @@ mtime: 2025-12-18T08:55:38+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [OFF (OKINA)] 壊楽拷問 [DL版] | [[exhentai-3651950-f3c9c06a8d]]
+1. `[OFF (OKINA)] 壊楽拷問 [DL版]` | [[exhentai-3651950-f3c9c06a8d]]
 	- ![[exhentai-3651950-f3c9c06a8d.webp|200]]

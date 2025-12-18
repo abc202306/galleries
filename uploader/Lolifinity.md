@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-14T22:52:21+08:00
-mtime: 2025-12-18T08:54:54+08:00
+mtime: 2025-12-18T09:43:52+08:00
 ---
 
 # Lolifinity
@@ -9,5 +9,5 @@ mtime: 2025-12-18T08:54:54+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [モチ] 桃香異聞録 (COMIC X-EROS #14) [final個人漢化] | [[exhentai-3682541-c70546babb]]
+1. `[モチ] 桃香異聞録 (COMIC X-EROS #14) [final個人漢化]` | [[exhentai-3682541-c70546babb]]
 	- ![[exhentai-3682541-c70546babb.webp|200]]

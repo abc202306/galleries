@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-14T22:52:21+08:00
-mtime: 2025-12-18T08:54:55+08:00
+mtime: 2025-12-18T09:43:54+08:00
 ---
 
 # junjie02
@@ -9,5 +9,5 @@ mtime: 2025-12-18T08:54:55+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [Artist] ちぽかん (CHIPOKAN) 2024- | [[exhentai-3684838-2e90dc5bc4]]
+1. `[Artist] ちぽかん (CHIPOKAN) 2024-` | [[exhentai-3684838-2e90dc5bc4]]
 	- ![[exhentai-3684838-2e90dc5bc4.webp|200]]
