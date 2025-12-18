@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-17T22:31:59+08:00
+mtime: 2025-12-18T18:19:18+08:00
 ---
 
 # artist
@@ -466,6 +466,7 @@ mtime: 2025-12-17T22:31:59+08:00
 1. [[tsubasachyan]] | 1
 1. [[tsunamushi]] | 1
 1. [[tsurugi]] | 1
+1. [[tsuruyama-mito]] | 1
 1. [[tsyatu]] | 1
 1. [[typehatena]] | 2
 1. [[ueda-yuu]] | 2
@@ -525,6 +526,7 @@ mtime: 2025-12-17T22:31:59+08:00
 1. [[yukiu-con]] | 3
 1. [[yumikichi]] | 1
 1. [[yunachi]] | 1
+1. [[yurarin]] | 1
 1. [[yusa]] | 1
 1. [[yuu-hi]] | 2
 1. [[yuune]] | 3

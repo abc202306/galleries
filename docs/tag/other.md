@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-17T22:31:59+08:00
+mtime: 2025-12-18T18:19:18+08:00
 ---
 
 # other
@@ -16,7 +16,7 @@ mtime: 2025-12-17T22:31:59+08:00
 1. [[compilation]] | 2
 1. [[dakimakura]] | 1
 1. [[extraneous-ads]] | 4
-1. [[full-censorship]] | 8
+1. [[full-censorship]] | 9
 1. [[full-color]] | 30
 1. [[goudoushi]] | 2
 1. [[kodomo-only]] | 3

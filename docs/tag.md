@@ -1,13 +1,13 @@
 ---
 ctime: 2025-12-09T10:46:17+08:00
-mtime: 2025-12-17T22:44:46+08:00
+mtime: 2025-12-18T18:19:17+08:00
 ---
 
 # tag
 
 > seealso: [[docs]]
 
-1. [[artist]] | 531
+1. [[artist]] | 533
 1. [[categories]] | 10
 1. [[character]] | 269
 1. [[cosplayer]] | 1

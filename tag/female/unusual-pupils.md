@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:44+08:00
-mtime: 2025-12-18T09:44:55+08:00
+mtime: 2025-12-18T18:19:26+08:00
 ---
 
 # unusual-pupils
@@ -83,6 +83,8 @@ mtime: 2025-12-18T09:44:55+08:00
 	- ![[nhentai-304919.jpg|200]]
 1. `(C96) [まかろん大帝 (がおう)] FANBOX Art Collection Vol.1` | [[exhentai-1571033-1195d68067]]
 	- ![[exhentai-1571033-1195d68067.webp|200]]
+1. `[鶴山ミト] 幼妻エルフさんは209歳 (COMIC BAVEL 2020年3月号) [中国翻訳] [DL版]` | [[exhentai-1569624-acbdb8064c]]
+	- ![[exhentai-1569624-acbdb8064c.webp|200]]
 1. `(C96) [シチテンバットウ (ミヤサカタカジ)] ウチの隣の小学生は金髪碧眼えっち好き` | [[exhentai-1468933-06904cfbac]]
 	- ![[exhentai-1468933-06904cfbac.webp|200]]
 1. `[HappyLambBarn] 良い夢?` | [[exhentai-1441702-ccfb872c30]]
