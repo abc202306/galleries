@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-18T22:06:38+08:00
-mtime: 2025-12-18T22:06:38+08:00
+mtime: 2025-12-18T22:34:54+08:00
 ---
 
 # tigenabeya
 
-> seealso: 
+> seealso: [[group-ns]]
 
 ![[gallery-dynamic-base.base]]
 

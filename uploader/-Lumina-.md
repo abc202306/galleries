@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-18T22:07:23+08:00
-mtime: 2025-12-18T22:07:23+08:00
+mtime: 2025-12-18T22:35:41+08:00
 ---
 
 # -Lumina-
 
-> seealso: 
+> seealso: [[uploader]]
 
 ![[gallery-dynamic-base.base]]
 

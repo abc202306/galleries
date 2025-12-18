@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-18T22:06:53+08:00
-mtime: 2025-12-18T22:06:53+08:00
+mtime: 2025-12-18T22:35:10+08:00
 ---
 
 # youhuu-tigetarou
 
-> seealso: 
+> seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
 

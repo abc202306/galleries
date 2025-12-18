@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-18T22:06:25+08:00
-mtime: 2025-12-18T22:06:25+08:00
+mtime: 2025-12-18T22:34:38+08:00
 ---
 
 # laphicet
 
-> seealso: 
+> seealso: [[character]]
 
 ![[gallery-dynamic-base.base]]
 

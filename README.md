@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2025-12-18T22:05:36+08:00
+mtime: 2025-12-18T22:33:48+08:00
 ---
 
 # README
@@ -24,15 +24,17 @@ mtime: 2025-12-18T22:05:36+08:00
 
 | Folder Path | DFC |
 | :--- | ---: |
-| [[docs]] | 40 |
+| [[docs]] | 54 |
 | [[docs]]/[[base-file]] | 3 |
 | [[docs]]/[[canvas]] | 1 |
 | [[docs]]/[[collection]] | 2 |
+| [[docs]]/[[docs]] | 13 |
 | [[docs]]/[[galleries]] | 2 |
 | [[docs]]/[[image-file]] | 1 |
 | [[docs]]/[[notation]] | 1 |
 | [[docs]]/[[property]] | 4 |
 | [[docs]]/[[tag]] | 14 |
+| [[docs]]/[[year]] | 13 |
 | [[galleries]] | 1369 |
 | [[galleries]]/[[exhentai]] | 563 |
 | [[galleries]]/[[exhentai]]/[[2012]] | 2 |
@@ -551,13 +553,13 @@ let promiseList = [
 ];
 
 promiseList = promiseList.concat([
-	["docs/uploader.md", getUploaderGroupFileContent],
-	["docs/tag.md", getTagMetaFileContent],
 	["README.md", getReadmeFileContent],
+	["docs/docs/uploader.md", getUploaderGroupFileContent],
+	["docs/docs/tag.md", getTagMetaFileContent],
+	["docs/collection/notes.md", getNoteMetaFileContent],
 	["docs/collection/gallery.md", getSpecGalleryMetaFileContent],
 	["docs/galleries/exhentai.md", getSpecEXHentaiGalleryMetaFileContent],
 	["docs/galleries/nhentai.md", getSpecNHentaiGalleryMetaFileContent],
-	["docs/collection/notes.md", getNoteMetaFileContent]
 ].map(([path, getSpecTypeFileContent])=>getProcessFilePromise(path, getSpecTypeFileContent)));
 
 promiseList = promiseList.concat([

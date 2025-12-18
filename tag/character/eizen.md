@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-18T22:06:29+08:00
-mtime: 2025-12-18T22:06:29+08:00
+mtime: 2025-12-18T22:34:44+08:00
 ---
 
 # eizen
 
-> seealso: 
+> seealso: [[character]]
 
 ![[gallery-dynamic-base.base]]
 
