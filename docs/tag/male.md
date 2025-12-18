@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-18T18:19:18+08:00
+mtime: 2025-12-18T22:05:36+08:00
 ---
 
 # male
@@ -47,13 +47,14 @@ mtime: 2025-12-18T18:19:18+08:00
 1. [[group]] | 1
 1. [[gyaru-oh]] | 1
 1. [[hairy]] | 3
+1. [[handjob]] | 1
 1. [[harem]] | 2
 1. [[horse]] | 2
 1. [[horse-boy]] | 1
 1. [[huge-penis]] | 1
 1. [[human-on-furry]] | 1
 1. [[low-shotacon]] | 3
-1. [[males-only]] | 1
+1. [[males-only]] | 2
 1. [[masturbation]] | 1
 1. [[milking]] | 1
 1. [[mind-control]] | 1
@@ -73,7 +74,7 @@ mtime: 2025-12-18T18:19:18+08:00
 1. [[schoolboy-uniform]] | 3
 1. [[schoolgirl-uniform]] | 1
 1. [[sex-toys]] | 1
-1. [[shotacon]] | 23
+1. [[shotacon]] | 24
 1. [[sleeping]] | 4
 1. [[smell]] | 1
 1. [[snuff]] | 1
@@ -89,4 +90,4 @@ mtime: 2025-12-18T18:19:18+08:00
 1. [[virginity]] | 3
 1. [[voyeurism]] | 1
 1. [[wolf-boy]] | 1
-1. [[yaoi]] | 1
+1. [[yaoi]] | 2

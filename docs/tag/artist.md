@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-18T18:19:18+08:00
+mtime: 2025-12-18T22:05:37+08:00
 ---
 
 # artist
@@ -510,6 +510,7 @@ mtime: 2025-12-18T18:19:18+08:00
 1. [[yone-kinji]] | 1
 1. [[yoshi-puu]] | 2
 1. [[yoshi-yoshiyuki]] | 1
+1. [[youhuu-tigetarou]] | 1
 1. [[youta]] | 2
 1. [[yoyomax]] | 1
 1. [[yozakura-souki]] | 1

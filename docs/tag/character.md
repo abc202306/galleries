@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-17T21:40:02+08:00
+mtime: 2025-12-18T22:05:36+08:00
 ---
 
 # character
@@ -56,6 +56,7 @@ mtime: 2025-12-17T21:40:02+08:00
 1. [[djeeta]] | 1
 1. [[dori-sangemah-bay]] | 1
 1. [[einhart-stratos]] | 1
+1. [[eizen]] | 1
 1. [[emeralda-kasim]] | 1
 1. [[fern]] | 1
 1. [[fine]] | 4
@@ -129,6 +130,7 @@ mtime: 2025-12-17T21:40:02+08:00
 1. [[laala-manaka]] | 1
 1. [[laffey]] | 2
 1. [[lana]] | 1
+1. [[laphicet]] | 1
 1. [[laplus-darknesss]] | 1
 1. [[le-malin]] | 1
 1. [[le-triomphant]] | 1

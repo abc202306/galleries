@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-17T21:40:02+08:00
+mtime: 2025-12-18T22:05:36+08:00
 ---
 
 # parody
@@ -93,6 +93,7 @@ mtime: 2025-12-17T21:40:02+08:00
 1. [[sousou-no-frieren-or-frieren-beyond-journeys-end]] | 1
 1. [[spy-x-family]] | 4
 1. [[takopii-no-genzai]] | 1
+1. [[tales-of-berseria]] | 1
 1. [[tantei-opera-milky-holmes]] | 1
 1. [[the-idolmaster]] | 33
 1. [[the-legend-of-zelda]] | 1

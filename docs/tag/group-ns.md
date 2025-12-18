@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-17T22:31:59+08:00
+mtime: 2025-12-18T22:05:36+08:00
 ---
 
 # group-ns
@@ -231,6 +231,7 @@ mtime: 2025-12-17T22:31:59+08:00
 1. [[tenta-cruise]] | 1
 1. [[testa-kitchen]] | 2
 1. [[the-dungeon-in-yarn]] | 1
+1. [[tigenabeya]] | 1
 1. [[tokyo-tsunamushi-land]] | 1
 1. [[tonkotsu-fuumi]] | 1
 1. [[tonzura-douchuu]] | 1

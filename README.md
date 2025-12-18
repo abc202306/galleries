@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2025-12-18T18:40:00+08:00
+mtime: 2025-12-18T22:05:36+08:00
 ---
 
 # README
@@ -33,32 +33,57 @@ mtime: 2025-12-18T18:40:00+08:00
 | [[docs]]/[[notation]] | 1 |
 | [[docs]]/[[property]] | 4 |
 | [[docs]]/[[tag]] | 14 |
-| [[galleries]] | 1368 |
-| [[galleries]]/[[exhentai]] | 562 |
+| [[galleries]] | 1369 |
+| [[galleries]]/[[exhentai]] | 563 |
+| [[galleries]]/[[exhentai]]/[[2012]] | 2 |
+| [[galleries]]/[[exhentai]]/[[2014]] | 3 |
+| [[galleries]]/[[exhentai]]/[[2015]] | 4 |
+| [[galleries]]/[[exhentai]]/[[2016]] | 4 |
+| [[galleries]]/[[exhentai]]/[[2017]] | 14 |
+| [[galleries]]/[[exhentai]]/[[2018]] | 12 |
+| [[galleries]]/[[exhentai]]/[[2019]] | 12 |
+| [[galleries]]/[[exhentai]]/[[2020]] | 10 |
+| [[galleries]]/[[exhentai]]/[[2021]] | 18 |
+| [[galleries]]/[[exhentai]]/[[2022]] | 24 |
+| [[galleries]]/[[exhentai]]/[[2023]] | 40 |
+| [[galleries]]/[[exhentai]]/[[2024]] | 100 |
+| [[galleries]]/[[exhentai]]/[[2025]] | 320 |
 | [[galleries]]/[[nhentai]] | 806 |
+| [[galleries]]/[[nhentai]]/[[2014]] | 26 |
+| [[galleries]]/[[nhentai]]/[[2015]] | 18 |
+| [[galleries]]/[[nhentai]]/[[2016]] | 18 |
+| [[galleries]]/[[nhentai]]/[[2017]] | 24 |
+| [[galleries]]/[[nhentai]]/[[2018]] | 42 |
+| [[galleries]]/[[nhentai]]/[[2019]] | 28 |
+| [[galleries]]/[[nhentai]]/[[2020]] | 46 |
+| [[galleries]]/[[nhentai]]/[[2021]] | 38 |
+| [[galleries]]/[[nhentai]]/[[2022]] | 58 |
+| [[galleries]]/[[nhentai]]/[[2023]] | 76 |
+| [[galleries]]/[[nhentai]]/[[2024]] | 164 |
+| [[galleries]]/[[nhentai]]/[[2025]] | 268 |
 | [[notes]] | 7 |
 | [[property]] | 32 |
 | [[property]]/[[basic-property]] | 8 |
 | [[property]]/[[docs-property]] | 1 |
 | [[property]]/[[gallery-property]] | 22 |
 | [[property]]/[[notes-property]] | 1 |
-| [[tag]] | 1593 |
-| [[tag]]/[[artist]] | 533 |
+| [[tag]] | 1598 |
+| [[tag]]/[[artist]] | 534 |
 | [[tag]]/[[categories]] | 10 |
-| [[tag]]/[[character]] | 268 |
+| [[tag]]/[[character]] | 270 |
 | [[tag]]/[[cosplayer]] | 1 |
 | [[tag]]/[[female]] | 249 |
-| [[tag]]/[[group-ns]] | 246 |
+| [[tag]]/[[group-ns]] | 247 |
 | [[tag]]/[[keywords]] | 74 |
 | [[tag]]/[[language]] | 9 |
 | [[tag]]/[[location]] | 4 |
 | [[tag]]/[[male]] | 54 |
 | [[tag]]/[[mixed]] | 7 |
 | [[tag]]/[[other]] | 33 |
-| [[tag]]/[[parody]] | 104 |
+| [[tag]]/[[parody]] | 105 |
 | [[tag]]/[[temp]] | 1 |
 | [[templates]] | 2 |
-| [[uploader]] | 159 |
+| [[uploader]] | 160 |
 
 ## Views of [[gallery-base.base]]
 
@@ -486,11 +511,43 @@ function getProcessFilePromise(path, getSpecTypeFileContent){
 	return fileProcesser(file);
 }
 
+function batchMoveGalleryNoteFilesByYearUploaded() {
+	const files = app.vault.getFiles();
+	const mdfiles = app.vault.getMarkdownFiles();
+	mdfiles.filter(f=>f.path.startsWith("galleries/")).filter(f=>app.metadataCache.getFileCache(f)?.frontmatter?.up?.includes("[[gallery]]")).forEach(f=>{
+	    if (f.path.split("/").length!==3){
+	        return;
+	    }
+	    const year = app.metadataCache.getFileCache(f)?.frontmatter?.uploaded?.slice(0,4);
+	    const folderPath = f.parent.path+"/"+year;
+	    if (!app.vault.getFolderByPath(folderPath)){
+	        app.vault.createFolder(folderPath);
+	    }
+	})
+	mdfiles.filter(f=>f.path.startsWith("galleries/")).filter(f=>app.metadataCache.getFileCache(f)?.frontmatter?.up?.includes("[[gallery]]")).forEach(f=>{
+	    if (f.path.split("/").length!==3){
+	        return;
+	    }
+	    const year = app.metadataCache.getFileCache(f)?.frontmatter?.uploaded?.slice(0,4);
+	    const folderPath = f.parent.path+"/"+year;
+	    if (!app.vault.getFolderByPath(folderPath)){
+	        app.vault.createFolder(folderPath);
+	    }
+	    const pathPreffix = f.parent.path+"/"+f.basename;
+	    files.filter(f2=>f2.path.startsWith(pathPreffix)).forEach(f2=>{
+	        const newPath2 = folderPath+"/"+f2.name;
+	        app.vault.rename(f2,newPath2);
+	        console.log(newPath2);
+	    })
+	})
+}
+
 console.time("run_script")
 console.log(`==start (time="${new Date()}")`)
 
 let promiseList = [
-	createFilesFromUnresolvedLinksForAllGalleryNoteFiles()
+	createFilesFromUnresolvedLinksForAllGalleryNoteFiles(),
+	batchMoveGalleryNoteFilesByYearUploaded()
 ];
 
 promiseList = promiseList.concat([
