@@ -35,6 +35,7 @@ rating: 2.43
 uploaded: 2025-11-18T02:09:00Z
 ctime: 2025-12-05T19:36:35+08:00
 mtime: 2025-12-05T19:36:35+08:00
+title: "[Lumineko] Huohuo and Tail"
 ---
 
 # `[Lumineko] Huohuo and Tail`

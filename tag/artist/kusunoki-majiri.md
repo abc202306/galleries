@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:41+08:00
-mtime: 2025-12-16T20:55:17+08:00
+mtime: 2025-12-18T08:56:24+08:00
 ---
 
 # kusunoki-majiri
@@ -9,5 +9,5 @@ mtime: 2025-12-16T20:55:17+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [[nhentai-609916|コミック Mate legend Vol.66 2025年12月号 [DL版] ]]
+1. コミック Mate legend Vol.66 2025年12月号 [DL版] | [[nhentai-609916]]
 	- ![[nhentai-609916.webp|200]]

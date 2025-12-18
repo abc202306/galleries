@@ -54,6 +54,7 @@ rating: 4.63
 uploaded: 2025-12-05T08:11:00Z
 ctime: 2025-12-08T14:22:40+08:00
 mtime: 2025-12-08T14:22:40+08:00
+title: "[fanbox] onion (from 2023.01)"
 ---
 
 # `[fanbox] onion (from 2023.01)`

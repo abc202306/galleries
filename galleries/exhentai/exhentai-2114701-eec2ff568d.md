@@ -40,6 +40,7 @@ rating: 4.54
 uploaded: 2022-01-16T06:17:00Z
 ctime: 2025-12-05T19:20:17+08:00
 mtime: 2025-12-05T19:20:17+08:00
+title: yoyomax EP-1 Tomomi and doctor
 ---
 
 # `yoyomax EP-1 Tomomi and doctor`

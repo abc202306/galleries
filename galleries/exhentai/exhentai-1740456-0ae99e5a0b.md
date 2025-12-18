@@ -52,6 +52,7 @@ rating: 4.51
 uploaded: 2020-09-24T01:22:00Z
 ctime: 2025-12-05T19:45:56+08:00
 mtime: 2025-12-05T19:45:56+08:00
+title: "[HappyLambBarn] 悪魔の石板と呪いの犬姫"
 ---
 
 # `[HappyLambBarn] 悪魔の石板と呪いの犬姫`

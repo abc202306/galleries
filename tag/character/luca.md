@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:38+08:00
-mtime: 2025-12-16T20:55:00+08:00
+mtime: 2025-12-18T08:55:57+08:00
 ---
 
 # luca
@@ -9,5 +9,5 @@ mtime: 2025-12-16T20:55:00+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [[exhentai-1321378-e061a791cc|[RIN (モチ)] Dragon slave (ドラゴンクエストV) [中国翻訳] [DL版] ]]
+1. [RIN (モチ)] Dragon slave (ドラゴンクエストV) [中国翻訳] [DL版] | [[exhentai-1321378-e061a791cc]]
 	- ![[exhentai-1321378-e061a791cc.webp|200]]

@@ -32,6 +32,7 @@ cover: "[[nhentai-577389.webp]]"
 uploaded: 2025-06-06T14:11:05.877565+00:00
 ctime: 2025-12-05T17:03:38+08:00
 mtime: 2025-12-05T17:03:38+08:00
+title: "[Dr.VERMILION (ペテン師)] コトノハシマイETD (VOICEROID) [中国翻訳] [無修正] [DL版]"
 ---
 
 # `[Dr.VERMILION (ペテン師)] コトノハシマイETD (VOICEROID) [中国翻訳] [無修正] [DL版]`

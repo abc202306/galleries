@@ -34,6 +34,7 @@ ctime: 2025-12-05T15:49:01+08:00
 mtime: 2025-12-05T15:49:01+08:00
 parody:
 character:
+title: "[Asunaro Neat. (ろんな)] TSロリおじさんの冒険 オナニー編 [英訳] [DL版]"
 ---
 
 # `[Asunaro Neat. (ろんな)] TSロリおじさんの冒険 オナニー編 [英訳] [DL版]`

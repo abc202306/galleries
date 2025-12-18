@@ -30,6 +30,7 @@ cover: "[[nhentai-299171.png]]"
 uploaded: 2020-01-26T23:15:53.271794+00:00
 ctime: 2025-12-05T17:26:46+08:00
 mtime: 2025-12-05T17:26:46+08:00
+title: (C97) [Dr.VERMILION (ペテン師)] 和装少女きりたん (VOICEROID)
 ---
 
 # `(C97) [Dr.VERMILION (ペテン師)] 和装少女きりたん (VOICEROID)`

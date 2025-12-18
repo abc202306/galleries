@@ -34,6 +34,7 @@ cover: "[[nhentai-72574.jpg]]"
 uploaded: 2014-06-28T22:44:11.123342+00:00
 ctime: 2025-12-05T17:16:15+08:00
 mtime: 2025-12-05T17:16:15+08:00
+title: (例大祭8) [ひまわりまんぢぅ (倉澤まこと)] Sweet Lovely Syrup (東方Project) [英訳]
 ---
 
 # `(例大祭8) [ひまわりまんぢぅ (倉澤まこと)] Sweet Lovely Syrup (東方Project) [英訳]`

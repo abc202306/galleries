@@ -40,6 +40,7 @@ rating: 4.62
 uploaded: 2025-11-14T04:27:00Z
 ctime: 2025-12-05T19:17:19+08:00
 mtime: 2025-12-05T19:17:19+08:00
+title: genki tarou
 ---
 
 # `genki tarou`

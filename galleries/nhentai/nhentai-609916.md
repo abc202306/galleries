@@ -64,6 +64,7 @@ cover: "[[nhentai-609916.webp]]"
 uploaded: 2025-11-15T18:05:32.200963+00:00
 ctime: 2025-12-05T17:13:13+08:00
 mtime: 2025-12-05T17:13:13+08:00
+title: コミック Mate legend Vol.66 2025年12月号 [DL版]
 ---
 
 # `コミック Mate legend Vol.66 2025年12月号 [DL版]`

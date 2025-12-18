@@ -35,6 +35,7 @@ ctime: 2025-12-05T17:04:51+08:00
 mtime: 2025-12-05T17:04:51+08:00
 parody:
 character:
+title: "[MonsieuR (MUK)] Tiny Evil [英訳] [無修正] [DL版]"
 ---
 
 # `[MonsieuR (MUK)] Tiny Evil [英訳] [無修正] [DL版]`

@@ -36,6 +36,7 @@ mtime: 2025-12-05T17:04:34+08:00
 group:
 parody:
 character:
+title: "[きゃらだいん] ももかの恋 (COMIC LO 2022年1月号) [英訳] [DL版]"
 ---
 
 # `[きゃらだいん] ももかの恋 (COMIC LO 2022年1月号) [英訳] [DL版]`

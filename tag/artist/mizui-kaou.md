@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:41+08:00
-mtime: 2025-12-16T20:55:16+08:00
+mtime: 2025-12-18T08:56:21+08:00
 ---
 
 # mizui-kaou
@@ -9,5 +9,5 @@ mtime: 2025-12-16T20:55:16+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [[nhentai-48805|(C67) FlavorGraphics* (瑞井鹿央)] From Shinyokohama To Akihabara (週刊わたしのおにいちゃん) [英訳] ]]
+1. (C67) FlavorGraphics* (瑞井鹿央)] From Shinyokohama To Akihabara (週刊わたしのおにいちゃん) [英訳] | [[nhentai-48805]]
 	- ![[nhentai-48805.jpg|200]]

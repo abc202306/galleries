@@ -47,6 +47,7 @@ cover: "[[nhentai-481566.jpg]]"
 uploaded: 2023-11-15T09:49:36.430084+00:00
 ctime: 2025-12-05T15:25:18+08:00
 mtime: 2025-12-05T15:25:18+08:00
+title: コミック Mate legend Vol.54 2023年12月号 [DL版]
 ---
 
 # `コミック Mate legend Vol.54 2023年12月号 [DL版]`

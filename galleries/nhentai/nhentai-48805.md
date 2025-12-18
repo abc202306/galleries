@@ -34,6 +34,7 @@ uploaded: 2014-06-28T21:34:55.683331+00:00
 ctime: 2025-12-05T17:19:53+08:00
 mtime: 2025-12-05T17:19:53+08:00
 character:
+title: (C67) FlavorGraphics* (瑞井鹿央)] From Shinyokohama To Akihabara (週刊わたしのおにいちゃん) [英訳]
 ---
 
 # `(C67) FlavorGraphics_ (瑞井鹿央)] From Shinyokohama To Akihabara (週刊わたしのおにいちゃん) [英訳]`

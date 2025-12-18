@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:47+08:00
-mtime: 2025-12-16T20:54:40+08:00
+mtime: 2025-12-18T08:55:24+08:00
 ---
 
 # studio-fatality
@@ -9,5 +9,5 @@ mtime: 2025-12-16T20:54:40+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [[nhentai-591692|(C65) [STUDiO FATALITY (やなぎー)] FORBIDDEN FRUIT (シスタープリンセス) ]]
+1. (C65) [STUDiO FATALITY (やなぎー)] FORBIDDEN FRUIT (シスタープリンセス) | [[nhentai-591692]]
 	- ![[nhentai-591692.webp|200]]

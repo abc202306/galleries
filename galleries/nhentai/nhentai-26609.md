@@ -28,6 +28,7 @@ uploaded: 2014-06-28T20:22:12.760269+00:00
 ctime: 2025-12-05T16:23:39+08:00
 mtime: 2025-12-05T16:23:39+08:00
 character:
+title: "[Furaipan Daimaou - ふらいぱん大魔王] Ecoco no Heon - えここの絵本 (Ecoco) [Lolicon]"
 ---
 
 # `[Furaipan Daimaou - ふらいぱん大魔王] Ecoco no Heon - えここの絵本 (Ecoco) [Lolicon]`

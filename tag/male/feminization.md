@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:38+08:00
-mtime: 2025-12-16T20:54:37+08:00
+mtime: 2025-12-18T08:55:17+08:00
 ---
 
 # feminization
@@ -9,5 +9,5 @@ mtime: 2025-12-16T20:54:37+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [[exhentai-3360428-5eb428c7bb|[RIN (モチ)] IN LOVE AGAIN (ゼノギアス) [DL版] [中国翻訳] ]]
+1. [RIN (モチ)] IN LOVE AGAIN (ゼノギアス) [DL版] [中国翻訳] | [[exhentai-3360428-5eb428c7bb]]
 	- ![[exhentai-3360428-5eb428c7bb.webp|200]]

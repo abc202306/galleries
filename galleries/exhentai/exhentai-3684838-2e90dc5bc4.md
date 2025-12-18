@@ -34,6 +34,7 @@ rating: 4.81
 uploaded: 2025-12-14T08:54:00Z
 ctime: 2025-12-14T22:46:59+08:00
 mtime: 2025-12-14T22:46:59+08:00
+title: "[Artist] ちぽかん (CHIPOKAN) 2024-"
 ---
 
 # `[Artist] ちぽかん (CHIPOKAN) 2024-`

@@ -27,6 +27,7 @@ cover: "[[nhentai-591692.webp]]"
 uploaded: 2025-08-21T15:27:37.902814+00:00
 ctime: 2025-12-05T17:22:44+08:00
 mtime: 2025-12-05T17:22:44+08:00
+title: (C65) [STUDiO FATALITY (やなぎー)] FORBIDDEN FRUIT (シスタープリンセス)
 ---
 
 # `(C65) [STUDiO FATALITY (やなぎー)] FORBIDDEN FRUIT (シスタープリンセス)`

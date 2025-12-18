@@ -36,6 +36,7 @@ uploaded: 2023-04-19T19:35:29.389068+00:00
 ctime: 2025-12-05T16:33:27+08:00
 mtime: 2025-12-05T16:33:27+08:00
 character:
+title: "[imotare (moyori)] ふたりでふたご - Extra Galleries [英訳]"
 ---
 
 # `[imotare (moyori)] ふたりでふたご - Extra Galleries [英訳]`

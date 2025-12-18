@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:32+08:00
-mtime: 2025-12-16T20:54:33+08:00
+mtime: 2025-12-18T08:55:08+08:00
 ---
 
 # screenshots
@@ -9,5 +9,5 @@ mtime: 2025-12-16T20:54:33+08:00
 
 ![[gallery-dynamic-base.base]]
 
-1. [[exhentai-2248673-3bb2a907cd|LostLife ]]
+1. LostLife | [[exhentai-2248673-3bb2a907cd]]
 	- ![[exhentai-2248673-3bb2a907cd.webp|200]]

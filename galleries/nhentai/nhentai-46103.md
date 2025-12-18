@@ -27,6 +27,7 @@ mtime: 2025-12-05T16:59:14+08:00
 group:
 parody:
 character:
+title: Happy Birthday [English] [Rewrite] [olddog51]
 ---
 
 # `Happy Birthday [English] [Rewrite] [olddog51]`

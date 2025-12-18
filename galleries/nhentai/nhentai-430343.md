@@ -37,6 +37,7 @@ cover: "[[nhentai-430343.png]]"
 uploaded: 2022-12-03T18:32:11.923551+00:00
 ctime: 2025-12-04T21:19:29+08:00
 mtime: 2025-12-04T21:19:29+08:00
+title: "[Dr.VERMILION (ペテン師)] import emotion! (VOICEROID) [中国翻訳] [無修正] [DL版]"
 ---
 
 # `[Dr.VERMILION (ペテン師)] import emotion! (VOICEROID) [中国翻訳] [無修正] [DL版]`
