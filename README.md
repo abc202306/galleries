@@ -362,7 +362,7 @@ async function getNoteMetaFileContent(_title, ctime, mtime) {
 	const preFMBlock = `
 up:
   - "[[collection]]"`;
-    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(/(?<=\n)## note-list\n.*/,"## note-list\n\n"+gstr+"\n");
+    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(/(?<=\n)## note-list\n[^]*/,"## note-list\n\n"+gstr+"\n");
 
     return newData;
 }
@@ -377,7 +377,7 @@ async function getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaF
 
 	const gstr = gls.map(getGalleryPathRepresentationStr).join("\n");
 
-    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(/(?<=\n)## gallery-notes\n.*/,"## gallery-notes\n\n"+gstr+"\n");
+    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(/(?<=\n)## gallery-notes\n[^]*/,"## gallery-notes\n\n"+gstr+"\n");
 
     return newData;
 }

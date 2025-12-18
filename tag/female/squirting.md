@@ -5,7 +5,7 @@ mtime: 2025-12-18T09:44:58+08:00
 
 # squirting
 
-> seealso: [[female]], [[keywords]], [[chinese]]
+> seealso: [[female]], [[keywords]]
 
 ![[gallery-dynamic-base.base]]
 

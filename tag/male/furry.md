@@ -5,7 +5,7 @@ mtime: 2025-12-18T09:44:31+08:00
 
 # furry
 
-> seealso: [[female]], [[male]], [[chinese]]
+> seealso: [[female]], [[male]]
 
 ![[gallery-dynamic-base.base]]
 

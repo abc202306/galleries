@@ -5,7 +5,7 @@ mtime: 2025-12-18T18:21:16+08:00
 
 # translated
 
-> seealso: [[language]], [[chinese]]
+> seealso: [[language]]
 
 ![[gallery-dynamic-base.base]]
 

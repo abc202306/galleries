@@ -5,7 +5,7 @@ mtime: 2025-12-18T09:44:59+08:00
 
 # sex-toys
 
-> seealso: [[female]], [[keywords]], [[male]], [[chinese]]
+> seealso: [[female]], [[keywords]], [[male]]
 
 ![[gallery-dynamic-base.base]]
 

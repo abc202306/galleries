@@ -5,7 +5,7 @@ mtime: 2025-12-18T09:45:17+08:00
 
 # anal
 
-> seealso: [[female]], [[keywords]], [[male]], [[chinese]]
+> seealso: [[female]], [[keywords]], [[male]]
 
 ![[gallery-dynamic-base.base]]
 

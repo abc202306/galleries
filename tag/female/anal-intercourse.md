@@ -5,7 +5,7 @@ mtime: 2025-12-18T09:45:17+08:00
 
 # anal-intercourse
 
-> seealso: [[female]], [[keywords]], [[chinese]]
+> seealso: [[female]], [[keywords]]
 
 ![[gallery-dynamic-base.base]]
 

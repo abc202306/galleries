@@ -5,7 +5,7 @@ mtime: 2025-12-18T09:44:00+08:00
 
 # 9Cirno999
 
-> seealso: [[uploader]], [[chinese]]
+> seealso: [[uploader]]
 
 ![[gallery-dynamic-base.base]]
 

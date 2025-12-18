@@ -5,7 +5,7 @@ mtime: 2025-12-18T09:44:04+08:00
 
 # original
 
-> seealso: [[parody]], [[chinese]]
+> seealso: [[parody]]
 
 ![[gallery-dynamic-base.base]]
 

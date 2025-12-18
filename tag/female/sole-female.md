@@ -5,7 +5,7 @@ mtime: 2025-12-18T18:19:30+08:00
 
 # sole-female
 
-> seealso: [[female]], [[keywords]], [[chinese]]
+> seealso: [[female]], [[keywords]]
 
 ![[gallery-dynamic-base.base]]
 

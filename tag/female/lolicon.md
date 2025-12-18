@@ -5,7 +5,7 @@ mtime: 2025-12-18T18:19:52+08:00
 
 # lolicon
 
-> seealso: [[female]], [[keywords]], [[tracked-tags]], [[chinese]]
+> seealso: [[female]], [[keywords]], [[tracked-tags]]
 
 ![[gallery-dynamic-base.base]]
 
