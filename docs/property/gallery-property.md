@@ -26,6 +26,7 @@ mtime: 2025-12-17T20:22:48+08:00
 1. [[property-parody]]
 1. [[property-rating]]
 1. [[property-temp]]
+1. [[property-title]]
 1. [[property-uploaded]]
 1. [[property-uploader]]
 1. [[property-visible]]

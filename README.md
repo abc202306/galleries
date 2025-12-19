@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2025-12-19T19:27:47+08:00
+mtime: 2025-12-19T20:05:53+08:00
 ---
 
 # README
@@ -64,10 +64,10 @@ mtime: 2025-12-19T19:27:47+08:00
 | [[galleries]]/[[nhentai]]/[[2024]] | 164 | 82 | 82 |
 | [[galleries]]/[[nhentai]]/[[2025]] | 268 | 134 | 134 |
 | [[notes]] | 7 | 5 | 2 |
-| [[property]] | 32 | 32 | 0 |
+| [[property]] | 33 | 33 | 0 |
 | [[property]]/[[basic-property]] | 8 | 8 | 0 |
 | [[property]]/[[docs-property]] | 1 | 1 | 0 |
-| [[property]]/[[gallery-property]] | 22 | 22 | 0 |
+| [[property]]/[[gallery-property]] | 23 | 23 | 0 |
 | [[property]]/[[notes-property]] | 1 | 1 | 0 |
 | [[tag]] | 1598 | 1598 | 0 |
 | [[tag]]/[[artist]] | 534 | 534 | 0 |
