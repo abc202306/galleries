@@ -153,6 +153,29 @@ mtime: 2025-12-19T13:37:11+08:00
 ### Build Index Content
 
 ```js
+
+const config = {
+	path: {
+		folder: {
+			tag: "tag/",
+			gallery: "galleries/",
+			property: "property/",
+			uploader: "uploader/",
+			docsTag: "docs/tag/",
+			docsYear: "docs/year/",
+		},
+		file: {
+			readme: "README.md",
+			tag: "docs/docs/tag.md",
+			uploader: "docs/docs/uploader.md",
+			notes: "docs/collection/notes.md",
+			gallery: "docs/collection/gallery.md",
+			exhentai: "docs/galleries/exhentai.md",
+			nhentai: "docs/galleries/nhentai.md"
+		}
+	}
+}
+
 function getLocalISOStringWithTimezone() {
     const date = new Date();
     const pad = n => String(n).padStart(2, "0");
@@ -228,8 +251,8 @@ function getTagFileContent(title, ctime, mtime) {
 	const f = app.metadataCache.getFirstLinkpathDest(title);
     const paths = [...app.metadataCache.getBacklinksForFile(f).data.keys()];
 
-    const ngstr = getNGStr(paths.filter(i => !i.startsWith("galleries/")).filter(i => i !== "README.md"));
-    const gstr = getGStr(paths.filter(i => i.startsWith("galleries/")));
+    const ngstr = getNGStr(paths.filter(i => !i.startsWith(config.path.folder.gallery)).filter(i => i !== config.path.file.readme));
+    const gstr = getGStr(paths.filter(i => i.startsWith(config.path.folder.gallery)));
 	
     return `---
 ctime: ${ctime}
@@ -252,9 +275,9 @@ function getYearFileContent(title, ctime, mtime) {
 	const f = app.metadataCache.getFirstLinkpathDest(title);
     const paths = [...app.metadataCache.getBacklinksForFile(f).data.keys()];
 
-    const ngstr = getNGStr(paths.filter(i => !i.startsWith("galleries/")).filter(i => i !== "README.md"));
+    const ngstr = getNGStr(paths.filter(i => !i.startsWith(config.path.folder.gallery)).filter(i => i !== config.path.file.readme));
 
-	const galleryNotePaths = app.vault.getMarkdownFiles().filter(f=>f.path.startsWith("galleries/")).filter(f=>getYear(f)===title);
+	const galleryNotePaths = app.vault.getMarkdownFiles().filter(f=>f.path.startsWith(config.path.folder.gallery)).filter(f=>getYear(f)===title);
     const gstr = getGStr(galleryNotePaths);
 	
     return `---
@@ -289,7 +312,7 @@ function toValueArray(value) {
 function getTagGroupMOC(title) {
     const property = title.replace(/-ns$/, "");
     const galleryMDFileCaches = app.vault.getMarkdownFiles()
-        .filter(f => f.path.startsWith("galleries/"))
+        .filter(f => f.path.startsWith(config.path.folder.gallery))
         .map(f => app.metadataCache.getFileCache(f));
     return galleryMDFileCaches
         .flatMap(fc => (fc?.frontmatter || new Object())[property])
@@ -323,7 +346,7 @@ ${getTagGroupMOC(title)}
 function getTagCount(tagNameSpaceStr) {
     const property = tagNameSpaceStr.replace(/-ns$/, "");
     const galleryMDFileCaches = app.vault.getMarkdownFiles()
-        .filter(f => f.path.startsWith("galleries/"))
+        .filter(f => f.path.startsWith(config.path.folder.gallery))
         .map(f => app.metadataCache.getFileCache(f));
     return galleryMDFileCaches
         .flatMap(fc => (fc?.frontmatter || new Object())[property])
@@ -371,7 +394,7 @@ function getPropertyFileContent(title, ctime, mtime) {
 	const f = app.metadataCache.getFirstLinkpathDest(title);
     const paths = [...app.metadataCache.getBacklinksForFile(f).data.keys()];
 
-    const ngstr = getNGStr(paths.filter(i => !i.startsWith("galleries/")).filter(i => i !== "README.md"));
+    const ngstr = getNGStr(paths.filter(i => !i.startsWith(config.path.folder.gallery)).filter(i => i !== config.path.file.readme));
 	
     return `---
 ctime: ${ctime}
@@ -403,7 +426,7 @@ mtime: ${mtime}
 }
 
 async function getReadmeFileContent(_title, ctime, mtime) {
-    const file = app.vault.getAbstractFileByPath("README.md");
+    const file = app.vault.getAbstractFileByPath(config.path.file.readme);
     const fileContent = await app.vault.read(file);
 
     const files = app.vault.getFiles();
@@ -422,7 +445,7 @@ ${folders.map(folder =>
 }
 
 async function getNoteMetaFileContent(_title, ctime, mtime) {
-	const metaFilePath = "docs/collection/notes.md";
+	const metaFilePath = config.path.file.notes;
 	const noteFiles = app.vault.getMarkdownFiles()
 		.filter(f=>toValueArray(
 			app.metadataCache.getFileCache(f)?.frontmatter?.up)
@@ -464,7 +487,7 @@ async function getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaF
 }
 
 async function getSpecGalleryMetaFileContent(_title, ctime, mtime) {
-	const metaFilePath = "docs/collection/gallery.md";
+	const metaFilePath = config.path.file.gallery;
 	const galleryNoteFiles = app.vault.getMarkdownFiles()
 		.filter(f=>toValueArray(
 			app.metadataCache.getFileCache(f)?.frontmatter?.up)
@@ -478,7 +501,7 @@ bases:
 }
 
 async function getSpecEXHentaiGalleryMetaFileContent(_title, ctime, mtime) {
-	const metaFilePath = "docs/galleries/exhentai.md";
+	const metaFilePath = config.path.file.exhentai;
 	const galleryNoteFiles = app.vault.getMarkdownFiles()
 		.filter(f=>toValueArray(
 			app.metadataCache.getFileCache(f)?.frontmatter?.up)
@@ -488,7 +511,7 @@ async function getSpecEXHentaiGalleryMetaFileContent(_title, ctime, mtime) {
 }
 
 async function getSpecNHentaiGalleryMetaFileContent(_title, ctime, mtime) {
-	const metaFilePath = "docs/galleries/nhentai.md";
+	const metaFilePath = config.path.file.nhentai;
 	const galleryNoteFiles = app.vault.getMarkdownFiles()
 		.filter(f=>toValueArray(
 			app.metadataCache.getFileCache(f)?.frontmatter?.up)
@@ -607,7 +630,7 @@ function getYear(galleryNoteFile) {
 function batchMoveGalleryNoteFilesByYearUploaded() {
 	const files = app.vault.getFiles();
 	const mdfiles = app.vault.getMarkdownFiles();
-	mdfiles.filter(f=>f.path.startsWith("galleries/")).filter(f=>app.metadataCache.getFileCache(f)?.frontmatter?.up?.includes("[[gallery]]")).forEach(f=>{
+	mdfiles.filter(f=>f.path.startsWith(config.path.folder.gallery)).filter(f=>app.metadataCache.getFileCache(f)?.frontmatter?.up?.includes("[[gallery]]")).forEach(f=>{
 	    if (f.path.split("/").length!==3){
 	        return;
 	    }
@@ -617,7 +640,7 @@ function batchMoveGalleryNoteFilesByYearUploaded() {
 	        app.vault.createFolder(folderPath);
 	    }
 	})
-	mdfiles.filter(f=>f.path.startsWith("galleries/")).filter(f=>app.metadataCache.getFileCache(f)?.frontmatter?.up?.includes("[[gallery]]")).forEach(f=>{
+	mdfiles.filter(f=>f.path.startsWith(config.path.folder.gallery)).filter(f=>app.metadataCache.getFileCache(f)?.frontmatter?.up?.includes("[[gallery]]")).forEach(f=>{
 	    if (f.path.split("/").length!==3){
 	        return;
 	    }
@@ -644,24 +667,24 @@ let promiseList = [
 ];
 
 promiseList = promiseList.concat([
-	["README.md", getReadmeFileContent],
-	["docs/docs/uploader.md", getUploaderGroupFileContent],
-	["docs/docs/tag.md", getTagMetaFileContent],
-	["docs/collection/notes.md", getNoteMetaFileContent],
-	["docs/collection/gallery.md", getSpecGalleryMetaFileContent],
-	["docs/galleries/exhentai.md", getSpecEXHentaiGalleryMetaFileContent],
-	["docs/galleries/nhentai.md", getSpecNHentaiGalleryMetaFileContent],
+	[config.path.file.readme, getReadmeFileContent],
+	[config.path.file.uploader, getUploaderGroupFileContent],
+	[config.path.file.tag, getTagMetaFileContent],
+	[config.path.file.notes, getNoteMetaFileContent],
+	[config.path.file.gallery, getSpecGalleryMetaFileContent],
+	[config.path.file.exhentai, getSpecEXHentaiGalleryMetaFileContent],
+	[config.path.file.nhentai, getSpecNHentaiGalleryMetaFileContent],
 ].map(([path, getSpecTypeFileContent])=>(async()=>{
 	await getProcessFilePromise(path, getSpecTypeFileContent);
 	console.log("finished:", getSpecTypeFileContent.name, path)
 })()));
 
 promiseList = promiseList.concat([
-	["docs/tag/", getTagGroupFileContent],
-	["docs/year/", getYearFileContent],
-	["property/", getPropertyFileContent],
-	["tag/", getTagFileContent],
-	["uploader/", getTagFileContent]
+	[config.path.folder.docsTag, getTagGroupFileContent],
+	[config.path.folder.docsYear, getYearFileContent],
+	[config.path.folder.property, getPropertyFileContent],
+	[config.path.folder.tag, getTagFileContent],
+	[config.path.folder.uploader, getTagFileContent]
 ].map(([rootDirPath, getSpecTypeFileContent])=>(async()=>{
 	await Promise.all(app.vault.getMarkdownFiles()
 	    .filter(f => f.path.startsWith(rootDirPath))
