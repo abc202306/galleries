@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:39+08:00
-mtime: 2025-12-19T14:11:44+08:00
+mtime: 2025-12-19T20:29:19+08:00
 ---
 
 # steve-strange
@@ -13,8 +13,13 @@ mtime: 2025-12-19T14:11:44+08:00
 
 ### 2023
 
+#### 2023-10
+
 1. `David and Ella Full Batch + Extras` | [[exhentai-2708253-c25f931c8f]]
 	- ![[exhentai-2708253-c25f931c8f.webp|200]]
+
+#### 2023-07
+
 1. `David and Ella 2nd batch` | [[exhentai-2616364-16475e46b5]]
 	- ![[exhentai-2616364-16475e46b5.webp|200]]
 1. `David and Ella` | [[exhentai-2600535-28ca405e7a]]

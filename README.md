@@ -263,7 +263,19 @@ function getGStrASGroupedList(galleryNotePaths) {
     const grouped = groupBy(gls, (gnPath) => getYear(app.vault.getAbstractFileByPath(gnPath)));
     const parts = grouped
         .sort((a, b) => b[0].localeCompare(a[0]))
-        .flatMap(([key, group]) => [`### ${key}`, group.map(getGalleryPathRepresentationStr).join("\n")]);
+        .flatMap(([key, group]) => {
+			const grouped02 = groupBy(group, (gnPath) => getMonth(app.vault.getAbstractFileByPath(gnPath)));
+			const parts02 = grouped02
+		        .sort((a, b) => b[0].localeCompare(a[0]))
+				.flatMap(([key02, group02]) => [
+					`#### ${key02}`,
+					group02.map(getGalleryPathRepresentationStr).join("\n")
+				])
+			return [
+				`### ${key}`,
+				...parts02
+			]
+		});
     return parts.join("\n\n");
 }
 
@@ -571,6 +583,10 @@ function getProcessFilePromise(path, getSpecTypeFileContent) {
 
 function getYear(galleryNoteFile) {
     return app.metadataCache.getFileCache(galleryNoteFile)?.frontmatter?.uploaded?.slice(0, 4) || "1000";
+}
+
+function getMonth(galleryNoteFile) {
+    return app.metadataCache.getFileCache(galleryNoteFile)?.frontmatter?.uploaded?.slice(0, 7) || "1000-01";
 }
 
 function batchMoveGalleryNoteFilesByYearUploaded() {
