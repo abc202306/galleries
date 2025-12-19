@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:33+08:00
-mtime: 2025-12-18T09:44:05+08:00
+mtime: 2025-12-19T14:10:30+08:00
 ---
 
 # ongeki
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:05+08:00
 > seealso: [[parody]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[ゆずみつ砂糖] つむぎ孕ませ (オンゲキ)` | [[exhentai-3684875-7e6d972dff]]
 	- ![[exhentai-3684875-7e6d972dff.webp|200]]

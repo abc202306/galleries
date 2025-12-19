@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:41+08:00
-mtime: 2025-12-18T09:46:04+08:00
+mtime: 2025-12-19T14:11:55+08:00
 ---
 
 # makabe-gorou
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:04+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[HAMMER_HEAD (真壁吾郎)] HAMMER_HEAD アイマス総集編+ (アイドルマスター シンデレラガールズ、アイドルマスター シャイニーカラーズ) [DL版]` | [[nhentai-578637]]
 	- ![[nhentai-578637.webp|200]]

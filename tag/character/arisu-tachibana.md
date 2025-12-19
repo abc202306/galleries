@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:37+08:00
-mtime: 2025-12-18T09:45:37+08:00
+mtime: 2025-12-19T14:11:14+08:00
 ---
 
 # arisu-tachibana
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:37+08:00
 > seealso: [[character]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `Loli Cunnygram + Loli Streams` | [[exhentai-3673326-5d8c116322]]
 	- ![[exhentai-3673326-5d8c116322.webp|200]]
@@ -25,7 +29,13 @@ mtime: 2025-12-18T09:45:37+08:00
 	- ![[nhentai-578637.webp|200]]
 1. `akifn` | [[exhentai-3334696-813b0245e6]]
 	- ![[exhentai-3334696-813b0245e6.webp|200]]
+
+### 2024
+
 1. `(Cool Star Festiv@l 02) [ぴりしゅが (ピリ辛シュガー)] 橘ありすの秘密 (アイドルマスター シンデレラガールズ) [中国翻訳]` | [[nhentai-515701]]
 	- ![[nhentai-515701.jpg|200]]
+
+### 2023
+
 1. `[けれの帝国 (けれの)] 小学生のおまんこ大好きだと出来るもの、なに? (アイドルマスター シンデレラガールズ) [中国翻訳] [DL版]` | [[nhentai-470966]]
 	- ![[nhentai-470966.png|200]]

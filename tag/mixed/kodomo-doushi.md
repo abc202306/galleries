@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:31+08:00
-mtime: 2025-12-18T22:34:19+08:00
+mtime: 2025-12-19T14:10:34+08:00
 ---
 
 # kodomo-doushi
@@ -8,6 +8,10 @@ mtime: 2025-12-18T22:34:19+08:00
 > seealso: [[tracked-tags]], [[female]], [[keywords]], [[mixed]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[Pixiv] あみ-せん (6059908)` | [[exhentai-3678714-1fea2cbd4c]]
 	- ![[exhentai-3678714-1fea2cbd4c.webp|200]]
@@ -43,6 +47,9 @@ mtime: 2025-12-18T22:34:19+08:00
 	- ![[nhentai-553728.webp|200]]
 1. `[はんぶん虚弱] skebで描いたこいしちゃん漫画 (東方Project)` | [[nhentai-553361]]
 	- ![[nhentai-553361.webp|200]]
+
+### 2024
+
 1. `[虹幻工房 (リオえもん)] ペどゆり [英訳] [DL版]` | [[nhentai-542084]]
 	- ![[nhentai-542084.webp|200]]
 1. `[どあのぶ (里月ちよ, みついろ)] おもらしバレたらおしまい! (お兄ちゃんはおしまい!) [中国翻訳] [DL版]` | [[exhentai-3054386-ef028d14a3]]
@@ -59,6 +66,9 @@ mtime: 2025-12-18T22:34:19+08:00
 	- ![[exhentai-2904397-c548dd5378.webp|200]]
 1. `COMIC LO 2024年6月号 [DL版]` | [[exhentai-2904331-8f300b5938]]
 	- ![[exhentai-2904331-8f300b5938.webp|200]]
+
+### 2023
+
 1. `[無邪気な懐中時計 (ウタタネ)] ～Faily Tales～百合えっち [DL版]` | [[exhentai-2644620-027d10acee]]
 	- ![[exhentai-2644620-027d10acee.webp|200]]
 1. `(COMIC1☆10) [鈴根らい地下室 (鈴根らい)] のじゃロリババア狐さまとショタ` | [[exhentai-2562280-c5ab9ed9b3]]

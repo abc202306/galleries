@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:49+08:00
-mtime: 2025-12-18T09:44:53+08:00
+mtime: 2025-12-19T14:10:57+08:00
 ---
 
 # aparachiya
@@ -9,7 +9,14 @@ mtime: 2025-12-18T09:44:53+08:00
 
 ![[gallery-dynamic-base.base]]
 
+## gallery-notes
+
+### 2023
+
 1. `[アパラチ屋 (かぶ)] 紅魔館の大黒柱 (東方Project) [中国翻訳] [DL版]` | [[exhentai-2678956-f40f3b5aee]]
 	- ![[exhentai-2678956-f40f3b5aee.webp|200]]
+
+### 2022
+
 1. `[アパラチ屋 (かぶ)] 魔法少女フランは絶対に負けない (東方Project) [DL版]` | [[exhentai-2313988-0ad4b5200c]]
 	- ![[exhentai-2313988-0ad4b5200c.webp|200]]

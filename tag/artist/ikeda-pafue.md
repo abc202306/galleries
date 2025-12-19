@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:42+08:00
-mtime: 2025-12-18T09:46:10+08:00
+mtime: 2025-12-19T14:11:59+08:00
 ---
 
 # ikeda-pafue
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:10+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2024
 
 1. `[いけだぱふぇ] 今夜は愛娘眠らせて昏睡便女にしようっと! (COMIC LO 2024年4月号) [英訳] [DL版]` | [[nhentai-539305]]
 	- ![[nhentai-539305.webp|200]]

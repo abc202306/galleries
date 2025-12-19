@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-13T17:00:39+08:00
-mtime: 2025-12-18T09:45:41+08:00
+mtime: 2025-12-19T14:11:39+08:00
 ---
 
 # yuguyugu
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:41+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[Fantia] ゆぐゆぐファンクラブ (ゆぐゆぐ)` | [[exhentai-3677494-7ca44cc280]]
 	- ![[exhentai-3677494-7ca44cc280.webp|200]]

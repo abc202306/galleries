@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-13T17:00:39+08:00
-mtime: 2025-12-18T09:46:07+08:00
+mtime: 2025-12-19T14:11:57+08:00
 ---
 
 # kesugua
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:07+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[消すぐあ] 性処理係 (にじさんじ)` | [[exhentai-3675067-07f1970a83]]
 	- ![[exhentai-3675067-07f1970a83.webp|200]]

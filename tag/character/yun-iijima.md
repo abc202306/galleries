@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:35+08:00
-mtime: 2025-12-18T09:45:17+08:00
+mtime: 2025-12-19T14:10:58+08:00
 ---
 
 # yun-iijima
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:17+08:00
 > seealso: [[character]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[ひらひら (ひらり)] ゲーム会社の社蓄ちゃん総集編 -fullcolor- (NEW GAME!) [DL版]` | [[exhentai-3642804-f55b4857ac]]
 	- ![[exhentai-3642804-f55b4857ac.webp|200]]

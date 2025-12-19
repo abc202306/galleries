@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:42+08:00
-mtime: 2025-12-18T09:46:08+08:00
+mtime: 2025-12-19T14:11:58+08:00
 ---
 
 # kamasu
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:08+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[滑らか精肉店 (kamasu)] 天使が家に泊まりに来た。 [中国翻訳] [無修正]` | [[nhentai-572725]]
 	- ![[nhentai-572725.webp|200]]

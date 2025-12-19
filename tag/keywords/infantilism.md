@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:32+08:00
-mtime: 2025-12-18T09:44:18+08:00
+mtime: 2025-12-19T14:10:40+08:00
 ---
 
 # infantilism
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:18+08:00
 > seealso: [[keywords]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[砂漠] 女の子のおもちゃ [中国翻訳] [無修正] [DL版]` | [[nhentai-577520]]
 	- ![[nhentai-577520.webp|200]]

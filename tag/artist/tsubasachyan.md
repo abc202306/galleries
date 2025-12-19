@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:39+08:00
-mtime: 2025-12-18T09:45:46+08:00
+mtime: 2025-12-19T14:11:42+08:00
 ---
 
 # tsubasachyan
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:46+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[Fanart & Request] 白告姬` | [[exhentai-3671474-6e22902ce9]]
 	- ![[exhentai-3671474-6e22902ce9.webp|200]]

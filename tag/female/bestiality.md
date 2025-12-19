@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:46+08:00
-mtime: 2025-12-18T09:45:16+08:00
+mtime: 2025-12-19T14:11:34+08:00
 ---
 
 # bestiality
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:16+08:00
 > seealso: [[female]], [[keywords]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `Loli Cunnygram + Loli Streams` | [[exhentai-3673326-5d8c116322]]
 	- ![[exhentai-3673326-5d8c116322.webp|200]]
@@ -21,10 +25,16 @@ mtime: 2025-12-18T09:45:16+08:00
 	- ![[nhentai-578637.webp|200]]
 1. `[HAMMER_HEAD (真壁吾郎)] 的場梨沙ちゃんで学ぶ動物の交尾 (アイドルマスター シンデレラガールズ) [DL版]` | [[nhentai-577421]]
 	- ![[nhentai-577421.webp|200]]
+
+### 2024
+
 1. `[HarmoNeaR (よろず)] ブルアカ獣姦合同誌 Sow do on me! vol.1 (ブルーアーカイブ) [中国翻訳] [DL版]` | [[exhentai-3033791-cdf31cf953]]
 	- ![[exhentai-3033791-cdf31cf953.webp|200]]
 1. `[ro] グリムのむすめたち [中国翻訳] [DL版]` | [[exhentai-3006885-86e767c799]]
 	- ![[exhentai-3006885-86e767c799.webp|200]]
+
+### 2023
+
 1. `[シルバードッグ] 馬が有りって思われたのかな (推しの子)` | [[exhentai-2765246-ca4c6e6cc9]]
 	- ![[exhentai-2765246-ca4c6e6cc9.webp|200]]
 1. `[リビド108] 天翅ノ輪 (ブルーアーカイブ)` | [[nhentai-479457]]
@@ -33,5 +43,8 @@ mtime: 2025-12-18T09:45:16+08:00
 	- ![[exhentai-2719760-50d9cc4e27.webp|200]]
 1. `[Pixiv] Custom Udon GIF AND IMG (2018/04/27 - 2023/02/05)` | [[exhentai-2460083-e72f7a6183]]
 	- ![[exhentai-2460083-e72f7a6183.webp|200]]
+
+### 2020
+
 1. `[虹幻工房 (リオえもん)] えんじがいぬとえっちする本 [中国翻訳] [DL版]` | [[nhentai-337120]]
 	- ![[nhentai-337120.jpg|200]]

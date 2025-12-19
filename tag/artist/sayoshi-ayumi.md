@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-13T17:00:39+08:00
-mtime: 2025-12-18T09:45:52+08:00
+mtime: 2025-12-19T14:11:46+08:00
 ---
 
 # sayoshi-ayumi
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:52+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[Fantia] 作吉歩允のファンティア (作吉歩允) 2` | [[exhentai-3677496-ad11b9c6c8]]
 	- ![[exhentai-3677496-ad11b9c6c8.webp|200]]

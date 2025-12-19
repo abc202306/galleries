@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:42+08:00
-mtime: 2025-12-18T09:46:06+08:00
+mtime: 2025-12-19T14:11:57+08:00
 ---
 
 # kobayashi-oukei
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:06+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2021
 
 1. `(C86) [布団団 (小林王桂)] 恋する事案` | [[nhentai-362135]]
 	- ![[nhentai-362135.jpg|200]]

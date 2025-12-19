@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:43+08:00
-mtime: 2025-12-18T09:46:18+08:00
+mtime: 2025-12-19T14:12:08+08:00
 ---
 
 # deco
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:18+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2024
 
 1. `[で子] いつもと違うなつやすみ (COMIC LO 2024年8月号) [中国翻訳] [DL版]` | [[nhentai-527907]]
 	- ![[nhentai-527907.png|200]]

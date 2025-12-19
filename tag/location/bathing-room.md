@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:35+08:00
-mtime: 2025-12-18T09:44:36+08:00
+mtime: 2025-12-19T14:10:34+08:00
 ---
 
 # bathing-room
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:36+08:00
 > seealso: [[keywords]], [[location]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[Usacastle (うさ城まに)] ままかつどう2 [中国翻訳] [DL版]` | [[exhentai-3690021-e698e27b22]]
 	- ![[exhentai-3690021-e698e27b22.webp|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:43+08:00
-mtime: 2025-12-18T09:46:19+08:00
+mtime: 2025-12-19T14:12:10+08:00
 ---
 
 # chimaq
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:19+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `(C105) [あばらんち (チマQ)] ルナチャのないしょ (東方Project)` | [[nhentai-575999]]
 	- ![[nhentai-575999.webp|200]]

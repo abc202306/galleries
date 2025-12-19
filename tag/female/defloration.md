@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:46+08:00
-mtime: 2025-12-18T09:45:12+08:00
+mtime: 2025-12-19T14:11:30+08:00
 ---
 
 # defloration
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:12+08:00
 > seealso: [[female]], [[keywords]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[ZART (不確定)] お兄様の初めてを佳樹がこっそりいただきます。ゴンちゃんと。 (負けヒロインが多すぎる!) [中国翻訳]` | [[exhentai-3681880-7be0d26a4b]]
 	- ![[exhentai-3681880-7be0d26a4b.webp|200]]
@@ -59,6 +63,9 @@ mtime: 2025-12-18T09:45:12+08:00
 	- ![[exhentai-3351524-d9eaac6215.webp|200]]
 1. `[しぷおる] おじさんのおともだち [中国翻訳] [DL版]` | [[nhentai-554740]]
 	- ![[nhentai-554740.webp|200]]
+
+### 2024
+
 1. `[しぷおる] ずっと一緒にいてね [中国翻訳] [DL版]` | [[exhentai-3149859-64bc63f100]]
 	- ![[exhentai-3149859-64bc63f100.webp|200]]
 1. `[レオナト工房 (Leonat)] 万魔殿の実権者と子作り実習しちゃう本 (ブルーアーカイブ) [中国翻訳] [DL版]` | [[nhentai-535812]]
@@ -107,6 +114,9 @@ mtime: 2025-12-18T09:45:12+08:00
 	- ![[exhentai-2835302-a6d4b93fd4.webp|200]]
 1. `[岡田コウ] せんせいと、わたしと。 上 [中国翻訳] [無修正] [DL版]` | [[exhentai-2790750-36c31db764]]
 	- ![[exhentai-2790750-36c31db764.webp|200]]
+
+### 2023
+
 1. `[ダル・ゾデサデハーイ (ダル)] モモイがたくさん泣かされる本 (ブルーアーカイブ) [DL版]` | [[nhentai-488409]]
 	- ![[nhentai-488409.png|200]]
 1. `[kanabun] こっち向いてせんせぇっ!! [進行中]` | [[nhentai-454271]]
@@ -119,6 +129,9 @@ mtime: 2025-12-18T09:45:12+08:00
 	- ![[nhentai-442724.jpg|200]]
 1. `[野際かえで] かわいい梨々子 (COMIC LO 2023年02月号) [中国翻訳] [DL版]` | [[nhentai-435526]]
 	- ![[nhentai-435526.jpg|200]]
+
+### 2022
+
 1. `(C99) [ホロナミンZ (ホロナミン)] [re:] Rape [英訳]` | [[nhentai-425886]]
 	- ![[nhentai-425886.png|200]]
 1. `(C100) [HellDevice (nalvas)] さいみんこうびだいさくせん (SPY×FAMILY)` | [[nhentai-415883]]
@@ -139,6 +152,9 @@ mtime: 2025-12-18T09:45:12+08:00
 	- ![[nhentai-389342.jpg|200]]
 1. `yoyomax EP-1 Tomomi and doctor` | [[exhentai-2114701-eec2ff568d]]
 	- ![[exhentai-2114701-eec2ff568d.webp|200]]
+
+### 2021
+
 1. `[しいたけ農園 (Kanabun)] ビーチであそぼ [完全]` | [[nhentai-383488]]
 	- ![[nhentai-383488.png|200]]
 1. `[Circle FEED (ワウ)] 双ごっ娘` | [[nhentai-379731]]
@@ -147,12 +163,18 @@ mtime: 2025-12-18T09:45:12+08:00
 	- ![[nhentai-368681.jpg|200]]
 1. `[CHAOS-R] 神聖昂燐ダクリュオン ～正しい天使の育てかた～` | [[exhentai-1864094-ebbbbede46]]
 	- ![[exhentai-1864094-ebbbbede46.webp|200]]
+
+### 2020
+
 1. `[HappyLambBarn] 悪魔の石板と呪いの犬姫` | [[exhentai-1740456-0ae99e5a0b]]
 	- ![[exhentai-1740456-0ae99e5a0b.webp|200]]
 1. `[あたげ] 都合が良くて可愛いメス。 [中国翻訳]` | [[nhentai-307796]]
 	- ![[nhentai-307796.jpg|200]]
 1. `[Dr.VERMILION (ペテン師)] import emotion! (VOICEROID) [英訳] [無修正] [DL版]` | [[nhentai-298610]]
 	- ![[nhentai-298610.png|200]]
+
+### 2019
+
 1. `[HappyLambBarn] 良い夢?` | [[exhentai-1441702-ccfb872c30]]
 	- ![[exhentai-1441702-ccfb872c30.webp|200]]
 1. `COMIC LO 2019年5月号 [DL版]` | [[nhentai-269259]]
@@ -161,6 +183,9 @@ mtime: 2025-12-18T09:45:12+08:00
 	- ![[nhentai-269058.png|200]]
 1. `(C95) [T4P (猫玄)] 隣のロリは犯れるロリ。` | [[nhentai-260008]]
 	- ![[nhentai-260008.jpg|200]]
+
+### 2018
+
 1. `[RIN (モチ)] Dragon slave (ドラゴンクエストV) [中国翻訳] [DL版]` | [[exhentai-1321378-e061a791cc]]
 	- ![[exhentai-1321378-e061a791cc.webp|200]]
 1. `[ふみー] せんせいのススメ (COMIC LO 2016年02月号) [英訳] [DL版]` | [[nhentai-245316]]
@@ -171,19 +196,31 @@ mtime: 2025-12-18T09:45:12+08:00
 	- ![[nhentai-236355.jpg|200]]
 1. `(C93) [BOOKSたかだ (よしぷー)] ククリのえっちなまほうじん (魔法陣グルグル) [英訳]` | [[nhentai-222832]]
 	- ![[nhentai-222832.jpg|200]]
+
+### 2017
+
 1. `[御免なさい] 悪魔なしっぽ！ (コミック エグゼ 10) [中国翻訳] [DL版]` | [[exhentai-1156884-53df5ee0e8]]
 	- ![[exhentai-1156884-53df5ee0e8.webp|200]]
 1. `[FreakilyCharming] 奴隷との生活 -Teaching Feeling-` | [[exhentai-1126846-4979226052]]
 	- ![[exhentai-1126846-4979226052.webp|200]]
 1. `[岡田コウ] だれにもいえないコト + 8P小冊子` | [[nhentai-197142]]
 	- ![[nhentai-197142.jpg|200]]
+
+### 2016
+
 1. `[MonsieuR (MUK)] Tiny Evil [英訳] [無修正] [DL版]` | [[nhentai-173023]]
 	- ![[nhentai-173023.jpg|200]]
 1. `[青色症候群 (ユアサ)] 忍者依存症 Vol.8 (NARUTO -ナルト-) [英訳] [DL版]` | [[nhentai-161398]]
 	- ![[nhentai-161398.jpg|200]]
+
+### 2015
+
 1. `[冬野みかん] 女子小学生がいる日々 (COMIC LO 2015年12月号) [英訳]` | [[nhentai-150095]]
 	- ![[nhentai-150095.jpg|200]]
 1. `(COMIC1☆8) [HellDevice (nalvas)] とかいのキャベツ畑 (未確認で進行形)` | [[nhentai-126575]]
 	- ![[nhentai-126575.jpg|200]]
+
+### 2014
+
 1. `[前島龍] わたしのせんせい (COMIC LO 2014年5月号) [英訳]` | [[nhentai-120625]]
 	- ![[nhentai-120625.png|200]]

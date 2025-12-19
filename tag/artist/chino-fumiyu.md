@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:43+08:00
-mtime: 2025-12-18T09:46:19+08:00
+mtime: 2025-12-19T14:12:10+08:00
 ---
 
 # chino-fumiyu
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:19+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2024
 
 1. `(C93) [FANCY CUBE (稚乃ふみゆ)] かなよろず (よろず)` | [[nhentai-490888]]
 	- ![[nhentai-490888.jpg|200]]

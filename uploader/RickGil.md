@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T12:06:27+08:00
-mtime: 2025-12-18T09:43:50+08:00
+mtime: 2025-12-19T14:12:21+08:00
 ---
 
 # RickGil
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:43:50+08:00
 > seealso: [[uploader]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[こんにゃく] 葵ちゃんと秘密の生活指導 1-9 [日本語] [進行中]` | [[exhentai-3650841-b141016bab]]
 	- ![[exhentai-3650841-b141016bab.webp|200]]

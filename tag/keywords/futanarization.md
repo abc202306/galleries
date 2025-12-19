@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:32+08:00
-mtime: 2025-12-18T09:44:19+08:00
+mtime: 2025-12-19T14:10:40+08:00
 ---
 
 # futanarization
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:19+08:00
 > seealso: [[keywords]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[とうからち] 魔法少女ふたなり敗北 [英訳]` | [[nhentai-577236]]
 	- ![[nhentai-577236.webp|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:44+08:00
-mtime: 2025-12-18T09:44:58+08:00
+mtime: 2025-12-19T14:11:19+08:00
 ---
 
 # small-breasts
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:58+08:00
 > seealso: [[female]], [[keywords]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `Poruserin decensored & cleaned collection [HQC]` | [[exhentai-3675960-faf31bcc0d]]
 	- ![[exhentai-3675960-faf31bcc0d.webp|200]]
@@ -17,9 +21,15 @@ mtime: 2025-12-18T09:44:58+08:00
 	- ![[nhentai-578113.webp|200]]
 1. `[とうからち] 魔法少女ふたなり敗北 [英訳]` | [[nhentai-577236]]
 	- ![[nhentai-577236.webp|200]]
+
+### 2024
+
 1. `[朝比奈吉利] エンドレスエデン (ブルーアーカイブ) [中国語]` | [[exhentai-3024025-bc2c4fab76]]
 	- ![[exhentai-3024025-bc2c4fab76.webp|200]]
 1. `[red miso soup (赤だし)] 青春をやり直すなら今度こそ好きだった同級生と付き合って絶対ヤリまくりたい。[英訳] [DL版]` | [[exhentai-2856414-189d36ce5d]]
 	- ![[exhentai-2856414-189d36ce5d.webp|200]]
+
+### 2021
+
 1. `[とらのえのまきもの (トラノエ)] パプ小裏アカガールズ (プリパラ) [英訳] [DL版]` | [[nhentai-384863]]
 	- ![[nhentai-384863.jpg|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2025-12-18T22:33:48+08:00
+mtime: 2025-12-19T13:37:11+08:00
 ---
 
 # README
@@ -35,8 +35,8 @@ mtime: 2025-12-18T22:33:48+08:00
 | [[docs]]/[[property]] | 4 |
 | [[docs]]/[[tag]] | 14 |
 | [[docs]]/[[year]] | 13 |
-| [[galleries]] | 1369 |
-| [[galleries]]/[[exhentai]] | 563 |
+| [[galleries]] | 1370 |
+| [[galleries]]/[[exhentai]] | 564 |
 | [[galleries]]/[[exhentai]]/[[2012]] | 2 |
 | [[galleries]]/[[exhentai]]/[[2014]] | 3 |
 | [[galleries]]/[[exhentai]]/[[2015]] | 4 |
@@ -49,7 +49,7 @@ mtime: 2025-12-18T22:33:48+08:00
 | [[galleries]]/[[exhentai]]/[[2022]] | 24 |
 | [[galleries]]/[[exhentai]]/[[2023]] | 40 |
 | [[galleries]]/[[exhentai]]/[[2024]] | 100 |
-| [[galleries]]/[[exhentai]]/[[2025]] | 320 |
+| [[galleries]]/[[exhentai]]/[[2025]] | 321 |
 | [[galleries]]/[[nhentai]] | 806 |
 | [[galleries]]/[[nhentai]]/[[2014]] | 26 |
 | [[galleries]]/[[nhentai]]/[[2015]] | 18 |
@@ -115,8 +115,8 @@ mtime: 2025-12-18T22:33:48+08:00
 
 ### [[gallery-base.base#categories|categories]]
 
-1. [[gallery-base.base#categories/doujinshi|doujinshi]] | 464 | [[doujinshi]]
-2. [[gallery-base.base#categories/manga|manga]] | 112 | [[manga]]
+1. [[gallery-base.base#categories/doujinshi|doujinshi]] | 463 | [[doujinshi]]
+2. [[gallery-base.base#categories/manga|manga]] | 114 | [[manga]]
 3. [[gallery-base.base#categories/image-set|image-set]] | 37 | [[image-set]]
 4. [[gallery-base.base#categories/misc|misc]] | 23 | [[misc]]
 5. [[gallery-base.base#categories/artist-cg|artist-cg]] | 33 | [[artist-cg]]
@@ -133,12 +133,12 @@ mtime: 2025-12-18T22:33:48+08:00
 
 ### female
 
-1. [[gallery-base.base#female/lolicon|lolicon]] | 641 | [[lolicon]]
+1. [[gallery-base.base#female/lolicon|lolicon]] | 644 | [[lolicon]]
 2. [[gallery-base.base#female/rape|rape]] | 106 | [[rape]]
 
 ### male
 
-1. [[gallery-base.base#male/sole-male|sole-male]] | 290 | [[sole-male]]
+1. [[gallery-base.base#male/sole-male|sole-male]] | 293 | [[sole-male]]
 
 ### mixed
 
@@ -184,26 +184,53 @@ function getGalleryPathRepresentationStr(path) {
     const display2 = fc2?.frontmatter?.japanese || fc2?.frontmatter?.english || linktext2;
     const link2 = display2 === linktext2 ? ("| [[" + linktext2 + "]]") : ("`"+display2 + "` | [[" + linktext2 + "]]");
     const res = /^\[\[(?<linktext3>[^\|]*)\|?.*\]\]$/.exec(fc2?.frontmatter?.cover);
-    const coverEmbed = res ? ("\n\t- " + "![[" + res.groups.linktext3 + "|200]]") : "";
+    const coverEmbed = res ? ("\n\t- " + "![[" + res.groups.linktext3 + "|200]]") : fc2?.frontmatter?.cover ? ("\n\t- " + "![200](" + fc2?.frontmatter?.cover + ")") : "";
 
     return "1. " + link2 + coverEmbed;
 }
 
-function getNGStrAndGStr(title) {
-    const f = app.metadataCache.getFirstLinkpathDest(title);
-    const paths = [...app.metadataCache.getBacklinksForFile(f).data.keys()];
+function getNGStr(nonGalleryNotePaths) {
+	const ngls = nonGalleryNotePaths.sort();
+	const ngstr = ngls.map(path => "[[" + app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path)) + "]]").join(", ");
+	return ngstr;
+}
 
-    const ngls = paths.filter(i => !i.startsWith("galleries/")).filter(i => i !== "README.md").sort();
-    const gls = paths.filter(i => i.startsWith("galleries/")).sort(compareGalleryPathWithPropertyUploaded);
+function getGStrASList(galleryNotePaths) {
+	const gls = galleryNotePaths.sort(compareGalleryPathWithPropertyUploaded);
+	const gstr = gls.map(getGalleryPathRepresentationStr).join("\n");
+	return gstr;
+}
 
-    const ngstr = ngls.map(path => "[[" + app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path)) + "]]").join(", ");
-    const gstr = gls.map(getGalleryPathRepresentationStr).join("\n");
+function getGStrASGroupedList(galleryNotePaths) {
+	const gls = galleryNotePaths.sort(compareGalleryPathWithPropertyUploaded);
+	const groupTable = Object.entries(Object.groupBy(gls, gnPath=>getYear(app.vault.getAbstractFileByPath(gnPath))));
+	const parts = groupTable
+		.sort((row1,row2)=>{
+			const [key1, _group1] = row1;
+			const [key2, _group2] = row2;
+			return -key1.localeCompare(key2);
+		})
+		.flatMap(([key, group])=>{
+			return [
+				"### "+key,
+				group.map(getGalleryPathRepresentationStr).join("\n")
+			]
+		})
+	const gstr = parts.join("\n\n");
+	return gstr;
+}
 
-    return { ngstr, gstr };
+function getGStr(galleryNotePaths) {
+	return getGStrASGroupedList(galleryNotePaths);
 }
 
 function getTagFileContent(title, ctime, mtime) {
-    const { ngstr, gstr } = getNGStrAndGStr(title);
+	const f = app.metadataCache.getFirstLinkpathDest(title);
+    const paths = [...app.metadataCache.getBacklinksForFile(f).data.keys()];
+
+    const ngstr = getNGStr(paths.filter(i => !i.startsWith("galleries/")).filter(i => i !== "README.md"));
+    const gstr = getGStr(paths.filter(i => i.startsWith("galleries/")));
+	
     return `---
 ctime: ${ctime}
 mtime: ${mtime}
@@ -214,6 +241,32 @@ mtime: ${mtime}
 > seealso: ${ngstr}
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+${gstr}
+`;
+}
+
+function getYearFileContent(title, ctime, mtime) {
+	const f = app.metadataCache.getFirstLinkpathDest(title);
+    const paths = [...app.metadataCache.getBacklinksForFile(f).data.keys()];
+
+    const ngstr = getNGStr(paths.filter(i => !i.startsWith("galleries/")).filter(i => i !== "README.md"));
+
+	const galleryNotePaths = app.vault.getMarkdownFiles().filter(f=>f.path.startsWith("galleries/")).filter(f=>getYear(f)===title);
+    const gstr = getGStr(galleryNotePaths);
+	
+    return `---
+ctime: ${ctime}
+mtime: ${mtime}
+---
+
+# ${title}
+
+> seealso: ${ngstr}
+
+## gallery-notes
 
 ${gstr}
 `;
@@ -315,7 +368,11 @@ function getUploaderGroupFileContent(title, ctime, mtime) {
 }
 
 function getPropertyFileContent(title, ctime, mtime) {
-    const { ngstr, gstr } = getNGStrAndGStr(title);
+	const f = app.metadataCache.getFirstLinkpathDest(title);
+    const paths = [...app.metadataCache.getBacklinksForFile(f).data.keys()];
+
+    const ngstr = getNGStr(paths.filter(i => !i.startsWith("galleries/")).filter(i => i !== "README.md"));
+	
     return `---
 ctime: ${ctime}
 mtime: ${mtime}
@@ -399,10 +456,7 @@ async function getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaF
     const file = app.vault.getAbstractFileByPath(metaFilePath);
     const fileContent = await app.vault.read(file);
 
-	const gls = galleryNoteFiles.map(f=>f.path)
-		.sort(compareGalleryPathWithPropertyUploaded);
-
-	const gstr = gls.map(getGalleryPathRepresentationStr).join("\n");
+	const gstr = getGStr(galleryNoteFiles.map(f=>f.path));;
 
     const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(/(?<=\n)## gallery-notes\n[^]*/,"## gallery-notes\n\n"+gstr+"\n");
 
@@ -456,11 +510,12 @@ async function getFileContent(file, data, getSpecTypeFileContent) {
     const formattedData = data.replace(/\r/g, "");
 
     const newData1 = await getSpecTypeFileContent(title, ctimeInFrontMatter, mtimeInFrontMatter);
-    const newData2 = await getSpecTypeFileContent(title, ctime, mtime);
 
     if (formattedData === newData1) {
         return data;
     }
+
+	const newData2 = await getSpecTypeFileContent(title, ctime, mtime);
 
     return newData2;
 }
@@ -513,6 +568,10 @@ function getProcessFilePromise(path, getSpecTypeFileContent){
 	return fileProcesser(file);
 }
 
+function getYear(galleryNoteFile) {
+	return app.metadataCache.getFileCache(galleryNoteFile)?.frontmatter?.uploaded?.slice(0,4) || "1000";
+}
+
 function batchMoveGalleryNoteFilesByYearUploaded() {
 	const files = app.vault.getFiles();
 	const mdfiles = app.vault.getMarkdownFiles();
@@ -520,7 +579,7 @@ function batchMoveGalleryNoteFilesByYearUploaded() {
 	    if (f.path.split("/").length!==3){
 	        return;
 	    }
-	    const year = app.metadataCache.getFileCache(f)?.frontmatter?.uploaded?.slice(0,4);
+	    const year = getYear(f);
 	    const folderPath = f.parent.path+"/"+year;
 	    if (!app.vault.getFolderByPath(folderPath)){
 	        app.vault.createFolder(folderPath);
@@ -560,21 +619,29 @@ promiseList = promiseList.concat([
 	["docs/collection/gallery.md", getSpecGalleryMetaFileContent],
 	["docs/galleries/exhentai.md", getSpecEXHentaiGalleryMetaFileContent],
 	["docs/galleries/nhentai.md", getSpecNHentaiGalleryMetaFileContent],
-].map(([path, getSpecTypeFileContent])=>getProcessFilePromise(path, getSpecTypeFileContent)));
+].map(([path, getSpecTypeFileContent])=>(async()=>{
+	await getProcessFilePromise(path, getSpecTypeFileContent);
+	console.log("finished:", getSpecTypeFileContent.name, path)
+})()));
 
 promiseList = promiseList.concat([
 	["docs/tag/", getTagGroupFileContent],
+	["docs/year/", getYearFileContent],
 	["property/", getPropertyFileContent],
 	["tag/", getTagFileContent],
 	["uploader/", getTagFileContent]
-].flatMap(([rootDirPath, getSpecTypeFileContent])=>{
-	return app.vault.getMarkdownFiles()
+].map(([rootDirPath, getSpecTypeFileContent])=>(async()=>{
+	await Promise.all(app.vault.getMarkdownFiles()
 	    .filter(f => f.path.startsWith(rootDirPath))
-		.map(processFileWith(getSpecTypeFileContent));
-}))
+		.map(processFileWith(getSpecTypeFileContent)))
+	console.log("finished:", getSpecTypeFileContent.name, rootDirPath);
+})()))
 
 promiseList = promiseList.concat([
-	removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles()
+	(async()=>{
+		await removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles();
+		console.log("finished:",removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles.name)
+	})()
 ]);
 
 await Promise.all(promiseList);

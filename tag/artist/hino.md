@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:42+08:00
-mtime: 2025-12-18T09:46:12+08:00
+mtime: 2025-12-19T14:12:00+08:00
 ---
 
 # hino
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:12+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2024
 
 1. `(C103) [2nd Life (日乃)] あまおじ (ブルーアーカイブ) [中国翻訳]` | [[nhentai-533529]]
 	- ![[nhentai-533529.png|200]]

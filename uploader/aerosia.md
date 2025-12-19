@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-13T17:00:39+08:00
-mtime: 2025-12-18T09:44:00+08:00
+mtime: 2025-12-19T14:12:31+08:00
 ---
 
 # aerosia
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:00+08:00
 > seealso: [[uploader]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[ハウス栽培もち (白玉もち)] 姪とイケナイこと [英訳] [DL版]` | [[exhentai-3675468-646f1e233d]]
 	- ![[exhentai-3675468-646f1e233d.webp|200]]

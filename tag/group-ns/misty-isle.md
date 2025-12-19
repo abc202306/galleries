@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:47+08:00
-mtime: 2025-12-18T09:44:44+08:00
+mtime: 2025-12-19T14:10:49+08:00
 ---
 
 # misty-isle
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:44+08:00
 > seealso: [[group-ns]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[Misty Isle (そりむらようじ)] Bloody princess [DL版]` | [[exhentai-3674851-127b359a8e]]
 	- ![[exhentai-3674851-127b359a8e.webp|200]]

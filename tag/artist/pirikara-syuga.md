@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:40+08:00
-mtime: 2025-12-18T09:45:56+08:00
+mtime: 2025-12-19T14:11:49+08:00
 ---
 
 # pirikara-syuga
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:56+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2024
 
 1. `(Cool Star Festiv@l 02) [ぴりしゅが (ピリ辛シュガー)] 橘ありすの秘密 (アイドルマスター シンデレラガールズ) [中国翻訳]` | [[nhentai-515701]]
 	- ![[nhentai-515701.jpg|200]]

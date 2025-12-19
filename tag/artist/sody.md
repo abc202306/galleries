@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:39+08:00
-mtime: 2025-12-18T09:45:49+08:00
+mtime: 2025-12-19T14:11:45+08:00
 ---
 
 # sody
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:49+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[Sody] 四尺様 (1尺＝約30cm) (COMIC 阿吽 2025年4月号) [中国翻訳]` | [[nhentai-577377]]
 	- ![[nhentai-577377.webp|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:44+08:00
-mtime: 2025-12-18T09:46:23+08:00
+mtime: 2025-12-19T14:12:16+08:00
 ---
 
 # adumi-kazuki
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:23+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[Come Through (あづみ一樹)] CuteArchive (ブルーアーカイブ) [DL版]` | [[exhentai-3674834-31ed4e594f]]
 	- ![[exhentai-3674834-31ed4e594f.webp|200]]

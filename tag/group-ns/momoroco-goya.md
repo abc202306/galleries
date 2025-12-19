@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T16:12:05+08:00
-mtime: 2025-12-18T09:44:44+08:00
+mtime: 2025-12-19T14:10:49+08:00
 ---
 
 # momoroco-goya
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:44+08:00
 > seealso: [[group-ns]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[ももろこ小屋 (ももろこ)] 変態さんはどちらですか? (プリンセスコネクト!Re:Dive) [中国翻訳]` | [[exhentai-3688213-62f39cfde1]]
 	- ![[exhentai-3688213-62f39cfde1.webp|200]]

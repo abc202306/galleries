@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:44+08:00
-mtime: 2025-12-18T09:44:56+08:00
+mtime: 2025-12-19T14:11:17+08:00
 ---
 
 # tentacles
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:56+08:00
 > seealso: [[female]], [[keywords]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[思い出し笑い] Violated Princess [Part 2/5]` | [[exhentai-3653172-8068997ff6]]
 	- ![[exhentai-3653172-8068997ff6.webp|200]]
@@ -29,10 +33,16 @@ mtime: 2025-12-18T09:44:56+08:00
 	- ![[exhentai-3209356-22dd25f59f.webp|200]]
 1. `[俎上の空欄 (有魚)] 蝕監の堕ち手II (灼眼のシャナ) [中国翻訳] [DL版]` | [[exhentai-3205469-d98063864a]]
 	- ![[exhentai-3205469-d98063864a.webp|200]]
+
+### 2024
+
 1. `[HarmoNeaR (よろず)] ブルアカ獣姦合同誌 Sow do on me! vol.1 (ブルーアーカイブ) [中国翻訳] [DL版]` | [[exhentai-3033791-cdf31cf953]]
 	- ![[exhentai-3033791-cdf31cf953.webp|200]]
 1. `[Fanbox] Custom Udon (Exclude video)` | [[exhentai-2917300-e760d27fec]]
 	- ![[exhentai-2917300-e760d27fec.webp|200]]
+
+### 2023
+
 1. `[Fanbox] Custom Udon (Exclude video)` | [[exhentai-2723587-505f626371]]
 	- ![[exhentai-2723587-505f626371.jpg|200]]
 1. `[無邪気な懐中時計 (ウタタネ)] ～Faily Tales～百合えっち [DL版]` | [[exhentai-2644620-027d10acee]]
@@ -41,15 +51,30 @@ mtime: 2025-12-18T09:44:56+08:00
 	- ![[nhentai-458167.jpg|200]]
 1. `[Pixiv] Custom Udon GIF AND IMG (2018/04/27 - 2023/02/05)` | [[exhentai-2460083-e72f7a6183]]
 	- ![[exhentai-2460083-e72f7a6183.webp|200]]
+
+### 2021
+
 1. `[なでしこさん] エルフメイドの調教白書` | [[exhentai-2044326-b79a64cfab]]
 	- ![[exhentai-2044326-b79a64cfab.webp|200]]
 1. `[CHAOS-R] 神聖昂燐ダクリュオン ～正しい天使の育てかた～` | [[exhentai-1864094-ebbbbede46]]
 	- ![[exhentai-1864094-ebbbbede46.webp|200]]
+
+### 2020
+
 1. `(C97) [Dr.VERMILION (ペテン師)] 和装少女きりたん (VOICEROID)` | [[nhentai-299171]]
 	- ![[nhentai-299171.png|200]]
+
+### 2019
+
 1. `(C96) [粉末製造所 (粉ちぅちぅ)] おしおきだよレイちゃん!～パパは本気です～ [中国翻訳]` | [[nhentai-294688]]
 	- ![[nhentai-294688.jpg|200]]
+
+### 2018
+
 1. `(SHT2017秋) [ASTRA'S (アストラ)] 魔法陣ヌるヌる (魔法陣グルグル)` | [[nhentai-237885]]
 	- ![[nhentai-237885.jpg|200]]
+
+### 2014
+
 1. `(例大祭8) [ひまわりまんぢぅ (倉澤まこと)] Sweet Lovely Syrup (東方Project) [英訳]` | [[nhentai-72574]]
 	- ![[nhentai-72574.jpg|200]]

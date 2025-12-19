@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:36+08:00
-mtime: 2025-12-18T09:45:23+08:00
+mtime: 2025-12-19T14:11:02+08:00
 ---
 
 # rena-kinui
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:23+08:00
 > seealso: [[character]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `衣斐レナ (ブルーアーカイブ)` | [[exhentai-3670388-0ba1eb9cc7]]
 	- ![[exhentai-3670388-0ba1eb9cc7.webp|200]]

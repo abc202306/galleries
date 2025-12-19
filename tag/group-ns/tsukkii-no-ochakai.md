@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:46+08:00
-mtime: 2025-12-18T09:44:38+08:00
+mtime: 2025-12-19T14:10:44+08:00
 ---
 
 # tsukkii-no-ochakai
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:38+08:00
 > seealso: [[group-ns]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `夢獄の国のアリス ～無垢な乙女とリョナの部屋～` | [[exhentai-3638938-79bd6d6ea9]]
 	- ![[exhentai-3638938-79bd6d6ea9.webp|200]]

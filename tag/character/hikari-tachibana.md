@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:37+08:00
-mtime: 2025-12-18T09:45:33+08:00
+mtime: 2025-12-19T14:11:11+08:00
 ---
 
 # hikari-tachibana
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:33+08:00
 > seealso: [[character]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[雨らく] FANBOX汉化合集 (ブルーアーカイブ) [中国翻訳]` | [[exhentai-3668905-82e88b885e]]
 	- ![[exhentai-3668905-82e88b885e.webp|200]]

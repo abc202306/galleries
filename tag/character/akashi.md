@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:38+08:00
-mtime: 2025-12-18T09:45:38+08:00
+mtime: 2025-12-19T14:11:15+08:00
 ---
 
 # akashi
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:38+08:00
 > seealso: [[character]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2019
 
 1. `(C93) [ふらいぱん大魔王 (提灯暗光)] drug and drop 9 (よろず) [中国翻訳]` | [[nhentai-269738]]
 	- ![[nhentai-269738.jpg|200]]

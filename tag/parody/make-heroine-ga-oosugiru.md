@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:33+08:00
-mtime: 2025-12-18T09:44:06+08:00
+mtime: 2025-12-19T14:10:31+08:00
 ---
 
 # make-heroine-ga-oosugiru
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:06+08:00
 > seealso: [[parody]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[ZART (不確定)] お兄様の初めてを佳樹がこっそりいただきます。ゴンちゃんと。 (負けヒロインが多すぎる!) [中国翻訳]` | [[exhentai-3681880-7be0d26a4b]]
 	- ![[exhentai-3681880-7be0d26a4b.webp|200]]

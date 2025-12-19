@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:47+08:00
-mtime: 2025-12-18T09:44:41+08:00
+mtime: 2025-12-19T14:10:47+08:00
 ---
 
 # salmon-daisuki-club
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:41+08:00
 > seealso: [[group-ns]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2024
 
 1. `[サーモンだいすきクラブ (ばばりろ)] わ…わらわでも!? [中国翻訳] [DL版]` | [[nhentai-531162]]
 	- ![[nhentai-531162.png|200]]

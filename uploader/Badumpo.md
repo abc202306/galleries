@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T12:06:28+08:00
-mtime: 2025-12-18T09:43:59+08:00
+mtime: 2025-12-19T14:12:28+08:00
 ---
 
 # Badumpo
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:43:59+08:00
 > seealso: [[uploader]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2023
 
 1. `David and Ella 2nd batch` | [[exhentai-2616364-16475e46b5]]
 	- ![[exhentai-2616364-16475e46b5.webp|200]]

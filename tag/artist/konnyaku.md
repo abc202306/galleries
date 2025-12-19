@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:42+08:00
-mtime: 2025-12-18T09:46:06+08:00
+mtime: 2025-12-19T14:11:56+08:00
 ---
 
 # konnyaku
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:06+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[こんにゃく] 葵ちゃんと秘密の生活指導 1-9 [日本語] [進行中]` | [[exhentai-3650841-b141016bab]]
 	- ![[exhentai-3650841-b141016bab.webp|200]]

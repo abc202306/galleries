@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T12:06:27+08:00
-mtime: 2025-12-18T09:43:49+08:00
+mtime: 2025-12-19T14:12:21+08:00
 ---
 
 # saibachu
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:43:49+08:00
 > seealso: [[uploader]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[PumpkinSpiceLatte (pumpkinspice)] メナージュ・ア・トロワ (アズールレーン) [中国翻訳] [DL版]` | [[exhentai-3687945-b28ce304af]]
 	- ![[exhentai-3687945-b28ce304af.webp|200]]

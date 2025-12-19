@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:44+08:00
-mtime: 2025-12-18T09:44:56+08:00
+mtime: 2025-12-19T14:11:17+08:00
 ---
 
 # tomboy
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:56+08:00
 > seealso: [[female]], [[keywords]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[FANBOX] ぽるせりん | Poruserin (10/31/2025)` | [[exhentai-3611933-e12fb2b3f5]]
 	- ![[exhentai-3611933-e12fb2b3f5.webp|200]]
@@ -17,11 +21,20 @@ mtime: 2025-12-18T09:44:56+08:00
 	- ![[nhentai-595359.webp|200]]
 1. `[きゃらだいん] 骨折り！お世話ガール♥ (COMIC LO 2025年10月号) [中国翻訳] [DL版]` | [[exhentai-3523939-cfd90bcef1]]
 	- ![[exhentai-3523939-cfd90bcef1.webp|200]]
+
+### 2024
+
 1. `[FANBOX] あって七草` | [[exhentai-2948687-65764279fa]]
 	- ![[exhentai-2948687-65764279fa.webp|200]]
 1. `[論倫理ろんり] ちいさなこの恋 [英訳] [DL版]` | [[nhentai-504752]]
 	- ![[nhentai-504752.jpg|200]]
+
+### 2022
+
 1. `[あいらんどう] 幼馴染は引きこもり (COMIC LO 2022年9月号) [英訳] [DL版]` | [[nhentai-413354]]
 	- ![[nhentai-413354.jpg|200]]
+
+### 2020
+
 1. `[あたげ] 都合が良くて可愛いメス。 [中国翻訳]` | [[nhentai-307796]]
 	- ![[nhentai-307796.jpg|200]]

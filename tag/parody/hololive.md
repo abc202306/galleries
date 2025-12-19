@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:33+08:00
-mtime: 2025-12-18T09:44:07+08:00
+mtime: 2025-12-19T14:10:32+08:00
 ---
 
 # hololive
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:07+08:00
 > seealso: [[parody]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[fanbox] onion (from 2023.01)` | [[exhentai-3669996-9a3fb5dfca]]
 	- ![[exhentai-3669996-9a3fb5dfca.webp|200]]
@@ -17,5 +21,8 @@ mtime: 2025-12-18T09:44:07+08:00
 	- ![[exhentai-3638693-b2aa362fca.webp|200]]
 1. `onion` | [[nhentai-578410]]
 	- ![[nhentai-578410.webp|200]]
+
+### 2023
+
 1. `[Okayushop (Okayu)] 裏SONチャンネル (紫咲シオン) [DL版]` | [[nhentai-436048]]
 	- ![[nhentai-436048.jpg|200]]

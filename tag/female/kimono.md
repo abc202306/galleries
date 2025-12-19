@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:45+08:00
-mtime: 2025-12-18T09:45:04+08:00
+mtime: 2025-12-19T14:11:26+08:00
 ---
 
 # kimono
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:04+08:00
 > seealso: [[female]], [[keywords]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[Artist] Cello20000` | [[exhentai-3682162-62e827bd3c]]
 	- ![[exhentai-3682162-62e827bd3c.webp|200]]
@@ -25,17 +29,29 @@ mtime: 2025-12-18T09:45:04+08:00
 	- ![[nhentai-575999.webp|200]]
 1. `[はんぶん虚弱] skebで描いたこいしちゃん漫画 (東方Project)` | [[nhentai-553361]]
 	- ![[nhentai-553361.webp|200]]
+
+### 2024
+
 1. `[Fanbox] Custom Udon (Exclude video)` | [[exhentai-2917300-e760d27fec]]
 	- ![[exhentai-2917300-e760d27fec.webp|200]]
 1. `[red miso soup (赤だし)] 青春をやり直すなら今度こそ好きだった同級生と付き合って絶対ヤリまくりたい。[英訳] [DL版]` | [[exhentai-2856414-189d36ce5d]]
 	- ![[exhentai-2856414-189d36ce5d.webp|200]]
+
+### 2023
+
 1. `[Fanbox] Custom Udon (Exclude video)` | [[exhentai-2723587-505f626371]]
 	- ![[exhentai-2723587-505f626371.jpg|200]]
 1. `[ノラネコノタマ (雪野みなと)] 光の君のさがなき計画 <総集編> [DL版]` | [[nhentai-452894]]
 	- ![[nhentai-452894.jpg|200]]
 1. `[かぷち屋 (ぷも、しあ)] 幽狐族とえっちしよっ♡ [DL版]` | [[nhentai-446698]]
 	- ![[nhentai-446698.png|200]]
+
+### 2021
+
 1. `[たぶちさんち (たぶち)] 夏休みだから無抵抗ないとこにチ●ンコ入れる話 [中国翻訳]` | [[nhentai-384256]]
 	- ![[nhentai-384256.jpg|200]]
+
+### 2019
+
 1. `(C89) [French letter (藤崎ひかり)] 401-ひと夏のあやまち・総集編- (艦隊これくしょん -艦これ-) [中国翻訳]` | [[nhentai-271422]]
 	- ![[nhentai-271422.png|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:37+08:00
-mtime: 2025-12-18T09:45:32+08:00
+mtime: 2025-12-19T14:11:10+08:00
 ---
 
 # hoshino-takanashi
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:45:32+08:00
 > seealso: [[character]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[Come Through (あづみ一樹)] CuteArchive (ブルーアーカイブ) [DL版]` | [[exhentai-3674834-31ed4e594f]]
 	- ![[exhentai-3674834-31ed4e594f.webp|200]]
@@ -17,6 +21,9 @@ mtime: 2025-12-18T09:45:32+08:00
 	- ![[nhentai-596724.webp|200]]
 1. `[レオナト工房 (Leonat)] シャーレ報告書:妊娠/出産記録2 (ブルーアーカイブ) [英訳] [DL版]` | [[nhentai-576220]]
 	- ![[nhentai-576220.webp|200]]
+
+### 2024
+
 1. `[もちもちわんこ堂 (しろろん餅)] 星ノ落チル (ブルーアーカイブ) [中国翻訳] [DL版]` | [[nhentai-546797]]
 	- ![[nhentai-546797.webp|200]]
 1. `(C103) [2nd Life (日乃)] あまおじ (ブルーアーカイブ) [中国翻訳]` | [[nhentai-533529]]

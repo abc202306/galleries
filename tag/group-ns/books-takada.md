@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:48+08:00
-mtime: 2025-12-18T09:44:52+08:00
+mtime: 2025-12-19T14:10:56+08:00
 ---
 
 # books-takada
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:52+08:00
 > seealso: [[group-ns]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2018
 
 1. `(C93) [BOOKSたかだ (よしぷー)] ククリのえっちなまほうじん (魔法陣グルグル) [英訳]` | [[nhentai-222832]]
 	- ![[nhentai-222832.jpg|200]]

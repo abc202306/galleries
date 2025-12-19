@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T12:06:28+08:00
-mtime: 2025-12-18T09:44:00+08:00
+mtime: 2025-12-19T14:12:29+08:00
 ---
 
 # Artemizz
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:00+08:00
 > seealso: [[uploader]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[DAZ娘の部屋]総集編のアリスとコハル` | [[exhentai-3607806-83e0cf37a9]]
 	- ![[exhentai-3607806-83e0cf37a9.webp|200]]

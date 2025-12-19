@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:34+08:00
-mtime: 2025-12-18T09:44:31+08:00
+mtime: 2025-12-19T14:11:27+08:00
 ---
 
 # guro
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:31+08:00
 > seealso: [[female]], [[keywords]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[PIXIV] 深夜ヤオヤ (94978024)` | [[exhentai-3675733-36cefa25e9]]
 	- ![[exhentai-3675733-36cefa25e9.webp|200]]
@@ -17,5 +21,8 @@ mtime: 2025-12-18T09:44:31+08:00
 	- ![[nhentai-577776.webp|200]]
 1. `[MILKPOP (レキシタイふのじ)] 暗密スニアメール (東方Project) [中国翻訳] [DL版]` | [[nhentai-570304]]
 	- ![[nhentai-570304.webp|200]]
+
+### 2024
+
 1. `真终之夏` | [[nhentai-521118]]
 	- ![[nhentai-521118.jpg|200]]

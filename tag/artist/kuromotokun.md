@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:41+08:00
-mtime: 2025-12-18T09:46:05+08:00
+mtime: 2025-12-19T14:11:56+08:00
 ---
 
 # kuromotokun
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:05+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2024
 
 1. `[みくろぺえじ (黒本君)] 性教育シリーズ総集編2 [中国翻訳] [無修正] [DL版]` | [[exhentai-3035578-d287d5d4bf]]
 	- ![[exhentai-3035578-d287d5d4bf.webp|200]]

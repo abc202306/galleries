@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:35+08:00
-mtime: 2025-12-18T09:44:35+08:00
+mtime: 2025-12-19T14:11:35+08:00
 ---
 
 # abortion
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:35+08:00
 > seealso: [[female]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2016
 
 1. `[知るかバカうどん] ホップ・ステップ はい キック！！！ (コミックMate Legend Vol.10 2016年8月号) [英訳]` | [[exhentai-953034-04a9927105]]
 	- ![[exhentai-953034-04a9927105.webp|200]]

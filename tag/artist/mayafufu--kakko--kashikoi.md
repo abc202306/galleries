@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:41+08:00
-mtime: 2025-12-18T09:46:03+08:00
+mtime: 2025-12-19T14:11:54+08:00
 ---
 
 # mayafufu--kakko--kashikoi
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:46:03+08:00
 > seealso: [[artist]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2024
 
 1. `[まやふふ(賢)] 5の2と3の2のこいばな。2時間め!! [DL版]` | [[exhentai-2904397-c548dd5378]]
 	- ![[exhentai-2904397-c548dd5378.webp|200]]

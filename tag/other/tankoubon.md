@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:32+08:00
-mtime: 2025-12-18T09:44:12+08:00
+mtime: 2025-12-19T14:10:26+08:00
 ---
 
 # tankoubon
@@ -8,6 +8,10 @@ mtime: 2025-12-18T09:44:12+08:00
 > seealso: [[keywords]], [[other]]
 
 ![[gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
 
 1. `[八代涼] 発育ざかりの少女たち[中国翻訳] [DL版]` | [[nhentai-599873]]
 	- ![[nhentai-599873.webp|200]]
@@ -21,6 +25,9 @@ mtime: 2025-12-18T09:44:12+08:00
 	- ![[nhentai-576503.webp|200]]
 1. `[魔訶不思議] JS規格 [英訳]` | [[nhentai-558981]]
 	- ![[nhentai-558981.webp|200]]
+
+### 2024
+
 1. `[大沢おふだ] 二人だけで [英訳] [DL版]` | [[nhentai-529632]]
 	- ![[nhentai-529632.jpg|200]]
 1. `[ぴらそん] あなただけの果実 [中国翻訳] [無修正] [DL版]` | [[nhentai-525518]]
@@ -41,17 +48,35 @@ mtime: 2025-12-18T09:44:12+08:00
 	- ![[nhentai-504752.jpg|200]]
 1. `[岡田コウ] せんせいと、わたしと。 上 [中国翻訳] [無修正] [DL版]` | [[exhentai-2790750-36c31db764]]
 	- ![[exhentai-2790750-36c31db764.webp|200]]
+
+### 2023
+
 1. `[武藤まと] うつし世とおさなづま [中国翻訳] [DL版]` | [[nhentai-450868]]
 	- ![[nhentai-450868.jpg|200]]
+
+### 2021
+
 1. `[はやけ] 妹の裸を見て興奮するなんて変なお兄ちゃん [英訳] [DL版]` | [[nhentai-368681]]
 	- ![[nhentai-368681.jpg|200]]
 1. `[Tamano Kedama] Boku wa Chiisana Succubus no Shimobe - I am a slave of a small succubus [English] {CapableScoutMan & bigk40k & Marv} [Decensored]` | [[nhentai-352167]]
 	- ![[nhentai-352167.jpg|200]]
+
+### 2020
+
 1. `[あたげ] 都合が良くて可愛いメス。 [中国翻訳]` | [[nhentai-307796]]
 	- ![[nhentai-307796.jpg|200]]
+
+### 2018
+
 1. `[リーフィ] ママにないしょの発情期 [中国翻訳]` | [[nhentai-236355]]
 	- ![[nhentai-236355.jpg|200]]
+
+### 2017
+
 1. `[岡田コウ] だれにもいえないコト + 8P小冊子` | [[nhentai-197142]]
 	- ![[nhentai-197142.jpg|200]]
+
+### 2016
+
 1. `[国崎蛍] 子供だってエッチなの [英訳]` | [[nhentai-167586]]
 	- ![[nhentai-167586.jpg|200]]
