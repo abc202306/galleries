@@ -91,15 +91,17 @@ mtime: 2025-12-19T20:05:53+08:00
 
 > [!Note]
 > 
-> 1. [[#gallery-base.base artist artist|artist]]
-> 2. [[#gallery-base.base categories categories|categories]]
-> 3. [[#gallery-base.base parody parody|parody]]
-> 4. [[#female|female]]
-> 5. [[#male|male]]
-> 6. [[#mixed|mixed]]
-> 7. [[#character|character]]
+> 1. [[#artist]]
+> 2. [[#categories]]
+> 3. [[#parody]]
+> 4. [[#female]]
+> 5. [[#male]]
+> 6. [[#mixed]]
+> 7. [[#character]]
 
-### [[gallery-base.base#artist|artist]]
+### artist
+
+> seealso: [[gallery-base.base#artist|artist]]
 
 1. [[gallery-base.base#artist/kiira|kiira]] | 5 | [[kiira]]
 2. [[gallery-base.base#artist/henreader|henreader]] | 5 | [[henreader]]
@@ -113,7 +115,9 @@ mtime: 2025-12-19T20:05:53+08:00
 10. [[gallery-base.base#artist/kani-biimu|kani-biimu]] | 1 | [[kani-biimu]]
 11. [[gallery-base.base#artist/baku-p|baku-p]] | 1 | [[baku-p]]
 
-### [[gallery-base.base#categories|categories]]
+### categories
+
+> seealso: [[gallery-base.base#categories|categories]]
 
 1. [[gallery-base.base#categories/doujinshi|doujinshi]] | 463 | [[doujinshi]]
 2. [[gallery-base.base#categories/manga|manga]] | 114 | [[manga]]
@@ -124,7 +128,9 @@ mtime: 2025-12-19T20:05:53+08:00
 7. [[gallery-base.base#categories/non-h|non-h]] | 4 | [[non-h]]
 8. [[gallery-base.base#categories/western|western]] | 1 | [[western]]
 
-### [[gallery-base.base#parody|parody]]
+### parody
+
+> seealso: [[gallery-base.base#parody|parody]]
 
 1. [[gallery-base.base#parody/original|original]] | 193 | [[original]]
 2. [[gallery-base.base#parody/blue-archive|blue-archive]] | 93 | [[blue-archive]]
