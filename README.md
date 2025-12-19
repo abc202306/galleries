@@ -557,8 +557,40 @@ function createFilesFromUnresolvedLinksForAllGalleryNoteFiles() {
     const galleryNoteMDFiles = app.vault.getMarkdownFiles().filter(f => f.path.startsWith("galleries"));
     const unresolvedLinktexts = galleryNoteMDFiles.flatMap(f => Object.keys(app.metadataCache.unresolvedLinks[f.path]));
 
-    unresolvedLinktexts.forEach(linktext => {
-        app.vault.create("tag/" + linktext + ".md", "");
+    const propertyNames = [
+		"artist",
+		"group-ns",
+		"categories",
+		"character",
+		"parody",
+		"language",
+		"cosplayer",
+		"female",
+		"location",
+		"male",
+		"mixed",
+		"other",
+		"temp",
+		"keywords",
+	];
+	
+	const galleryMDFileCaches = galleryNoteMDFiles.map(f=>app.metadataCache.getFileCache(f));
+	unresolvedLinktexts.forEach(linktext => {
+		const value = "[["+linktext+"]]";
+		const propertyName = propertyNames.find(pn=>{
+			return galleryMDFileCaches
+                .filter(fc => toValueArray((fc?.frontmatter || new Object())[pn]).includes(value))
+                .length !== 0;
+		})
+		let folderPath = "tag/";
+		if (propertyName) {
+			if (propertyName === "group") {
+				folderPath += "group-ns"+"/"
+			} else {
+				folderPath += propertyName+"/";
+			}
+		}
+        app.vault.create(folderPath + linktext + ".md", "");
     });
 }
 
