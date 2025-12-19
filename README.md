@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2025-12-19T16:54:25+08:00
+mtime: 2025-12-19T19:27:47+08:00
 ---
 
 # README
@@ -22,70 +22,70 @@ mtime: 2025-12-19T16:54:25+08:00
 
 > DFC stands for the total number of descendant files
 
-| Folder Path | DFC |
-| :--- | ---: |
-| [[docs]] | 55 |
-| [[docs]]/[[base-file]] | 3 |
-| [[docs]]/[[canvas]] | 1 |
-| [[docs]]/[[collection]] | 2 |
-| [[docs]]/[[docs]] | 14 |
-| [[docs]]/[[galleries]] | 2 |
-| [[docs]]/[[image-file]] | 1 |
-| [[docs]]/[[notation]] | 1 |
-| [[docs]]/[[property]] | 4 |
-| [[docs]]/[[tag]] | 14 |
-| [[docs]]/[[year]] | 13 |
-| [[galleries]] | 1370 |
-| [[galleries]]/[[exhentai]] | 564 |
-| [[galleries]]/[[exhentai]]/[[2012]] | 2 |
-| [[galleries]]/[[exhentai]]/[[2014]] | 3 |
-| [[galleries]]/[[exhentai]]/[[2015]] | 4 |
-| [[galleries]]/[[exhentai]]/[[2016]] | 4 |
-| [[galleries]]/[[exhentai]]/[[2017]] | 14 |
-| [[galleries]]/[[exhentai]]/[[2018]] | 12 |
-| [[galleries]]/[[exhentai]]/[[2019]] | 12 |
-| [[galleries]]/[[exhentai]]/[[2020]] | 10 |
-| [[galleries]]/[[exhentai]]/[[2021]] | 18 |
-| [[galleries]]/[[exhentai]]/[[2022]] | 24 |
-| [[galleries]]/[[exhentai]]/[[2023]] | 40 |
-| [[galleries]]/[[exhentai]]/[[2024]] | 100 |
-| [[galleries]]/[[exhentai]]/[[2025]] | 321 |
-| [[galleries]]/[[nhentai]] | 806 |
-| [[galleries]]/[[nhentai]]/[[2014]] | 26 |
-| [[galleries]]/[[nhentai]]/[[2015]] | 18 |
-| [[galleries]]/[[nhentai]]/[[2016]] | 18 |
-| [[galleries]]/[[nhentai]]/[[2017]] | 24 |
-| [[galleries]]/[[nhentai]]/[[2018]] | 42 |
-| [[galleries]]/[[nhentai]]/[[2019]] | 28 |
-| [[galleries]]/[[nhentai]]/[[2020]] | 46 |
-| [[galleries]]/[[nhentai]]/[[2021]] | 38 |
-| [[galleries]]/[[nhentai]]/[[2022]] | 58 |
-| [[galleries]]/[[nhentai]]/[[2023]] | 76 |
-| [[galleries]]/[[nhentai]]/[[2024]] | 164 |
-| [[galleries]]/[[nhentai]]/[[2025]] | 268 |
-| [[notes]] | 7 |
-| [[property]] | 32 |
-| [[property]]/[[basic-property]] | 8 |
-| [[property]]/[[docs-property]] | 1 |
-| [[property]]/[[gallery-property]] | 22 |
-| [[property]]/[[notes-property]] | 1 |
-| [[tag]] | 1598 |
-| [[tag]]/[[artist]] | 534 |
-| [[tag]]/[[categories]] | 10 |
-| [[tag]]/[[character]] | 270 |
-| [[tag]]/[[cosplayer]] | 1 |
-| [[tag]]/[[female]] | 249 |
-| [[tag]]/[[group-ns]] | 247 |
-| [[tag]]/[[keywords]] | 74 |
-| [[tag]]/[[language]] | 9 |
-| [[tag]]/[[location]] | 4 |
-| [[tag]]/[[male]] | 54 |
-| [[tag]]/[[mixed]] | 7 |
-| [[tag]]/[[other]] | 33 |
-| [[tag]]/[[parody]] | 105 |
-| [[tag]]/[[temp]] | 1 |
-| [[templates]] | 2 |
-| [[uploader]] | 160 |
+| Folder Path | DFC | DFMC | DFOC |
+| :--- | ---: | ---: | ---: |
+| [[docs]] | 55 | 50 | 5 |
+| [[docs]]/[[base-file]] | 3 | 0 | 3 |
+| [[docs]]/[[canvas]] | 1 | 0 | 1 |
+| [[docs]]/[[collection]] | 2 | 2 | 0 |
+| [[docs]]/[[docs]] | 14 | 14 | 0 |
+| [[docs]]/[[galleries]] | 2 | 2 | 0 |
+| [[docs]]/[[image-file]] | 1 | 0 | 1 |
+| [[docs]]/[[notation]] | 1 | 1 | 0 |
+| [[docs]]/[[property]] | 4 | 4 | 0 |
+| [[docs]]/[[tag]] | 14 | 14 | 0 |
+| [[docs]]/[[year]] | 13 | 13 | 0 |
+| [[galleries]] | 1370 | 685 | 685 |
+| [[galleries]]/[[exhentai]] | 564 | 282 | 282 |
+| [[galleries]]/[[exhentai]]/[[2012]] | 2 | 1 | 1 |
+| [[galleries]]/[[exhentai]]/[[2014]] | 3 | 1 | 2 |
+| [[galleries]]/[[exhentai]]/[[2015]] | 4 | 2 | 2 |
+| [[galleries]]/[[exhentai]]/[[2016]] | 4 | 2 | 2 |
+| [[galleries]]/[[exhentai]]/[[2017]] | 14 | 7 | 7 |
+| [[galleries]]/[[exhentai]]/[[2018]] | 12 | 6 | 6 |
+| [[galleries]]/[[exhentai]]/[[2019]] | 12 | 6 | 6 |
+| [[galleries]]/[[exhentai]]/[[2020]] | 10 | 5 | 5 |
+| [[galleries]]/[[exhentai]]/[[2021]] | 18 | 9 | 9 |
+| [[galleries]]/[[exhentai]]/[[2022]] | 24 | 12 | 12 |
+| [[galleries]]/[[exhentai]]/[[2023]] | 40 | 20 | 20 |
+| [[galleries]]/[[exhentai]]/[[2024]] | 100 | 50 | 50 |
+| [[galleries]]/[[exhentai]]/[[2025]] | 321 | 161 | 160 |
+| [[galleries]]/[[nhentai]] | 806 | 403 | 403 |
+| [[galleries]]/[[nhentai]]/[[2014]] | 26 | 13 | 13 |
+| [[galleries]]/[[nhentai]]/[[2015]] | 18 | 9 | 9 |
+| [[galleries]]/[[nhentai]]/[[2016]] | 18 | 9 | 9 |
+| [[galleries]]/[[nhentai]]/[[2017]] | 24 | 12 | 12 |
+| [[galleries]]/[[nhentai]]/[[2018]] | 42 | 21 | 21 |
+| [[galleries]]/[[nhentai]]/[[2019]] | 28 | 14 | 14 |
+| [[galleries]]/[[nhentai]]/[[2020]] | 46 | 23 | 23 |
+| [[galleries]]/[[nhentai]]/[[2021]] | 38 | 19 | 19 |
+| [[galleries]]/[[nhentai]]/[[2022]] | 58 | 29 | 29 |
+| [[galleries]]/[[nhentai]]/[[2023]] | 76 | 38 | 38 |
+| [[galleries]]/[[nhentai]]/[[2024]] | 164 | 82 | 82 |
+| [[galleries]]/[[nhentai]]/[[2025]] | 268 | 134 | 134 |
+| [[notes]] | 7 | 5 | 2 |
+| [[property]] | 32 | 32 | 0 |
+| [[property]]/[[basic-property]] | 8 | 8 | 0 |
+| [[property]]/[[docs-property]] | 1 | 1 | 0 |
+| [[property]]/[[gallery-property]] | 22 | 22 | 0 |
+| [[property]]/[[notes-property]] | 1 | 1 | 0 |
+| [[tag]] | 1598 | 1598 | 0 |
+| [[tag]]/[[artist]] | 534 | 534 | 0 |
+| [[tag]]/[[categories]] | 10 | 10 | 0 |
+| [[tag]]/[[character]] | 270 | 270 | 0 |
+| [[tag]]/[[cosplayer]] | 1 | 1 | 0 |
+| [[tag]]/[[female]] | 249 | 249 | 0 |
+| [[tag]]/[[group-ns]] | 247 | 247 | 0 |
+| [[tag]]/[[keywords]] | 74 | 74 | 0 |
+| [[tag]]/[[language]] | 9 | 9 | 0 |
+| [[tag]]/[[location]] | 4 | 4 | 0 |
+| [[tag]]/[[male]] | 54 | 54 | 0 |
+| [[tag]]/[[mixed]] | 7 | 7 | 0 |
+| [[tag]]/[[other]] | 33 | 33 | 0 |
+| [[tag]]/[[parody]] | 105 | 105 | 0 |
+| [[tag]]/[[temp]] | 1 | 1 | 0 |
+| [[templates]] | 2 | 2 | 0 |
+| [[uploader]] | 160 | 160 | 0 |
 
 ## Views of [[gallery-base.base]]
 
@@ -371,8 +371,10 @@ function getRenderedFolderPath(folder) {
     return folder.path.split("/").map((part) => `[[${part}]]`).join("/");
 }
 
-function getDecendantFilesCount(folder, files) {
-    return files.filter((f) => f.path.startsWith(folder.path + "/")).length;
+
+
+function getDecendantFilesCount(folder, files, extension=/.*/) {
+    return files.filter((f) => f.path.startsWith(folder.path + "/") && extension.exec(f.extension)).length;
 }
 
 function replaceFrontMatter(fileContent, ctime, mtime, preFMBlock = "") {
@@ -386,8 +388,8 @@ async function getReadmeFileContent(_title, ctime, mtime) {
     const files = app.vault.getFiles();
     const folders = app.vault.getAllFolders().sort((a, b) => a.path.localeCompare(b.path));
 
-    const tableStr = `| Folder Path | DFC |\n| :--- | ---: |\n${folders
-        .map((folder) => `| ${getRenderedFolderPath(folder)} | ${getDecendantFilesCount(folder, files)} |`)
+    const tableStr = `| Folder Path | DFC | DFMC | DFOC |\n| :--- | ---: | ---: | ---: |\n${folders
+        .map((folder) => `| ${getRenderedFolderPath(folder)} | ${getDecendantFilesCount(folder, files, /.*/)} | ${getDecendantFilesCount(folder, files, /^md$/)} | ${getDecendantFilesCount(folder, files, /^(?!md$)/)} |`)
         .join("\n")}`;
 
     const newData = replaceFrontMatter(fileContent, ctime, mtime).replace(
@@ -623,8 +625,12 @@ async function main() {
     for (const [path, fn] of singleFileSpecs) {
         tasks.push((async () => {
             try {
+				const timerName = "timer-"+fn.name+"-"+path;
+				console.time(timerName);
+                console.log("started:", fn.name, path);
                 await getProcessFilePromise(path, fn);
-                console.log("finished:", fn.name, path);
+                console.log("ended:", fn.name, path);
+				console.timeEnd(timerName);
             } catch (e) {
                 console.error("error processing", path, e);
             }
@@ -636,15 +642,19 @@ async function main() {
         [config.path.folder.docsTag, getTagGroupFileContent],
         [config.path.folder.docsYear, getYearFileContent],
         [config.path.folder.property, getPropertyFileContent],
-        [config.path.folder.tag, getTagFileContent],
         [config.path.folder.uploader, getTagFileContent],
+        [config.path.folder.tag, getTagFileContent],
     ];
 
     for (const [rootDirPath, fn] of dirSpecs) {
         tasks.push((async () => {
             try {
+				const timerName = "timer-"+fn.name+"-"+rootDirPath;
+				console.time(timerName);
+                console.log("started:", fn.name, rootDirPath);
                 await Promise.all(app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(rootDirPath)).map(processFileWith(fn)));
-                console.log("finished:", fn.name, rootDirPath);
+                console.log("ended:", fn.name, rootDirPath);
+				console.timeEnd(timerName);
             } catch (e) {
                 console.error("error processing dir", rootDirPath, e);
             }
@@ -654,8 +664,12 @@ async function main() {
     // cleanup frontmatter
     tasks.push((async () => {
         try {
+			const timerName = "timer-removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles";
+			console.time(timerName);
+            console.log("started:", removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles.name);
             await removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles();
-            console.log("finished:", removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles.name);
+            console.log("ended:", removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles.name);
+			console.timeEnd(timerName);
         } catch (e) {
             console.error("error removing duplicates", e);
         }
