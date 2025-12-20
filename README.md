@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2025-12-19T20:05:53+08:00
+mtime: 2025-12-20T21:06:38+08:00
 ---
 
 # README
@@ -35,8 +35,8 @@ mtime: 2025-12-19T20:05:53+08:00
 | [[docs]]/[[property]] | 4 | 4 | 0 |
 | [[docs]]/[[tag]] | 14 | 14 | 0 |
 | [[docs]]/[[year]] | 13 | 13 | 0 |
-| [[galleries]] | 1370 | 685 | 685 |
-| [[galleries]]/[[exhentai]] | 564 | 282 | 282 |
+| [[galleries]] | 1372 | 686 | 686 |
+| [[galleries]]/[[exhentai]] | 566 | 283 | 283 |
 | [[galleries]]/[[exhentai]]/[[2012]] | 2 | 1 | 1 |
 | [[galleries]]/[[exhentai]]/[[2014]] | 3 | 1 | 2 |
 | [[galleries]]/[[exhentai]]/[[2015]] | 4 | 2 | 2 |
@@ -49,7 +49,7 @@ mtime: 2025-12-19T20:05:53+08:00
 | [[galleries]]/[[exhentai]]/[[2022]] | 24 | 12 | 12 |
 | [[galleries]]/[[exhentai]]/[[2023]] | 40 | 20 | 20 |
 | [[galleries]]/[[exhentai]]/[[2024]] | 100 | 50 | 50 |
-| [[galleries]]/[[exhentai]]/[[2025]] | 321 | 161 | 160 |
+| [[galleries]]/[[exhentai]]/[[2025]] | 323 | 162 | 161 |
 | [[galleries]]/[[nhentai]] | 806 | 403 | 403 |
 | [[galleries]]/[[nhentai]]/[[2014]] | 26 | 13 | 13 |
 | [[galleries]]/[[nhentai]]/[[2015]] | 18 | 9 | 9 |
@@ -69,13 +69,13 @@ mtime: 2025-12-19T20:05:53+08:00
 | [[property]]/[[docs-property]] | 1 | 1 | 0 |
 | [[property]]/[[gallery-property]] | 23 | 23 | 0 |
 | [[property]]/[[notes-property]] | 1 | 1 | 0 |
-| [[tag]] | 1598 | 1598 | 0 |
-| [[tag]]/[[artist]] | 534 | 534 | 0 |
+| [[tag]] | 1600 | 1600 | 0 |
+| [[tag]]/[[artist]] | 535 | 535 | 0 |
 | [[tag]]/[[categories]] | 10 | 10 | 0 |
 | [[tag]]/[[character]] | 270 | 270 | 0 |
 | [[tag]]/[[cosplayer]] | 1 | 1 | 0 |
 | [[tag]]/[[female]] | 249 | 249 | 0 |
-| [[tag]]/[[group-ns]] | 247 | 247 | 0 |
+| [[tag]]/[[group-ns]] | 248 | 248 | 0 |
 | [[tag]]/[[keywords]] | 74 | 74 | 0 |
 | [[tag]]/[[language]] | 9 | 9 | 0 |
 | [[tag]]/[[location]] | 4 | 4 | 0 |
@@ -538,7 +538,7 @@ function removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles() 
 }
 
 function createFilesFromUnresolvedLinksForAllGalleryNoteFiles() {
-    const galleryNoteMDFiles = app.vault.getMarkdownFiles().filter((f) => f.path.startsWith("galleries"));
+    const galleryNoteMDFiles = app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(config.path.file.gallery));
     const unresolvedLinktexts = galleryNoteMDFiles.flatMap((f) => Object.keys(app.metadataCache.unresolvedLinks?.[f.path] || {}));
 
     const propertyNames = [
@@ -556,6 +556,7 @@ function createFilesFromUnresolvedLinksForAllGalleryNoteFiles() {
         "other",
         "temp",
         "keywords",
+		"uploader",
     ];
 
     const galleryMDFileCaches = galleryNoteMDFiles.map((f) => app.metadataCache.getFileCache(f) || {});
@@ -565,15 +566,20 @@ function createFilesFromUnresolvedLinksForAllGalleryNoteFiles() {
             galleryMDFileCaches.filter((fc) => safeArray((fc.frontmatter || {})[pn]).includes(value)).length !== 0
         );
 
-        let folderPath = "tag/";
-        if (propertyName) {
-            folderPath += propertyName === "group" ? "group-ns/" : `${propertyName}/`;
-        }
+        let folderPath = config.path.folder.tag;
+        if (propertyName === "group") {
+            folderPath += "group-ns/";
+        } else if (propertyName === "uploader") {
+			folderPath = config.path.folder.uploader;
+		} else {
+			folderPath += `${propertyName}/`
+		}
 
         const destPath = folderPath + linktext + ".md";
         try {
             if (!app.vault.getAbstractFileByPath(destPath)) {
-                app.vault.create(destPath, "");
+                app.vault.create(destPath, "")
+					.then((f)=>app.metadataCache.getFileCache(f));
             }
         } catch (e) {
             // ignore creation errors (file may exist already or race conditions)
@@ -626,11 +632,12 @@ function batchMoveGalleryNoteFilesByYearUploaded() {
 async function main() {
     console.time("run_script");
     console.log(`==start (time="${new Date()}")`);
+	app.vault.getMarkdownFiles().forEach((f)=>app.metadataCache.getFileCache(f));
 
     const tasks = [];
 
     // preparatory runs
-    tasks.push(createFilesFromUnresolvedLinksForAllGalleryNoteFiles());
+	tasks.push(createFilesFromUnresolvedLinksForAllGalleryNoteFiles());
     tasks.push(batchMoveGalleryNoteFilesByYearUploaded());
 
     // single-file generators

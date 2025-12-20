@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-18T22:05:36+08:00
+mtime: 2025-12-20T21:00:10+08:00
 ---
 
 # parody
@@ -14,7 +14,7 @@ mtime: 2025-12-18T22:05:36+08:00
 1. [[arknights]] | 1
 1. [[azur-lane]] | 7
 1. [[bakemonogatari]] | 1
-1. [[blue-archive]] | 93
+1. [[blue-archive]] | 94
 1. [[bocchi-the-rock]] | 1
 1. [[boruto]] | 4
 1. [[buddy-daddies]] | 1

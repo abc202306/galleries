@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-18T22:05:37+08:00
+mtime: 2025-12-20T21:00:11+08:00
 ---
 
 # artist
@@ -340,6 +340,7 @@ mtime: 2025-12-18T22:05:37+08:00
 1. [[oyabe-ryo-or-isurugi-ryo]] | 1
 1. [[oyster]] | 1
 1. [[ozi8]] | 1
+1. [[patricia]] | 1
 1. [[petenshi]] | 5
 1. [[pirason]] | 1
 1. [[pirikara-syuga]] | 1
