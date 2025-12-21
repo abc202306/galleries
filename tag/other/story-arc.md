@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:32+08:00
-mtime: 2025-12-19T20:40:00+08:00
+mtime: 2025-12-21T13:44:31+08:00
 ---
 
 # story-arc
@@ -58,6 +58,13 @@ mtime: 2025-12-19T20:40:00+08:00
 
 1. `[Tamano Kedama] Boku wa Chiisana Succubus no Shimobe - I am a slave of a small succubus [English] {CapableScoutMan & bigk40k & Marv} [Decensored]` | [[nhentai-352167]]
 	- ![[nhentai-352167.jpg|200]]
+
+### 2020
+
+#### 2020-11
+
+1. `[めたこらぷす (めたこら)] 寝トラレ兄妹 [中国翻訳]` | [[exhentai-1786451-d82ff2cee0]]
+	- ![[exhentai-1786451-d82ff2cee0.webp|200]]
 
 ### 2019
 

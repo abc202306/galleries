@@ -18,7 +18,7 @@ mtime: 2025-12-19T20:42:08+08:00
 1. `[OFF (OKINA)] 壊楽拷問 [DL版]` | [[exhentai-3651950-f3c9c06a8d]]
 	- ![[exhentai-3651950-f3c9c06a8d.webp|200]]
 1. `(C93) [ILD CAT (弥猫うた)] アイコピ 201712 (アイドルマスターシンデレラガールズ) [中国翻訳]` | [[exhentai-3642442-682df6316c]]
-	- ![[exhentai-712388-02e74ac2e9.webp|200]]
+	- ![[exhentai-3642442-682df6316c.webp|200]]
 1. `コミック Mate legend Vol.66 2025年12月号 [DL版]` | [[nhentai-609916]]
 	- ![[nhentai-609916.webp|200]]
 

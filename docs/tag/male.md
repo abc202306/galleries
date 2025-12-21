@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-20T21:00:10+08:00
+mtime: 2025-12-21T13:44:17+08:00
 ---
 
 # male
@@ -11,14 +11,15 @@ mtime: 2025-12-20T21:00:10+08:00
 1. [[asphyxiation]] | 1
 1. [[bald]] | 10
 1. [[ball-caressing]] | 2
-1. [[bbm]] | 19
+1. [[bbm]] | 21
 1. [[bear]] | 1
 1. [[bear-boy]] | 1
 1. [[beauty-mark]] | 1
-1. [[big-penis]] | 13
+1. [[big-penis]] | 14
 1. [[blindfold]] | 1
 1. [[blood]] | 1
 1. [[bull]] | 1
+1. [[business-suit]] | 1
 1. [[butler]] | 1
 1. [[cat]] | 2
 1. [[cbt]] | 1
@@ -30,8 +31,9 @@ mtime: 2025-12-20T21:00:10+08:00
 1. [[coach]] | 1
 1. [[condom]] | 4
 1. [[crossdressing]] | 2
-1. [[dark-skin]] | 22
-1. [[dilf]] | 29
+1. [[dark-skin]] | 23
+1. [[demon]] | 1
+1. [[dilf]] | 31
 1. [[dog]] | 2
 1. [[dog-boy]] | 1
 1. [[exhibitionism]] | 1
@@ -43,12 +45,13 @@ mtime: 2025-12-20T21:00:10+08:00
 1. [[gang-rape]] | 2
 1. [[gender-change]] | 11
 1. [[gender-morph]] | 2
-1. [[glasses]] | 10
+1. [[glasses]] | 12
 1. [[group]] | 1
 1. [[gyaru-oh]] | 1
 1. [[hairy]] | 3
 1. [[handjob]] | 1
 1. [[harem]] | 2
+1. [[horns]] | 1
 1. [[horse]] | 2
 1. [[horse-boy]] | 1
 1. [[huge-penis]] | 1
@@ -71,21 +74,21 @@ mtime: 2025-12-20T21:00:10+08:00
 1. [[pig]] | 2
 1. [[piss-drinking]] | 1
 1. [[rape]] | 5
-1. [[schoolboy-uniform]] | 3
+1. [[schoolboy-uniform]] | 4
 1. [[schoolgirl-uniform]] | 1
 1. [[sex-toys]] | 1
 1. [[shotacon]] | 24
 1. [[sleeping]] | 4
 1. [[smell]] | 1
 1. [[snuff]] | 1
-1. [[sole-male]] | 95
+1. [[sole-male]] | 101
 1. [[stockings]] | 1
 1. [[sweating]] | 2
 1. [[tall-man]] | 1
-1. [[teacher]] | 10
+1. [[teacher]] | 11
 1. [[tomgirl]] | 2
-1. [[tracksuit]] | 1
-1. [[tutor]] | 1
+1. [[tracksuit]] | 2
+1. [[tutor]] | 3
 1. [[urination]] | 1
 1. [[virginity]] | 3
 1. [[voyeurism]] | 1

@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2025-12-20T21:06:38+08:00
+mtime: 2025-12-21T14:16:29+08:00
 ---
 
 # README
@@ -35,21 +35,21 @@ mtime: 2025-12-20T21:06:38+08:00
 | [[docs]]/[[property]] | 4 | 4 | 0 |
 | [[docs]]/[[tag]] | 14 | 14 | 0 |
 | [[docs]]/[[year]] | 13 | 13 | 0 |
-| [[galleries]] | 1372 | 686 | 686 |
-| [[galleries]]/[[exhentai]] | 566 | 283 | 283 |
+| [[galleries]] | 1394 | 697 | 697 |
+| [[galleries]]/[[exhentai]] | 588 | 294 | 294 |
 | [[galleries]]/[[exhentai]]/[[2012]] | 2 | 1 | 1 |
 | [[galleries]]/[[exhentai]]/[[2014]] | 3 | 1 | 2 |
 | [[galleries]]/[[exhentai]]/[[2015]] | 4 | 2 | 2 |
-| [[galleries]]/[[exhentai]]/[[2016]] | 4 | 2 | 2 |
-| [[galleries]]/[[exhentai]]/[[2017]] | 14 | 7 | 7 |
-| [[galleries]]/[[exhentai]]/[[2018]] | 12 | 6 | 6 |
+| [[galleries]]/[[exhentai]]/[[2016]] | 6 | 3 | 3 |
+| [[galleries]]/[[exhentai]]/[[2017]] | 16 | 8 | 8 |
+| [[galleries]]/[[exhentai]]/[[2018]] | 14 | 7 | 7 |
 | [[galleries]]/[[exhentai]]/[[2019]] | 12 | 6 | 6 |
-| [[galleries]]/[[exhentai]]/[[2020]] | 10 | 5 | 5 |
+| [[galleries]]/[[exhentai]]/[[2020]] | 14 | 7 | 7 |
 | [[galleries]]/[[exhentai]]/[[2021]] | 18 | 9 | 9 |
-| [[galleries]]/[[exhentai]]/[[2022]] | 24 | 12 | 12 |
+| [[galleries]]/[[exhentai]]/[[2022]] | 26 | 13 | 13 |
 | [[galleries]]/[[exhentai]]/[[2023]] | 40 | 20 | 20 |
 | [[galleries]]/[[exhentai]]/[[2024]] | 100 | 50 | 50 |
-| [[galleries]]/[[exhentai]]/[[2025]] | 323 | 162 | 161 |
+| [[galleries]]/[[exhentai]]/[[2025]] | 333 | 167 | 166 |
 | [[galleries]]/[[nhentai]] | 806 | 403 | 403 |
 | [[galleries]]/[[nhentai]]/[[2014]] | 26 | 13 | 13 |
 | [[galleries]]/[[nhentai]]/[[2015]] | 18 | 9 | 9 |
@@ -69,13 +69,13 @@ mtime: 2025-12-20T21:06:38+08:00
 | [[property]]/[[docs-property]] | 1 | 1 | 0 |
 | [[property]]/[[gallery-property]] | 23 | 23 | 0 |
 | [[property]]/[[notes-property]] | 1 | 1 | 0 |
-| [[tag]] | 1600 | 1600 | 0 |
-| [[tag]]/[[artist]] | 535 | 535 | 0 |
+| [[tag]] | 1607 | 1607 | 0 |
+| [[tag]]/[[artist]] | 537 | 537 | 0 |
 | [[tag]]/[[categories]] | 10 | 10 | 0 |
 | [[tag]]/[[character]] | 270 | 270 | 0 |
 | [[tag]]/[[cosplayer]] | 1 | 1 | 0 |
-| [[tag]]/[[female]] | 249 | 249 | 0 |
-| [[tag]]/[[group-ns]] | 248 | 248 | 0 |
+| [[tag]]/[[female]] | 251 | 251 | 0 |
+| [[tag]]/[[group-ns]] | 251 | 251 | 0 |
 | [[tag]]/[[keywords]] | 74 | 74 | 0 |
 | [[tag]]/[[language]] | 9 | 9 | 0 |
 | [[tag]]/[[location]] | 4 | 4 | 0 |
@@ -85,7 +85,7 @@ mtime: 2025-12-20T21:06:38+08:00
 | [[tag]]/[[parody]] | 105 | 105 | 0 |
 | [[tag]]/[[temp]] | 1 | 1 | 0 |
 | [[templates]] | 2 | 2 | 0 |
-| [[uploader]] | 160 | 160 | 0 |
+| [[uploader]] | 166 | 166 | 0 |
 
 ## Views of [[gallery-base.base]]
 
@@ -538,12 +538,14 @@ function removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles() 
 }
 
 function createFilesFromUnresolvedLinksForAllGalleryNoteFiles() {
-    const galleryNoteMDFiles = app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(config.path.file.gallery));
+    const galleryNoteMDFiles = app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(config.path.folder.gallery));
     const unresolvedLinktexts = galleryNoteMDFiles.flatMap((f) => Object.keys(app.metadataCache.unresolvedLinks?.[f.path] || {}));
+
+	console.log("unresolvedLinktexts",unresolvedLinktexts)
 
     const propertyNames = [
         "artist",
-        "group-ns",
+        "group",
         "categories",
         "character",
         "parody",
@@ -571,7 +573,7 @@ function createFilesFromUnresolvedLinksForAllGalleryNoteFiles() {
             folderPath += "group-ns/";
         } else if (propertyName === "uploader") {
 			folderPath = config.path.folder.uploader;
-		} else {
+		} else if (propertyName) {
 			folderPath += `${propertyName}/`
 		}
 
@@ -629,16 +631,47 @@ function batchMoveGalleryNoteFilesByYearUploaded() {
     }
 }
 
+function stardandnizeGalleryNoteCoverFileName() {
+	const galleryNoteFiles = app.vault.getMarkdownFiles().filter(f=>f.path.startsWith(config.path.folder.gallery));
+	galleryNoteFiles.filter(f=>{
+	    const cover = app.metadataCache.getFileCache(f)?.frontmatter?.cover;
+	    const res = /^\[\[(?<basename>.*)\.(?<extension>.*)\]\]$/.exec(cover)
+	    if (!res){
+	        return;
+	    }
+	    const coverBasename = res.groups.basename;
+	    const coverExtension = res.groups.extension;
+	    const coverLinktext = `${coverBasename}.${coverExtension}`;
+	    const coverFile = app.metadataCache.getFirstLinkpathDest(coverLinktext);
+	    const newCoverLinktext = `${f.basename}.${coverExtension}`;
+		const newPath = `${coverFile.parent.path}/{newCoverLinktext}`
+	    if (!cover?.startsWith("[["+f.basename)) {
+	        app.fileManager.renameFile(coverFile,newCoverLinktext);
+	        console.log(coverFile.name,newPath);
+	    }
+	})
+}
+
+function refreshCache(){
+	app.vault.getMarkdownFiles().forEach((f)=>app.metadataCache.getFileCache(f));
+}
+
 async function main() {
     console.time("run_script");
     console.log(`==start (time="${new Date()}")`);
-	app.vault.getMarkdownFiles().forEach((f)=>app.metadataCache.getFileCache(f));
-
+	
     const tasks = [];
 
     // preparatory runs
+	tasks.push(refreshCache());
+
+	await Promise.all(tasks);
+	
 	tasks.push(createFilesFromUnresolvedLinksForAllGalleryNoteFiles());
     tasks.push(batchMoveGalleryNoteFilesByYearUploaded());
+	tasks.push(stardandnizeGalleryNoteCoverFileName());
+
+	await Promise.all(tasks);
 
     // single-file generators
     const singleFileSpecs = [
@@ -666,6 +699,10 @@ async function main() {
         })());
     }
 
+	await Promise.all(tasks);
+	
+	tasks.push(refreshCache());
+	
     // directory-scoped generators
     const dirSpecs = [
         [config.path.folder.docsTag, getTagGroupFileContent],
@@ -689,6 +726,8 @@ async function main() {
             }
         })());
     }
+
+	await Promise.all(tasks);
 
     // cleanup frontmatter
     tasks.push((async () => {

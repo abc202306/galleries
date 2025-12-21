@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-20T21:00:11+08:00
+mtime: 2025-12-21T13:44:18+08:00
 ---
 
 # character
@@ -87,10 +87,10 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[hinata-hyuga]] | 3
 1. [[hinata-wakaba]] | 2
 1. [[hook]] | 1
-1. [[hoshino-takanashi]] | 9
+1. [[hoshino-takanashi]] | 10
 1. [[hotaru-ichijou]] | 1
 1. [[i-401]] | 1
-1. [[ibuki-tanga]] | 17
+1. [[ibuki-tanga]] | 18
 1. [[illyasviel-von-einzbern]] | 1
 1. [[ino-yamanaka]] | 1
 1. [[inori-yuitsuka]] | 4
@@ -225,7 +225,7 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[satori-komeiji]] | 2
 1. [[seia-yurizono]] | 5
 1. [[senko]] | 1
-1. [[sensei]] | 51
+1. [[sensei]] | 52
 1. [[serena-fuoco-le-brillante-de-la-grazia]] | 1
 1. [[shamare]] | 1
 1. [[shana]] | 1

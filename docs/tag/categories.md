@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-20T21:00:10+08:00
+mtime: 2025-12-21T13:44:17+08:00
 ---
 
 # categories
@@ -9,10 +9,10 @@ mtime: 2025-12-20T21:00:10+08:00
 
 1. [[artist-cg]] | 33
 1. [[cosplay]] | 1
-1. [[doujinshi]] | 464
+1. [[doujinshi]] | 472
 1. [[game-cg]] | 8
 1. [[image-set]] | 37
-1. [[manga]] | 114
+1. [[manga]] | 117
 1. [[misc]] | 23
 1. [[non-h]] | 4
 1. [[private]] | 1

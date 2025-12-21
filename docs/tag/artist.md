@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-16T19:31:39+08:00
-mtime: 2025-12-20T21:00:11+08:00
+mtime: 2025-12-21T13:44:18+08:00
 ---
 
 # artist
@@ -43,7 +43,7 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[asahina-yoshitosi-or-guman]] | 1
 1. [[asaka]] | 2
 1. [[asano-tooru]] | 2
-1. [[atage]] | 6
+1. [[atage]] | 7
 1. [[atte-nanakusa]] | 4
 1. [[atte7kusa]] | 1
 1. [[auman-zureedus]] | 2
@@ -62,7 +62,7 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[casytaylor]] | 2
 1. [[chiguchi-miri-or-ttomm]] | 1
 1. [[chiizu-ore]] | 3
-1. [[chiizu-ore-or-zanzibal]] | 1
+1. [[chiizu-ore-or-zanzibal]] | 2
 1. [[chimaq]] | 1
 1. [[chino-fumiyu]] | 1
 1. [[chipokan]] | 1
@@ -153,7 +153,7 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[houzui-reno]] | 1
 1. [[huntamann]] | 2
 1. [[hyouri]] | 2
-1. [[ichihaya]] | 1
+1. [[ichihaya]] | 2
 1. [[ichimura]] | 1
 1. [[ichiri]] | 2
 1. [[ikeda-pafue]] | 2
@@ -192,7 +192,7 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[kei-kei]] | 1
 1. [[keise.]] | 2
 1. [[keishikin]] | 1
-1. [[kereno]] | 3
+1. [[kereno]] | 4
 1. [[kesugua]] | 2
 1. [[kigome]] | 1
 1. [[kiira]] | 5
@@ -229,7 +229,7 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[kuwada-yuuki]] | 1
 1. [[kyaradain]] | 6
 1. [[kyou-no-gohan]] | 1
-1. [[leafy]] | 5
+1. [[leafy]] | 6
 1. [[leonardo-16sei]] | 2
 1. [[leonat]] | 7
 1. [[lumineko]] | 1
@@ -256,7 +256,9 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[mayo]] | 2
 1. [[mdo-h]] | 3
 1. [[menteiyakuna]] | 1
+1. [[metacora]] | 1
 1. [[mikoshiro-honnin-or-mikoshiro-nagitoh]] | 1
+1. [[mimamoriencyo]] | 1
 1. [[minato-yuu]] | 1
 1. [[misao.]] | 1
 1. [[misooden]] | 3
@@ -316,7 +318,7 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[niisan-or-lolimate]] | 1
 1. [[nikubou-maranoshin]] | 1
 1. [[nitouhen]] | 1
-1. [[nogiwa-kaede]] | 4
+1. [[nogiwa-kaede]] | 5
 1. [[noise]] | 1
 1. [[nonogi]] | 1
 1. [[noritako]] | 1
@@ -359,7 +361,7 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[pumpkinspicelatte]] | 1
 1. [[qndebaser]] | 1
 1. [[quorl-crossbreed]] | 2
-1. [[racer]] | 1
+1. [[racer]] | 2
 1. [[rakuria]] | 2
 1. [[rasu]] | 3
 1. [[ray-kbys]] | 1
@@ -396,7 +398,7 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[sc-naru]] | 1
 1. [[scarabaeus]] | 1
 1. [[scarfy]] | 1
-1. [[sekiya-asami]] | 1
+1. [[sekiya-asami]] | 2
 1. [[sen]] | 1
 1. [[senifu]] | 2
 1. [[serizawa-yuuji]] | 2
@@ -482,7 +484,7 @@ mtime: 2025-12-20T21:00:11+08:00
 1. [[usa-jo]] | 2
 1. [[usagi-tosame]] | 2
 1. [[usakun]] | 1
-1. [[usashiro-mani-or-mani]] | 2
+1. [[usashiro-mani-or-mani]] | 3
 1. [[ushi-kousen]] | 1
 1. [[usitora-tatumi]] | 1
 1. [[utatane]] | 4

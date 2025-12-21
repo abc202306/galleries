@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-18T18:19:18+08:00
+mtime: 2025-12-21T13:44:17+08:00
 ---
 
 # other
@@ -15,14 +15,14 @@ mtime: 2025-12-18T18:19:18+08:00
 1. [[artbook]] | 2
 1. [[compilation]] | 2
 1. [[dakimakura]] | 1
-1. [[extraneous-ads]] | 4
+1. [[extraneous-ads]] | 5
 1. [[full-censorship]] | 9
 1. [[full-color]] | 30
 1. [[goudoushi]] | 2
 1. [[kodomo-only]] | 3
 1. [[missing-cover]] | 1
 1. [[mosaic-censorship]] | 50
-1. [[multi-work-series]] | 21
+1. [[multi-work-series]] | 23
 1. [[no-penetration]] | 3
 1. [[non-nude]] | 1
 1. [[novel]] | 1
@@ -34,9 +34,9 @@ mtime: 2025-12-18T18:19:18+08:00
 1. [[screenshots]] | 1
 1. [[sketch-lines]] | 7
 1. [[soushuuhen]] | 3
-1. [[story-arc]] | 6
-1. [[tankoubon]] | 7
+1. [[story-arc]] | 7
+1. [[tankoubon]] | 9
 1. [[time-stop]] | 1
-1. [[uncensored]] | 30
+1. [[uncensored]] | 31
 1. [[variant-set]] | 19
 1. [[western-imageset]] | 3

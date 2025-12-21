@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-11T11:28:45+08:00
-mtime: 2025-12-19T20:42:38+08:00
+mtime: 2025-12-21T13:48:38+08:00
 ---
 
 # horns
 
-> seealso: [[female]], [[keywords]]
+> seealso: [[female]], [[keywords]], [[male]]
 
 ![[gallery-dynamic-base.base]]
 
@@ -15,6 +15,10 @@ mtime: 2025-12-19T20:42:38+08:00
 
 #### 2025-12
 
+1. `[不可不可 (関谷あさみ)] 可惜夜の悪魔 [中国翻訳] [無修正] [DL版]` | [[exhentai-3695317-f5af00f37e]]
+	- ![[exhentai-3695317-f5af00f37e.webp|200]]
+1. `(C104) [ものくろサーキット (racer)] イブキとなにしてあそぼっか (ブルーアーカイブ) [中国翻訳]` | [[exhentai-3694901-3f9a592bf6]]
+	- ![[exhentai-3694901-3f9a592bf6.webp|200]]
 1. `Poruserin decensored & cleaned collection [HQC]` | [[exhentai-3675960-faf31bcc0d]]
 	- ![[exhentai-3675960-faf31bcc0d.webp|200]]
 1. `[Come Through (あづみ一樹)] 先生、今夜は誰とする？ (ブルーアーカイブ) [DL版]` | [[exhentai-3674825-91707e2ad3]]

@@ -1,22 +1,22 @@
 ---
 ctime: 2025-12-09T10:46:17+08:00
-mtime: 2025-12-20T21:00:10+08:00
+mtime: 2025-12-21T13:44:17+08:00
 ---
 
 # tag
 
 > seealso: [[docs]]
 
-1. [[artist]] | 535
+1. [[artist]] | 537
 1. [[categories]] | 10
 1. [[character]] | 271
 1. [[cosplayer]] | 1
-1. [[female]] | 265
-1. [[group-ns]] | 252
+1. [[female]] | 268
+1. [[group-ns]] | 255
 1. [[keywords]] | 316
 1. [[language]] | 9
 1. [[location]] | 4
-1. [[male]] | 84
+1. [[male]] | 87
 1. [[mixed]] | 7
 1. [[other]] | 33
 1. [[parody]] | 105

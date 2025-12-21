@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:44+08:00
-mtime: 2025-12-19T20:42:01+08:00
+mtime: 2025-12-21T13:44:38+08:00
 ---
 
 # wings
@@ -15,6 +15,8 @@ mtime: 2025-12-19T20:42:01+08:00
 
 #### 2025-12
 
+1. `(C104) [ものくろサーキット (racer)] イブキとなにしてあそぼっか (ブルーアーカイブ) [中国翻訳]` | [[exhentai-3694901-3f9a592bf6]]
+	- ![[exhentai-3694901-3f9a592bf6.webp|200]]
 1. `[Artist] Cello20000` | [[exhentai-3682162-62e827bd3c]]
 	- ![[exhentai-3682162-62e827bd3c.webp|200]]
 1. `Poruserin decensored & cleaned collection [HQC]` | [[exhentai-3675960-faf31bcc0d]]

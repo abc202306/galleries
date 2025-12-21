@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:32+08:00
-mtime: 2025-12-19T20:39:59+08:00
+mtime: 2025-12-21T13:44:31+08:00
 ---
 
 # uncensored
@@ -15,6 +15,8 @@ mtime: 2025-12-19T20:39:59+08:00
 
 #### 2025-12
 
+1. `[不可不可 (関谷あさみ)] 可惜夜の悪魔 [中国翻訳] [無修正] [DL版]` | [[exhentai-3695317-f5af00f37e]]
+	- ![[exhentai-3695317-f5af00f37e.webp|200]]
 1. `[モチ] 桃香異聞録 (COMIC X-EROS #14) [final個人漢化]` | [[exhentai-3682541-c70546babb]]
 	- ![[exhentai-3682541-c70546babb.webp|200]]
 1. `Poruserin decensored & cleaned collection [HQC]` | [[exhentai-3675960-faf31bcc0d]]

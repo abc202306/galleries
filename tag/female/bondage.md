@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-11T11:28:46+08:00
-mtime: 2025-12-19T20:43:01+08:00
+mtime: 2025-12-21T13:44:48+08:00
 ---
 
 # bondage
@@ -15,6 +15,8 @@ mtime: 2025-12-19T20:43:01+08:00
 
 #### 2025-12
 
+1. `[ちぃずオレ] ホシノ凌〇快楽堕ち漫画 (ブルーアーカイブ) [中国翻訳]` | [[exhentai-3692702-27f69ef669]]
+	- ![[exhentai-3692702-27f69ef669.webp|200]]
 1. `Poruserin decensored & cleaned collection [HQC]` | [[exhentai-3675960-faf31bcc0d]]
 	- ![[exhentai-3675960-faf31bcc0d.webp|200]]
 1. `[Pixiv] きごみー (106329376)` | [[exhentai-3674668-1aed9f43e9]]
