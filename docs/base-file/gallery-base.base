@@ -265,9 +265,7 @@ views:
       - formula.image01
       - formula.filetitle
       - artist
-    sort:
-      - property: formula.filetitle
-        direction: ASC
+    sort: []
     columnSize:
       formula.image01: -10
       formula.filetitle: 804
