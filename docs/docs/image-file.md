@@ -5,6 +5,6 @@ mtime: 2025-12-10T18:25:59+08:00
 
 # image-file
 
-> seealso: [[docs]]
+> seealso: [[docs\|docs]]
 
-1. [[obsidian-vault-galleries-graph-view-image.png]]
+1. [[obsidian-vault-galleries-graph-view-image.png\|obsidian-vault-galleries-graph-view-image.png]]

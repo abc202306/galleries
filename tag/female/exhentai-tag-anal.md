@@ -1,0 +1,324 @@
+---
+ctime: 2026-01-01T00:06:35+08:00
+mtime: 2026-01-01T00:23:17+08:00
+---
+
+# exhentai-tag-anal
+
+> seealso: [[female\|female]], [[keywords\|keywords]], [[male\|male]]
+
+![[gallery-dynamic-base.base\|gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2025
+
+#### 2025-12
+
+1. `(C104) [ものくろサーキット (racer)] イブキとなにしてあそぼっか (ブルーアーカイブ) [中国翻訳]` | [[exhentai-g-3694901-3f9a592bf6\|exhentai-g-3694901-3f9a592bf6]]
+	- ![[exhentai-g-3694901-3f9a592bf6.webp|200]]
+1. `[きらいなのみもの (泣きえくぼ)] 淫神 ―モラの少女たち― [中国翻訳]` | [[exhentai-g-3684844-f02ed37339\|exhentai-g-3684844-f02ed37339]]
+	- ![[exhentai-g-3684844-f02ed37339.webp|200]]
+1. `[にゃんこね(ro)]マジメなケモロリルウちゃんがえっちなお店で働くわけがない！[想日电酱汉化组](chinese)` | [[exhentai-g-3684274-343f607758\|exhentai-g-3684274-343f607758]]
+	- ![[exhentai-g-3684274-343f607758.webp|200]]
+1. `[禁断童話 (童話箱)] ボランティアで訪れた貧困家庭の一室でつるまんに挿れるのさいこう` | [[exhentai-g-3675538-7b6882ba8a\|exhentai-g-3675538-7b6882ba8a]]
+	- ![[exhentai-g-3675538-7b6882ba8a.webp|200]]
+1. `[ハウス栽培もち (白玉もち)] 姪とイケナイこと [英訳] [DL版]` | [[exhentai-g-3675468-646f1e233d\|exhentai-g-3675468-646f1e233d]]
+	- ![[exhentai-g-3675468-646f1e233d.webp|200]]
+1. `[消すぐあ] 性処理係 (にじさんじ)` | [[exhentai-g-3675067-07f1970a83\|exhentai-g-3675067-07f1970a83]]
+	- ![[exhentai-g-3675067-07f1970a83.webp|200]]
+1. `[Misty Isle (そりむらようじ)] Bloody princess [DL版]` | [[exhentai-g-3674851-127b359a8e\|exhentai-g-3674851-127b359a8e]]
+	- ![[exhentai-g-3674851-127b359a8e.webp|200]]
+1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3673326-5d8c116322\|exhentai-g-3673326-5d8c116322]]
+	- ![[exhentai-g-3673326-5d8c116322.webp|200]]
+1. `[たまかけ屋 (たまかけ)] JC×緊縛×玩具 [DL版]` | [[exhentai-g-3672932-6aa27bd104\|exhentai-g-3672932-6aa27bd104]]
+	- ![[exhentai-g-3672932-6aa27bd104.webp|200]]
+1. `[Skeb &Request] 白告姬小漫画` | [[exhentai-g-3671455-3aa22e2c9f\|exhentai-g-3671455-3aa22e2c9f]]
+	- ![[exhentai-g-3671455-3aa22e2c9f.webp|200]]
+1. `[どきどき堂 (ウタタネ)] どきどきおなにーたいむ` | [[exhentai-g-3668917-dbe2f3ddbd\|exhentai-g-3668917-dbe2f3ddbd]]
+	- ![[exhentai-g-3668917-dbe2f3ddbd.webp|200]]
+1. `[いせのり] 陰気な妹を『教育』して快楽中毒の肉便器にする [中国翻訳]` | [[exhentai-g-3668122-90c6e0f92e\|exhentai-g-3668122-90c6e0f92e]]
+	- ![[exhentai-g-3668122-90c6e0f92e.webp|200]]
+
+#### 2025-11
+
+1. `[OFF (OKINA)] 壊楽拷問 [DL版]` | [[exhentai-g-3651950-f3c9c06a8d\|exhentai-g-3651950-f3c9c06a8d]]
+	- ![[exhentai-g-3651950-f3c9c06a8d.webp|200]]
+1. `[もすまん (へんりいだ)] 恋桃はご主人様専用の両穴肉便器ロリ♡メイド [英訳] [無修正]` | [[nhentai-g-610358\|nhentai-g-610358]]
+	- ![[nhentai-g-610358.webp|200]]
+1. `[ひらひら (ひらり)] ゲーム会社の社蓄ちゃん総集編 -fullcolor- (NEW GAME!) [DL版]` | [[exhentai-g-3642804-f55b4857ac\|exhentai-g-3642804-f55b4857ac]]
+	- ![[exhentai-g-3642804-f55b4857ac.webp|200]]
+1. `[FANBOX] possummachine / `ポッシ⚠️ the Posse` (25/11/12)` | [[exhentai-g-3642625-b566956799\|exhentai-g-3642625-b566956799]]
+	- ![[exhentai-g-3642625-b566956799.webp|200]]
+1. `[こむぎばたけ (こむぎ)] もっと！おりこうさん [英訳] [DL版]` | [[nhentai-g-609242\|nhentai-g-609242]]
+	- ![[nhentai-g-609242.webp|200]]
+1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3631905-9b99716fdf\|exhentai-g-3631905-9b99716fdf]]
+	- ![[exhentai-g-3631905-9b99716fdf.webp|200]]
+1. `[卵黄堂 (ふやケロ)] 並木道のカルサイト` | [[nhentai-g-608781\|nhentai-g-608781]]
+	- ![[nhentai-g-608781.webp|200]]
+1. `[しめったねこ] 泡児島へようこそ [中国翻訳] [DL版]` | [[nhentai-g-608471\|nhentai-g-608471]]
+	- ![[nhentai-g-608471.webp|200]]
+
+#### 2025-10
+
+1. `[FANBOX] ぽるせりん | Poruserin (10/31/2025)` | [[exhentai-g-3611933-e12fb2b3f5\|exhentai-g-3611933-e12fb2b3f5]]
+	- ![[exhentai-g-3611933-e12fb2b3f5.webp|200]]
+1. `[DAZ娘の部屋]総集編のアリスとコハル` | [[exhentai-g-3607806-83e0cf37a9\|exhentai-g-3607806-83e0cf37a9]]
+	- ![[exhentai-g-3607806-83e0cf37a9.webp|200]]
+
+#### 2025-08
+
+1. `[アンソロジー] 催ぷにッ！ 7限目` | [[nhentai-g-590842\|nhentai-g-590842]]
+	- ![[nhentai-g-590842.webp|200]]
+
+#### 2025-07
+
+1. `[砂漠] 真夜中の夜子さん [中国翻訳] [無修正] [DL版]` | [[exhentai-g-3433419-0fd273c1ea\|exhentai-g-3433419-0fd273c1ea]]
+	- ![[exhentai-g-3433419-0fd273c1ea.webp|200]]
+
+#### 2025-06
+
+1. `[HAMMER_HEAD (真壁吾郎)] HAMMER_HEAD アイマス総集編+ (アイドルマスター シンデレラガールズ、アイドルマスター シャイニーカラーズ) [DL版]` | [[nhentai-g-578637\|nhentai-g-578637]]
+	- ![[nhentai-g-578637.webp|200]]
+1. `[年代記] マキちゃんはもっと大きな指が欲しい [英語]` | [[nhentai-g-578508\|nhentai-g-578508]]
+	- ![[nhentai-g-578508.webp|200]]
+1. `[ふらっしゃー] イブキちゃんのすやすやせいちょう記録 (ブルーアーカイブ) [DL版]` | [[nhentai-g-578264\|nhentai-g-578264]]
+	- ![[nhentai-g-578264.webp|200]]
+1. `[アルネム] シュエリン！との！！実験 (ブルーアーカイブ) [英語]` | [[nhentai-g-577493\|nhentai-g-577493]]
+	- ![[nhentai-g-577493.webp|200]]
+1. `[とうからち] 魔法少女ふたなり敗北 [英訳]` | [[nhentai-g-577236\|nhentai-g-577236]]
+	- ![[nhentai-g-577236.webp|200]]
+1. `[エイトピーエム (ｴｲﾄﾋﾟｰｴﾑ)] ご主人様が好きすぎるエルフメイドくんの日常` | [[nhentai-g-576925\|nhentai-g-576925]]
+	- ![[nhentai-g-576925.webp|200]]
+1. `[きゃらだいん] ちいさな体がうずいてる [DL版]` | [[nhentai-g-576503\|nhentai-g-576503]]
+	- ![[nhentai-g-576503.webp|200]]
+
+#### 2025-05
+
+1. `[こんにゃく] 仲良しオナホ彩香ちゃん亜希ちゃん` | [[nhentai-g-576228\|nhentai-g-576228]]
+	- ![[nhentai-g-576228.webp|200]]
+1. `[レオナト工房 (Leonat)] シャーレ報告書:妊娠/出産記録2 (ブルーアーカイブ) [英訳] [DL版]` | [[nhentai-g-576220\|nhentai-g-576220]]
+	- ![[nhentai-g-576220.webp|200]]
+1. `[RIN (モチ)] IN LOVE AGAIN (ゼノギアス) [DL版] [中国翻訳]` | [[exhentai-g-3360428-5eb428c7bb\|exhentai-g-3360428-5eb428c7bb]]
+	- ![[exhentai-g-3360428-5eb428c7bb.webp|200]]
+
+#### 2025-04
+
+1. `[MILKPOP (レキシタイふのじ)] 暗密スニアメール (東方Project) [中国翻訳] [DL版]` | [[nhentai-g-570304\|nhentai-g-570304]]
+	- ![[nhentai-g-570304.webp|200]]
+1. `akifn` | [[exhentai-g-3334696-813b0245e6\|exhentai-g-3334696-813b0245e6]]
+	- ![[exhentai-g-3334696-813b0245e6.webp|200]]
+
+#### 2025-02
+
+1. `[魔訶不思議] JS規格 [英訳]` | [[nhentai-g-558981\|nhentai-g-558981]]
+	- ![[nhentai-g-558981.webp|200]]
+
+### 2024
+
+#### 2024-11
+
+1. `[いけだぱふぇ] 今夜は愛娘眠らせて昏睡便女にしようっと! (COMIC LO 2024年4月号) [英訳] [DL版]` | [[nhentai-g-539305\|nhentai-g-539305]]
+	- ![[nhentai-g-539305.webp|200]]
+
+#### 2024-10
+
+1. `[八代涼] しあわせになろうね (COMIC LOE VOL.7 みにえるおー 2時間目) [中国翻訳]` | [[nhentai-g-535454\|nhentai-g-535454]]
+	- ![[nhentai-g-535454.jpg|200]]
+
+#### 2024-09
+
+1. `[どあのぶ (里月ちよ, みついろ)] おもらしバレたらおしまい! (お兄ちゃんはおしまい!) [中国翻訳] [DL版]` | [[exhentai-g-3054386-ef028d14a3\|exhentai-g-3054386-ef028d14a3]]
+	- ![[exhentai-g-3054386-ef028d14a3.webp|200]]
+
+#### 2024-08
+
+1. `(C104) [P.A.Project (てるき熊)] スケベワークス —Skeb-e Works— 06 (よろず)` | [[nhentai-g-527886\|nhentai-g-527886]]
+	- ![[nhentai-g-527886.jpg|200]]
+1. `[みくろぺえじ (黒本君)] 性教育シリーズ総集編2 [中国翻訳] [無修正] [DL版]` | [[exhentai-g-3035578-d287d5d4bf\|exhentai-g-3035578-d287d5d4bf]]
+	- ![[exhentai-g-3035578-d287d5d4bf.webp|200]]
+1. `[ANCHOR (武藤まと)] 異世界オトナのおもちゃやさん2 [DL版]` | [[exhentai-g-3024086-13b0d2bd85\|exhentai-g-3024086-13b0d2bd85]]
+	- ![[exhentai-g-3024086-13b0d2bd85.webp|200]]
+1. `[朝比奈吉利] エンドレスエデン (ブルーアーカイブ) [中国語]` | [[exhentai-g-3024025-bc2c4fab76\|exhentai-g-3024025-bc2c4fab76]]
+	- ![[exhentai-g-3024025-bc2c4fab76.webp|200]]
+1. `[ro] グリムのむすめたち [中国翻訳] [DL版]` | [[exhentai-g-3006885-86e767c799\|exhentai-g-3006885-86e767c799]]
+	- ![[exhentai-g-3006885-86e767c799.webp|200]]
+
+#### 2024-06
+
+1. `[ネコゴショ (ヤナギユウ)] NekoNekoNote10.1 調教済み少女 おじさん達と乱交えっち [中国翻訳] [DL版]` | [[nhentai-g-517178\|nhentai-g-517178]]
+	- ![[nhentai-g-517178.jpg|200]]
+1. `[GASOBooK!! (松百まひる)] ニジウランナー5月号 (ふたばちゃんねる)` | [[nhentai-g-516915\|nhentai-g-516915]]
+	- ![[nhentai-g-516915.jpg|200]]
+1. `[和田羽烏] ひとけたっ子♡あどラブる [英訳] [無修正] [DL版]` | [[exhentai-g-2958022-122ac2c2ab\|exhentai-g-2958022-122ac2c2ab]]
+	- ![[exhentai-g-2958022-122ac2c2ab.webp|200]]
+1. `[ぴざぬこ] これのために生きている (コミックゼロス #101) [中国翻訳] [DL版]` | [[exhentai-g-2953789-9291ede598\|exhentai-g-2953789-9291ede598]]
+	- ![[exhentai-g-2953789-9291ede598.webp|200]]
+
+#### 2024-05
+
+1. `[しいたけ農園 (わかるティッシュ)] クソガキぶち犯す [無字] [無修正]` | [[exhentai-g-2925623-81378aa9c1\|exhentai-g-2925623-81378aa9c1]]
+	- ![[exhentai-g-2925623-81378aa9c1.webp|200]]
+
+#### 2024-04
+
+1. `COMIC LO 2024年6月号 [DL版]` | [[exhentai-g-2904331-8f300b5938\|exhentai-g-2904331-8f300b5938]]
+	- ![[exhentai-g-2904331-8f300b5938.webp|200]]
+1. `[いけだぱふえ] 今夜は愛娘眠らせて昏睡便女にしようっと! (COMIC LO 2024年4月号) [中国翻訳] [DL版]` | [[nhentai-g-506177\|nhentai-g-506177]]
+	- ![[nhentai-g-506177.jpg|200]]
+
+#### 2024-02
+
+1. `(C103) [ホロナミンZ (ホロナミン)] Re:Rape 4 最終話 [中国翻訳]` | [[exhentai-g-2835302-a6d4b93fd4\|exhentai-g-2835302-a6d4b93fd4]]
+	- ![[exhentai-g-2835302-a6d4b93fd4.webp|200]]
+
+#### 2024-01
+
+1. `[七氏] 漫畫嘗試 (カードキャプターさくら) [英語]` | [[exhentai-g-2793884-78d12b9089\|exhentai-g-2793884-78d12b9089]]
+	- ![[exhentai-g-2793884-78d12b9089.webp|200]]
+1. `[岡田コウ] せんせいと、わたしと。 上 [中国翻訳] [無修正] [DL版]` | [[exhentai-g-2790750-36c31db764\|exhentai-g-2790750-36c31db764]]
+	- ![[exhentai-g-2790750-36c31db764.webp|200]]
+
+### 2023
+
+#### 2023-11
+
+1. `コミック Mate legend Vol.54 2023年12月号 [DL版]` | [[nhentai-g-481566\|nhentai-g-481566]]
+	- ![[nhentai-g-481566.jpg|200]]
+
+#### 2023-09
+
+1. `[アパラチ屋 (かぶ)] 紅魔館の大黒柱 (東方Project) [中国翻訳] [DL版]` | [[exhentai-g-2678956-f40f3b5aee\|exhentai-g-2678956-f40f3b5aee]]
+	- ![[exhentai-g-2678956-f40f3b5aee.webp|200]]
+
+#### 2023-08
+
+1. `(C102) [こむぎばたけ (こむぎ)] おりこうさん。 [中国翻訳]` | [[exhentai-g-2659465-09746c6eff\|exhentai-g-2659465-09746c6eff]]
+	- ![[exhentai-g-2659465-09746c6eff.webp|200]]
+1. `[きつね屋 (リーフィ)] わんわんココナちゃん (ブルーアーカイブ) [中国翻訳] [DL版]` | [[nhentai-g-469352\|nhentai-g-469352]]
+	- ![[nhentai-g-469352.jpg|200]]
+1. `[無邪気な懐中時計 (ウタタネ)] ～Faily Tales～百合えっち [DL版]` | [[exhentai-g-2644620-027d10acee\|exhentai-g-2644620-027d10acee]]
+	- ![[exhentai-g-2644620-027d10acee.webp|200]]
+
+#### 2023-07
+
+1. `(秋季例大祭4) [神聖ファウンテン (小泉ひつじ)] 催淫スカーレット (東方Project) [英訳]` | [[nhentai-g-464827\|nhentai-g-464827]]
+	- ![[nhentai-g-464827.jpg|200]]
+
+#### 2023-06
+
+1. `[神聖ファウンテン (小泉ひつじ)] 苗床霊夢ちゃん (東方Project) [中国翻訳] [DL版]` | [[nhentai-g-458167\|nhentai-g-458167]]
+	- ![[nhentai-g-458167.jpg|200]]
+
+### 2022
+
+#### 2022-10
+
+1. `(C99) [ホロナミンZ (ホロナミン)] [re:] Rape [英訳]` | [[nhentai-g-425886\|nhentai-g-425886]]
+	- ![[nhentai-g-425886.png|200]]
+1. `(C100) [私立さくらんぼ小学校 (みそおでん)] ロリコン快速 少女姦淫車両` | [[exhentai-g-2360337-671eee577d\|exhentai-g-2360337-671eee577d]]
+	- ![[exhentai-g-2360337-671eee577d.webp|200]]
+
+#### 2022-08
+
+1. `[アパラチ屋 (かぶ)] 魔法少女フランは絶対に負けない (東方Project) [DL版]` | [[exhentai-g-2313988-0ad4b5200c\|exhentai-g-2313988-0ad4b5200c]]
+	- ![[exhentai-g-2313988-0ad4b5200c.webp|200]]
+
+#### 2022-07
+
+1. `[しいたけ農園 (kanabun)] パパっ子倶楽部 [中国翻訳] [無修正]` | [[nhentai-g-410744\|nhentai-g-410744]]
+	- ![[nhentai-g-410744.jpg|200]]
+
+#### 2022-04
+
+1. `(C96) [たまかけ屋 (たまかけ)] JC×緊縛×玩具 [英訳]` | [[exhentai-g-2204331-4dec0af095\|exhentai-g-2204331-4dec0af095]]
+	- ![[exhentai-g-2204331-4dec0af095.webp|200]]
+
+### 2021
+
+#### 2021-12
+
+1. `artist - murai renji` | [[exhentai-g-2094866-66514afca7\|exhentai-g-2094866-66514afca7]]
+	- ![[exhentai-g-2094866-66514afca7.webp|200]]
+
+#### 2021-11
+
+1. `[いづも合衆国 (ももも合衆国)] ふたなり遺伝子なら未来ある生徒を孕ませてもいいよね!? [中国翻訳] [DL版]` | [[exhentai-g-2063977-b04e312bbc\|exhentai-g-2063977-b04e312bbc]]
+	- ![[exhentai-g-2063977-b04e312bbc.webp|200]]
+
+#### 2021-10
+
+1. `[なでしこさん] エルフメイドの調教白書` | [[exhentai-g-2044326-b79a64cfab\|exhentai-g-2044326-b79a64cfab]]
+	- ![[exhentai-g-2044326-b79a64cfab.webp|200]]
+
+#### 2021-06
+
+1. `[Remonsan Project (Syokuyou-Mogura)] SHISAKU-13GOU` | [[exhentai-g-1946211-c1ec7661db\|exhentai-g-1946211-c1ec7661db]]
+	- ![[exhentai-g-1946211-c1ec7661db.webp|200]]
+
+#### 2021-03
+
+1. `[CHAOS-R] 神聖昂燐ダクリュオン ～正しい天使の育てかた～` | [[exhentai-g-1864094-ebbbbede46\|exhentai-g-1864094-ebbbbede46]]
+	- ![[exhentai-g-1864094-ebbbbede46.webp|200]]
+
+### 2020
+
+#### 2020-01
+
+1. `(C97) [ぷち町屋 (kylin)] みんなの晴ちゃん (アイドルマスター シンデレラガールズ) [中国翻訳]` | [[exhentai-g-1552500-adaa9599a3\|exhentai-g-1552500-adaa9599a3]]
+	- ![[exhentai-g-1552500-adaa9599a3.webp|200]]
+
+### 2019
+
+#### 2019-07
+
+1. `[HappyLambBarn] 良い夢?` | [[exhentai-g-1441702-ccfb872c30\|exhentai-g-1441702-ccfb872c30]]
+	- ![[exhentai-g-1441702-ccfb872c30.webp|200]]
+
+#### 2019-04
+
+1. `(SHT2019春) [てすた厨房 (てすた)] なかだしてんしタイム! (私に天使が舞い降りた!)` | [[nhentai-g-268234\|nhentai-g-268234]]
+	- ![[nhentai-g-268234.jpg|200]]
+
+### 2018
+
+#### 2018-12
+
+1. `[あん♪あん♪食堂 (真咲シサリ)] ぼくの愛する田舎の少女。2` | [[nhentai-g-255017\|nhentai-g-255017]]
+	- ![[nhentai-g-255017.png|200]]
+
+#### 2018-09
+
+1. `(C94) [備前式ロロップ (備前)] おしりえっちチャレンジ (鳩羽つぐ)` | [[exhentai-g-1283059-9c5069e831\|exhentai-g-1283059-9c5069e831]]
+	- ![[exhentai-g-1283059-9c5069e831.webp|200]]
+
+#### 2018-02
+
+1. `[たいぷはてな] 正しい娘の愛し方 (COMIC LO 2018年3月号) [中国翻訳] [DL版]` | [[exhentai-g-1190050-12988efc2a\|exhentai-g-1190050-12988efc2a]]
+	- ![[exhentai-g-1190050-12988efc2a.webp|200]]
+
+### 2017
+
+#### 2017-05
+
+1. `[イチムラ] 時間停止で先生と！ (オトコのコHEAVEN Vol.32) [中国翻訳] [DL版]` | [[exhentai-g-1065084-979907d8d5\|exhentai-g-1065084-979907d8d5]]
+	- ![[exhentai-g-1065084-979907d8d5.webp|200]]
+
+### 2016
+
+#### 2016-12
+
+1. `[悪転奏進 (黒糖ニッケ)] ジータ出産 乳辱輪姦 (グランブルーファンタジー) [DL版]` | [[exhentai-g-1010923-07c1782c35\|exhentai-g-1010923-07c1782c35]]
+	- ![[exhentai-g-1010923-07c1782c35.webp|200]]
+
+#### 2016-06
+
+1. `[真夜中のあっち側 (午前)] 拡がっちゃうのがイイのAS [中国翻訳]` | [[nhentai-g-167292\|nhentai-g-167292]]
+	- ![[nhentai-g-167292.jpg|200]]
+
+### 2014
+
+#### 2014-06
+
+1. `(C82) [備前式ロロップ (備前)] おかえりのおしりえっち` | [[exhentai-g-712388-02e74ac2e9\|exhentai-g-712388-02e74ac2e9]]
+	- ![[exhentai-g-712388-02e74ac2e9.jpg|200]]

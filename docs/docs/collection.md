@@ -5,7 +5,7 @@ mtime: 2025-12-17T21:02:40+08:00
 
 # collection
 
-> seealso: [[docs]]
+> seealso: [[docs\|docs]]
 
-1. [[gallery]]
-2. [[notes]]
+1. [[gallery\|gallery]]
+2. [[notes\|notes]]

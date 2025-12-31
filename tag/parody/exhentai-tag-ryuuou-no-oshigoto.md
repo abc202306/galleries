@@ -1,0 +1,28 @@
+---
+ctime: 2026-01-01T00:05:50+08:00
+mtime: 2026-01-01T00:20:55+08:00
+---
+
+# exhentai-tag-ryuuou-no-oshigoto
+
+> seealso: [[parody\|parody]]
+
+![[gallery-dynamic-base.base\|gallery-dynamic-base.base]]
+
+## gallery-notes
+
+### 2024
+
+#### 2024-03
+
+1. `[BLVEFO9] 小さな花嫁 (りゅうおうのおしごと!) [中国翻訳] [無修正]` | [[nhentai-g-500739\|nhentai-g-500739]]
+	- ![[nhentai-g-500739.jpg|200]]
+
+### 2018
+
+#### 2018-08
+
+1. `(C94) [サークルフィオレ (えかきびと)] りゅうおうのきゅうじつ・表 (りゅうおうのおしごと!) [中国翻訳]` | [[nhentai-g-244044\|nhentai-g-244044]]
+	- ![[nhentai-g-244044.png|200]]
+1. `(C94) [セカンドカラー (たいぷはてな)] ロリハーレム主人公に(催眠で)なってみた (りゅうおうのおしごと!) [英訳]` | [[nhentai-g-242808\|nhentai-g-242808]]
+	- ![[nhentai-g-242808.png|200]]

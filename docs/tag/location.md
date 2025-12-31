@@ -1,13 +1,13 @@
 ---
-ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-17T22:31:58+08:00
+ctime: 2026-01-01T00:05:35+08:00
+mtime: 2026-01-01T00:05:35+08:00
 ---
 
 # location
 
-> seealso: [[tag]]
+> seealso: [[tag\|tag]]
 
-1. [[bathing-room]] | 4
-1. [[beach]] | 1
-1. [[classroom]] | 2
-1. [[sentou]] | 1
+1. [[exhentai-tag-bathing-room|bathing-room]] | 4
+1. [[exhentai-tag-beach|beach]] | 1
+1. [[exhentai-tag-classroom|classroom]] | 2
+1. [[exhentai-tag-sentou|sentou]] | 1

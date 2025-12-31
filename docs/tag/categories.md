@@ -1,19 +1,19 @@
 ---
-ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-21T13:44:17+08:00
+ctime: 2026-01-01T00:05:35+08:00
+mtime: 2026-01-01T00:05:35+08:00
 ---
 
 # categories
 
-> seealso: [[tag]]
+> seealso: [[tag\|tag]]
 
-1. [[artist-cg]] | 33
-1. [[cosplay]] | 1
-1. [[doujinshi]] | 472
-1. [[game-cg]] | 8
-1. [[image-set]] | 37
-1. [[manga]] | 117
-1. [[misc]] | 23
-1. [[non-h]] | 4
-1. [[private]] | 1
-1. [[western]] | 1
+1. [[exhentai-tag-artist-cg|artist-cg]] | 33
+1. [[exhentai-tag-cosplay|cosplay]] | 1
+1. [[exhentai-tag-doujinshi|doujinshi]] | 473
+1. [[exhentai-tag-game-cg|game-cg]] | 8
+1. [[exhentai-tag-image-set|image-set]] | 37
+1. [[exhentai-tag-manga|manga]] | 117
+1. [[exhentai-tag-misc|misc]] | 23
+1. [[exhentai-tag-non-h|non-h]] | 4
+1. [[exhentai-tag-private|private]] | 1
+1. [[exhentai-tag-western|western]] | 1

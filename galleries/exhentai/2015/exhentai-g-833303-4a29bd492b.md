@@ -1,0 +1,77 @@
+---
+up:
+  - "[[gallery|gallery]]"
+categories:
+  - "[[exhentai-tag-doujinshi|doujinshi]]"
+female:
+  - "[[exhentai-tag-cunnilingus|cunnilingus]]"
+  - "[[exhentai-tag-females-only|females-only]]"
+  - "[[exhentai-tag-lolicon|lolicon]]"
+  - "[[exhentai-tag-schoolgirl-uniform|schoolgirl-uniform]]"
+  - "[[exhentai-tag-urination|urination]]"
+  - "[[exhentai-tag-yuri|yuri]]"
+male:
+mixed:
+location:
+other:
+english: "[Cocoa Holic (Yuizaki Kazuya)] Kupaa Holic! 2 Kaime (Mahou Shoujo Lyrical Nanoha) [Chinese] [樱丘汉化组] [2015-05-15]"
+japanese: "[ココアホリック (ユイザキカズヤ)] くぱぁほりっく! 2開めっ♪ (魔法少女リリカルなのは) [中国翻訳] [2015年5月15日]"
+url: https://exhentai.org/g/833303/4a29bd492b/
+artist:
+  - "[[exhentai-tag-yuizaki-kazuya|yuizaki-kazuya]]"
+group:
+  - "[[exhentai-tag-cocoa-holic|cocoa-holic]]"
+parody:
+  - "[[exhentai-tag-mahou-shoujo-lyrical-nanoha-or-magical-girl-lyrical-nanoha|mahou-shoujo-lyrical-nanoha-or-magical-girl-lyrical-nanoha]]"
+character:
+  - "[[exhentai-tag-einhart-stratos|einhart-stratos]]"
+  - "[[exhentai-tag-vivio-takamachi|vivio-takamachi]]"
+language:
+  - "[[exhentai-tag-chinese|chinese]]"
+  - "[[exhentai-tag-translated|translated]]"
+pagecount: 20
+aliases:
+  - "[Cocoa Holic (Yuizaki Kazuya)] Kupaa Holic! 2 Kaime (Mahou Shoujo Lyrical Nanoha) [Chinese] [樱丘汉化组] [2015-05-15]"
+  - "[ココアホリック (ユイザキカズヤ)] くぱぁほりっく! 2開めっ♪ (魔法少女リリカルなのは) [中国翻訳] [2015年5月15日]"
+cover: "[[exhentai-g-833303-4a29bd492b.webp|exhentai-g-833303-4a29bd492b.webp]]"
+uploader:
+  - "[[exhentai-uploader-hsunmao321|hsunmao321]]"
+parent: None
+visible: Yes
+filesize: 61.74 MiB
+favorited: 734
+rating: 4.74
+uploaded: 2015-07-16T03:45:00Z
+ctime: 2025-12-08T15:56:57+08:00
+mtime: 2025-12-08T15:56:57+08:00
+title: "[ココアホリック (ユイザキカズヤ)] くぱぁほりっく! 2開めっ♪ (魔法少女リリカルなのは) [中国翻訳] [2015年5月15日]"
+---
+
+# `[ココアホリック (ユイザキカズヤ)] くぱぁほりっく! 2開めっ♪ (魔法少女リリカルなのは) [中国翻訳] [2015年5月15日]`
+
+![[exhentai-g-833303-4a29bd492b.webp|200]]
+
+| | |
+| --- | --- |
+| title_en | `[Cocoa Holic (Yuizaki Kazuya)] Kupaa Holic! 2 Kaime (Mahou Shoujo Lyrical Nanoha) [Chinese] [樱丘汉化组] [2015-05-15]` |
+| title_jp | `[ココアホリック (ユイザキカズヤ)] くぱぁほりっく! 2開めっ♪ (魔法少女リリカルなのは) [中国翻訳] [2015年5月15日]` |
+| url | https://exhentai.org/g/833303/4a29bd492b/ |
+| parody | [[exhentai-tag-mahou-shoujo-lyrical-nanoha-or-magical-girl-lyrical-nanoha\|mahou-shoujo-lyrical-nanoha-or-magical-girl-lyrical-nanoha]] |
+| character | [[exhentai-tag-einhart-stratos\|einhart-stratos]], [[exhentai-tag-vivio-takamachi\|vivio-takamachi]] |
+| artist | [[exhentai-tag-yuizaki-kazuya\|yuizaki-kazuya]] |
+| group | [[exhentai-tag-cocoa-holic\|cocoa-holic]] |
+| languages | [[exhentai-tag-chinese\|chinese]], [[exhentai-tag-translated\|translated]] |
+| categories | [[exhentai-tag-doujinshi\|doujinshi]] |
+| female | [[exhentai-tag-cunnilingus\|cunnilingus]], [[exhentai-tag-females-only\|females-only]], [[exhentai-tag-lolicon\|lolicon]], [[exhentai-tag-schoolgirl-uniform\|schoolgirl-uniform]], [[exhentai-tag-urination\|urination]], [[exhentai-tag-yuri\|yuri]] |
+| male |  |
+| mixed |  |
+| location |  |
+| other |  |
+| pagecount | 20 |
+| uploader | [[exhentai-uploader-hsunmao321\|hsunmao321]] |
+| uploaded | 2015-07-16T03:45:00Z |
+| parent | None |
+| visible | Yes |
+| filesize | 61.74 MiB |
+| favorited | 734 |
+| rating | 4.74 |

@@ -1,18 +1,18 @@
 ---
-ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-21T13:44:18+08:00
+ctime: 2026-01-01T00:05:35+08:00
+mtime: 2026-01-01T00:05:35+08:00
 ---
 
 # language
 
-> seealso: [[tag]]
+> seealso: [[tag\|tag]]
 
-1. [[chinese]] | 307
-1. [[english]] | 106
-1. [[japanese]] | 283
-1. [[korean]] | 3
-1. [[n_a|n/a]] | 4
-1. [[spanish]] | 2
-1. [[speechless]] | 6
-1. [[text-cleaned]] | 1
-1. [[translated]] | 395
+1. [[exhentai-tag-chinese|chinese]] | 308
+1. [[exhentai-tag-english|english]] | 106
+1. [[exhentai-tag-japanese|japanese]] | 283
+1. [[exhentai-tag-korean|korean]] | 3
+1. [[exhentai-tag-n_a|n/a]] | 4
+1. [[exhentai-tag-spanish|spanish]] | 2
+1. [[exhentai-tag-speechless|speechless]] | 6
+1. [[exhentai-tag-text-cleaned|text-cleaned]] | 1
+1. [[exhentai-tag-translated|translated]] | 396

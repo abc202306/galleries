@@ -1,10 +1,10 @@
 ---
-ctime: 2025-12-16T21:23:58+08:00
-mtime: 2025-12-17T21:40:02+08:00
+ctime: 2026-01-01T00:05:35+08:00
+mtime: 2026-01-01T00:05:35+08:00
 ---
 
 # cosplayer
 
-> seealso: [[tag]]
+> seealso: [[tag\|tag]]
 
-1. [[kurumi-purarine]] | 1
+1. [[exhentai-tag-kurumi-purarine|kurumi-purarine]] | 1

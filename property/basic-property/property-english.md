@@ -5,6 +5,6 @@ mtime: 2025-12-17T21:52:03+08:00
 
 # property-english
 
-> seealso: [[notes]], [[galleries]], [[basic-property]]
+> seealso: [[notes\|notes]], [[galleries\|galleries]], [[basic-property\|basic-property]]
 
-![[property-dynamic-base.base]]
+![[property-dynamic-base.base\|property-dynamic-base.base]]

@@ -1,10 +1,10 @@
 ---
-ctime: 2025-12-14T23:38:14+08:00
-mtime: 2025-12-17T21:40:02+08:00
+ctime: 2026-01-01T00:05:33+08:00
+mtime: 2026-01-01T00:05:33+08:00
 ---
 
 # temp
 
-> seealso: [[tag]]
+> seealso: [[tag\|tag]]
 
-1. [[slimdog]] | 1
+1. [[exhentai-tag-slimdog|slimdog]] | 1

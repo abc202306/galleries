@@ -5,7 +5,7 @@ mtime: 2025-12-19T16:51:44+08:00
 
 # graph-view
 
-> seealso: [[docs]]
+> seealso: [[docs\|docs]]
 
 ## bookmark-item
 
@@ -89,7 +89,7 @@ mtime: 2025-12-19T16:51:44+08:00
 		}
 	  },
 	  {
-		"query": "file:/^README\\.md$/",
+		"query": "file:/^README.md$/",
 		"color": {
 		  "a": 1,
 		  "rgb": 51004

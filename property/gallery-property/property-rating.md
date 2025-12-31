@@ -5,6 +5,6 @@ mtime: 2025-12-17T20:34:11+08:00
 
 # property-rating
 
-> seealso: [[galleries]], [[gallery-property]]
+> seealso: [[galleries\|galleries]], [[gallery-property\|gallery-property]]
 
-![[property-dynamic-base.base]]
+![[property-dynamic-base.base\|property-dynamic-base.base]]

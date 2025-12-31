@@ -5,7 +5,7 @@ mtime: 2025-12-09T10:44:25+08:00
 
 # templates
 
-> seealso: [[docs]]
+> seealso: [[docs\|docs]]
 
-1. [[basic-template]]
-1. [[mtime-template]]
+1. [[basic-template\|basic-template]]
+1. [[mtime-template\|mtime-template]]
