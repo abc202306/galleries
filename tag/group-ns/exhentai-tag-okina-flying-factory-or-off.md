@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:06+08:00
-mtime: 2026-01-01T10:29:09+08:00
+mtime: 2026-01-01T10:48:51+08:00
 ---
 
 # exhentai-tag-okina-flying-factory-or-off
@@ -15,5 +15,5 @@ mtime: 2026-01-01T10:29:09+08:00
 
 #### 2025-11
 
-1. 2025-11-23 | `[OFF (OKINA)] 壊楽拷問 [DL版]` | [[exhentai-g-3651950-f3c9c06a8d\|exhentai-g-3651950-f3c9c06a8d]]
+1. `[OFF (OKINA)] 壊楽拷問 [DL版]` | [[exhentai-g-3651950-f3c9c06a8d\|exhentai-g-3651950-f3c9c06a8d]] | 2025-11-23
 	- ![[exhentai-g-3651950-f3c9c06a8d.webp|200]]

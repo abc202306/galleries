@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:06+08:00
-mtime: 2026-01-01T10:29:08+08:00
+mtime: 2026-01-01T10:48:49+08:00
 ---
 
 # exhentai-tag-rat-tail
@@ -15,5 +15,5 @@ mtime: 2026-01-01T10:29:08+08:00
 
 #### 2014-06
 
-1. 2014-06-28 | `(サンクリ36) [RAT TAIL (IRIE YAMAZAKI)] Lucky☆Star FILE (らき☆すた) [英訳]` | [[nhentai-g-50887\|nhentai-g-50887]]
+1. `(サンクリ36) [RAT TAIL (IRIE YAMAZAKI)] Lucky☆Star FILE (らき☆すた) [英訳]` | [[nhentai-g-50887\|nhentai-g-50887]] | 2014-06-28
 	- ![[nhentai-g-50887.jpg|200]]

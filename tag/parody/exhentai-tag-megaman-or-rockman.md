@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:51+08:00
-mtime: 2026-01-01T10:28:42+08:00
+mtime: 2026-01-01T10:47:59+08:00
 ---
 
 # exhentai-tag-megaman-or-rockman
@@ -15,5 +15,5 @@ mtime: 2026-01-01T10:28:42+08:00
 
 #### 2025-12
 
-1. 2025-12-12 | `[Artist] Cello20000` | [[exhentai-g-3682162-62e827bd3c\|exhentai-g-3682162-62e827bd3c]]
+1. `[Artist] Cello20000` | [[exhentai-g-3682162-62e827bd3c\|exhentai-g-3682162-62e827bd3c]] | 2025-12-12
 	- ![[exhentai-g-3682162-62e827bd3c.webp|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:37+08:00
-mtime: 2026-01-01T10:28:25+08:00
+mtime: 2026-01-01T10:47:21+08:00
 ---
 
 # exhentai-uploader-侯羽哥
@@ -15,5 +15,5 @@ mtime: 2026-01-01T10:28:25+08:00
 
 #### 2023-12
 
-1. 2023-12-03 | `[Herishop] Rain Little [Chinese] [侯羽哥个人中译]` | [[exhentai-g-2756393-24787eb857\|exhentai-g-2756393-24787eb857]]
+1. `[Herishop] Rain Little [Chinese] [侯羽哥个人中译]` | [[exhentai-g-2756393-24787eb857\|exhentai-g-2756393-24787eb857]] | 2023-12-03
 	- ![[exhentai-g-2756393-24787eb857.webp|200]]

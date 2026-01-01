@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:03+08:00
-mtime: 2026-01-01T10:30:09+08:00
+mtime: 2026-01-01T10:50:13+08:00
 ---
 
 # exhentai-tag-muk
@@ -15,17 +15,17 @@ mtime: 2026-01-01T10:30:09+08:00
 
 #### 2025-12
 
-1. 2025-12-07 | `Loli Cunnygram + Loli Streams` | [[exhentai-g-3673326-5d8c116322\|exhentai-g-3673326-5d8c116322]]
+1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3673326-5d8c116322\|exhentai-g-3673326-5d8c116322]] | 2025-12-07
 	- ![[exhentai-g-3673326-5d8c116322.webp|200]]
 
 #### 2025-11
 
-1. 2025-11-11 | `Loli Cunnygram + Loli Streams` | [[exhentai-g-3631905-9b99716fdf\|exhentai-g-3631905-9b99716fdf]]
+1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3631905-9b99716fdf\|exhentai-g-3631905-9b99716fdf]] | 2025-11-11
 	- ![[exhentai-g-3631905-9b99716fdf.webp|200]]
 
 ### 2016
 
 #### 2016-09
 
-1. 2016-09-03 | `[MonsieuR (MUK)] Tiny Evil [英訳] [無修正] [DL版]` | [[nhentai-g-173023\|nhentai-g-173023]]
+1. `[MonsieuR (MUK)] Tiny Evil [英訳] [無修正] [DL版]` | [[nhentai-g-173023\|nhentai-g-173023]] | 2016-09-03
 	- ![[nhentai-g-173023.jpg|200]]

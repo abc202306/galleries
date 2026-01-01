@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:37+08:00
-mtime: 2026-01-01T10:30:31+08:00
+mtime: 2026-01-01T10:50:51+08:00
 ---
 
 # exhentai-tag-shuro-yabuki
@@ -15,5 +15,5 @@ mtime: 2026-01-01T10:30:31+08:00
 
 #### 2025-07
 
-1. 2025-07-08 | `(COMIC1☆24) [HUNGRRRRY(qNdEbASeR)] 棕榈ノ慾 滴ル跫音 (ブルーアーカイブ) [中国翻訳]` | [[nhentai-g-583047\|nhentai-g-583047]]
+1. `(COMIC1☆24) [HUNGRRRRY(qNdEbASeR)] 棕榈ノ慾 滴ル跫音 (ブルーアーカイブ) [中国翻訳]` | [[nhentai-g-583047\|nhentai-g-583047]] | 2025-07-08
 	- ![[nhentai-g-583047.webp|200]]

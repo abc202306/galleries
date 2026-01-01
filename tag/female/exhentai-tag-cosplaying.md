@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:32+08:00
-mtime: 2026-01-01T10:29:41+08:00
+mtime: 2026-01-01T10:49:42+08:00
 ---
 
 # exhentai-tag-cosplaying
@@ -15,5 +15,5 @@ mtime: 2026-01-01T10:29:41+08:00
 
 #### 2025-12
 
-1. 2025-12-08 | `Poruserin decensored & cleaned collection [HQC]` | [[exhentai-g-3675960-faf31bcc0d\|exhentai-g-3675960-faf31bcc0d]]
+1. `Poruserin decensored & cleaned collection [HQC]` | [[exhentai-g-3675960-faf31bcc0d\|exhentai-g-3675960-faf31bcc0d]] | 2025-12-08
 	- ![[exhentai-g-3675960-faf31bcc0d.webp|200]]

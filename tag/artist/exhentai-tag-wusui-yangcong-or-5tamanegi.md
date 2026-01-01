@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:52+08:00
-mtime: 2026-01-01T10:29:50+08:00
+mtime: 2026-01-01T10:49:51+08:00
 ---
 
 # exhentai-tag-wusui-yangcong-or-5tamanegi
@@ -15,5 +15,5 @@ mtime: 2026-01-01T10:29:50+08:00
 
 #### 2025-12
 
-1. 2025-12-06 | `[Fanart & Request] 白告姬` | [[exhentai-g-3671474-6e22902ce9\|exhentai-g-3671474-6e22902ce9]]
+1. `[Fanart & Request] 白告姬` | [[exhentai-g-3671474-6e22902ce9\|exhentai-g-3671474-6e22902ce9]] | 2025-12-06
 	- ![[exhentai-g-3671474-6e22902ce9.webp|200]]

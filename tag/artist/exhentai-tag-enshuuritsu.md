@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:12+08:00
-mtime: 2026-01-01T10:30:22+08:00
+mtime: 2026-01-01T10:50:37+08:00
 ---
 
 # exhentai-tag-enshuuritsu
@@ -15,5 +15,5 @@ mtime: 2026-01-01T10:30:22+08:00
 
 #### 2020-09
 
-1. 2020-09-24 | `[HappyLambBarn] 悪魔の石板と呪いの犬姫` | [[exhentai-g-1740456-0ae99e5a0b\|exhentai-g-1740456-0ae99e5a0b]]
+1. `[HappyLambBarn] 悪魔の石板と呪いの犬姫` | [[exhentai-g-1740456-0ae99e5a0b\|exhentai-g-1740456-0ae99e5a0b]] | 2020-09-24
 	- ![[exhentai-g-1740456-0ae99e5a0b.webp|200]]

@@ -236,7 +236,7 @@ function getGalleryPathRepresentationStr(path) {
     const fc2 = app.metadataCache.getFileCache(f2) || {};
 
 	const dateUploaded = fc2.frontmatter?.uploaded.substring(0,10);
-	const preDescription = dateUploaded?`${dateUploaded} | `:"";
+	const postDescription = dateUploaded?` | ${dateUploaded}`:"";
 	
     const display2 = fc2.frontmatter?.japanese || fc2.frontmatter?.english || linktext2;
     const link2 =
@@ -253,7 +253,7 @@ function getGalleryPathRepresentationStr(path) {
             : `\n\t- ![200](${coverField})`;
     }
 
-    return `1. ${preDescription}${link2}${coverEmbed}`;
+    return `1. ${link2}${postDescription}${coverEmbed}`;
 }
 
 function getNGStr(nonGalleryNotePaths) {

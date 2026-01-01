@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:38+08:00
-mtime: 2026-01-01T10:30:32+08:00
+mtime: 2026-01-01T10:50:52+08:00
 ---
 
 # exhentai-tag-serena-fuoco-le-brillante-de-la-grazia
@@ -15,5 +15,5 @@ mtime: 2026-01-01T10:30:32+08:00
 
 #### 2025-11
 
-1. 2025-11-24 | `[思い出し笑い] Violated Princess [Part 2/5]` | [[exhentai-g-3653172-8068997ff6\|exhentai-g-3653172-8068997ff6]]
+1. `[思い出し笑い] Violated Princess [Part 2/5]` | [[exhentai-g-3653172-8068997ff6\|exhentai-g-3653172-8068997ff6]] | 2025-11-24
 	- ![[exhentai-g-3653172-8068997ff6.webp|200]]

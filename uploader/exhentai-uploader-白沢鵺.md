@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:37+08:00
-mtime: 2026-01-01T10:28:24+08:00
+mtime: 2026-01-01T10:47:20+08:00
 ---
 
 # exhentai-uploader-白沢鵺
@@ -15,5 +15,5 @@ mtime: 2026-01-01T10:28:24+08:00
 
 #### 2024-06
 
-1. 2024-06-15 | `ケ十キ @atat250` | [[exhentai-g-2952454-eeb1de169e\|exhentai-g-2952454-eeb1de169e]]
+1. `ケ十キ @atat250` | [[exhentai-g-2952454-eeb1de169e\|exhentai-g-2952454-eeb1de169e]] | 2024-06-15
 	- ![[exhentai-g-2952454-eeb1de169e.webp|200]]

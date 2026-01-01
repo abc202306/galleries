@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:16+08:00
-mtime: 2026-01-01T10:30:27+08:00
+mtime: 2026-01-01T10:50:43+08:00
 ---
 
 # exhentai-tag-arai-togami
@@ -15,12 +15,12 @@ mtime: 2026-01-01T10:30:27+08:00
 
 #### 2025-12
 
-1. 2025-12-07 | `Loli Cunnygram + Loli Streams` | [[exhentai-g-3673326-5d8c116322\|exhentai-g-3673326-5d8c116322]]
+1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3673326-5d8c116322\|exhentai-g-3673326-5d8c116322]] | 2025-12-07
 	- ![[exhentai-g-3673326-5d8c116322.webp|200]]
-1. 2025-12-04 | `[アンソロジー] 妹が部屋でオナニーしてた件` | [[exhentai-g-3668930-9703cc8640\|exhentai-g-3668930-9703cc8640]]
+1. `[アンソロジー] 妹が部屋でオナニーしてた件` | [[exhentai-g-3668930-9703cc8640\|exhentai-g-3668930-9703cc8640]] | 2025-12-04
 	- ![[exhentai-g-3668930-9703cc8640.webp|200]]
 
 #### 2025-11
 
-1. 2025-11-11 | `Loli Cunnygram + Loli Streams` | [[exhentai-g-3631905-9b99716fdf\|exhentai-g-3631905-9b99716fdf]]
+1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3631905-9b99716fdf\|exhentai-g-3631905-9b99716fdf]] | 2025-11-11
 	- ![[exhentai-g-3631905-9b99716fdf.webp|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:14+08:00
-mtime: 2026-01-01T10:30:24+08:00
+mtime: 2026-01-01T10:50:39+08:00
 ---
 
 # exhentai-tag-chipokan
@@ -15,5 +15,5 @@ mtime: 2026-01-01T10:30:24+08:00
 
 #### 2025-12
 
-1. 2025-12-14 | `[Artist] ちぽかん (CHIPOKAN) 2024-` | [[exhentai-g-3684838-2e90dc5bc4\|exhentai-g-3684838-2e90dc5bc4]]
+1. `[Artist] ちぽかん (CHIPOKAN) 2024-` | [[exhentai-g-3684838-2e90dc5bc4\|exhentai-g-3684838-2e90dc5bc4]] | 2025-12-14
 	- ![[exhentai-g-3684838-2e90dc5bc4.webp|200]]

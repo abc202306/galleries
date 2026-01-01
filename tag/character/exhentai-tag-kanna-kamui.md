@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:44+08:00
-mtime: 2026-01-01T10:30:41+08:00
+mtime: 2026-01-01T10:51:04+08:00
 ---
 
 # exhentai-tag-kanna-kamui
@@ -15,7 +15,7 @@ mtime: 2026-01-01T10:30:41+08:00
 
 #### 2025-11
 
-1. 2025-11-17 | `[FANBOX] possummachine / `ポッシ⚠️ the Posse` (25/11/12)` | [[exhentai-g-3642625-b566956799\|exhentai-g-3642625-b566956799]]
+1. `[FANBOX] possummachine / `ポッシ⚠️ the Posse` (25/11/12)` | [[exhentai-g-3642625-b566956799\|exhentai-g-3642625-b566956799]] | 2025-11-17
 	- ![[exhentai-g-3642625-b566956799.webp|200]]
-1. 2025-11-16 | `子牛のカンナちゃん` | [[exhentai-g-3640980-ea51a3d8d3\|exhentai-g-3640980-ea51a3d8d3]]
+1. `子牛のカンナちゃん` | [[exhentai-g-3640980-ea51a3d8d3\|exhentai-g-3640980-ea51a3d8d3]] | 2025-11-16
 	- ![[exhentai-g-3640980-ea51a3d8d3.webp|200]]
