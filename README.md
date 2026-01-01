@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2026-01-01T00:05:33+08:00
+mtime: 2026-01-01T10:15:01+08:00
 ---
 
 # README
@@ -163,21 +163,21 @@ mtime: 2026-01-01T00:05:33+08:00
 const config = {
     path: {
         folder: {
-            tag: "tag/",
-            gallery: "galleries/",
-            property: "property/",
-            uploader: "uploader/",
-            docsTag: "docs/tag/",
-            docsYear: "docs/year/",
+            tag: "tag/", //type/rewrite
+            gallery: "galleries/", //type/rewrite
+            property: "property/", //type/rewrite
+            uploader: "uploader/", //type/rewrite
+            docsTag: "docs/tag/", //type/rewrite
+            docsYear: "docs/year/", //type/rewrite
         },
         file: {
-            readme: "README.md",
-            tag: "docs/docs/tag.md",
-            uploader: "docs/docs/uploader.md",
-            notes: "docs/collection/notes.md",
-            gallery: "docs/collection/gallery.md",
-            exhentai: "docs/galleries/exhentai.md",
-            nhentai: "docs/galleries/nhentai.md",
+            readme: "README.md", //type/replace
+            tag: "docs/docs/tag.md", //type/rewrite
+            uploader: "docs/docs/uploader.md", //type/rewrite
+            notes: "docs/collection/notes.md", //type/replace
+            gallery: "docs/collection/gallery.md", //type/replace
+            exhentai: "docs/galleries/exhentai.md", //type/replace
+            nhentai: "docs/galleries/nhentai.md", //type/replace
         },
     },
 };
@@ -440,7 +440,7 @@ async function getNoteMetaFileContent(_title, ctime, mtime) {
 
     const gstr = gls.map(getGalleryPathRepresentationStr).join("\n");
 
-    const preFMBlock = `\nup:\n  - "[[collection\\|collection]]"`;
+    const preFMBlock = `\nup:\n  - "[[collection|collection]]"`;
     const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(/(?<=\n)## note-list\n[^]*/,
         "## note-list\n\n" + gstr + "\n"
     );
@@ -468,7 +468,7 @@ async function getSpecGalleryMetaFileContent(_title, ctime, mtime) {
         .vault
         .getMarkdownFiles()
         .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes("[[gallery|gallery]]"));
-    const preFMBlock = `\nup:\n  - "[[collection\\|collection]]"\nbases:\n  - "[[gallery-base.base\\|gallery-base.base]]"`;
+    const preFMBlock = `\nup:\n  - "[[collection|collection]]"\nbases:\n  - "[[gallery-base.base|gallery-base.base]]"`;
     return await getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles, preFMBlock);
 }
 

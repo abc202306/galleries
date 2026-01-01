@@ -8,4 +8,4 @@ mtime: 2025-12-17T21:02:40+08:00
 > seealso: [[docs\|docs]]
 
 1. [[gallery\|gallery]]
-2. [[notes\|notes]]
+2. [[gallery-notes\|notes]]

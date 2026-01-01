@@ -16,7 +16,7 @@ mtime: 2025-12-19T16:50:09+08:00
 ## [[collection\|collection]]
 
 1. [[gallery\|gallery]]
-1. [[notes\|notes]]
+1. [[gallery-notes\|notes]]
 
 ## scattered-docs
 

@@ -1,6 +1,6 @@
 filters:
   and:
-    - up.containsAny(link("notes", "notes"))
+    - up.containsAny(link("gallery-notes", "gallery-notes"))
 views:
   - type: cards
     name: Cards
