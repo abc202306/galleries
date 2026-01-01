@@ -5,7 +5,7 @@ mtime: 2026-01-01T10:47:16+08:00
 
 # nhentai
 
-## gallery-notes
+## gallery-items
 
 ### 2025
 

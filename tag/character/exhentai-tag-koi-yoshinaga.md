@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:44+08:00
-mtime: 2026-01-01T10:51:03+08:00
+mtime: 2026-01-01T14:30:05+08:00
 ---
 
 # exhentai-tag-koi-yoshinaga
@@ -9,7 +9,7 @@ mtime: 2026-01-01T10:51:03+08:00
 
 ![[gallery-dynamic-base.base\|gallery-dynamic-base.base]]
 
-## gallery-notes
+## gallery-items
 
 ### 2023
 

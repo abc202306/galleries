@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2026-01-01T10:15:01+08:00
+mtime: 2026-01-01T14:28:01+08:00
 ---
 
 # README
@@ -70,12 +70,12 @@ mtime: 2026-01-01T10:15:01+08:00
 | [[galleries\|galleries]]/[[nhentai\|nhentai]]/[[2023\|2023]] | 76 | 38 | 38 |
 | [[galleries\|galleries]]/[[nhentai\|nhentai]]/[[2024\|2024]] | 164 | 82 | 82 |
 | [[galleries\|galleries]]/[[nhentai\|nhentai]]/[[2025\|2025]] | 268 | 134 | 134 |
-| [[notes\|notes]] | 7 | 5 | 2 |
+| [[gallery-notes\|gallery-notes]] | 7 | 5 | 2 |
 | [[property\|property]] | 33 | 33 | 0 |
 | [[property\|property]]/[[basic-property\|basic-property]] | 8 | 8 | 0 |
 | [[property\|property]]/[[docs-property\|docs-property]] | 1 | 1 | 0 |
+| [[property\|property]]/[[gallery-notes-property\|gallery-notes-property]] | 1 | 1 | 0 |
 | [[property\|property]]/[[gallery-property\|gallery-property]] | 23 | 23 | 0 |
-| [[property\|property]]/[[notes-property\|notes-property]] | 1 | 1 | 0 |
 | [[tag\|tag]] | 1609 | 1609 | 0 |
 | [[tag\|tag]]/[[artist\|artist]] | 538 | 538 | 0 |
 | [[tag\|tag]]/[[categories\|categories]] | 10 | 10 | 0 |
@@ -181,7 +181,7 @@ const config = {
             readme: "README.md", //type/replace
             tag: "docs/docs/tag.md", //type/rewrite
             uploader: "docs/docs/uploader.md", //type/rewrite
-            notes: "docs/collection/notes.md", //type/replace
+            galleryNotes: "docs/collection/gallery-notes.md", //type/replace
             gallery: "docs/collection/gallery.md", //type/replace
             exhentai: "docs/galleries/exhentai.md", //type/replace
             nhentai: "docs/galleries/nhentai.md", //type/replace
@@ -242,7 +242,7 @@ function getGalleryPathRepresentationStr(path) {
     const linktext2 = app.metadataCache.fileToLinktext(f2);
     const fc2 = app.metadataCache.getFileCache(f2) || {};
 
-	const dateUploaded = fc2.frontmatter?.uploaded.substring(0,10);
+	const dateUploaded = fc2.frontmatter?.uploaded?.substring(0,10);
 	const postDescription = dateUploaded?` | ${dateUploaded}`:"";
 	
     const display2 = fc2.frontmatter?.japanese || fc2.frontmatter?.english || linktext2;
@@ -310,7 +310,7 @@ function getTagFileContent(title, ctime, mtime) {
     );
     const gstr = getGStr(paths.filter((i) => i.startsWith(config.path.folder.gallery)));
 
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n![[gallery-dynamic-base.base\\|gallery-dynamic-base.base]]\n\n## gallery-notes\n\n${gstr}\n`;
+    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n![[gallery-dynamic-base.base\\|gallery-dynamic-base.base]]\n\n## gallery-items\n\n${gstr}\n`;
 }
 
 function getYearFileContent(title, ctime, mtime) {
@@ -330,7 +330,7 @@ function getYearFileContent(title, ctime, mtime) {
         .map((f) => f.path);
     const gstr = getGStr(galleryNotePaths);
 
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n## gallery-notes\n\n${gstr}\n`;
+    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n## gallery-items\n\n${gstr}\n`;
 }
 
 function toFileName(wikilinkStr) {
@@ -430,11 +430,11 @@ async function getReadmeFileContent(_title, ctime, mtime) {
 }
 
 async function getNoteMetaFileContent(_title, ctime, mtime) {
-    const metaFilePath = config.path.file.notes;
+    const metaFilePath = config.path.file.galleryNotes;
     const noteFiles = app
         .vault
         .getMarkdownFiles()
-        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes("[[notes|notes]]"));
+        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes("[[gallery-notes|gallery-notes]]"));
 
     const file = app.vault.getAbstractFileByPath(metaFilePath);
     const fileContent = await app.vault.read(file);
@@ -466,8 +466,8 @@ async function getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaF
 
     const gstr = getGStr(galleryNoteFiles.map((f) => f.path));
 
-    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(/(?<=\n)## gallery-notes\n[^]*/,
-        "## gallery-notes\n\n" + gstr + "\n"
+    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(/(?<=\n)## gallery-items\n[^]*/,
+        "## gallery-items\n\n" + gstr + "\n"
     );
 
     return newData;
@@ -687,7 +687,7 @@ async function main() {
         [config.path.file.readme, getReadmeFileContent],
         [config.path.file.uploader, getUploaderGroupFileContent],
         [config.path.file.tag, getTagMetaFileContent],
-        [config.path.file.notes, getNoteMetaFileContent],
+        [config.path.file.galleryNotes, getNoteMetaFileContent],
         [config.path.file.gallery, getSpecGalleryMetaFileContent],
         [config.path.file.exhentai, getSpecEXHentaiGalleryMetaFileContent],
         [config.path.file.nhentai, getSpecNHentaiGalleryMetaFileContent],

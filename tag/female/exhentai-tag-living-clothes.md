@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:27+08:00
-mtime: 2026-01-01T10:49:34+08:00
+mtime: 2026-01-01T14:28:39+08:00
 ---
 
 # exhentai-tag-living-clothes
@@ -9,7 +9,7 @@ mtime: 2026-01-01T10:49:34+08:00
 
 ![[gallery-dynamic-base.base\|gallery-dynamic-base.base]]
 
-## gallery-notes
+## gallery-items
 
 ### 2025
 

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:47+08:00
-mtime: 2026-01-01T10:47:51+08:00
+mtime: 2026-01-01T14:28:16+08:00
 ---
 
 # exhentai-uploader-alfredmeow
@@ -9,7 +9,7 @@ mtime: 2026-01-01T10:47:51+08:00
 
 ![[gallery-dynamic-base.base\|gallery-dynamic-base.base]]
 
-## gallery-notes
+## gallery-items
 
 ### 2025
 

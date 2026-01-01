@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:38+08:00
-mtime: 2026-01-01T10:47:22+08:00
+mtime: 2026-01-01T14:28:06+08:00
 ---
 
 # exhentai-uploader-zz12zzxx
@@ -9,7 +9,7 @@ mtime: 2026-01-01T10:47:22+08:00
 
 ![[gallery-dynamic-base.base\|gallery-dynamic-base.base]]
 
-## gallery-notes
+## gallery-items
 
 ### 2025
 

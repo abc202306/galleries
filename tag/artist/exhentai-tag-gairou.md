@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:11+08:00
-mtime: 2026-01-01T10:50:35+08:00
+mtime: 2026-01-01T14:29:45+08:00
 ---
 
 # exhentai-tag-gairou
@@ -9,7 +9,7 @@ mtime: 2026-01-01T10:50:35+08:00
 
 ![[gallery-dynamic-base.base\|gallery-dynamic-base.base]]
 
-## gallery-notes
+## gallery-items
 
 ### 2025
 

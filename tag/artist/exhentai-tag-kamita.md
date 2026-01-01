@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:08+08:00
-mtime: 2026-01-01T10:50:25+08:00
+mtime: 2026-01-01T14:29:40+08:00
 ---
 
 # exhentai-tag-kamita
@@ -9,7 +9,7 @@ mtime: 2026-01-01T10:50:25+08:00
 
 ![[gallery-dynamic-base.base\|gallery-dynamic-base.base]]
 
-## gallery-notes
+## gallery-items
 
 ### 2023
 

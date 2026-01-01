@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:06+08:00
-mtime: 2026-01-01T10:50:20+08:00
+mtime: 2026-01-01T14:29:36+08:00
 ---
 
 # exhentai-tag-kuwada-yuuki
@@ -9,7 +9,7 @@ mtime: 2026-01-01T10:50:20+08:00
 
 ![[gallery-dynamic-base.base\|gallery-dynamic-base.base]]
 
-## gallery-notes
+## gallery-items
 
 ### 2018
 

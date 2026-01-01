@@ -6,7 +6,7 @@ views:
     name: Cards
     order:
       - file.name
-      - seealso
+      - gallery
       - url
     sort:
       - property: ctime

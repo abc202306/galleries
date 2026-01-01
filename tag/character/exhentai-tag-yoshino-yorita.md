@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:36+08:00
-mtime: 2026-01-01T10:50:47+08:00
+mtime: 2026-01-01T14:29:53+08:00
 ---
 
 # exhentai-tag-yoshino-yorita
@@ -9,7 +9,7 @@ mtime: 2026-01-01T10:50:47+08:00
 
 ![[gallery-dynamic-base.base\|gallery-dynamic-base.base]]
 
-## gallery-notes
+## gallery-items
 
 ### 2025
 

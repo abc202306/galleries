@@ -5,7 +5,7 @@ mtime: 2025-12-17T20:21:31+08:00
 
 # basic-property
 
-> seealso: [[docs\|docs]], [[galleries\|galleries]], [[gallery-notes\|notes]], [[property\|property]]
+> seealso: [[docs\|docs]], [[galleries\|galleries]], [[gallery-notes\|gallery-notes]], [[property\|property]]
 
 1. [[property-aliases\|property-aliases]]
 1. [[property-cover\|property-cover]]

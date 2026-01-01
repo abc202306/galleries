@@ -1,13 +1,13 @@
 ---
 up:
   - "[[gallery-notes|gallery-notes]]"
-seealso: "[[nhentai-g-408273|nhentai-g-408273]]"
+gallery: "[[nhentai-g-408273|nhentai-g-408273]]"
 cover: "[[nhentai-g-408273.jpg|nhentai-g-408273.jpg]]"
 ctime: 2025-09-13T16:27:47
 mtime: 2025-09-13T16:27:47
 ---
 
-> seealso: `[Marked-two (スガヒデオ)] Marked-girls Vol.24 タコピーの呼び声 (タコピーの原罪) [中国翻訳] [DL版]` | [[nhentai-g-408273\|nhentai-g-408273]]
+> gallery: `[Marked-two (スガヒデオ)] Marked-girls Vol.24 タコピーの呼び声 (タコピーの原罪) [中国翻訳] [DL版]` | [[nhentai-g-408273\|nhentai-g-408273]]
 
 主要责任者： Marked-two (スガヒデオ)
 题名： [Marked-two (スガヒデオ)] Marked-girls Vol.24 タコピーの呼び声 (タコピーの原罪) [中国翻訳] [DL版]

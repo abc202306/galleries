@@ -1,14 +1,14 @@
 ---
 up:
   - "[[gallery-notes|gallery-notes]]"
-seealso: "[[nhentai-g-558981|nhentai-g-558981]]"
+gallery: "[[nhentai-g-558981|nhentai-g-558981]]"
 cover: "[[nhentai-g-558981.webp|nhentai-g-558981.webp]]"
 url: https://soutubot.moe/results/2025012119161548
 ctime: 2025-01-21T16:28:59
 mtime: 2025-01-21T16:28:59
 ---
 
-> seealso: `[魔訶不思議] JS規格 [英訳]` | [[nhentai-g-558981\|nhentai-g-558981]]
+> gallery: `[魔訶不思議] JS規格 [英訳]` | [[nhentai-g-558981\|nhentai-g-558981]]
 
 - 【maka fushigi】【【Maka Fushigi】 JS Kikaku - JS Standards 【Chinese】】
 

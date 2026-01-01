@@ -4,12 +4,12 @@ up:
 bases:
   - "[[gallery-base.base|gallery-base.base]]"
 ctime: 2026-01-01T10:15:01+08:00
-mtime: 2026-01-01T10:47:16+08:00
+mtime: 2026-01-01T14:28:01+08:00
 ---
 
 # gallery
 
-## gallery-notes
+## gallery-items
 
 ### 2025
 
@@ -59,10 +59,10 @@ mtime: 2026-01-01T10:47:16+08:00
 	- ![[exhentai-g-3678714-1fea2cbd4c.webp|200]]
 1. `Kurumi - Arona` | [[exhentai-g-3677750-88295931ff\|exhentai-g-3677750-88295931ff]] | 2025-12-10
 	- ![[exhentai-g-3677750-88295931ff.webp|200]]
-1. `[Fantia] 女児のおパンツ成分多めです (pu-en)` | [[exhentai-g-3677498-d93ebf485c\|exhentai-g-3677498-d93ebf485c]] | 2025-12-09
-	- ![[exhentai-g-3677498-d93ebf485c.webp|200]]
 1. `[Fantia] 作吉歩允のファンティア (作吉歩允) 2` | [[exhentai-g-3677496-ad11b9c6c8\|exhentai-g-3677496-ad11b9c6c8]] | 2025-12-09
 	- ![[exhentai-g-3677496-ad11b9c6c8.webp|200]]
+1. `[Fantia] 女児のおパンツ成分多めです (pu-en)` | [[exhentai-g-3677498-d93ebf485c\|exhentai-g-3677498-d93ebf485c]] | 2025-12-09
+	- ![[exhentai-g-3677498-d93ebf485c.webp|200]]
 1. `[Fantia] ゆぐゆぐファンクラブ (ゆぐゆぐ)` | [[exhentai-g-3677494-7ca44cc280\|exhentai-g-3677494-7ca44cc280]] | 2025-12-09
 	- ![[exhentai-g-3677494-7ca44cc280.webp|200]]
 1. `[x-rabbit] 五月ラフCG may 2020` | [[exhentai-g-3677364-c8cdf25920\|exhentai-g-3677364-c8cdf25920]] | 2025-12-09
@@ -73,10 +73,10 @@ mtime: 2026-01-01T10:47:16+08:00
 	- ![[exhentai-g-3677246-4e7a483a98.webp|200]]
 1. `(C106) [空色の音 (あまか)] 双子は幼女にかなわない [中国翻訳]` | [[exhentai-g-3677020-ce4d38028f\|exhentai-g-3677020-ce4d38028f]] | 2025-12-09
 	- ![[exhentai-g-3677020-ce4d38028f.webp|200]]
-1. `[猫乃またたび] 緒山……おまえ…… (お兄ちゃんはおしまい!)` | [[exhentai-g-3676441-80f28fbde9\|exhentai-g-3676441-80f28fbde9]] | 2025-12-09
-	- ![[exhentai-g-3676441-80f28fbde9.webp|200]]
 1. `[猫乃またたび] かわいいユニ先輩にはたっぷりと催◯をかけたい (プリンセスコネクト!Re:Dive)` | [[exhentai-g-3676439-38d5fde238\|exhentai-g-3676439-38d5fde238]] | 2025-12-09
 	- ![[exhentai-g-3676439-38d5fde238.webp|200]]
+1. `[猫乃またたび] 緒山……おまえ…… (お兄ちゃんはおしまい!)` | [[exhentai-g-3676441-80f28fbde9\|exhentai-g-3676441-80f28fbde9]] | 2025-12-09
+	- ![[exhentai-g-3676441-80f28fbde9.webp|200]]
 1. `[猫乃またたび] xキョウカちゃんとラブラブえっち` | [[exhentai-g-3676350-060dbddc68\|exhentai-g-3676350-060dbddc68]] | 2025-12-09
 	- ![[exhentai-g-3676350-060dbddc68.webp|200]]
 1. `[猫乃またたび] おしまいになったまひろ (お兄ちゃんはおしまい!)` | [[exhentai-g-3676342-4a056dd73d\|exhentai-g-3676342-4a056dd73d]] | 2025-12-09
