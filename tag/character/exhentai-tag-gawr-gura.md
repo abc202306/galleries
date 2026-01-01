@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:46+08:00
-mtime: 2026-01-01T00:23:53+08:00
+mtime: 2026-01-01T10:30:44+08:00
 ---
 
 # exhentai-tag-gawr-gura
@@ -15,17 +15,17 @@ mtime: 2026-01-01T00:23:53+08:00
 
 #### 2025-12
 
-1. `[fanbox] onion (from 2023.01)` | [[exhentai-g-3669996-9a3fb5dfca\|exhentai-g-3669996-9a3fb5dfca]]
+1. 2025-12-05 | `[fanbox] onion (from 2023.01)` | [[exhentai-g-3669996-9a3fb5dfca\|exhentai-g-3669996-9a3fb5dfca]]
 	- ![[exhentai-g-3669996-9a3fb5dfca.webp|200]]
 
 #### 2025-11
 
-1. `[FANBOX] possummachine / `ポッシ⚠️ the Posse` (25/11/12)` | [[exhentai-g-3642625-b566956799\|exhentai-g-3642625-b566956799]]
+1. 2025-11-17 | `[FANBOX] possummachine / `ポッシ⚠️ the Posse` (25/11/12)` | [[exhentai-g-3642625-b566956799\|exhentai-g-3642625-b566956799]]
 	- ![[exhentai-g-3642625-b566956799.webp|200]]
-1. `[PSD＊商用利用厳禁]ぐらXアメリア抱き枕カバー印刷データ（10k）` | [[exhentai-g-3638693-b2aa362fca\|exhentai-g-3638693-b2aa362fca]]
+1. 2025-11-15 | `[PSD＊商用利用厳禁]ぐらXアメリア抱き枕カバー印刷データ（10k）` | [[exhentai-g-3638693-b2aa362fca\|exhentai-g-3638693-b2aa362fca]]
 	- ![[exhentai-g-3638693-b2aa362fca.webp|200]]
 
 #### 2025-06
 
-1. `onion` | [[nhentai-g-578410\|nhentai-g-578410]]
+1. 2025-06-12 | `onion` | [[nhentai-g-578410\|nhentai-g-578410]]
 	- ![[nhentai-g-578410.webp|200]]

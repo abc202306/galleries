@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:52+08:00
-mtime: 2026-01-01T00:24:08+08:00
+mtime: 2026-01-01T10:29:49+08:00
 ---
 
 # exhentai-tag-yoda-kikunai
@@ -15,5 +15,5 @@ mtime: 2026-01-01T00:24:08+08:00
 
 #### 2024-08
 
-1. `[HarmoNeaR (よろず)] ブルアカ獣姦合同誌 Sow do on me! vol.1 (ブルーアーカイブ) [中国翻訳] [DL版]` | [[exhentai-g-3033791-cdf31cf953\|exhentai-g-3033791-cdf31cf953]]
+1. 2024-08-24 | `[HarmoNeaR (よろず)] ブルアカ獣姦合同誌 Sow do on me! vol.1 (ブルーアーカイブ) [中国翻訳] [DL版]` | [[exhentai-g-3033791-cdf31cf953\|exhentai-g-3033791-cdf31cf953]]
 	- ![[exhentai-g-3033791-cdf31cf953.webp|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:07+08:00
-mtime: 2026-01-01T00:25:02+08:00
+mtime: 2026-01-01T10:30:15+08:00
 ---
 
 # exhentai-tag-kikurage
@@ -15,5 +15,5 @@ mtime: 2026-01-01T00:25:02+08:00
 
 #### 2012-10
 
-1. `Artist きくらげ` | [[exhentai-g-532036-f0aae6e4f4\|exhentai-g-532036-f0aae6e4f4]]
+1. 2012-10-09 | `Artist きくらげ` | [[exhentai-g-532036-f0aae6e4f4\|exhentai-g-532036-f0aae6e4f4]]
 	- ![[exhentai-g-532036-f0aae6e4f4.jpg|200]]

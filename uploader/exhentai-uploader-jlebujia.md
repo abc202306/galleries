@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:44+08:00
-mtime: 2026-01-01T00:05:44+08:00
+mtime: 2026-01-01T10:28:32+08:00
 ---
 
 # exhentai-uploader-jlebujia
@@ -15,5 +15,5 @@ mtime: 2026-01-01T00:05:44+08:00
 
 #### 2025-01
 
-1. `Lost Life图集「HappyLambBarn」` | [[exhentai-g-3211373-869ba464e2\|exhentai-g-3211373-869ba464e2]]
+1. 2025-01-27 | `Lost Life图集「HappyLambBarn」` | [[exhentai-g-3211373-869ba464e2\|exhentai-g-3211373-869ba464e2]]
 	- ![[exhentai-g-3211373-869ba464e2.webp|200]]

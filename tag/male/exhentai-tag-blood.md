@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:58+08:00
-mtime: 2026-01-01T00:21:46+08:00
+mtime: 2026-01-01T10:28:55+08:00
 ---
 
 # exhentai-tag-blood
@@ -15,36 +15,36 @@ mtime: 2026-01-01T00:21:46+08:00
 
 #### 2025-12
 
-1. `Poruserin decensored +Hardcore edits (Virgin, blood, deflowered) [HQC]` | [[exhentai-g-3670232-47ca5c1fbc\|exhentai-g-3670232-47ca5c1fbc]]
+1. 2025-12-05 | `Poruserin decensored +Hardcore edits (Virgin, blood, deflowered) [HQC]` | [[exhentai-g-3670232-47ca5c1fbc\|exhentai-g-3670232-47ca5c1fbc]]
 	- ![[exhentai-g-3670232-47ca5c1fbc.webp|200]]
 
 ### 2024
 
 #### 2024-12
 
-1. `[おママごと (なのこ)] 団地の子2 [中国翻訳] [DL版]` | [[nhentai-g-546806\|nhentai-g-546806]]
+1. 2024-12-31 | `[おママごと (なのこ)] 団地の子2 [中国翻訳] [DL版]` | [[nhentai-g-546806\|nhentai-g-546806]]
 	- ![[nhentai-g-546806.webp|200]]
 
 #### 2024-08
 
-1. `[ro] グリムのむすめたち [中国翻訳] [DL版]` | [[exhentai-g-3006885-86e767c799\|exhentai-g-3006885-86e767c799]]
+1. 2024-08-01 | `[ro] グリムのむすめたち [中国翻訳] [DL版]` | [[exhentai-g-3006885-86e767c799\|exhentai-g-3006885-86e767c799]]
 	- ![[exhentai-g-3006885-86e767c799.webp|200]]
 
 #### 2024-07
 
-1. `真终之夏` | [[nhentai-g-521118\|nhentai-g-521118]]
+1. 2024-07-26 | `真终之夏` | [[nhentai-g-521118\|nhentai-g-521118]]
 	- ![[nhentai-g-521118.jpg|200]]
 
 ### 2018
 
 #### 2018-11
 
-1. `[RIN (モチ)] Dragon slave (ドラゴンクエストV) [中国翻訳] [DL版]` | [[exhentai-g-1321378-e061a791cc\|exhentai-g-1321378-e061a791cc]]
+1. 2018-11-28 | `[RIN (モチ)] Dragon slave (ドラゴンクエストV) [中国翻訳] [DL版]` | [[exhentai-g-1321378-e061a791cc\|exhentai-g-1321378-e061a791cc]]
 	- ![[exhentai-g-1321378-e061a791cc.webp|200]]
 
 ### 2016
 
 #### 2016-07
 
-1. `[知るかバカうどん] ホップ・ステップ はい キック！！！ (コミックMate Legend Vol.10 2016年8月号) [英訳]` | [[exhentai-g-953034-04a9927105\|exhentai-g-953034-04a9927105]]
+1. 2016-07-08 | `[知るかバカうどん] ホップ・ステップ はい キック！！！ (コミックMate Legend Vol.10 2016年8月号) [英訳]` | [[exhentai-g-953034-04a9927105\|exhentai-g-953034-04a9927105]]
 	- ![[exhentai-g-953034-04a9927105.webp|200]]

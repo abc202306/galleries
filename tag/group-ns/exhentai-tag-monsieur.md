@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:07+08:00
-mtime: 2026-01-01T00:22:17+08:00
+mtime: 2026-01-01T10:29:11+08:00
 ---
 
 # exhentai-tag-monsieur
@@ -15,5 +15,5 @@ mtime: 2026-01-01T00:22:17+08:00
 
 #### 2016-09
 
-1. `[MonsieuR (MUK)] Tiny Evil [英訳] [無修正] [DL版]` | [[nhentai-g-173023\|nhentai-g-173023]]
+1. 2016-09-03 | `[MonsieuR (MUK)] Tiny Evil [英訳] [無修正] [DL版]` | [[nhentai-g-173023\|nhentai-g-173023]]
 	- ![[nhentai-g-173023.jpg|200]]

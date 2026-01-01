@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:03+08:00
-mtime: 2026-01-01T00:24:44+08:00
+mtime: 2026-01-01T10:30:08+08:00
 ---
 
 # exhentai-tag-mutsuki-hiiro
@@ -15,10 +15,10 @@ mtime: 2026-01-01T00:24:44+08:00
 
 #### 2025-12
 
-1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3673326-5d8c116322\|exhentai-g-3673326-5d8c116322]]
+1. 2025-12-07 | `Loli Cunnygram + Loli Streams` | [[exhentai-g-3673326-5d8c116322\|exhentai-g-3673326-5d8c116322]]
 	- ![[exhentai-g-3673326-5d8c116322.webp|200]]
 
 #### 2025-11
 
-1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3631905-9b99716fdf\|exhentai-g-3631905-9b99716fdf]]
+1. 2025-11-11 | `Loli Cunnygram + Loli Streams` | [[exhentai-g-3631905-9b99716fdf\|exhentai-g-3631905-9b99716fdf]]
 	- ![[exhentai-g-3631905-9b99716fdf.webp|200]]

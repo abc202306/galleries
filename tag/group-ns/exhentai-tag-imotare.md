@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:12+08:00
-mtime: 2026-01-01T00:22:25+08:00
+mtime: 2026-01-01T10:29:15+08:00
 ---
 
 # exhentai-tag-imotare
@@ -15,5 +15,5 @@ mtime: 2026-01-01T00:22:25+08:00
 
 #### 2023-04
 
-1. `[imotare (moyori)] ふたりでふたご - Extra Galleries [英訳]` | [[nhentai-g-451419\|nhentai-g-451419]]
+1. 2023-04-19 | `[imotare (moyori)] ふたりでふたご - Extra Galleries [英訳]` | [[nhentai-g-451419\|nhentai-g-451419]]
 	- ![[nhentai-g-451419.png|200]]

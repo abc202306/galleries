@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:52+08:00
-mtime: 2026-01-01T00:24:09+08:00
+mtime: 2026-01-01T10:29:50+08:00
 ---
 
 # exhentai-tag-yamazaki-kazuma
@@ -15,5 +15,5 @@ mtime: 2026-01-01T00:24:09+08:00
 
 #### 2021-04
 
-1. `[アンソロジー] LQ -Little Queen- Vol.33 [DL版]` | [[nhentai-g-354194\|nhentai-g-354194]]
+1. 2021-04-05 | `[アンソロジー] LQ -Little Queen- Vol.33 [DL版]` | [[nhentai-g-354194\|nhentai-g-354194]]
 	- ![[nhentai-g-354194.jpg|200]]
