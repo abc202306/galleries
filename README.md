@@ -8,10 +8,17 @@ mtime: 2026-01-01T10:15:01+08:00
 ![](/docs/image-file/obsidian-vault-galleries-graph-view-image.png)
 
 > [!Note]
-> 1. [[#Web Clipper\|#Web Clipper]]
-> 2. [[#Folder Struct\|#Folder Struct]]
-> 3. [[#Views of gallery-base.base\|#Views of gallery-base.base]]
-> 4. [[#Script\|#Script]]
+> 1. [[#pinned\|#pinned]]
+> 2. [[#Web Clipper\|#Web Clipper]]
+> 3. [[#Folder Struct\|#Folder Struct]]
+> 4. [[#Views of gallery-base.base\|#Views of gallery-base.base]]
+> 5. [[#Script\|#Script]]
+
+## pinned
+
+- [[gallery]]
+- [[tag]]
+- [[gallery-notes]]
 
 ## Web Clipper
 
