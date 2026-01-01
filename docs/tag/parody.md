@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-01T00:05:33+08:00
+mtime: 2026-01-01T11:16:23+08:00
 ---
 
 # parody
@@ -31,14 +31,14 @@ mtime: 2026-01-01T00:05:33+08:00
 1. [[exhentai-tag-final-fantasy-vii|final-fantasy-vii]] | 1
 1. [[exhentai-tag-final-fantasy-xiv|final-fantasy-xiv]] | 2
 1. [[exhentai-tag-flower-knight-girl|flower-knight-girl]] | 2
-1. [[exhentai-tag-fushigiboshi-no-futagohime-or-twin-princesses-of-the-wonder-planet|fushigiboshi-no-futagohime-or-twin-princesses-of-the-wonder-planet]] | 2
 1. [[exhentai-tag-fushigiboshi-no-futagohime|fushigiboshi-no-futagohime]] | 3
+1. [[exhentai-tag-fushigiboshi-no-futagohime-or-twin-princesses-of-the-wonder-planet|fushigiboshi-no-futagohime-or-twin-princesses-of-the-wonder-planet]] | 2
 1. [[exhentai-tag-gacen-shoujo-to-ibunka-kouryuu|gacen-shoujo-to-ibunka-kouryuu]] | 1
 1. [[exhentai-tag-genshin-impact|genshin-impact]] | 4
 1. [[exhentai-tag-girls-frontline|girls-frontline]] | 1
 1. [[exhentai-tag-girls-und-panzer|girls-und-panzer]] | 3
-1. [[exhentai-tag-gochuumon-wa-usagi-desu-ka-or-is-the-order-a-rabbit|gochuumon-wa-usagi-desu-ka-or-is-the-order-a-rabbit]] | 3
 1. [[exhentai-tag-gochuumon-wa-usagi-desu-ka|gochuumon-wa-usagi-desu-ka]] | 5
+1. [[exhentai-tag-gochuumon-wa-usagi-desu-ka-or-is-the-order-a-rabbit|gochuumon-wa-usagi-desu-ka-or-is-the-order-a-rabbit]] | 3
 1. [[exhentai-tag-goddess-of-victory-nikke|goddess-of-victory-nikke]] | 3
 1. [[exhentai-tag-granblue-fantasy|granblue-fantasy]] | 4
 1. [[exhentai-tag-hacka-doll|hacka-doll]] | 1

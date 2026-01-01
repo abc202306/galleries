@@ -326,8 +326,8 @@ function getYearFileContent(title, ctime, mtime) {
     return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n## gallery-notes\n\n${gstr}\n`;
 }
 
-function removeWikiLinkMark(str) {
-    return String(str).replace(/^\[\[/, "").replace(/\]\]$/, "");
+function toFileName(wikilinkStr) {
+	return /^\[\[(?<fn>[^\|]*?)\|.*?\]\]$/.exec(wikilinkStr).groups.fn || /^\[\[(?<fn>[^\|]*?)\]\]$/.exec(wikilinkStr).groups.fn || "_";
 }
 
 function getTagGroupMOC(title) {
@@ -342,7 +342,7 @@ function getTagGroupMOC(title) {
     const uniqueValues = uniqueArray(allValues).filter((v) => v);
 
     return uniqueValues
-        .sort((a, b) => removeWikiLinkMark(a).localeCompare(removeWikiLinkMark(b)))
+        .sort((a, b) => toFileName(a).localeCompare(toFileName(b)))
         .map((v) =>
             `1. ${v} | ${galleryMDFileCaches.filter((fc) => safeArray((fc.frontmatter || {})[property]).includes(v)).length}`
         )
