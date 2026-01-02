@@ -29,7 +29,7 @@ character:
   - "[[exhentai-tag-gawr-gura|gawr-gura]]"
   - "[[exhentai-tag-watson-amelia|watson-amelia]]"
 language:
-  - "[[exhentai-tag-n_a|n/a]]"
+  - "[[exhentai-tag-n_a|n_a]]"
   - "[[exhentai-tag-speechless|speechless]]"
 pagecount: 7
 aliases:
@@ -62,7 +62,7 @@ title: "[PSD＊商用利用厳禁]ぐらXアメリア抱き枕カバー印刷デ
 | character | [[exhentai-tag-gawr-gura\|gawr-gura]], [[exhentai-tag-watson-amelia\|watson-amelia]] |
 | artist | [[exhentai-tag-arashiya\|arashiya]] |
 | group |  |
-| languages | [[exhentai-tag-n_a\|n/a]], [[exhentai-tag-speechless\|speechless]] |
+| languages | [[exhentai-tag-n_a\|n_a]], [[exhentai-tag-speechless\|speechless]] |
 | categories | [[exhentai-tag-artist-cg\|artist-cg]] |
 | female | [[exhentai-tag-catgirl\|catgirl]], [[exhentai-tag-females-only\|females-only]], [[exhentai-tag-glasses\|glasses]], [[exhentai-tag-kemonomimi\|kemonomimi]], [[exhentai-tag-lolicon\|lolicon]], [[exhentai-tag-tail\|tail]], [[exhentai-tag-vtuber\|vtuber]] |
 | male |  |

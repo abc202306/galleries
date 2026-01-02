@@ -11,7 +11,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-english|english]] | 106
 1. [[exhentai-tag-japanese|japanese]] | 283
 1. [[exhentai-tag-korean|korean]] | 3
-1. [[exhentai-tag-n_a|n/a]] | 4
+1. [[exhentai-tag-n_a|n_a]] | 4
 1. [[exhentai-tag-spanish|spanish]] | 2
 1. [[exhentai-tag-speechless|speechless]] | 6
 1. [[exhentai-tag-text-cleaned|text-cleaned]] | 1
