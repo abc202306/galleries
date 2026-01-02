@@ -365,7 +365,7 @@ function getTagFileContent(title, ctime, mtime) {
     );
     const gstr = getGStr(paths.filter((i) => i.startsWith(config.path.folder.gallery)));
 
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.galleryDynamicBase}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`;
+    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.base.galleryDynamicBase}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`;
 }
 
 function getYearFileContent(title, ctime, mtime) {

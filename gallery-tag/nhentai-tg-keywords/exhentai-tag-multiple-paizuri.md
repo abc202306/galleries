@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:00+08:00
-mtime: 2026-01-02T16:27:32+08:00
+mtime: 2026-01-02T16:48:36+08:00
 ---
 
 # exhentai-tag-multiple-paizuri
 
 > seealso: [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

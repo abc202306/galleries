@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:53+08:00
-mtime: 2026-01-02T16:27:56+08:00
+mtime: 2026-01-02T16:49:02+08:00
 ---
 
 # exhentai-tag-ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai
 
 > seealso: [[exhentai-tg-parody|exhentai-tg-parody]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

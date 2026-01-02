@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:55+08:00
-mtime: 2026-01-02T16:27:45+08:00
+mtime: 2026-01-02T16:48:51+08:00
 ---
 
 # exhentai-tag-mtf-threesome
 
 > seealso: [[exhentai-tg-mixed|exhentai-tg-mixed]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

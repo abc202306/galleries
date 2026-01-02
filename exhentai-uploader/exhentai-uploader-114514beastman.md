@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:48+08:00
-mtime: 2026-01-02T16:27:02+08:00
+mtime: 2026-01-02T16:47:55+08:00
 ---
 
 # exhentai-uploader-114514beastman
 
 > seealso: 
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

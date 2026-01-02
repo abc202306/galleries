@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:07:00+08:00
-mtime: 2026-01-02T16:29:01+08:00
+mtime: 2026-01-02T16:50:14+08:00
 ---
 
 # exhentai-tag-poncocchan
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:47+08:00
-mtime: 2026-01-02T16:27:01+08:00
+mtime: 2026-01-02T16:47:54+08:00
 ---
 
 # exhentai-uploader-Amalanta
 
 > seealso: 
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

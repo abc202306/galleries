@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:49+08:00
-mtime: 2026-01-02T16:28:39+08:00
+mtime: 2026-01-02T16:49:54+08:00
 ---
 
 # exhentai-tag-anzu-futaba
 
 > seealso: [[exhentai-tg-character|exhentai-tg-character]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

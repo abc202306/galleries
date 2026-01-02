@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:58+08:00
-mtime: 2026-01-02T16:27:57+08:00
+mtime: 2026-01-02T16:49:02+08:00
 ---
 
 # exhentai-tag-translated
 
 > seealso: [[exhentai-tg-language|exhentai-tg-language]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

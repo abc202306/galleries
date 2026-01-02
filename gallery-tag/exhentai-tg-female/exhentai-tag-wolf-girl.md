@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:18+08:00
-mtime: 2026-01-02T16:27:58+08:00
+mtime: 2026-01-02T16:49:03+08:00
 ---
 
 # exhentai-tag-wolf-girl
 
 > seealso: [[exhentai-tg-female|exhentai-tg-female]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

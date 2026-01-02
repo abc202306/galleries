@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:48+08:00
-mtime: 2026-01-02T16:28:38+08:00
+mtime: 2026-01-02T16:49:53+08:00
 ---
 
 # exhentai-tag-camieux
 
 > seealso: [[exhentai-tg-character|exhentai-tg-character]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

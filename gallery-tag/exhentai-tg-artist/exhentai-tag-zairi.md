@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:50+08:00
-mtime: 2026-01-02T16:28:42+08:00
+mtime: 2026-01-02T16:49:57+08:00
 ---
 
 # exhentai-tag-zairi
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:57+08:00
-mtime: 2026-01-02T16:27:41+08:00
+mtime: 2026-01-02T16:48:47+08:00
 ---
 
 # exhentai-tag-gyaru-oh
 
 > seealso: [[exhentai-tg-male|exhentai-tg-male]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:58+08:00
-mtime: 2026-01-02T16:28:58+08:00
+mtime: 2026-01-02T16:50:12+08:00
 ---
 
 # exhentai-tag-saeki-tatsuya
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

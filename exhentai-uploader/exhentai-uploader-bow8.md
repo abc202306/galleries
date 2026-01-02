@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:47+08:00
-mtime: 2026-01-02T16:27:00+08:00
+mtime: 2026-01-02T16:47:52+08:00
 ---
 
 # exhentai-uploader-bow8
 
 > seealso: 
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

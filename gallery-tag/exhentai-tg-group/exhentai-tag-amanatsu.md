@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:18+08:00
-mtime: 2026-01-02T16:27:28+08:00
+mtime: 2026-01-02T16:48:31+08:00
 ---
 
 # exhentai-tag-amanatsu
 
 > seealso: [[exhentai-tg-group|exhentai-tg-group]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

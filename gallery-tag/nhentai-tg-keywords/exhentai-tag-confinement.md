@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:02+08:00
-mtime: 2026-01-02T16:27:35+08:00
+mtime: 2026-01-02T16:48:40+08:00
 ---
 
 # exhentai-tag-confinement
 
 > seealso: [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

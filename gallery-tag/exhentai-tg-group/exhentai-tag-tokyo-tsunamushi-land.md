@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:04+08:00
-mtime: 2026-01-02T16:27:04+08:00
+mtime: 2026-01-02T16:47:59+08:00
 ---
 
 # exhentai-tag-tokyo-tsunamushi-land
 
 > seealso: [[exhentai-tg-group|exhentai-tg-group]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

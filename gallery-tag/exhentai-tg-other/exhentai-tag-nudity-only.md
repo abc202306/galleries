@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:54+08:00
-mtime: 2026-01-02T16:27:37+08:00
+mtime: 2026-01-02T16:48:42+08:00
 ---
 
 # exhentai-tag-nudity-only
 
 > seealso: [[exhentai-tg-other|exhentai-tg-other]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

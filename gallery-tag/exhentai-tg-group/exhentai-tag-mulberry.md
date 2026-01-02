@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:07+08:00
-mtime: 2026-01-02T16:27:10+08:00
+mtime: 2026-01-02T16:48:11+08:00
 ---
 
 # exhentai-tag-mulberry
 
 > seealso: [[exhentai-tg-group|exhentai-tg-group]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:39+08:00
-mtime: 2026-01-02T16:28:24+08:00
+mtime: 2026-01-02T16:49:34+08:00
 ---
 
 # exhentai-tag-rika-jougasaki
 
 > seealso: [[exhentai-tg-character|exhentai-tg-character]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 

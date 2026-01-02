@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:19+08:00
-mtime: 2026-01-02T16:27:58+08:00
+mtime: 2026-01-02T16:49:04+08:00
 ---
 
 # exhentai-tag-widow
 
 > seealso: [[exhentai-tg-female|exhentai-tg-female]]
 
-!undefined
+![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
 
