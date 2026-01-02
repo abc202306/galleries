@@ -289,7 +289,11 @@ function compareGalleryPathWithPropertyUploaded(path1, path2) {
     const v1 = String(fc1?.frontmatter?.uploaded || "_");
     const v2 = String(fc2?.frontmatter?.uploaded || "_");
     // sort descending
-    return v2.localeCompare(v1);
+    const result = v2.localeCompare(v1);
+	if (result !== 0) {
+		return result;
+	}
+	return path2.localeCompare(path1);
 }
 
 function getGalleryPathRepresentationStr(path) {
@@ -393,7 +397,7 @@ function toFileName(wikilinkStr) {
 }
 
 function getTagGroupMOC(title) {
-    const property = title.replace(/^(ex|n)hentai-tg-/, "");
+    const property = title.replace(/^(ex|n)hentai-(tg-)?/, "");
     const galleryMDFileCaches = app
         .vault
         .getMarkdownFiles()

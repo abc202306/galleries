@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:59+08:00
-mtime: 2026-01-02T16:49:03+08:00
+mtime: 2026-01-02T17:20:37+08:00
 ---
 
 # exhentai-tag-japanese
@@ -29,12 +29,12 @@ mtime: 2026-01-02T16:49:03+08:00
 	- ![[exhentai-g-3678714-1fea2cbd4c.webp|200]]
 1. `Kurumi - Arona` | [[exhentai-g-3677750-88295931ff|exhentai-g-3677750-88295931ff]] | 2025-12-10
 	- ![[exhentai-g-3677750-88295931ff.webp|200]]
-1. `[Fantia] ゆぐゆぐファンクラブ (ゆぐゆぐ)` | [[exhentai-g-3677494-7ca44cc280|exhentai-g-3677494-7ca44cc280]] | 2025-12-09
-	- ![[exhentai-g-3677494-7ca44cc280.webp|200]]
-1. `[Fantia] 作吉歩允のファンティア (作吉歩允) 2` | [[exhentai-g-3677496-ad11b9c6c8|exhentai-g-3677496-ad11b9c6c8]] | 2025-12-09
-	- ![[exhentai-g-3677496-ad11b9c6c8.webp|200]]
 1. `[Fantia] 女児のおパンツ成分多めです (pu-en)` | [[exhentai-g-3677498-d93ebf485c|exhentai-g-3677498-d93ebf485c]] | 2025-12-09
 	- ![[exhentai-g-3677498-d93ebf485c.webp|200]]
+1. `[Fantia] 作吉歩允のファンティア (作吉歩允) 2` | [[exhentai-g-3677496-ad11b9c6c8|exhentai-g-3677496-ad11b9c6c8]] | 2025-12-09
+	- ![[exhentai-g-3677496-ad11b9c6c8.webp|200]]
+1. `[Fantia] ゆぐゆぐファンクラブ (ゆぐゆぐ)` | [[exhentai-g-3677494-7ca44cc280|exhentai-g-3677494-7ca44cc280]] | 2025-12-09
+	- ![[exhentai-g-3677494-7ca44cc280.webp|200]]
 1. `[x-rabbit] 五月ラフCG may 2020` | [[exhentai-g-3677364-c8cdf25920|exhentai-g-3677364-c8cdf25920]] | 2025-12-09
 	- ![[exhentai-g-3677364-c8cdf25920.webp|200]]
 1. `[x-rabbit] alps H illustration august 2021` | [[exhentai-g-3677347-89c84793ee|exhentai-g-3677347-89c84793ee]] | 2025-12-09
@@ -51,10 +51,10 @@ mtime: 2026-01-02T16:49:03+08:00
 	- ![[exhentai-g-3676342-4a056dd73d.webp|200]]
 1. `[猫乃またたび] 立ちバックで頭パーになっちゃうお兄ちゃん (お兄ちゃんはおしまい!)` | [[exhentai-g-3676340-544e83eb5a|exhentai-g-3676340-544e83eb5a]] | 2025-12-09
 	- ![[exhentai-g-3676340-544e83eb5a.webp|200]]
-1. `[猫乃またたび] 冬コミの表紙と差分 (アイドルマスター シンデレラガールズ)` | [[exhentai-g-3676337-75561fda2a|exhentai-g-3676337-75561fda2a]] | 2025-12-09
-	- ![[exhentai-g-3676337-75561fda2a.webp|200]]
 1. `[猫乃またたび] おしまいになったまひろちゃん (お兄ちゃんはおしまい!)` | [[exhentai-g-3676338-422a6979bb|exhentai-g-3676338-422a6979bb]] | 2025-12-09
 	- ![[exhentai-g-3676338-422a6979bb.webp|200]]
+1. `[猫乃またたび] 冬コミの表紙と差分 (アイドルマスター シンデレラガールズ)` | [[exhentai-g-3676337-75561fda2a|exhentai-g-3676337-75561fda2a]] | 2025-12-09
+	- ![[exhentai-g-3676337-75561fda2a.webp|200]]
 1. `[猫乃またたび] 主さまをはしたなく誘惑したコッコロにはお仕置きが必要だよね❤ (プリンセスコネクト!Re:Dive)` | [[exhentai-g-3676333-b1d845cdba|exhentai-g-3676333-b1d845cdba]] | 2025-12-09
 	- ![[exhentai-g-3676333-b1d845cdba.webp|200]]
 1. `[クリームパイ工場 (やすなお)] ブルアカ乳業 〜シュエリンの母子健康手帳〜 (ブルーアーカイブ) [DL版]` | [[exhentai-g-3676094-0e853e8b06|exhentai-g-3676094-0e853e8b06]] | 2025-12-08
@@ -75,10 +75,10 @@ mtime: 2026-01-02T16:49:03+08:00
 	- ![[exhentai-g-3675708-8f02b9b8c1.webp|200]]
 1. `[またのんき] 食と色 (アイドルマスター シンデレラガールズ)` | [[exhentai-g-3675657-786b1d1a43|exhentai-g-3675657-786b1d1a43]] | 2025-12-08
 	- ![[exhentai-g-3675657-786b1d1a43.webp|200]]
-1. `[大電人工房 (大電人)] いたずらだいすき倶楽部` | [[exhentai-g-3675536-b9448a9428|exhentai-g-3675536-b9448a9428]] | 2025-12-08
-	- ![[exhentai-g-3675536-b9448a9428.webp|200]]
 1. `[禁断童話 (童話箱)] ボランティアで訪れた貧困家庭の一室でつるまんに挿れるのさいこう` | [[exhentai-g-3675538-7b6882ba8a|exhentai-g-3675538-7b6882ba8a]] | 2025-12-08
 	- ![[exhentai-g-3675538-7b6882ba8a.webp|200]]
+1. `[大電人工房 (大電人)] いたずらだいすき倶楽部` | [[exhentai-g-3675536-b9448a9428|exhentai-g-3675536-b9448a9428]] | 2025-12-08
+	- ![[exhentai-g-3675536-b9448a9428.webp|200]]
 1. `[うなぎ鯖 (ゆぐゆぐ)] 清楚系○リびっちはドM男をおしおきしたい` | [[exhentai-g-3675527-d023c14e84|exhentai-g-3675527-d023c14e84]] | 2025-12-08
 	- ![[exhentai-g-3675527-d023c14e84.webp|200]]
 1. `[せるたす]ぺろぺろずんだもん` | [[exhentai-g-3675434-37ce6b9d8d|exhentai-g-3675434-37ce6b9d8d]] | 2025-12-08
@@ -97,10 +97,10 @@ mtime: 2026-01-02T16:49:03+08:00
 	- ![[exhentai-g-3674825-91707e2ad3.webp|200]]
 1. `[Pixiv] きごみー (106329376)` | [[exhentai-g-3674668-1aed9f43e9|exhentai-g-3674668-1aed9f43e9]] | 2025-12-07
 	- ![[exhentai-g-3674668-1aed9f43e9.webp|200]]
-1. `[Pixiv] Kipple (115172351)` | [[exhentai-g-3674412-117474e951|exhentai-g-3674412-117474e951]] | 2025-12-07
-	- ![[exhentai-g-3674412-117474e951.webp|200]]
 1. `[Pixiv] 610cc. (22044554)` | [[exhentai-g-3674413-bc9db4e520|exhentai-g-3674413-bc9db4e520]] | 2025-12-07
 	- ![[exhentai-g-3674413-bc9db4e520.webp|200]]
+1. `[Pixiv] Kipple (115172351)` | [[exhentai-g-3674412-117474e951|exhentai-g-3674412-117474e951]] | 2025-12-07
+	- ![[exhentai-g-3674412-117474e951.webp|200]]
 1. `[Fanbox] かにビーム` | [[exhentai-g-3673982-5705302acd|exhentai-g-3673982-5705302acd]] | 2025-12-07
 	- ![[exhentai-g-3673982-5705302acd.webp|200]]
 1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3673326-5d8c116322|exhentai-g-3673326-5d8c116322]] | 2025-12-07

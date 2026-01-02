@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:05:45+08:00
-mtime: 2026-01-02T16:47:47+08:00
+mtime: 2026-01-02T17:16:39+08:00
 ---
 
 # exhentai-uploader-hwyys
 
-> seealso: 
+> seealso: [[exhentai-uploader|exhentai-uploader]]
 
 ![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 

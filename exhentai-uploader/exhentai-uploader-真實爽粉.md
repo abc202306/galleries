@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:05:37+08:00
-mtime: 2026-01-02T16:47:31+08:00
+mtime: 2026-01-02T17:16:29+08:00
 ---
 
 # exhentai-uploader-真實爽粉
 
-> seealso: 
+> seealso: [[exhentai-uploader|exhentai-uploader]]
 
 ![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 

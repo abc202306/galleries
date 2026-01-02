@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:05:47+08:00
-mtime: 2026-01-02T16:47:55+08:00
+mtime: 2026-01-02T17:16:43+08:00
 ---
 
 # exhentai-uploader-akasuzu5
 
-> seealso: 
+> seealso: [[exhentai-uploader|exhentai-uploader]]
 
 ![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 

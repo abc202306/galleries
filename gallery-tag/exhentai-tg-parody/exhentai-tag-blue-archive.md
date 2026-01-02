@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:53+08:00
-mtime: 2026-01-02T16:49:01+08:00
+mtime: 2026-01-02T17:20:28+08:00
 ---
 
 # exhentai-tag-blue-archive
@@ -33,10 +33,10 @@ mtime: 2026-01-02T16:49:01+08:00
 	- ![[exhentai-g-3674834-31ed4e594f.webp|200]]
 1. `[Come Through (あづみ一樹)] 先生、今夜は誰とする？ (ブルーアーカイブ) [DL版]` | [[exhentai-g-3674825-91707e2ad3|exhentai-g-3674825-91707e2ad3]] | 2025-12-08
 	- ![[exhentai-g-3674825-91707e2ad3.webp|200]]
-1. `[Pixiv] Kipple (115172351)` | [[exhentai-g-3674412-117474e951|exhentai-g-3674412-117474e951]] | 2025-12-07
-	- ![[exhentai-g-3674412-117474e951.webp|200]]
 1. `[Pixiv] 610cc. (22044554)` | [[exhentai-g-3674413-bc9db4e520|exhentai-g-3674413-bc9db4e520]] | 2025-12-07
 	- ![[exhentai-g-3674413-bc9db4e520.webp|200]]
+1. `[Pixiv] Kipple (115172351)` | [[exhentai-g-3674412-117474e951|exhentai-g-3674412-117474e951]] | 2025-12-07
+	- ![[exhentai-g-3674412-117474e951.webp|200]]
 1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3673326-5d8c116322|exhentai-g-3673326-5d8c116322]] | 2025-12-07
 	- ![[exhentai-g-3673326-5d8c116322.webp|200]]
 1. `[ふらのくまりん (中村くまりん)] 前世でも好きだったこと全部してあげる (ブルーアーカイブ) [英訳] [DL版]` | [[exhentai-g-3670546-b9d271b331|exhentai-g-3670546-b9d271b331]] | 2025-12-05
