@@ -20,7 +20,7 @@ keywords:
   - "[[exhentai-tag-ffm-threesome|ffm-threesome]]"
   - "[[exhentai-tag-twintails|twintails]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-anal-intercourse|anal-intercourse]]"
   - "[[exhentai-tag-bbm|bbm]]"
   - "[[exhentai-tag-bikini|bikini]]"

@@ -8,7 +8,7 @@ keywords:
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-full-color|full-color]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-uncensored|uncensored]]"
   - "[[exhentai-tag-tail|tail]]"
   - "[[exhentai-tag-catgirl|catgirl]]"

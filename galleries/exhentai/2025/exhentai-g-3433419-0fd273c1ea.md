@@ -17,7 +17,7 @@ female:
   - "[[exhentai-tag-futanari|futanari]]"
   - "[[exhentai-tag-garter-belt|garter-belt]]"
   - "[[exhentai-tag-ghost|ghost]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-kimono|kimono]]"
   - "[[exhentai-tag-kissing|kissing]]"
   - "[[exhentai-tag-lolicon|lolicon]]"

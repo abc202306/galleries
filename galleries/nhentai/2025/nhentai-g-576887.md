@@ -12,7 +12,7 @@ keywords:
   - "[[exhentai-tag-ffm-threesome|ffm-threesome]]"
   - "[[exhentai-tag-femdom|femdom]]"
   - "[[exhentai-tag-ponytail|ponytail]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-harem|harem]]"
   - "[[exhentai-tag-footjob|footjob]]"
   - "[[exhentai-tag-tail|tail]]"

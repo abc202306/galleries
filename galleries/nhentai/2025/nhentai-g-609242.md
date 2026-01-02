@@ -10,7 +10,7 @@ keywords:
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-multi-work-series|multi-work-series]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-unusual-pupils|unusual-pupils]]"
   - "[[exhentai-tag-gloves|gloves]]"
   - "[[exhentai-tag-tail-plug|tail-plug]]"

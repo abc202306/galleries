@@ -11,7 +11,7 @@ keywords:
   - "[[exhentai-tag-bondage|bondage]]"
   - "[[exhentai-tag-defloration|defloration]]"
   - "[[exhentai-tag-twintails|twintails]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-fingering|fingering]]"
   - "[[exhentai-tag-bald|bald]]"
   - "[[exhentai-tag-halo|halo]]"

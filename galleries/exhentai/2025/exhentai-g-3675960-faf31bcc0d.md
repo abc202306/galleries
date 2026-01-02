@@ -11,7 +11,7 @@ female:
   - "[[exhentai-tag-demon-girl|demon-girl]]"
   - "[[exhentai-tag-gloves|gloves]]"
   - "[[exhentai-tag-horns|horns]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-leash|leash]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-mind-control|mind-control]]"

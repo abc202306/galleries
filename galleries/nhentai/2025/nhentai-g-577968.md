@@ -6,7 +6,7 @@ categories:
 keywords:
   - "[[exhentai-tag-sole-female|sole-female]]"
   - "[[exhentai-tag-sole-male|sole-male]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-halo|halo]]"
 english: "[yuji-koji] 発情期のシグレ（温泉）に搾り取られる漫画"
 japanese: ""

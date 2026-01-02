@@ -12,7 +12,7 @@ keywords:
   - "[[exhentai-tag-incest|incest]]"
   - "[[exhentai-tag-netorare|netorare]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-bikini|bikini]]"
   - "[[exhentai-tag-daughter|daughter]]"
   - "[[exhentai-tag-randoseru|randoseru]]"

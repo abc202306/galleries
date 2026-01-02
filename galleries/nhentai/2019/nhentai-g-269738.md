@@ -7,7 +7,7 @@ keywords:
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-glasses|glasses]]"
   - "[[exhentai-tag-ahegao|ahegao]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-lactation|lactation]]"
   - "[[exhentai-tag-mind-control|mind-control]]"
   - "[[exhentai-tag-drugs|drugs]]"

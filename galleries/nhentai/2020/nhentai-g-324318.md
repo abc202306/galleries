@@ -7,7 +7,7 @@ keywords:
   - "[[exhentai-tag-sole-female|sole-female]]"
   - "[[exhentai-tag-sole-male|sole-male]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
 english: (C93) [Suzume Nest (Umi Suzume)] Yayoi to Nyanko na Katachi 3 (Kantai Collection -KanColle-)
 japanese: (C93) [すずめねすと (雨美すずめ)] 弥生とニャンコなかたち 3 (艦隊これくしょん -艦これ-)
 url: https://nhentai.net/g/324318/

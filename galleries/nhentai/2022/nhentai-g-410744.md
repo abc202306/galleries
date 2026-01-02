@@ -16,7 +16,7 @@ keywords:
   - "[[exhentai-tag-swimsuit|swimsuit]]"
   - "[[exhentai-tag-dilf|dilf]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-bikini|bikini]]"
   - "[[exhentai-tag-anal-intercourse|anal-intercourse]]"
   - "[[exhentai-tag-uncensored|uncensored]]"

@@ -7,7 +7,7 @@ female:
   - "[[exhentai-tag-catgirl|catgirl]]"
   - "[[exhentai-tag-females-only|females-only]]"
   - "[[exhentai-tag-glasses|glasses]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-tail|tail]]"
   - "[[exhentai-tag-vtuber|vtuber]]"

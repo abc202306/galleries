@@ -10,7 +10,7 @@ keywords:
   - "[[exhentai-tag-full-color|full-color]]"
   - "[[exhentai-tag-collar|collar]]"
   - "[[exhentai-tag-bbm|bbm]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-gloves|gloves]]"
   - "[[exhentai-tag-catgirl|catgirl]]"
   - "[[exhentai-tag-tanlines|tanlines]]"

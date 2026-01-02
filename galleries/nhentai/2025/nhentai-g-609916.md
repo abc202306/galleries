@@ -21,7 +21,7 @@ keywords:
   - "[[exhentai-tag-double-penetration|double-penetration]]"
   - "[[exhentai-tag-twintails|twintails]]"
   - "[[exhentai-tag-dilf|dilf]]"
-  - "[[exhentai-tag-bbm|exhentai-tag-bbm]]"
+  - "[[exhentai-tag-bbm|bbm]]"
   - "[[exhentai-tag-sister|sister]]"
   - "[[exhentai-tag-mind-control|mind-control]]"
   - "[[exhentai-tag-mmf-threesome|mmf-threesome]]"

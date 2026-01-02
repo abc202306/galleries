@@ -9,7 +9,7 @@ keywords:
   - "[[exhentai-tag-defloration|defloration]]"
   - "[[exhentai-tag-impregnation|impregnation]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-pregnant|pregnant]]"
   - "[[exhentai-tag-gloves|gloves]]"
   - "[[exhentai-tag-tail|tail]]"

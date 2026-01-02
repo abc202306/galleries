@@ -7,7 +7,7 @@ keywords:
   - "[[exhentai-tag-sole-female|sole-female]]"
   - "[[exhentai-tag-sole-male|sole-male]]"
   - "[[exhentai-tag-blowjob|blowjob]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-bukkake|bukkake]]"
   - "[[exhentai-tag-no-penetration|no-penetration]]"
   - "[[exhentai-tag-focus-blowjob|focus-blowjob]]"

@@ -8,7 +8,7 @@ keywords:
   - "[[exhentai-tag-incest|incest]]"
   - "[[exhentai-tag-yuri|yuri]]"
   - "[[exhentai-tag-sister|sister]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-masturbation|masturbation]]"
   - "[[exhentai-tag-females-only|females-only]]"
   - "[[exhentai-tag-kissing|kissing]]"

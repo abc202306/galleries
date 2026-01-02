@@ -11,7 +11,7 @@ keywords:
   - "[[exhentai-tag-sex-toys|sex-toys]]"
   - "[[exhentai-tag-dilf|dilf]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-mind-control|mind-control]]"
   - "[[exhentai-tag-gloves|gloves]]"
   - "[[exhentai-tag-catgirl|catgirl]]"

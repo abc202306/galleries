@@ -9,7 +9,7 @@ keywords:
   - "[[exhentai-tag-stockings|stockings]]"
   - "[[exhentai-tag-glasses|glasses]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-tail|tail]]"
   - "[[exhentai-tag-leash|leash]]"
 english: "[Komugibatake (Komugi)] SAIOSHI KEMOMIMI SHOUJO WO AZUKARU ΚΟΤΟNI NARIMASHITA. !? | 居然成为了最喜欢的兽耳少女的看护人。(!?) [Chinese] [我還沒上車阿] [Digital]"

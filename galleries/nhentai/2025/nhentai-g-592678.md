@@ -9,7 +9,7 @@ keywords:
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-nakadashi|nakadashi]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-halo|halo]]"
 english: "[Kitsuneya (Leafy)] Lolicon Sensei ga Hoka no Seito ni Te o Dasanai You ni Nandemo Iu Koto o Kiite kureru Youjo Shun no Hon | 为防止萝莉控老师对其他学生肆意伸出魔爪愿意对老师言听计从的幼女瞬本子 (Blue Archive) [Chinese] [欶澜汉化组] [Digital]"
 japanese: "[きつね屋 (リーフィ)] ロリコン先生が他の生徒に手を出さないように何でも言うことを聞いてくれる幼女シュンの本 (ブルーアーカイブ) [中国翻訳] [DL版]"

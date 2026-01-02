@@ -9,7 +9,7 @@ keywords:
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-rape|rape]]"
   - "[[exhentai-tag-mosaic-censorship|mosaic-censorship]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-sleeping|sleeping]]"
   - "[[exhentai-tag-masked-face|masked-face]]"
 english: "[Osanpo Suisou] Gozen 0-ji no Wan-wan Haishin (COMIC LO 2021-05) [Chinese] [Lolipoi汉化组] [Digital]"

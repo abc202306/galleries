@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2026-01-01T14:28:01+08:00
+mtime: 2026-01-02T14:59:59+08:00
 ---
 
 # README
@@ -45,7 +45,7 @@ mtime: 2026-01-01T14:28:01+08:00
 | [[galleries\|galleries]] | 1396 | 698 | 698 |
 | [[galleries\|galleries]]/[[exhentai\|exhentai]] | 590 | 295 | 295 |
 | [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2012\|2012]] | 2 | 1 | 1 |
-| [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2014\|2014]] | 3 | 1 | 2 |
+| [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2014\|2014]] | 2 | 1 | 1 |
 | [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2015\|2015]] | 4 | 2 | 2 |
 | [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2016\|2016]] | 6 | 3 | 3 |
 | [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2017\|2017]] | 16 | 8 | 8 |
@@ -56,7 +56,7 @@ mtime: 2026-01-01T14:28:01+08:00
 | [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2022\|2022]] | 26 | 13 | 13 |
 | [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2023\|2023]] | 40 | 20 | 20 |
 | [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2024\|2024]] | 100 | 50 | 50 |
-| [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2025\|2025]] | 333 | 167 | 166 |
+| [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2025\|2025]] | 334 | 167 | 167 |
 | [[galleries\|galleries]]/[[nhentai\|nhentai]] | 806 | 403 | 403 |
 | [[galleries\|galleries]]/[[nhentai\|nhentai]]/[[2014\|2014]] | 26 | 13 | 13 |
 | [[galleries\|galleries]]/[[nhentai\|nhentai]]/[[2015\|2015]] | 18 | 9 | 9 |

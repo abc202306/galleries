@@ -6,7 +6,7 @@ categories:
 female:
   - "[[exhentai-tag-catgirl|catgirl]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-school-swimsuit|school-swimsuit]]"
   - "[[exhentai-tag-sole-female|sole-female]]"

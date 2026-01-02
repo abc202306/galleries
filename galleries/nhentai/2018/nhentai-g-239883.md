@@ -7,7 +7,7 @@ keywords:
   - "[[exhentai-tag-sole-female|sole-female]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-shotacon|shotacon]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-bunny-girl|bunny-girl]]"
 english: "[Milk Cocoa Shake (Hina Miruku)] Hatsujou Usagi-san Slash [Chinese] [脸肿汉化组] [Digital]"
 japanese: "[ミルクココアセーキ (未来みるく)] 発情うさぎさんスラッシュ [中国翻訳] [DL版]"

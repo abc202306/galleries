@@ -8,7 +8,7 @@ keywords:
   - "[[exhentai-tag-sole-male|sole-male]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-multi-work-series|multi-work-series]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-small-breasts|small-breasts]]"
   - "[[exhentai-tag-no-penetration|no-penetration]]"
   - "[[exhentai-tag-halo|halo]]"

@@ -7,7 +7,7 @@ keywords:
   - "[[exhentai-tag-sole-female|sole-female]]"
   - "[[exhentai-tag-sole-male|sole-male]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-catgirl|catgirl]]"
 english: (Mimiket 39) [Cocoa Holic (Yuizaki Kazuya)] Yuragi no Kuni no Kasane-chan
 japanese: (みみけっと39) [ココアホリック (ユイザキカズヤ)] ゆらぎの国のかさねちゃん

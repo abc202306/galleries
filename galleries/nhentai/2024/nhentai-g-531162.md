@@ -8,7 +8,7 @@ keywords:
   - "[[exhentai-tag-sole-male|sole-male]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-nakadashi|nakadashi]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-tail|tail]]"
   - "[[exhentai-tag-fox-girl|fox-girl]]"
 english: "[Salmon Daisuki Club (Babalilo)] Wa... Warawa demo!? | 就…就算是 吾也!? [Chinese] [白杨汉化组] [Digital]"

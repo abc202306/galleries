@@ -7,7 +7,7 @@ keywords:
   - "[[exhentai-tag-sole-female|sole-female]]"
   - "[[exhentai-tag-sole-male|sole-male]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
 english: (C95) [ANCHOR (Mutou Mato)] Osanazuma Doll (Girls' Frontline) [Chinese]
 japanese: (C95) [ANCHOR (武藤まと)] オサナヅマドール (少女前線) [中国翻訳]
 url: https://nhentai.net/g/576624/

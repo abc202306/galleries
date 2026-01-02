@@ -10,7 +10,7 @@ keywords:
   - "[[exhentai-tag-multi-work-series|multi-work-series]]"
   - "[[exhentai-tag-defloration|defloration]]"
   - "[[exhentai-tag-impregnation|impregnation]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-halo|halo]]"
 english: (C104) [Poison Gray (Matsuriuta)] Kivotos Kozukuri Katsudou Houkokusho BluArch Kozukuri Houkokubu 3 | The Kivotos Baby-making Activity Report Blue Archive Baby-Making Information Club 3 (Blue Archive) [English] [Shiro Translation]
 japanese: (C104) [Poison Gray (松竜太)] キヴォトス子作り活動報告書 ブルアカ子作り報告部 第3報 (ブルーアーカイブ) [英訳]

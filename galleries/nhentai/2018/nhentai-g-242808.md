@@ -20,7 +20,7 @@ keywords:
   - "[[exhentai-tag-collar|collar]]"
   - "[[exhentai-tag-big-penis|big-penis]]"
   - "[[exhentai-tag-bbm|bbm]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-bikini|bikini]]"
   - "[[exhentai-tag-mind-control|mind-control]]"
   - "[[exhentai-tag-unusual-pupils|unusual-pupils]]"

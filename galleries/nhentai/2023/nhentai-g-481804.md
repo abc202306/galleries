@@ -7,7 +7,7 @@ keywords:
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-glasses|glasses]]"
   - "[[exhentai-tag-twintails|twintails]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-teacher|teacher]]"
   - "[[exhentai-tag-catgirl|catgirl]]"
   - "[[exhentai-tag-tail|tail]]"

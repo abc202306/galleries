@@ -8,7 +8,7 @@ keywords:
   - "[[exhentai-tag-shotacon|shotacon]]"
   - "[[exhentai-tag-swimsuit|swimsuit]]"
   - "[[exhentai-tag-twintails|twintails]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-bikini|bikini]]"
   - "[[exhentai-tag-tail|tail]]"
   - "[[exhentai-tag-scat|scat]]"

@@ -14,7 +14,7 @@ keywords:
   - "[[exhentai-tag-swimsuit|swimsuit]]"
   - "[[exhentai-tag-impregnation|impregnation]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-bikini|bikini]]"
   - "[[exhentai-tag-pregnant|pregnant]]"
   - "[[exhentai-tag-lingerie|lingerie]]"

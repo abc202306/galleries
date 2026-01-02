@@ -16,7 +16,7 @@ keywords:
   - "[[exhentai-tag-impregnation|impregnation]]"
   - "[[exhentai-tag-ponytail|ponytail]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-anal-intercourse|anal-intercourse]]"
   - "[[exhentai-tag-pregnant|pregnant]]"
   - "[[exhentai-tag-teacher|teacher]]"

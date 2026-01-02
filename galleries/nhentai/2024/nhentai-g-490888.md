@@ -6,7 +6,7 @@ categories:
 keywords:
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-stockings|stockings]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-masturbation|masturbation]]"
   - "[[exhentai-tag-catgirl|catgirl]]"
   - "[[exhentai-tag-tail|tail]]"

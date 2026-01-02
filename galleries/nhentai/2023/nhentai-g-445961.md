@@ -12,7 +12,7 @@ keywords:
   - "[[exhentai-tag-twintails|twintails]]"
   - "[[exhentai-tag-dilf|dilf]]"
   - "[[exhentai-tag-bbm|bbm]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-bikini|bikini]]"
   - "[[exhentai-tag-footjob|footjob]]"
   - "[[exhentai-tag-catgirl|catgirl]]"

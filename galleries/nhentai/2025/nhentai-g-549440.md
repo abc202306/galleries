@@ -9,7 +9,7 @@ keywords:
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-stockings|stockings]]"
   - "[[exhentai-tag-blowjob|blowjob]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-halo|halo]]"
   - "[[exhentai-tag-chinese-dress|chinese-dress]]"
 english: "[Takoyaki-batake (Takoyaki)] Sensei, Amaete mo Yoi desu ka? (Blue Archive) [Digital]"

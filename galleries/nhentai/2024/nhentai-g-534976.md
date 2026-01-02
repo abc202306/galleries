@@ -11,7 +11,7 @@ keywords:
   - "[[exhentai-tag-full-color|full-color]]"
   - "[[exhentai-tag-mosaic-censorship|mosaic-censorship]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-unusual-pupils|unusual-pupils]]"
   - "[[exhentai-tag-catgirl|catgirl]]"
   - "[[exhentai-tag-tail|tail]]"

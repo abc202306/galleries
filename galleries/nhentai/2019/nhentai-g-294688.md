@@ -7,7 +7,7 @@ keywords:
   - "[[exhentai-tag-sole-female|sole-female]]"
   - "[[exhentai-tag-lolicon|lolicon]]"
   - "[[exhentai-tag-bondage|bondage]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-tentacles|tentacles]]"
   - "[[exhentai-tag-urination|urination]]"
   - "[[exhentai-tag-drugs|drugs]]"

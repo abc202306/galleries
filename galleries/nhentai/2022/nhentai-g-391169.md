@@ -12,7 +12,7 @@ keywords:
   - "[[exhentai-tag-incest|incest]]"
   - "[[exhentai-tag-twintails|twintails]]"
   - "[[exhentai-tag-sister|sister]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-eye-covering-bang|eye-covering-bang]]"
 english: "[Rondonko] Imouto ni Kisete mita | Dressing-Up My Little Sister (COMIC LO 2022-03) [English] {Mistvern} [Digital]"
 japanese: "[ろんどんこ] 妹に着せてみた (COMIC LO 2022年3月号) [英訳] [DL版]"

@@ -13,7 +13,7 @@ keywords:
   - "[[exhentai-tag-double-penetration|double-penetration]]"
   - "[[exhentai-tag-sex-toys|sex-toys]]"
   - "[[exhentai-tag-twintails|twintails]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-harem|harem]]"
   - "[[exhentai-tag-catgirl|catgirl]]"
   - "[[exhentai-tag-tanlines|tanlines]]"

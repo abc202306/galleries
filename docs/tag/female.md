@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-01T14:28:02+08:00
+mtime: 2026-01-02T15:05:50+08:00
 ---
 
 # female
@@ -142,8 +142,7 @@ mtime: 2026-01-01T14:28:02+08:00
 1. [[exhentai-tag-insect|insect]] | 4
 1. [[exhentai-tag-internal-urination|internal-urination]] | 1
 1. [[exhentai-tag-inverted-nipples|inverted-nipples]] | 1
-1. [[exhentai-tag-kemonomimi|kemonomimi]] | 27
-1. [[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]] | 27
+1. [[exhentai-tag-kemonomimi|kemonomimi]] | 54
 1. [[exhentai-tag-kigurumi-pajama|kigurumi-pajama]] | 1
 1. [[exhentai-tag-kimono|kimono]] | 7
 1. [[exhentai-tag-kindergarten-uniform|kindergarten-uniform]] | 3

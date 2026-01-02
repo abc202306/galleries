@@ -14,7 +14,7 @@ keywords:
   - "[[exhentai-tag-sex-toys|sex-toys]]"
   - "[[exhentai-tag-double-penetration|double-penetration]]"
   - "[[exhentai-tag-collar|collar]]"
-  - "[[exhentai-tag-kemonomimi|exhentai-tag-kemonomimi]]"
+  - "[[exhentai-tag-kemonomimi|kemonomimi]]"
   - "[[exhentai-tag-anal-intercourse|anal-intercourse]]"
   - "[[exhentai-tag-bbm|bbm]]"
   - "[[exhentai-tag-uncensored|uncensored]]"
