@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2026-01-02T14:59:59+08:00
+mtime: 2026-01-02T16:34:51+08:00
 ---
 
 # README
@@ -17,7 +17,7 @@ mtime: 2026-01-02T14:59:59+08:00
 ## pinned
 
 - [[gallery]]
-- [[tag]]
+- [[gallery-tag]]
 - [[gallery-notes]]
 
 ## Web Clipper
@@ -37,11 +37,12 @@ mtime: 2026-01-02T14:59:59+08:00
 | [[docs\|docs]]/[[collection\|collection]] | 2 | 2 | 0 |
 | [[docs\|docs]]/[[docs\|docs]] | 14 | 14 | 0 |
 | [[docs\|docs]]/[[galleries\|galleries]] | 2 | 2 | 0 |
+| [[docs\|docs]]/[[gallery-tag\|gallery-tag]] | 14 | 14 | 0 |
 | [[docs\|docs]]/[[image-file\|image-file]] | 1 | 0 | 1 |
 | [[docs\|docs]]/[[notation\|notation]] | 1 | 1 | 0 |
 | [[docs\|docs]]/[[property\|property]] | 4 | 4 | 0 |
-| [[docs\|docs]]/[[tag\|tag]] | 14 | 14 | 0 |
 | [[docs\|docs]]/[[year\|year]] | 13 | 13 | 0 |
+| [[exhentai-uploader\|exhentai-uploader]] | 167 | 167 | 0 |
 | [[galleries\|galleries]] | 1396 | 698 | 698 |
 | [[galleries\|galleries]]/[[exhentai\|exhentai]] | 590 | 295 | 295 |
 | [[galleries\|galleries]]/[[exhentai\|exhentai]]/[[2012\|2012]] | 2 | 1 | 1 |
@@ -71,28 +72,27 @@ mtime: 2026-01-02T14:59:59+08:00
 | [[galleries\|galleries]]/[[nhentai\|nhentai]]/[[2024\|2024]] | 164 | 82 | 82 |
 | [[galleries\|galleries]]/[[nhentai\|nhentai]]/[[2025\|2025]] | 268 | 134 | 134 |
 | [[gallery-notes\|gallery-notes]] | 7 | 5 | 2 |
+| [[gallery-tag\|gallery-tag]] | 1609 | 1609 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-artist\|exhentai-tg-artist]] | 538 | 538 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-categories\|exhentai-tg-categories]] | 10 | 10 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-character\|exhentai-tg-character]] | 270 | 270 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-cosplayer\|exhentai-tg-cosplayer]] | 1 | 1 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-female\|exhentai-tg-female]] | 251 | 251 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-group\|exhentai-tg-group]] | 252 | 252 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-language\|exhentai-tg-language]] | 9 | 9 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-location\|exhentai-tg-location]] | 4 | 4 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-male\|exhentai-tg-male]] | 54 | 54 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-mixed\|exhentai-tg-mixed]] | 7 | 7 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-other\|exhentai-tg-other]] | 33 | 33 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-parody\|exhentai-tg-parody]] | 105 | 105 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[exhentai-tg-temp\|exhentai-tg-temp]] | 1 | 1 | 0 |
+| [[gallery-tag\|gallery-tag]]/[[nhentai-tg-keywords\|nhentai-tg-keywords]] | 74 | 74 | 0 |
 | [[property\|property]] | 33 | 33 | 0 |
 | [[property\|property]]/[[basic-property\|basic-property]] | 8 | 8 | 0 |
 | [[property\|property]]/[[docs-property\|docs-property]] | 1 | 1 | 0 |
 | [[property\|property]]/[[gallery-notes-property\|gallery-notes-property]] | 1 | 1 | 0 |
 | [[property\|property]]/[[gallery-property\|gallery-property]] | 23 | 23 | 0 |
-| [[tag\|tag]] | 1609 | 1609 | 0 |
-| [[tag\|tag]]/[[artist\|artist]] | 538 | 538 | 0 |
-| [[tag\|tag]]/[[categories\|categories]] | 10 | 10 | 0 |
-| [[tag\|tag]]/[[character\|character]] | 270 | 270 | 0 |
-| [[tag\|tag]]/[[cosplayer\|cosplayer]] | 1 | 1 | 0 |
-| [[tag\|tag]]/[[female\|female]] | 251 | 251 | 0 |
-| [[tag\|tag]]/[[group-ns\|group-ns]] | 252 | 252 | 0 |
-| [[tag\|tag]]/[[keywords\|keywords]] | 74 | 74 | 0 |
-| [[tag\|tag]]/[[language\|language]] | 9 | 9 | 0 |
-| [[tag\|tag]]/[[location\|location]] | 4 | 4 | 0 |
-| [[tag\|tag]]/[[male\|male]] | 54 | 54 | 0 |
-| [[tag\|tag]]/[[mixed\|mixed]] | 7 | 7 | 0 |
-| [[tag\|tag]]/[[other\|other]] | 33 | 33 | 0 |
-| [[tag\|tag]]/[[parody\|parody]] | 105 | 105 | 0 |
-| [[tag\|tag]]/[[temp\|temp]] | 1 | 1 | 0 |
 | [[templates\|templates]] | 2 | 2 | 0 |
-| [[uploader\|uploader]] | 167 | 167 | 0 |
 
 ## Views of [[gallery-base.base\|gallery-base.base]]
 
@@ -170,23 +170,78 @@ mtime: 2026-01-02T14:59:59+08:00
 const config = {
     path: {
         folder: {
-            tag: "tag/", //type/rewrite
+            tag: "gallery-tag/", //type/rewrite
             gallery: "galleries/", //type/rewrite
             property: "property/", //type/rewrite
-            uploader: "uploader/", //type/rewrite
-            docsTag: "docs/tag/", //type/rewrite
+            uploader: "exhentai-uploader/", //type/rewrite
+            docsTag: "docs/gallery-tag/", //type/rewrite
             docsYear: "docs/year/", //type/rewrite
         },
         file: {
             readme: "README.md", //type/replace
-            tag: "docs/docs/tag.md", //type/rewrite
-            uploader: "docs/docs/uploader.md", //type/rewrite
+            tag: "docs/docs/gallery-tag.md", //type/rewrite
+            uploader: "docs/docs/exhentai-uploader.md", //type/rewrite
             galleryNotes: "docs/collection/gallery-notes.md", //type/replace
             gallery: "docs/collection/gallery.md", //type/replace
             exhentai: "docs/galleries/exhentai.md", //type/replace
             nhentai: "docs/galleries/nhentai.md", //type/replace
         },
     },
+	ref: {
+		docs: {
+			docs: "[[docs|docs]]",
+			tag: "[[gallery-tag|gallery-tag]]",
+			collection: "[[collection|collection]]",
+		},
+		base: {
+			galleryDynamicBase: "[[gallery-dynamic-base.base|gallery-dynamic-base.base]]",
+			propertyDynamicBase: "[[property-dynamic-base.base|property-dynamic-base.base]]",
+			galleryBase: "[[gallery-base.base|gallery-base.base]]",
+		},		
+		galleryTagGroup: {
+			artist: "[[exhentai-tg-artist|artist]]",
+			categories: "[[exhentai-tg-categories|categories]]",
+			character: "[[exhentai-tg-character|character]]",
+			cosplayer: "[[exhentai-tg-cosplayer|cosplayer]]",
+			female: "[[exhentai-tg-female|female]]",
+			group: "[[exhentai-tg-group|group]]",
+			keywords: "[[nhentai-tg-keywords|keywords]]",
+			language: "[[exhentai-tg-language|language]]",
+			location: "[[exhentai-tg-location|location]]",
+			male: "[[exhentai-tg-male|male]]",
+			mixed: "[[exhentai-tg-mixed|mixed]]",
+			other: "[[exhentai-tg-other|other]]",
+			parody: "[[exhentai-tg-parody|parody]]",
+			temp: "[[exhentai-tg-temp|temp]]"
+		},
+		collection: {
+			gallery: "[[gallery|gallery]]",
+			galleryNotes: "[[gallery-notes|gallery-notes]]",
+		},
+	},
+	keywords: {
+		exhentai: "exhentai",
+		nhentai: "nhentai",
+		galleryItems: "gallery-items",
+		noteList: "note-list",
+	},
+	propertyNames: [
+        "artist",
+        "group",
+        "categories",
+        "character",
+        "parody",
+        "language",
+        "cosplayer",
+        "female",
+        "location",
+        "male",
+        "mixed",
+        "other",
+        "temp",
+        "keywords",
+		"uploader",
+    ]
 };
 
 function getLocalISOStringWithTimezone() {
@@ -248,8 +303,8 @@ function getGalleryPathRepresentationStr(path) {
     const display2 = fc2.frontmatter?.japanese || fc2.frontmatter?.english || linktext2;
     const link2 =
         display2 === linktext2
-            ? `| [[${linktext2}\\|${linktext2}]]`
-            : `\u001C${display2}\u001C | [[${linktext2}\\|${linktext2}]]`.replace(/\u001C/g, "`");
+            ? `| [[${linktext2}|${linktext2}]]`
+            : `\u001C${display2}\u001C | [[${linktext2}|${linktext2}]]`.replace(/\u001C/g, "`");
 
     const coverField = fc2.frontmatter?.cover;
     let coverEmbed = "";
@@ -266,7 +321,7 @@ function getGalleryPathRepresentationStr(path) {
 function getNGStr(nonGalleryNotePaths) {
     const ngls = [...nonGalleryNotePaths].sort();
     return ngls
-        .map((path) => `[[${app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path))}\\|${app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path))}]]`)
+        .map((path) => `[[${app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path))}|${app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path))}]]`)
         .join(", ");
 }
 
@@ -310,7 +365,7 @@ function getTagFileContent(title, ctime, mtime) {
     );
     const gstr = getGStr(paths.filter((i) => i.startsWith(config.path.folder.gallery)));
 
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n![[gallery-dynamic-base.base\\|gallery-dynamic-base.base]]\n\n## gallery-items\n\n${gstr}\n`;
+    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.galleryDynamicBase}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`;
 }
 
 function getYearFileContent(title, ctime, mtime) {
@@ -330,7 +385,7 @@ function getYearFileContent(title, ctime, mtime) {
         .map((f) => f.path);
     const gstr = getGStr(galleryNotePaths);
 
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n## gallery-items\n\n${gstr}\n`;
+    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`;
 }
 
 function toFileName(wikilinkStr) {
@@ -338,7 +393,7 @@ function toFileName(wikilinkStr) {
 }
 
 function getTagGroupMOC(title) {
-    const property = title.replace(/-ns$/, "");
+    const property = title.replace(/^(ex|n)hentai-tg-/, "");
     const galleryMDFileCaches = app
         .vault
         .getMarkdownFiles()
@@ -361,7 +416,10 @@ function getGroupFileContent(title, ctime, mtime, seealso) {
 }
 
 function getTagCount(tagNameSpaceStr) {
-    const property = tagNameSpaceStr.replace(/-ns$/, "");
+	const result01 = /^\[\[(.*)\|(.*)\]\]$/.exec(tagNameSpaceStr);
+	const result02 = /^\[\[(.*)\]\]$/.exec(tagNameSpaceStr);
+	const str = result01?.[1] || result02?.[1] || tagNameSpaceStr;
+    const property = str.replace(/^(ex|n)hentai-tg-/, "");
     const galleryMDFileCaches = app
         .vault
         .getMarkdownFiles()
@@ -373,15 +431,17 @@ function getTagCount(tagNameSpaceStr) {
 }
 
 function getTagMetaFileContent(_title, ctime, mtime) {
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# tag\n\n> seealso: [[docs\\|docs]]\n\n1. [[artist\\|artist]] | ${getTagCount("artist")}\n1. [[categories\\|categories]] | ${getTagCount("categories")}\n1. [[character\\|character]] | ${getTagCount("character")}\n1. [[cosplayer\\|cosplayer]] | ${getTagCount("cosplayer")}\n1. [[female\\|female]] | ${getTagCount("female")}\n1. [[group-ns\\|group-ns]] | ${getTagCount("group-ns")}\n1. [[keywords\\|keywords]] | ${getTagCount("keywords")}\n1. [[language\\|language]] | ${getTagCount("language")}\n1. [[location\\|location]] | ${getTagCount("location")}\n1. [[male\\|male]] | ${getTagCount("male")}\n1. [[mixed\\|mixed]] | ${getTagCount("mixed")}\n1. [[other\\|other]] | ${getTagCount("other")}\n1. [[parody\\|parody]] | ${getTagCount("parody")}\n1. [[temp\\|temp]] | ${getTagCount("temp")}\n`;
+	const {docs} = config.ref.docs;
+	const {artist, categories, character, cosplayer, female, group, keywords, language, location, male, mixed, other, parody, temp} = config.ref.galleryTagGroup;
+    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# tag\n\n> seealso: ${docs}\n\n1. ${artist} | ${getTagCount(artist)}\n1. ${categories} | ${getTagCount(categories)}\n1. ${character} | ${getTagCount(character)}\n1. ${cosplayer} | ${getTagCount(cosplayer)}\n1. ${female} | ${getTagCount(female)}\n1. ${group} | ${getTagCount(group)}\n1. ${keywords} | ${getTagCount(keywords)}\n1. ${language} | ${getTagCount(language)}\n1. ${location} | ${getTagCount(location)}\n1. ${male} | ${getTagCount(male)}\n1. ${mixed} | ${getTagCount(mixed)}\n1. ${other} | ${getTagCount(other)}\n1. ${parody} | ${getTagCount(parody)}\n1. ${temp} | ${getTagCount(temp)}\n`;
 }
 
 function getTagGroupFileContent(title, ctime, mtime) {
-    return getGroupFileContent(title, ctime, mtime, "[[tag\\|tag]]");
+    return getGroupFileContent(title, ctime, mtime, config.ref.docs.tag);
 }
 
 function getUploaderGroupFileContent(title, ctime, mtime) {
-    return getGroupFileContent(title, ctime, mtime, "[[docs\\|docs]]");
+    return getGroupFileContent(title, ctime, mtime, config.ref.docs.docs);
 }
 
 function getPropertyFileContent(title, ctime, mtime) {
@@ -393,7 +453,7 @@ function getPropertyFileContent(title, ctime, mtime) {
         paths.filter((i) => !i.startsWith(config.path.folder.gallery)).filter((i) => i !== config.path.file.readme)
     );
 
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n![[property-dynamic-base.base\\|property-dynamic-base.base]]\n`;
+    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.base.propertyDynamicBase}\n`;
 }
 
 function getRenderedFolderPath(folder) {
@@ -434,7 +494,7 @@ async function getNoteMetaFileContent(_title, ctime, mtime) {
     const noteFiles = app
         .vault
         .getMarkdownFiles()
-        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes("[[gallery-notes|gallery-notes]]"));
+        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.galleryNotes));
 
     const file = app.vault.getAbstractFileByPath(metaFilePath);
     const fileContent = await app.vault.read(file);
@@ -451,9 +511,9 @@ async function getNoteMetaFileContent(_title, ctime, mtime) {
 
     const gstr = gls.map(getGalleryPathRepresentationStr).join("\n");
 
-    const preFMBlock = `\nup:\n  - "[[collection|collection]]"`;
-    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(/(?<=\n)## note-list\n[^]*/,
-        "## note-list\n\n" + gstr + "\n"
+    const preFMBlock = `\nup:\n  - "${config.ref.docs.collection}"`;
+    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(new RegExp(`(?<=\n)## ${config.keywords.noteList}\n[^]*`),
+        `## ${config.keywords.noteList}\n\n${gstr}\n`
     );
 
     return newData;
@@ -466,8 +526,8 @@ async function getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaF
 
     const gstr = getGStr(galleryNoteFiles.map((f) => f.path));
 
-    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(/(?<=\n)## gallery-items\n[^]*/,
-        "## gallery-items\n\n" + gstr + "\n"
+    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(new RegExp(`(?<=\n)## ${config.keywords.galleryItems}\n[^]*`),
+        `## ${config.keywords.galleryItems}\n\n${gstr}\n`
     );
 
     return newData;
@@ -478,8 +538,8 @@ async function getSpecGalleryMetaFileContent(_title, ctime, mtime) {
     const galleryNoteFiles = app
         .vault
         .getMarkdownFiles()
-        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes("[[gallery|gallery]]"));
-    const preFMBlock = `\nup:\n  - "[[collection|collection]]"\nbases:\n  - "[[gallery-base.base|gallery-base.base]]"`;
+        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery));
+    const preFMBlock = `\nup:\n  - "${config.ref.docs.collection}"\nbases:\n  - "${config.ref.base.galleryBase}"`;
     return await getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles, preFMBlock);
 }
 
@@ -488,8 +548,8 @@ async function getSpecEXHentaiGalleryMetaFileContent(_title, ctime, mtime) {
     const galleryNoteFiles = app
         .vault
         .getMarkdownFiles()
-        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes("[[gallery|gallery]]"))
-        .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes("exhentai"));
+        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery))
+        .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes(config.keywords.exhentai));
     return await getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles);
 }
 
@@ -498,8 +558,8 @@ async function getSpecNHentaiGalleryMetaFileContent(_title, ctime, mtime) {
     const galleryNoteFiles = app
         .vault
         .getMarkdownFiles()
-        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes("[[gallery|gallery]]"))
-        .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes("nhentai"));
+        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery))
+        .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes(config.keywords.nhentai));
     return await getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles);
 }
 
@@ -554,39 +614,14 @@ function createFilesFromUnresolvedLinksForAllGalleryNoteFiles() {
 
 	console.log("unresolvedLinktexts",unresolvedLinktexts)
 
-    const propertyNames = [
-        "artist",
-        "group",
-        "categories",
-        "character",
-        "parody",
-        "language",
-        "cosplayer",
-        "female",
-        "location",
-        "male",
-        "mixed",
-        "other",
-        "temp",
-        "keywords",
-		"uploader",
-    ];
-
     const galleryMDFileCaches = galleryNoteMDFiles.map((f) => app.metadataCache.getFileCache(f) || {});
     for (const linktext of uniqueArray(unresolvedLinktexts)) {
-        const value = `[[${linktext}\\|${linktext}]]`;
-        const propertyName = propertyNames.find((pn) =>
+        const value = `[[${linktext}|${linktext}]]`;
+        const propertyName = config.propertyNames.find((pn) =>
             galleryMDFileCaches.filter((fc) => safeArray((fc.frontmatter || {})[pn]).includes(value)).length !== 0
         );
 
         let folderPath = config.path.folder.tag;
-        if (propertyName === "group") {
-            folderPath += "group-ns/";
-        } else if (propertyName === "uploader") {
-			folderPath = config.path.folder.uploader;
-		} else if (propertyName) {
-			folderPath += `${propertyName}/`
-		}
 
         const destPath = folderPath + linktext + ".md";
         try {

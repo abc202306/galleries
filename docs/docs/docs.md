@@ -5,40 +5,40 @@ mtime: 2025-12-19T16:50:09+08:00
 
 # docs
 
-> seealso: [[README\|README]]
+> seealso: [[README|README]]
 
 ## important-docs
 
-1. [[galleries\|galleries]]
-1. [[property\|property]]
-1. [[tag\|tag]]
+1. [[galleries|galleries]]
+1. [[property|property]]
+1. [[gallery-tag|tag]]
 
-## [[collection\|collection]]
+## [[collection|collection]]
 
-1. [[gallery\|gallery]]
-1. [[gallery-notes\|gallery-notes]]
+1. [[gallery|gallery]]
+1. [[gallery-notes|gallery-notes]]
 
 ## scattered-docs
 
-1. [[base-file\|base-file]]
-1. [[canvas\|canvas]]
-1. [[collection\|collection]]
-1. [[image-file\|image-file]]
-1. [[notation\|notation]]
-1. [[templates\|templates]]
-1. [[tracked-tags\|tracked-tags]]
-1. [[uploader\|uploader]]
-1. [[year\|year]]
-1. [[graph-view\|graph-view]]
+1. [[base-file|base-file]]
+1. [[canvas|canvas]]
+1. [[collection|collection]]
+1. [[image-file|image-file]]
+1. [[notation|notation]]
+1. [[templates|templates]]
+1. [[tracked-tags|tracked-tags]]
+1. [[exhentai-uploader|uploader]]
+1. [[year|year]]
+1. [[graph-view|graph-view]]
 
-## [[property\|property]]
+## [[property|property]]
 
-### [[basic-property\|basic-property]]
+### [[basic-property|basic-property]]
 
-1. [[property-up\|property-up]]
-1. [[property-ctime\|property-ctime]]
-1. [[property-mtime\|property-mtime]]
+1. [[property-up|property-up]]
+1. [[property-ctime|property-ctime]]
+1. [[property-mtime|property-mtime]]
 
-### [[docs-property\|docs-property]]
+### [[docs-property|docs-property]]
 
-1. [[property-bases\|property-bases]]
+1. [[property-bases|property-bases]]
