@@ -5,7 +5,7 @@ mtime: 2026-01-02T17:21:06+08:00
 
 # exhentai-tag-lolicon
 
-> seealso: [[tracked-tags|tracked-tags]], [[exhentai-tg-female|exhentai-tg-female]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
+> seealso: [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]], [[exhentai-tg-female|exhentai-tg-female]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
 ![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 

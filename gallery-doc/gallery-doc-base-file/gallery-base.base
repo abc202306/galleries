@@ -1,0 +1,753 @@
+filters:
+  and:
+    - file.ext == "md"
+    - up.containsAny(link("collection-gallery", "collection-gallery"))
+formulas:
+  image01: image(if(cover,cover,icon))
+  cday: ctime.date()
+  mday: file.mtime.date()
+  filenamelen: file.name.length
+  filetitle: link(file,if(japanese,japanese,english))
+properties:
+  formula.image01:
+    displayName: image01
+views:
+  - type: cards
+    name: cards
+    order:
+      - formula.filetitle
+      - artist
+      - group
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      formula.image01: -10
+      formula.filetitle: 90
+      note.artist: 63
+      note.group: 65
+      note.english: 67
+      note.japanese: 70
+      note.categories: 187
+      note.url: 50
+      note.parody: 68
+      note.language: 162
+      note.character: 62
+      note.uploader: 60
+      note.uploaded: 63
+      note.pagecount: 44
+      note.female: 73
+      note.male: 64
+      note.mixed: 70
+      note.location: 58
+      note.other: 60
+      note.rating: 52
+      note.favorited: 51
+      note.visible: 38
+      note.filesize: 81
+      note.parent: 108
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: cardsmini
+    order: []
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      formula.image01: -10
+      formula.filetitle: 90
+      note.artist: 63
+      note.group: 65
+      note.english: 67
+      note.japanese: 70
+      note.categories: 187
+      note.url: 50
+      note.parody: 68
+      note.language: 162
+      note.character: 62
+      note.uploader: 60
+      note.uploaded: 63
+      note.pagecount: 44
+      note.female: 73
+      note.male: 64
+      note.mixed: 70
+      note.location: 58
+      note.other: 60
+      note.rating: 52
+      note.favorited: 51
+      note.visible: 38
+      note.filesize: 81
+      note.parent: 108
+    image: formula.image01
+    cardSize: 50
+  - type: cards
+    name: created
+    order:
+      - formula.filetitle
+      - formula.cday
+    sort:
+      - property: ctime
+        direction: DESC
+    limit: 100
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: modifiedbutnotcreatedtoday
+    filters:
+      and:
+        - note.ctime.date() != today()
+    order:
+      - formula.filetitle
+      - formula.mday
+    sort:
+      - property: file.mtime
+        direction: DESC
+    image: formula.image01
+    cardSize: 100
+  - type: table
+    name: table
+    order:
+      - formula.image01
+      - formula.filetitle
+      - artist
+      - group
+      - english
+      - japanese
+      - categories
+      - keywords
+      - url
+      - parody
+      - language
+      - character
+      - uploaded
+      - pagecount
+      - female
+      - male
+      - mixed
+      - location
+      - other
+      - favorited
+      - rating
+      - uploader
+      - parent
+      - visible
+      - filesize
+    sort:
+      - property: character
+        direction: ASC
+    columnSize:
+      formula.image01: -10
+      formula.filetitle: 224
+      note.artist: 97
+      note.group: 137
+      note.keywords: 98
+      note.url: 109
+      note.parody: 100
+      note.language: 216
+      note.character: 1182
+      note.pagecount: 37
+      note.female: 75
+      note.male: 66
+      note.mixed: 65
+      note.location: 86
+      note.other: 88
+  - type: cards
+    name: url/exhentai
+    filters:
+      and:
+        - url.containsAny("e-hentai", "exhentai")
+    order:
+      - formula.filetitle
+      - artist
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      formula.image01: -10
+      formula.filetitle: 90
+      note.artist: 63
+      note.group: 65
+      note.english: 67
+      note.japanese: 70
+      note.categories: 187
+      note.url: 50
+      note.parody: 68
+      note.language: 162
+      note.character: 62
+      note.uploader: 60
+      note.uploaded: 63
+      note.pagecount: 44
+      note.female: 73
+      note.male: 64
+      note.mixed: 70
+      note.location: 58
+      note.other: 60
+      note.rating: 52
+      note.favorited: 51
+      note.visible: 38
+      note.filesize: 81
+      note.parent: 108
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: url/nhentai
+    filters:
+      and:
+        - url.containsAny("nhentai")
+    order:
+      - formula.filetitle
+      - artist
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      formula.image01: -10
+      formula.filetitle: 90
+      note.artist: 63
+      note.group: 65
+      note.english: 67
+      note.japanese: 70
+      note.categories: 187
+      note.url: 50
+      note.parody: 68
+      note.language: 162
+      note.character: 62
+      note.uploader: 60
+      note.uploaded: 63
+      note.pagecount: 44
+      note.female: 73
+      note.male: 64
+      note.mixed: 70
+      note.location: 58
+      note.other: 60
+      note.rating: 52
+      note.favorited: 51
+      note.visible: 38
+      note.filesize: 81
+      note.parent: 108
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: url/jmcomichentai
+    filters:
+      and:
+        - url.containsAny("18comic")
+    order:
+      - formula.filetitle
+      - artist
+      - group
+      - english
+      - url
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      formula.image01: -10
+      formula.filetitle: 365
+      note.artist: 78
+      note.group: 86
+      note.keywords: 98
+      note.url: 219
+      note.parody: 99
+      note.language: 99
+      note.character: 96
+      note.pagecount: 101
+    image: formula.image01
+    cardSize: 100
+  - type: table
+    name: url/invalid
+    filters:
+      or:
+        - url.isEmpty()
+        - '!url.containsAny("exhentai", "e-hentai", "nhentai", "18comic")'
+    order:
+      - formula.image01
+      - formula.filetitle
+      - artist
+    sort: []
+    columnSize:
+      formula.image01: -10
+      formula.filetitle: 804
+      note.artist: 118
+    image: formula.image01
+  - type: table
+    name: url/exhentai/table
+    filters:
+      and:
+        - url.containsAny("e-hentai", "exhentai")
+    order:
+      - formula.image01
+      - formula.filetitle
+      - url
+      - artist
+      - group
+      - english
+      - japanese
+      - categories
+      - parody
+      - character
+      - uploader
+      - language
+      - uploaded
+      - pagecount
+      - female
+      - male
+      - mixed
+      - location
+      - other
+      - rating
+      - favorited
+      - visible
+      - filesize
+      - parent
+      - cover
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      formula.image01: -10
+      formula.filetitle: 90
+      note.url: 71
+      note.artist: 191
+      note.group: 109
+      note.english: 67
+      note.japanese: 70
+      note.categories: 138
+      note.parody: 244
+      note.character: 428
+      note.uploader: 192
+      note.language: 152
+      note.uploaded: 63
+      note.pagecount: 44
+      note.female: 996
+      note.male: 581
+      note.mixed: 384
+      note.location: 135
+      note.other: 422
+      note.rating: 52
+      note.favorited: 51
+      note.visible: 38
+      note.filesize: 81
+      note.parent: 108
+  - type: table
+    name: url/nhentai/table
+    filters:
+      and:
+        - url.contains("nhentai")
+    order:
+      - formula.image01
+      - formula.filetitle
+      - url
+      - artist
+      - group
+      - english
+      - japanese
+      - categories
+      - keywords
+      - language
+      - parody
+      - character
+      - uploaded
+      - pagecount
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      formula.image01: -10
+      formula.filetitle: 322
+      note.cover: 237
+      note.artist: 78
+      note.group: 86
+      note.english: 67
+      note.japanese: 70
+      note.categories: 110
+      note.keywords: 184
+      note.url: 219
+      note.language: 99
+      note.parody: 99
+      note.character: 96
+      note.uploaded: 63
+      note.pagecount: 61
+  - type: table
+    name: cover/startswithhttp/table
+    filters:
+      and:
+        - cover.startsWith("http")
+    columnSize:
+      formula.filetitle: 734
+  - type: table
+    name: cover/invalid/table
+    filters:
+      and:
+        - cover.isEmpty()
+    order:
+      - formula.image01
+      - formula.filetitle
+      - artist
+      - group
+      - english
+      - japanese
+      - categories
+      - keywords
+      - url
+      - parody
+      - language
+      - character
+      - uploaded
+      - pagecount
+      - female
+      - male
+      - mixed
+      - location
+      - other
+      - favorited
+      - rating
+      - uploader
+      - parent
+      - visible
+      - filesize
+    sort:
+      - property: ctime
+        direction: DESC
+    limit: 50
+    columnSize:
+      formula.image01: -10
+      formula.filetitle: 129
+      note.artist: 109
+      note.group: 86
+      note.keywords: 98
+      note.url: 219
+      note.parody: 99
+      note.language: 99
+      note.character: 96
+      note.pagecount: 37
+      note.female: 75
+      note.male: 66
+      note.mixed: 65
+      note.location: 86
+      note.other: 88
+  - type: cards
+    name: artist
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/kiira
+    filters:
+      and:
+        - file.hasLink("kiira")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/utatane
+    filters:
+      and:
+        - file.hasLink("utatane")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/hikami-izuto
+    filters:
+      and:
+        - file.hasLink("hikami-izuto")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/henreader
+    filters:
+      and:
+        - file.hasLink("henreader")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/custom-udon
+    filters:
+      and:
+        - file.hasLink("custom-udon")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/murai-renji
+    filters:
+      and:
+        - file.hasLink("murai-renji")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/wancho
+    filters:
+      and:
+        - file.hasLink("wancho")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/kani-biimu
+    filters:
+      and:
+        - file.hasLink("kani-biimu")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/yoyomax
+    filters:
+      and:
+        - file.hasLink("yoyomax")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/baku-p
+    filters:
+      and:
+        - file.hasLink("baku-p")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/komugi
+    filters:
+      and:
+        - file.hasLink("komugi")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: artist/empty
+    filters:
+      and:
+        - artist.isEmpty()
+    order:
+      - formula.filetitle
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100
+  - type: cards
+    name: parody
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: parody/touhou-project
+    filters:
+      and:
+        - file.hasLink("touhou-project")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: parody/blue-archive
+    filters:
+      and:
+        - file.hasLink("blue-archive")
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: parody/mahoujin-guru-guru
+    filters:
+      and:
+        - file.hasLink("mahoujin-guru-guru")
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: parody/original
+    filters:
+      and:
+        - file.hasLink("original")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: female/rape
+    filters:
+      and:
+        - file.hasLink("rape")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: female/lolicon
+    filters:
+      and:
+        - file.hasLink("lolicon")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: male/sole-male
+    filters:
+      and:
+        - file.hasLink("sole-male")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: mixed/kodomo-doushi
+    filters:
+      and:
+        - file.hasLink("kodomo-doushi")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: other/3d
+    filters:
+      and:
+        - file.hasLink("3d")
+    order:
+      - formula.filetitle
+    sort:
+      - property: ctime
+        direction: DESC
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: categories
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: categories/doujinshi
+    filters:
+      and:
+        - file.hasLink("doujinshi")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: categories/manga
+    filters:
+      or:
+        - file.hasLink("manga")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: categories/image-set
+    filters:
+      and:
+        - file.hasLink("image-set")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: categories/artist-cg
+    filters:
+      and:
+        - file.hasLink("artist-cg")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: categories/game-cg
+    filters:
+      and:
+        - file.hasLink("game-cg")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: categories/misc
+    filters:
+      and:
+        - file.hasLink("misc")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: categories/non-h
+    filters:
+      and:
+        - file.hasLink("non-h")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: categories/western
+    filters:
+      and:
+        - file.hasLink("western")
+    order:
+      - formula.filetitle
+    image: formula.image01
+    cardSize: 100
+  - type: cards
+    name: character/kukuri
+    filters:
+      and:
+        - file.hasLink("kukuri")
+    order:
+      - formula.filetitle
+      - artist
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.45
+    cardSize: 100

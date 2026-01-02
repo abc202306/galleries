@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery-notes|gallery-notes]]"
+  - "[[collection-gallery-notes|collection-gallery-notes]]"
 gallery: "[[exhentai-g-2865638-cb55311189|exhentai-g-2865638-cb55311189]]"
 cover: "[[exhentai-g-2865638-cb55311189.webp|exhentai-g-2865638-cb55311189.webp]]"
 url: https://www.pixiv.net/artworks/115876138

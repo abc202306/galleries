@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery-notes|gallery-notes]]"
+  - "[[collection-gallery-notes|collection-gallery-notes]]"
 gallery: "[[exhentai-g-3351524-d9eaac6215|exhentai-g-3351524-d9eaac6215]]"
 cover: "[[exhentai-g-3351524-d9eaac6215.webp|exhentai-g-3351524-d9eaac6215.webp]]"
 ctime: 2025-11-04T16:24:41

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery-notes|gallery-notes]]"
+  - "[[collection-gallery-notes|collection-gallery-notes]]"
 gallery: "[[nhentai-g-558981|nhentai-g-558981]]"
 cover: "[[nhentai-g-558981.webp|nhentai-g-558981.webp]]"
 url: https://soutubot.moe/results/2025012119161548

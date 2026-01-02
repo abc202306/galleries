@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery-notes|gallery-notes]]"
+  - "[[collection-gallery-notes|collection-gallery-notes]]"
 gallery: "[[nhentai-g-280781|nhentai-g-280781]]"
 cover: "[[gallery-note-2025-12-10 nhentai-page-280781-15.png|gallery-note-2025-12-10 nhentai-page-280781-15.png]]"
 url: https://nhentai.net/g/280781/15/

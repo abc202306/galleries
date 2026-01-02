@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery|gallery]]"
+  - "[[collection-gallery-items|collection-gallery-items]]"
 categories:
   - "[[exhentai-tag-doujinshi|doujinshi]]"
 keywords:

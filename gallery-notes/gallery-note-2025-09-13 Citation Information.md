@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[gallery-notes|gallery-notes]]"
+  - "[[collection-gallery-notes|collection-gallery-notes]]"
 gallery: "[[nhentai-g-408273|nhentai-g-408273]]"
 cover: "[[nhentai-g-408273.jpg|nhentai-g-408273.jpg]]"
 ctime: 2025-09-13T16:27:47

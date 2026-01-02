@@ -5,7 +5,7 @@ mtime: 2026-01-02T16:49:42+08:00
 
 # exhentai-tag-kukuri
 
-> seealso: [[tracked-tags|tracked-tags]], [[exhentai-tg-character|exhentai-tg-character]]
+> seealso: [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]], [[exhentai-tg-character|exhentai-tg-character]]
 
 ![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
