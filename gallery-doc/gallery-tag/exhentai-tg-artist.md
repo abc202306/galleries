@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-02T16:26:43+08:00
+mtime: 2026-01-03T19:26:52+08:00
 ---
 
 # exhentai-tg-artist
@@ -185,6 +185,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-kanoe|kanoe]] | 1
 1. [[exhentai-tag-kanroame|kanroame]] | 2
 1. [[exhentai-tag-karv|karv]] | 1
+1. [[exhentai-tag-kataokasan|kataokasan]] | 1
 1. [[exhentai-tag-kawanishi-yuuji|kawanishi-yuuji]] | 1
 1. [[exhentai-tag-kazawa|kazawa]] | 1
 1. [[exhentai-tag-kazesaki-furea|kazesaki-furea]] | 2
@@ -275,7 +276,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-momokumo|momokumo]] | 1
 1. [[exhentai-tag-momomo|momomo]] | 1
 1. [[exhentai-tag-momomo-gasshuukoku|momomo-gasshuukoku]] | 1
-1. [[exhentai-tag-momoroco|momoroco]] | 2
+1. [[exhentai-tag-momoroco|momoroco]] | 3
 1. [[exhentai-tag-monchan-rev3|monchan-rev3]] | 2
 1. [[exhentai-tag-more|more]] | 1
 1. [[exhentai-tag-moriyama-shijimi|moriyama-shijimi]] | 1
@@ -415,7 +416,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-shinkaida-tetsuyarou|shinkaida-tetsuyarou]] | 1
 1. [[exhentai-tag-shinozuki-kou|shinozuki-kou]] | 1
 1. [[exhentai-tag-shinya-yaoya|shinya-yaoya]] | 1
-1. [[exhentai-tag-shipuoru|shipuoru]] | 3
+1. [[exhentai-tag-shipuoru|shipuoru]] | 4
 1. [[exhentai-tag-shiratama-moti|shiratama-moti]] | 4
 1. [[exhentai-tag-shiroron-mochi|shiroron-mochi]] | 1
 1. [[exhentai-tag-shiruka-bakaudon-or-shiori|shiruka-bakaudon-or-shiori]] | 1
@@ -523,7 +524,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-yugana-or-nagayu|yugana-or-nagayu]] | 1
 1. [[exhentai-tag-yuguyugu|yuguyugu]] | 2
 1. [[exhentai-tag-yuiragi-chikage|yuiragi-chikage]] | 1
-1. [[exhentai-tag-yuizaki-kazuya|yuizaki-kazuya]] | 9
+1. [[exhentai-tag-yuizaki-kazuya|yuizaki-kazuya]] | 10
 1. [[exhentai-tag-yuji-koji|yuji-koji]] | 1
 1. [[exhentai-tag-yukimochi|yukimochi]] | 1
 1. [[exhentai-tag-yukino-koreyuki|yukino-koreyuki]] | 2

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-02T16:26:43+08:00
+mtime: 2026-01-03T19:26:48+08:00
 ---
 
 # nhentai-tg-keywords
@@ -25,7 +25,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-bathing-room|bathing-room]] | 1
 1. [[exhentai-tag-bbm|bbm]] | 35
 1. [[exhentai-tag-bdsm|bdsm]] | 2
-1. [[exhentai-tag-beauty-mark|beauty-mark]] | 7
+1. [[exhentai-tag-beauty-mark|beauty-mark]] | 8
 1. [[exhentai-tag-bestiality|bestiality]] | 4
 1. [[exhentai-tag-big-areolae|big-areolae]] | 1
 1. [[exhentai-tag-big-breasts|big-breasts]] | 2
@@ -37,7 +37,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-blindfold|blindfold]] | 10
 1. [[exhentai-tag-blood|blood]] | 2
 1. [[exhentai-tag-bloomers|bloomers]] | 4
-1. [[exhentai-tag-blowjob|blowjob]] | 99
+1. [[exhentai-tag-blowjob|blowjob]] | 100
 1. [[exhentai-tag-blowjob-face|blowjob-face]] | 3
 1. [[exhentai-tag-body-swap|body-swap]] | 1
 1. [[exhentai-tag-body-writing|body-writing]] | 2
@@ -79,7 +79,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-dark-skin|dark-skin]] | 24
 1. [[exhentai-tag-daughter|daughter]] | 21
 1. [[exhentai-tag-deepthroat|deepthroat]] | 11
-1. [[exhentai-tag-defloration|defloration]] | 58
+1. [[exhentai-tag-defloration|defloration]] | 59
 1. [[exhentai-tag-demon|demon]] | 1
 1. [[exhentai-tag-demon-girl|demon-girl]] | 11
 1. [[exhentai-tag-detached-sleeves|detached-sleeves]] | 1
@@ -94,7 +94,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-drill-hair|drill-hair]] | 2
 1. [[exhentai-tag-drugs|drugs]] | 12
 1. [[exhentai-tag-drunk|drunk]] | 4
-1. [[exhentai-tag-elf|elf]] | 4
+1. [[exhentai-tag-elf|elf]] | 5
 1. [[exhentai-tag-emotionless-sex|emotionless-sex]] | 2
 1. [[exhentai-tag-enema|enema]] | 1
 1. [[exhentai-tag-exhibitionism|exhibitionism]] | 22
@@ -151,7 +151,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-huge-penis|huge-penis]] | 1
 1. [[exhentai-tag-humiliation|humiliation]] | 2
 1. [[exhentai-tag-impregnation|impregnation]] | 37
-1. [[exhentai-tag-incest|incest]] | 68
+1. [[exhentai-tag-incest|incest]] | 69
 1. [[exhentai-tag-incomplete|incomplete]] | 4
 1. [[exhentai-tag-infantilism|infantilism]] | 1
 1. [[exhentai-tag-inflation|inflation]] | 3
@@ -173,7 +173,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-leg-lock|leg-lock]] | 2
 1. [[exhentai-tag-leotard|leotard]] | 1
 1. [[exhentai-tag-lingerie|lingerie]] | 3
-1. [[exhentai-tag-lolicon|lolicon]] | 385
+1. [[exhentai-tag-lolicon|lolicon]] | 388
 1. [[exhentai-tag-low-lolicon|low-lolicon]] | 1
 1. [[exhentai-tag-low-scat|low-scat]] | 2
 1. [[exhentai-tag-low-shotacon|low-shotacon]] | 3
@@ -194,14 +194,14 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-moral-degeneration|moral-degeneration]] | 1
 1. [[exhentai-tag-mosaic-censorship|mosaic-censorship]] | 64
 1. [[exhentai-tag-mother|mother]] | 1
-1. [[exhentai-tag-multi-work-series|multi-work-series]] | 31
+1. [[exhentai-tag-multi-work-series|multi-work-series]] | 32
 1. [[exhentai-tag-multimouth-blowjob|multimouth-blowjob]] | 3
 1. [[exhentai-tag-multipanel-sequence|multipanel-sequence]] | 1
 1. [[exhentai-tag-multiple-orgasms|multiple-orgasms]] | 3
 1. [[exhentai-tag-multiple-paizuri|multiple-paizuri]] | 1
 1. [[exhentai-tag-muscle|muscle]] | 7
 1. [[exhentai-tag-mute|mute]] | 1
-1. [[exhentai-tag-nakadashi|nakadashi]] | 115
+1. [[exhentai-tag-nakadashi|nakadashi]] | 116
 1. [[exhentai-tag-necrophilia|necrophilia]] | 1
 1. [[exhentai-tag-netorare|netorare]] | 9
 1. [[exhentai-tag-niece|niece]] | 6
@@ -254,7 +254,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-shimaidon|shimaidon]] | 12
 1. [[exhentai-tag-shimapan|shimapan]] | 1
 1. [[exhentai-tag-shotacon|shotacon]] | 40
-1. [[exhentai-tag-sister|sister]] | 40
+1. [[exhentai-tag-sister|sister]] | 41
 1. [[exhentai-tag-slave|slave]] | 7
 1. [[exhentai-tag-sleeping|sleeping]] | 21
 1. [[exhentai-tag-slime-girl|slime-girl]] | 2
@@ -265,12 +265,12 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-snuff|snuff]] | 4
 1. [[exhentai-tag-sockjob|sockjob]] | 1
 1. [[exhentai-tag-sole-dickgirl|sole-dickgirl]] | 1
-1. [[exhentai-tag-sole-female|sole-female]] | 197
-1. [[exhentai-tag-sole-male|sole-male]] | 199
+1. [[exhentai-tag-sole-female|sole-female]] | 199
+1. [[exhentai-tag-sole-male|sole-male]] | 201
 1. [[exhentai-tag-solo-action|solo-action]] | 5
 1. [[exhentai-tag-soushuuhen|soushuuhen]] | 2
 1. [[exhentai-tag-squirting|squirting]] | 8
-1. [[exhentai-tag-stockings|stockings]] | 71
+1. [[exhentai-tag-stockings|stockings]] | 72
 1. [[exhentai-tag-stomach-deformation|stomach-deformation]] | 34
 1. [[exhentai-tag-story-arc|story-arc]] | 5
 1. [[exhentai-tag-stretching|stretching]] | 1
@@ -301,7 +301,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-tutor|tutor]] | 10
 1. [[exhentai-tag-twins|twins]] | 9
 1. [[exhentai-tag-twintails|twintails]] | 75
-1. [[exhentai-tag-uncensored|uncensored]] | 29
+1. [[exhentai-tag-uncensored|uncensored]] | 31
 1. [[exhentai-tag-unusual-insertions|unusual-insertions]] | 5
 1. [[exhentai-tag-unusual-pupils|unusual-pupils]] | 21
 1. [[exhentai-tag-unusual-teeth|unusual-teeth]] | 1

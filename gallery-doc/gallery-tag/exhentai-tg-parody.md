@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-02T16:26:43+08:00
+mtime: 2026-01-03T19:26:52+08:00
 ---
 
 # exhentai-tg-parody
@@ -11,7 +11,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-alice-gear-aegis|alice-gear-aegis]] | 1
 1. [[exhentai-tag-alice-in-wonderland|alice-in-wonderland]] | 2
 1. [[exhentai-tag-ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai|ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai]] | 1
-1. [[exhentai-tag-arknights|arknights]] | 1
+1. [[exhentai-tag-arknights|arknights]] | 2
 1. [[exhentai-tag-azur-lane|azur-lane]] | 7
 1. [[exhentai-tag-bakemonogatari|bakemonogatari]] | 1
 1. [[exhentai-tag-blue-archive|blue-archive]] | 96
@@ -71,13 +71,14 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-new-game|new-game]] | 1
 1. [[exhentai-tag-nichijou|nichijou]] | 1
 1. [[exhentai-tag-nijisanji|nijisanji]] | 2
+1. [[exhentai-tag-no-game-no-life|no-game-no-life]] | 1
 1. [[exhentai-tag-non-non-biyori|non-non-biyori]] | 1
 1. [[exhentai-tag-ongeki|ongeki]] | 2
 1. [[exhentai-tag-onii-chan-wa-oshimai|onii-chan-wa-oshimai]] | 7
-1. [[exhentai-tag-original|original]] | 199
+1. [[exhentai-tag-original|original]] | 200
 1. [[exhentai-tag-oshi-no-ko|oshi-no-ko]] | 1
 1. [[exhentai-tag-pokemon-or-pocket-monsters|pokemon-or-pocket-monsters]] | 2
-1. [[exhentai-tag-princess-connect|princess-connect]] | 6
+1. [[exhentai-tag-princess-connect|princess-connect]] | 7
 1. [[exhentai-tag-pripara|pripara]] | 6
 1. [[exhentai-tag-puella-magi-madoka-magica-side-story-magia-record|puella-magi-madoka-magica-side-story-magia-record]] | 1
 1. [[exhentai-tag-puniru-wa-kawaii-slime|puniru-wa-kawaii-slime]] | 2

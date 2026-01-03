@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-02T16:26:43+08:00
+mtime: 2026-01-03T19:26:52+08:00
 ---
 
 # exhentai-tg-other
@@ -21,7 +21,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-goudoushi|goudoushi]] | 2
 1. [[exhentai-tag-kodomo-only|kodomo-only]] | 3
 1. [[exhentai-tag-missing-cover|missing-cover]] | 1
-1. [[exhentai-tag-mosaic-censorship|mosaic-censorship]] | 50
+1. [[exhentai-tag-mosaic-censorship|mosaic-censorship]] | 51
 1. [[exhentai-tag-multi-work-series|multi-work-series]] | 23
 1. [[exhentai-tag-no-penetration|no-penetration]] | 3
 1. [[exhentai-tag-non-nude|non-nude]] | 1

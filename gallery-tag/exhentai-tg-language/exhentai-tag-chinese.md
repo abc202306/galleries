@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:59+08:00
-mtime: 2026-01-02T16:49:03+08:00
+mtime: 2026-01-03T19:27:16+08:00
 ---
 
 # exhentai-tag-chinese
@@ -10,6 +10,13 @@ mtime: 2026-01-02T16:49:03+08:00
 ![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
 ## gallery-items
+
+### 2026
+
+#### 2026-01
+
+1. `[Kataokasan] 迟到的阿能生贺漫画 (Arknights) [Chinese]` | [[exhentai-g-3717940-139cf2ee58|exhentai-g-3717940-139cf2ee58]] | 2026-01-02
+	- ![[exhentai-g-3717940-139cf2ee58.webp|200]]
 
 ### 2025
 
@@ -29,6 +36,8 @@ mtime: 2026-01-02T16:49:03+08:00
 	- ![[exhentai-g-3692702-27f69ef669.webp|200]]
 1. `[Usacastle (うさ城まに)] ままかつどう2 [中国翻訳] [DL版]` | [[exhentai-g-3690021-e698e27b22|exhentai-g-3690021-e698e27b22]] | 2025-12-17
 	- ![[exhentai-g-3690021-e698e27b22.webp|200]]
+1. `[ももろこ小屋 (ももろこ)] 変態さんはどちらですか? (プリンセスコネクト!Re:Dive) [中国翻訳]` | [[nhentai-g-616008|nhentai-g-616008]] | 2025-12-16
+	- ![[nhentai-g-616008.webp|200]]
 1. `[ももろこ小屋 (ももろこ)] 変態さんはどちらですか? (プリンセスコネクト!Re:Dive) [中国翻訳]` | [[exhentai-g-3688213-62f39cfde1|exhentai-g-3688213-62f39cfde1]] | 2025-12-16
 	- ![[exhentai-g-3688213-62f39cfde1.webp|200]]
 1. `[色琥珀] ルメリー・マレフィカールム` | [[exhentai-g-3688095-0f37b05108|exhentai-g-3688095-0f37b05108]] | 2025-12-16
@@ -273,6 +282,8 @@ mtime: 2026-01-02T16:49:03+08:00
 
 1. `[MILKPOP (レキシタイふのじ)] 暗密スニアメール (東方Project) [中国翻訳] [DL版]` | [[nhentai-g-570304|nhentai-g-570304]] | 2025-04-29
 	- ![[nhentai-g-570304.webp|200]]
+1. `[しぷおる] ずっと一緒にいてね [中国翻訳] [無修正] [DL版]` | [[nhentai-g-566404|nhentai-g-566404]] | 2025-04-05
+	- ![[nhentai-g-566404.webp|200]]
 
 #### 2025-02
 

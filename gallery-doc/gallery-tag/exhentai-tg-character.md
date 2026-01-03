@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-02T16:26:43+08:00
+mtime: 2026-01-03T19:26:52+08:00
 ---
 
 # exhentai-tg-character
@@ -58,7 +58,9 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-einhart-stratos|einhart-stratos]] | 1
 1. [[exhentai-tag-eizen|eizen]] | 1
 1. [[exhentai-tag-emeralda-kasim|emeralda-kasim]] | 1
+1. [[exhentai-tag-exusiai|exusiai]] | 1
 1. [[exhentai-tag-fern|fern]] | 1
+1. [[exhentai-tag-fiammetta|fiammetta]] | 1
 1. [[exhentai-tag-fine|fine]] | 4
 1. [[exhentai-tag-flandre-scarlet|flandre-scarlet]] | 6
 1. [[exhentai-tag-g41|g41]] | 1
@@ -126,7 +128,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-kudryavka-noumi|kudryavka-noumi]] | 1
 1. [[exhentai-tag-kukuri|kukuri]] | 19
 1. [[exhentai-tag-kuro-kagami|kuro-kagami]] | 1
-1. [[exhentai-tag-kyouka-hikawa|kyouka-hikawa]] | 3
+1. [[exhentai-tag-kyouka-hikawa|kyouka-hikawa]] | 4
 1. [[exhentai-tag-laala-manaka|laala-manaka]] | 1
 1. [[exhentai-tag-laffey|laffey]] | 2
 1. [[exhentai-tag-lana|lana]] | 1
@@ -134,6 +136,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-laplus-darknesss|laplus-darknesss]] | 1
 1. [[exhentai-tag-le-malin|le-malin]] | 1
 1. [[exhentai-tag-le-triomphant|le-triomphant]] | 1
+1. [[exhentai-tag-lemuen|lemuen]] | 1
 1. [[exhentai-tag-lilo-pelekai|lilo-pelekai]] | 2
 1. [[exhentai-tag-lily-baker|lily-baker]] | 1
 1. [[exhentai-tag-lione|lione]] | 2
@@ -172,6 +175,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-momoi-saiba|momoi-saiba]] | 7
 1. [[exhentai-tag-momoka-sakurai|momoka-sakurai]] | 6
 1. [[exhentai-tag-morinaka-kazaki|morinaka-kazaki]] | 1
+1. [[exhentai-tag-mostima|mostima]] | 1
 1. [[exhentai-tag-murakumo|murakumo]] | 1
 1. [[exhentai-tag-murasaki-shion|murasaki-shion]] | 2
 1. [[exhentai-tag-nahida|nahida]] | 2
@@ -234,12 +238,13 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-shigure-ui|shigure-ui]] | 1
 1. [[exhentai-tag-shikikan|shikikan]] | 1
 1. [[exhentai-tag-shinobu-oshino|shinobu-oshino]] | 1
+1. [[exhentai-tag-shiro|shiro]] | 1
 1. [[exhentai-tag-shiroko-sunaookami|shiroko-sunaookami]] | 1
 1. [[exhentai-tag-shizuka-minamoto|shizuka-minamoto]] | 1
 1. [[exhentai-tag-shun-sunohara|shun-sunohara]] | 9
 1. [[exhentai-tag-shuro-yabuki|shuro-yabuki]] | 1
 1. [[exhentai-tag-shuuka-hanazono|shuuka-hanazono]] | 1
-1. [[exhentai-tag-sora|sora]] | 2
+1. [[exhentai-tag-sora|sora]] | 3
 1. [[exhentai-tag-star-sapphire|star-sapphire]] | 1
 1. [[exhentai-tag-suika-ibuki|suika-ibuki]] | 1
 1. [[exhentai-tag-suletta-mercury|suletta-mercury]] | 1

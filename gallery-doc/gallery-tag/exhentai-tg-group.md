@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-02T16:26:42+08:00
+mtime: 2026-01-03T19:26:52+08:00
 ---
 
 # exhentai-tg-group
@@ -48,7 +48,7 @@ mtime: 2026-01-02T16:26:42+08:00
 1. [[exhentai-tag-circle-feed|circle-feed]] | 1
 1. [[exhentai-tag-circle-fiore|circle-fiore]] | 2
 1. [[exhentai-tag-citrus-junos|citrus-junos]] | 3
-1. [[exhentai-tag-cocoa-holic|cocoa-holic]] | 9
+1. [[exhentai-tag-cocoa-holic|cocoa-holic]] | 10
 1. [[exhentai-tag-codeine-girl|codeine-girl]] | 1
 1. [[exhentai-tag-come-through|come-through]] | 2
 1. [[exhentai-tag-complets|complets]] | 1
@@ -155,7 +155,7 @@ mtime: 2026-01-02T16:26:42+08:00
 1. [[exhentai-tag-mimamori-tei|mimamori-tei]] | 1
 1. [[exhentai-tag-minayu|minayu]] | 1
 1. [[exhentai-tag-misty-isle|misty-isle]] | 1
-1. [[exhentai-tag-momoroco-goya|momoroco-goya]] | 1
+1. [[exhentai-tag-momoroco-goya|momoroco-goya]] | 2
 1. [[exhentai-tag-monochrome-circuit|monochrome-circuit]] | 1
 1. [[exhentai-tag-monsieur|monsieur]] | 1
 1. [[exhentai-tag-moreriikusu|moreriikusu]] | 1
