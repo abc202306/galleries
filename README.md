@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2026-01-03T19:26:47+08:00
+mtime: 2026-01-03T20:42:12+08:00
 ---
 
 # README
@@ -8,11 +8,12 @@ mtime: 2026-01-03T19:26:47+08:00
 ![](obsidian-vault-galleries-graph-view-image.png)
 
 > [!Note]
-> 1. [[#pinned\|#pinned]]
-> 2. [[#Web Clipper\|#Web Clipper]]
-> 3. [[#Folder Struct\|#Folder Struct]]
-> 4. [[#Views of gallery-base.base\|#Views of gallery-base.base]]
-> 5. [[#Script\|#Script]]
+> 1. [[#pinned|#pinned]]
+> 2. [[#Web Clipper|#Web Clipper]]
+> 3. [[#Folder Struct|#Folder Struct]]
+> 4. [[#Views of gallery-base.base|#Views of gallery-base.base]]
+> 5. [[#symbols|#symbols]]
+> 6. [[#Script|#Script]]
 
 ## pinned
 
@@ -47,7 +48,7 @@ mtime: 2026-01-03T19:26:47+08:00
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[2023\|2023]] | 40 | 20 | 20 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[2024\|2024]] | 100 | 50 | 50 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[2025\|2025]] | 334 | 167 | 167 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/2026 | 2 | 1 | 1 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[2026\|2026]] | 2 | 1 | 1 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]] | 812 | 406 | 406 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[2014\|2014]] | 26 | 13 | 13 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[2015\|2015]] | 18 | 9 | 9 |
@@ -61,7 +62,7 @@ mtime: 2026-01-03T19:26:47+08:00
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[2023\|2023]] | 76 | 38 | 38 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[2024\|2024]] | 164 | 82 | 82 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[2025\|2025]] | 274 | 137 | 137 |
-| [[gallery-doc\|gallery-doc]] | 56 | 51 | 5 |
+| [[gallery-doc\|gallery-doc]] | 57 | 52 | 5 |
 | [[gallery-doc-property\|gallery-doc-property]] | 33 | 33 | 0 |
 | [[gallery-doc-property\|gallery-doc-property]]/[[gallery-basic-property\|gallery-basic-property]] | 8 | 8 | 0 |
 | [[gallery-doc-property\|gallery-doc-property]]/[[gallery-docs-property\|gallery-docs-property]] | 1 | 1 | 0 |
@@ -77,7 +78,7 @@ mtime: 2026-01-03T19:26:47+08:00
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-notation\|gallery-doc-notation]] | 1 | 1 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-property\|gallery-doc-property]] | 4 | 4 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-special-keywords\|gallery-doc-special-keywords]] | 5 | 5 | 0 |
-| [[gallery-doc\|gallery-doc]]/[[gallery-doc-year\|gallery-doc-year]] | 13 | 13 | 0 |
+| [[gallery-doc\|gallery-doc]]/[[gallery-doc-year\|gallery-doc-year]] | 14 | 14 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-tag\|gallery-tag]] | 14 | 14 | 0 |
 | [[collection-gallery-notes\|gallery-notes]] | 7 | 5 | 2 |
 | [[gallery-tag\|gallery-tag]] | 1617 | 1617 | 0 |
@@ -100,70 +101,103 @@ mtime: 2026-01-03T19:26:47+08:00
 
 > [!Note]
 > 
-> 1. [[#artist\|#artist]]
-> 2. [[#categories\|#categories]]
-> 3. [[#parody\|#parody]]
-> 4. [[#female\|#female]]
-> 5. [[#male\|#male]]
-> 6. [[#mixed\|#mixed]]
-> 7. [[#character\|#character]]
+> 1. [[#artist|#artist]]
+> 2. [[#categories|#categories]]
+> 3. [[#parody|#parody]]
+> 4. [[#female|#female]]
+> 5. [[#male|#male]]
+> 6. [[#mixed|#mixed]]
+> 7. [[#character|#character]]
 
 ### artist
 
 > seealso: [[gallery-base.base#artist|artist]]
 
-1. [[gallery-base.base#artist/kiira|kiira]] | 5 | [[exhentai-tag-kiira\|kiira]]
-2. [[gallery-base.base#artist/henreader|henreader]] | 5 | [[exhentai-tag-henreader\|henreader]]
-3. [[gallery-base.base#artist/utatane|utatane]] | 4 | [[exhentai-tag-utatane\|utatane]]
-4. [[gallery-base.base#artist/wancho|wancho]] | 5 | [[exhentai-tag-wancho\|wancho]]
-5. [[gallery-base.base#artist/custom-udon|custom-udon]] | 3 | [[exhentai-tag-custom-udon\|custom-udon]]
-6. [[gallery-base.base#artist/komugi|komugi]] | 3 | [[exhentai-tag-komugi\|komugi]]
-7. [[gallery-base.base#artist/hikami-izuto|hikami-izuto]] | 2 | [[exhentai-tag-hikami-izuto\|hikami-izuto]]
-8. [[gallery-base.base#artist/murai-renji|murai-renji]] | 1 | [[exhentai-tag-murai-renji\|murai-renji]]
-9. [[gallery-base.base#artist/yoyomax|yoyomax]] | 1 | [[exhentai-tag-yoyomax\|yoyomax]]
-10. [[gallery-base.base#artist/kani-biimu|kani-biimu]] | 1 | [[exhentai-tag-kani-biimu\|kani-biimu]]
-11. [[gallery-base.base#artist/baku-p|baku-p]] | 1 | [[exhentai-tag-baku-p\|baku-p]]
+1. [[gallery-base.base#artist/kiira|kiira]] | 5 | [[exhentai-tag-kiira|kiira]]
+2. [[gallery-base.base#artist/henreader|henreader]] | 5 | [[exhentai-tag-henreader|henreader]]
+3. [[gallery-base.base#artist/utatane|utatane]] | 4 | [[exhentai-tag-utatane|utatane]]
+4. [[gallery-base.base#artist/wancho|wancho]] | 5 | [[exhentai-tag-wancho|wancho]]
+5. [[gallery-base.base#artist/custom-udon|custom-udon]] | 3 | [[exhentai-tag-custom-udon|custom-udon]]
+6. [[gallery-base.base#artist/komugi|komugi]] | 3 | [[exhentai-tag-komugi|komugi]]
+7. [[gallery-base.base#artist/hikami-izuto|hikami-izuto]] | 2 | [[exhentai-tag-hikami-izuto|hikami-izuto]]
+8. [[gallery-base.base#artist/murai-renji|murai-renji]] | 1 | [[exhentai-tag-murai-renji|murai-renji]]
+9. [[gallery-base.base#artist/yoyomax|yoyomax]] | 1 | [[exhentai-tag-yoyomax|yoyomax]]
+10. [[gallery-base.base#artist/kani-biimu|kani-biimu]] | 1 | [[exhentai-tag-kani-biimu|kani-biimu]]
+11. [[gallery-base.base#artist/baku-p|baku-p]] | 1 | [[exhentai-tag-baku-p|baku-p]]
 
 ### categories
 
 > seealso: [[gallery-base.base#categories|categories]]
 
-1. [[gallery-base.base#categories/doujinshi|doujinshi]] | 463 | [[exhentai-tag-doujinshi\|doujinshi]]
-2. [[gallery-base.base#categories/manga|manga]] | 114 | [[exhentai-tag-manga\|manga]]
-3. [[gallery-base.base#categories/image-set|image-set]] | 37 | [[exhentai-tag-image-set\|image-set]]
-4. [[gallery-base.base#categories/misc|misc]] | 23 | [[exhentai-tag-misc\|misc]]
-5. [[gallery-base.base#categories/artist-cg|artist-cg]] | 33 | [[exhentai-tag-artist-cg\|artist-cg]]
-6. [[gallery-base.base#categories/game-cg|game-cg]] | 8 | [[exhentai-tag-game-cg\|game-cg]]
-7. [[gallery-base.base#categories/non-h|non-h]] | 4 | [[exhentai-tag-non-h\|non-h]]
-8. [[gallery-base.base#categories/western|western]] | 1 | [[exhentai-tag-western\|western]]
+1. [[gallery-base.base#categories/doujinshi|doujinshi]] | 463 | [[exhentai-tag-doujinshi|doujinshi]]
+2. [[gallery-base.base#categories/manga|manga]] | 114 | [[exhentai-tag-manga|manga]]
+3. [[gallery-base.base#categories/image-set|image-set]] | 37 | [[exhentai-tag-image-set|image-set]]
+4. [[gallery-base.base#categories/misc|misc]] | 23 | [[exhentai-tag-misc|misc]]
+5. [[gallery-base.base#categories/artist-cg|artist-cg]] | 33 | [[exhentai-tag-artist-cg|artist-cg]]
+6. [[gallery-base.base#categories/game-cg|game-cg]] | 8 | [[exhentai-tag-game-cg|game-cg]]
+7. [[gallery-base.base#categories/non-h|non-h]] | 4 | [[exhentai-tag-non-h|non-h]]
+8. [[gallery-base.base#categories/western|western]] | 1 | [[exhentai-tag-western|western]]
 
 ### parody
 
 > seealso: [[gallery-base.base#parody|parody]]
 
-1. [[gallery-base.base#parody/original|original]] | 193 | [[exhentai-tag-original\|original]]
-2. [[gallery-base.base#parody/blue-archive|blue-archive]] | 93 | [[exhentai-tag-blue-archive\|blue-archive]]
-3. [[gallery-base.base#parody/touhou-project|touhou-project]] | 25 | [[exhentai-tag-touhou-project\|touhou-project]]
-4. [[gallery-base.base#parody/mahoujin-guru-guru|mahoujin-guru-guru]] | 20 | [[exhentai-tag-mahoujin-guru-guru\|mahoujin-guru-guru]]
+1. [[gallery-base.base#parody/original|original]] | 193 | [[exhentai-tag-original|original]]
+2. [[gallery-base.base#parody/blue-archive|blue-archive]] | 93 | [[exhentai-tag-blue-archive|blue-archive]]
+3. [[gallery-base.base#parody/touhou-project|touhou-project]] | 25 | [[exhentai-tag-touhou-project|touhou-project]]
+4. [[gallery-base.base#parody/mahoujin-guru-guru|mahoujin-guru-guru]] | 20 | [[exhentai-tag-mahoujin-guru-guru|mahoujin-guru-guru]]
 
 ### female
 
-1. [[gallery-base.base#female/lolicon|lolicon]] | 644 | [[exhentai-tag-lolicon\|lolicon]]
-2. [[gallery-base.base#female/rape|rape]] | 106 | [[exhentai-tag-rape\|rape]]
+1. [[gallery-base.base#female/lolicon|lolicon]] | 644 | [[exhentai-tag-lolicon|lolicon]]
+2. [[gallery-base.base#female/rape|rape]] | 106 | [[exhentai-tag-rape|rape]]
 
 ### male
 
-1. [[gallery-base.base#male/sole-male|sole-male]] | 293 | [[exhentai-tag-sole-male\|sole-male]]
+1. [[gallery-base.base#male/sole-male|sole-male]] | 293 | [[exhentai-tag-sole-male|sole-male]]
 
 ### mixed
 
-1. [[gallery-base.base#mixed/kodomo-doushi|kodomo-doushi]] | 27 | [[exhentai-tag-kodomo-doushi\|kodomo-doushi]]
+1. [[gallery-base.base#mixed/kodomo-doushi|kodomo-doushi]] | 27 | [[exhentai-tag-kodomo-doushi|kodomo-doushi]]
 
 ### character
 
-1. [[gallery-base.base#character/kukuri|kukuri]] | 19 | [[exhentai-tag-kukuri\|kukuri]]
+1. [[gallery-base.base#character/kukuri|kukuri]] | 19 | [[exhentai-tag-kukuri|kukuri]]
 
-## Script
+## symbols
+
+> [!Note]
+> - symbol-type
+> 	- PREFIX | #PREFIX
+> 	- SUFFIX | #SUFFIX
+> 	- NONE | #NONE
+> 	- FILE | #FILE
+> - symbol-tag
+> 	- GROUPED | #GROUPED 
+
+
+| FOLDER | FILE | SYMBOL-TYPE | SYMBOL-TAG |
+| --- | --- | --- | --- |
+| `/` | `"README.md"` | #FILE | |
+| `/exhentai-uploader/` | `/^exhentai-uploader-(?<uploaderName>.+)\.md/` | #PREFIX | |
+| `/galleries/exhentai/` | `/^(?<yearUploaded>\d{4})\/exhentai-g-(?<exhentaiGalleryID>\d+)-(?<exhentaiGalleryToken>.+)\.(?<extension>md\|png\|jpg\|webp)$/` | #PREFIX | #GROUPED |
+| `/galleries/nhentai/` | `/^(?<yearUploaded>\d{4})\/nehentai-g-(?<nhentaiGalleryID>\d+)\.(?<extension>md\|png\|jpg\|webp)$/` | #PREFIX | #GROUPED |
+| `/gallery-doc-property/` | `/^(?<propertyNameSpaceName>.+)\/property-(?<propertyName>.+)\.md$/` | #PREFIX | #GROUPED |
+| `/gallery-doc-templates/` | `/^template-(?<templateName>.+)\.md$/` | #PREFIX | |
+| `/gallery-doc/collection/` | `/^collection-(?<collectionName>gallery-.+)\.md$/` | #PREFIX | |
+| `/gallery-doc/gallery-doc-base-file/` | `/^(?<baseItemName>.+)-base\.base$/` | #SUFFIX | |
+| `/gallery-doc/gallery-doc-canvas/` | `/^(?<canvasName>.+)-canvas\.canvas$/` | #SUFFIX | |
+| `/gallery-doc/gallery-doc-galleries/` | `/^gallery-url-(?<galleryUrlTypeName>.+)\.md$/` | #PREFIX | |
+| `/gallery-doc/gallery-doc-image-file/` | `/^(?<imageName>.+)-image\.png$/` | #SUFFIX | |
+| `/gallery-doc/gallery-doc-notation/` | `/^notation-(?<notationName>.+)\.md$/` | #PREFIX | |
+| `/gallery-doc/gallery-doc-property/` | `/^(?<propertyNameSpaceName>.+)-property\.md$/` | #SUFFIX | |
+| `/gallery-doc/gallery-doc-special-keywords/` | `/^(?<fileBaseName>.+)\.md$/` | #NONE | |
+| `/gallery-doc/gallery-doc-year/` | `/^(?<year>\d{4})\.md$/` | #NONE | |
+| `/gallery-doc/gallery-doc/` | `/^gallery-doc-(?<galleryDocName>.+)\.md$/` | #PREFIX | |
+| `/gallery-doc/gallery-tag/` | `/^(ex\|n)hentai-tg-(?<tagNameSpaceName>.+)\.md$/` | #PREFIX | |
+| `/gallery-notes/` | `/gallery-note-(?<date>\d{4}-\d{2}-\d{2})\s(?<noteTitle>.*)^\.md$/` | #PREFIX | |
+| `/gallery-notes/` | `"galley-note-base.base"` | #FILE | |
+| `/gallery-tag/` | `/^(ex\|n)hentai-tg-(?<tagNameSpaceName>.+)\/exhentai-tag-(?<exhentaiTagName>.+)\.md$/` | #PREFFIX | #GROUPED | ## Script
 
 ### Build Index Content
 

@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-03T19:27:52+08:00
-mtime: 2026-01-03T19:27:52+08:00
+mtime: 2026-01-03T20:43:08+08:00
 ---
 
 # exhentai-tag-kataokasan
 
-> seealso: 
+> seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
 ![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
 
