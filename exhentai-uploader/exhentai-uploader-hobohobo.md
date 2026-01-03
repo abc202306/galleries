@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:05:45+08:00
-mtime: 2026-01-03T22:11:51+08:00
+mtime: 2026-01-03T22:55:23+08:00
 ---
 
 # exhentai-uploader-hobohobo
 
-> seealso: 
+> seealso: [[gallery-doc-exhentai-uploader|gallery-doc-exhentai-uploader]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 

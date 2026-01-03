@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:05:38+08:00
-mtime: 2026-01-03T22:11:43+08:00
+mtime: 2026-01-03T22:55:14+08:00
 ---
 
 # exhentai-uploader-Yume4390
 
-> seealso: 
+> seealso: [[gallery-doc-exhentai-uploader|gallery-doc-exhentai-uploader]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 

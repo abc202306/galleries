@@ -436,7 +436,7 @@ function toFileName(wikilinkStr) {
 }
 
 function getTagGroupMOC(title) {
-    const property = title.replace(/^(ex|n)hentai-(tg-)?/, "");
+    const property = title.replace(/^(gallery-doc-)?((ex|n)hentai-)?(tg-)?/, "");
     const galleryMDFileCaches = app
         .vault
         .getMarkdownFiles()

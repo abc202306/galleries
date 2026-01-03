@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:05:43+08:00
-mtime: 2026-01-03T22:11:48+08:00
+mtime: 2026-01-03T22:55:20+08:00
 ---
 
 # exhentai-uploader-Lolifinity
 
-> seealso: 
+> seealso: [[gallery-doc-exhentai-uploader|gallery-doc-exhentai-uploader]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
