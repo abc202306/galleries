@@ -1,6 +1,6 @@
 filters:
   and:
-    - up.containsAny(link("collection-gallery", "collection-gallery"))
+    - up.containsAny(link("collection-gallery-items", "collection-gallery-items"))
     - or:
         - file.hasLink(this.file.asLink())
         - this.artist.filter(file.hasLink(value))
