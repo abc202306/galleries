@@ -199,6 +199,8 @@ mtime: 2026-01-03T20:42:12+08:00
 | `/gallery-notes/` | `"galley-note-base.base"` | #FILE | |
 | `/gallery-tag/` | `/^(ex\|n)hentai-tg-(?<tagNameSpaceName>.+)\/exhentai-tag-(?<exhentaiTagName>.+)\.md$/` | #PREFFIX | #GROUPED | ## Script
 
+## Script
+
 ### Build Index Content
 
 ```js
