@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:55+08:00
-mtime: 2026-01-02T16:48:51+08:00
+mtime: 2026-01-03T22:12:08+08:00
 ---
 
 # exhentai-tag-kodomo-doushi
 
-> seealso: [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]], [[exhentai-tg-female|exhentai-tg-female]], [[exhentai-tg-mixed|exhentai-tg-mixed]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
+> seealso: [[exhentai-tg-female|exhentai-tg-female]], [[exhentai-tg-mixed|exhentai-tg-mixed]], [[nhentai-tg-keywords|nhentai-tg-keywords]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

@@ -5,6 +5,6 @@ mtime: 2025-12-16T21:02:11+08:00
 
 # canvas
 
-> seealso: [[gallery-doc\|docs]]
+> seealso: [[gallery-doc|docs]]
 
-![[gallery-canvas.canvas\|gallery-canvas.canvas]]
+![[canvas-gallery.canvas|canvas-gallery.canvas]]

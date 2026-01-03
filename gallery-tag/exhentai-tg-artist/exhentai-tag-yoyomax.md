@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:51+08:00
-mtime: 2026-01-02T22:46:34+08:00
+mtime: 2026-01-03T22:12:57+08:00
 ---
 
 # exhentai-tag-yoyomax
 
-> seealso: [[notation-created-by-abc202306|notation-created-by-abc202306]], [[exhentai-tg-artist|exhentai-tg-artist]]
+> seealso: [[exhentai-tg-artist|exhentai-tg-artist]], [[notation-created-by-abc202306|notation-created-by-abc202306]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

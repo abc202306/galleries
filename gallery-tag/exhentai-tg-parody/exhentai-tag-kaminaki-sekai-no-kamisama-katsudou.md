@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:51+08:00
-mtime: 2026-01-02T16:48:58+08:00
+mtime: 2026-01-03T21:56:10+08:00
 ---
 
 # exhentai-tag-kaminaki-sekai-no-kamisama-katsudou
 
 > seealso: [[exhentai-tg-parody|exhentai-tg-parody]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

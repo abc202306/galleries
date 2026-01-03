@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:33+08:00
-mtime: 2026-01-02T16:49:23+08:00
+mtime: 2026-01-03T21:57:03+08:00
 ---
 
 # exhentai-tag-breast-expansion
 
 > seealso: [[exhentai-tg-female|exhentai-tg-female]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

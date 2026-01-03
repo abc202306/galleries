@@ -7,26 +7,26 @@ mtime: 2026-01-02T16:41:35+08:00
 
 # gallery-notes
 
-> seealso: [[collection\|collection]], [[gallery-doc\|docs]]
+> seealso: [[collection|collection]], [[gallery-doc|docs]]
 
-![[gallery-note-base.base\|note-base.base]]
+![[base-gallery-note.base|note-base.base]]
 
-## [[gallery-doc-property\|property]]
+## [[gallery-doc-property|property]]
 
-### [[gallery-basic-property\|basic-property]]
+### [[propertyns-gallery-basic|basic-property]]
 
-1. [[property-ctime\|property-ctime]]
-1. [[property-mtime\|property-mtime]]
+1. [[property-ctime|property-ctime]]
+1. [[property-mtime|property-mtime]]
 
-### [[gallery-notes-property\|gallery-notes-property]]
+### [[propertyns-gallery-notes|gallery-notes-property]]
 
-1. [[property-aliases\|property-aliases]]
-1. [[property-cover\|property-cover]]
-1. [[property-english\|property-english]]
-1. [[property-japanese\|property-japanese]]
-1. [[property-gallery\|property-gallery]]
-1. [[property-up\|property-up]]
-1. [[property-url\|property-url]]
+1. [[property-aliases|property-aliases]]
+1. [[property-cover|property-cover]]
+1. [[property-english|property-english]]
+1. [[property-japanese|property-japanese]]
+1. [[property-gallery|property-gallery]]
+1. [[property-up|property-up]]
+1. [[property-url|property-url]]
 
 ## note-list
 

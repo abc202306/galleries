@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:43+08:00
-mtime: 2026-01-03T19:27:34+08:00
+mtime: 2026-01-03T21:57:22+08:00
 ---
 
 # exhentai-tag-kyouka-hikawa
 
 > seealso: [[exhentai-tg-character|exhentai-tg-character]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

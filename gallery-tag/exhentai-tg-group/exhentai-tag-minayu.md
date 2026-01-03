@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:07+08:00
-mtime: 2026-01-02T16:48:13+08:00
+mtime: 2026-01-03T21:56:31+08:00
 ---
 
 # exhentai-tag-minayu
 
 > seealso: [[exhentai-tg-group|exhentai-tg-group]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

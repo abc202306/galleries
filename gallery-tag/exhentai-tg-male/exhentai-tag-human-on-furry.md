@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:57+08:00
-mtime: 2026-01-02T16:48:47+08:00
+mtime: 2026-01-03T21:56:18+08:00
 ---
 
 # exhentai-tag-human-on-furry
 
 > seealso: [[exhentai-tg-female|exhentai-tg-female]], [[exhentai-tg-male|exhentai-tg-male]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:49+08:00
-mtime: 2026-01-02T16:49:54+08:00
+mtime: 2026-01-03T21:57:32+08:00
 ---
 
 # exhentai-tag-altessa
 
 > seealso: [[exhentai-tg-character|exhentai-tg-character]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

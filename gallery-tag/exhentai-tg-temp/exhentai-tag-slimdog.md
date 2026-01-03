@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:48+08:00
-mtime: 2026-01-02T16:48:51+08:00
+mtime: 2026-01-03T21:56:04+08:00
 ---
 
 # exhentai-tag-slimdog
 
 > seealso: [[exhentai-tg-temp|exhentai-tg-temp]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

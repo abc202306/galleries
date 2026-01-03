@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:42+08:00
-mtime: 2026-01-02T17:16:36+08:00
+mtime: 2026-01-03T22:11:47+08:00
 ---
 
 # exhentai-uploader-Ookamitsu-Sama
 
-> seealso: [[exhentai-uploader|exhentai-uploader]]
+> seealso: 
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

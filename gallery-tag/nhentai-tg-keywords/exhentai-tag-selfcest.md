@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:00+08:00
-mtime: 2026-01-02T16:48:35+08:00
+mtime: 2026-01-03T21:56:00+08:00
 ---
 
 # exhentai-tag-selfcest
 
 > seealso: [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:13+08:00
-mtime: 2026-01-02T16:48:20+08:00
+mtime: 2026-01-03T21:56:36+08:00
 ---
 
 # exhentai-tag-horonaminz
 
 > seealso: [[exhentai-tg-group|exhentai-tg-group]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

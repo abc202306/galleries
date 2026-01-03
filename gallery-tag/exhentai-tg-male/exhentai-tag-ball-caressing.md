@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:58+08:00
-mtime: 2026-01-02T16:48:50+08:00
+mtime: 2026-01-03T21:56:21+08:00
 ---
 
 # exhentai-tag-ball-caressing
 
 > seealso: [[exhentai-tg-male|exhentai-tg-male]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

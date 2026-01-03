@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-03T19:27:39+08:00
-mtime: 2026-01-03T20:42:40+08:00
+mtime: 2026-01-03T21:56:47+08:00
 ---
 
 # exhentai-tag-strap-on
 
 > seealso: [[exhentai-tg-female|exhentai-tg-female]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

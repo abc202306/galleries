@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:52+08:00
-mtime: 2026-01-02T16:49:00+08:00
+mtime: 2026-01-03T21:56:11+08:00
 ---
 
 # exhentai-tag-fate-grand-order
 
 > seealso: [[exhentai-tg-parody|exhentai-tg-parody]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

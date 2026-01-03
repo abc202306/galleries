@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:50+08:00
-mtime: 2026-01-03T19:28:24+08:00
+mtime: 2026-01-03T21:57:34+08:00
 ---
 
 # exhentai-tag-doujinshi
 
 > seealso: [[exhentai-tg-categories|exhentai-tg-categories]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

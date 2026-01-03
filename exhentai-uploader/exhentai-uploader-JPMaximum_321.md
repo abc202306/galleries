@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:44+08:00
-mtime: 2026-01-02T17:16:39+08:00
+mtime: 2026-01-03T22:11:50+08:00
 ---
 
 # exhentai-uploader-JPMaximum_321
 
-> seealso: [[exhentai-uploader|exhentai-uploader]]
+> seealso: 
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

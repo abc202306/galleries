@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:44+08:00
-mtime: 2026-01-02T16:49:43+08:00
+mtime: 2026-01-03T21:57:23+08:00
 ---
 
 # exhentai-tag-koharu-shimoe
 
 > seealso: [[exhentai-tg-character|exhentai-tg-character]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

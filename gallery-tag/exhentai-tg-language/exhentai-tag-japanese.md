@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:59+08:00
-mtime: 2026-01-02T17:20:37+08:00
+mtime: 2026-01-03T21:56:22+08:00
 ---
 
 # exhentai-tag-japanese
 
 > seealso: [[exhentai-tg-language|exhentai-tg-language]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

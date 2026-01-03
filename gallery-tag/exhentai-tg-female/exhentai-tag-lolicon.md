@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:27+08:00
-mtime: 2026-01-03T19:27:45+08:00
+mtime: 2026-01-03T22:12:29+08:00
 ---
 
 # exhentai-tag-lolicon
 
-> seealso: [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]], [[exhentai-tg-female|exhentai-tg-female]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
+> seealso: [[exhentai-tg-female|exhentai-tg-female]], [[nhentai-tg-keywords|nhentai-tg-keywords]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

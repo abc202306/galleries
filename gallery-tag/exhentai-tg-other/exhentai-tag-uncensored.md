@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:53+08:00
-mtime: 2026-01-03T19:27:08+08:00
+mtime: 2026-01-03T21:56:13+08:00
 ---
 
 # exhentai-tag-uncensored
 
 > seealso: [[exhentai-tg-other|exhentai-tg-other]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

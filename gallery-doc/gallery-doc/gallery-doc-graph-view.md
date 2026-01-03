@@ -5,7 +5,7 @@ mtime: 2025-12-19T16:51:44+08:00
 
 # graph-view
 
-> seealso: [[gallery-doc\|docs]]
+> seealso: [[gallery-doc|docs]]
 
 ## bookmark-item
 

@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:58+08:00
-mtime: 2026-01-02T16:50:12+08:00
+mtime: 2026-01-03T21:57:51+08:00
 ---
 
 # exhentai-tag-ryoumoto-hatsumi
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

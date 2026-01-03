@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:57+08:00
-mtime: 2026-01-02T16:48:49+08:00
+mtime: 2026-01-03T21:56:20+08:00
 ---
 
 # exhentai-tag-closed-eyes
 
 > seealso: [[exhentai-tg-male|exhentai-tg-male]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-03T19:27:02+08:00
-mtime: 2026-01-03T20:42:21+08:00
+mtime: 2026-01-03T21:56:08+08:00
 ---
 
 # exhentai-tag-no-game-no-life
 
 > seealso: [[exhentai-tg-parody|exhentai-tg-parody]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

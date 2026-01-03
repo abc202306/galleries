@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:31+08:00
-mtime: 2026-01-02T16:49:21+08:00
+mtime: 2026-01-03T21:57:01+08:00
 ---
 
 # exhentai-tag-daughter
 
 > seealso: [[exhentai-tg-female|exhentai-tg-female]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

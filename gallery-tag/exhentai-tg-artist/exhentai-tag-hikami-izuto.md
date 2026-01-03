@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:07:10+08:00
-mtime: 2026-01-02T16:50:32+08:00
+mtime: 2026-01-03T21:58:14+08:00
 ---
 
 # exhentai-tag-hikami-izuto
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

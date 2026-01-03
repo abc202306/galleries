@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:06+08:00
-mtime: 2026-01-02T16:48:07+08:00
+mtime: 2026-01-03T21:56:28+08:00
 ---
 
 # exhentai-tag-pirisyuga
 
 > seealso: [[exhentai-tg-group|exhentai-tg-group]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

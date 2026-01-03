@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:40+08:00
-mtime: 2026-01-02T16:49:37+08:00
+mtime: 2026-01-03T21:57:16+08:00
 ---
 
 # exhentai-tag-non-manaka
 
 > seealso: [[exhentai-tg-character|exhentai-tg-character]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

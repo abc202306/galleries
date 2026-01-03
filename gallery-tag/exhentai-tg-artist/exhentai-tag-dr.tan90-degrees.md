@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:07:13+08:00
-mtime: 2026-01-02T16:50:38+08:00
+mtime: 2026-01-03T21:58:18+08:00
 ---
 
 # exhentai-tag-dr.tan90-degrees
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

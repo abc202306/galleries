@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:59+08:00
-mtime: 2026-01-02T16:50:13+08:00
+mtime: 2026-01-03T21:57:52+08:00
 ---
 
 # exhentai-tag-ro
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

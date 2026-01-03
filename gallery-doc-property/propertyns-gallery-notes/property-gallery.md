@@ -1,0 +1,10 @@
+---
+ctime: 2025-12-17T20:32:38+08:00
+mtime: 2026-01-02T16:26:47+08:00
+---
+
+# property-gallery
+
+> seealso: [[collection-gallery-notes|collection-gallery-notes]], [[propertyns-gallery-notes|propertyns-gallery-notes]]
+
+![[base-property-dynamic.base|base-property-dynamic.base]]

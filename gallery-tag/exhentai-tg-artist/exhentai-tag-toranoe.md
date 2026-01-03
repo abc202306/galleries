@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:54+08:00
-mtime: 2026-01-02T16:50:04+08:00
+mtime: 2026-01-03T21:57:42+08:00
 ---
 
 # exhentai-tag-toranoe
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

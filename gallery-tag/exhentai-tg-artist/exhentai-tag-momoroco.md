@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:07:03+08:00
-mtime: 2026-01-03T19:28:09+08:00
+mtime: 2026-01-03T21:58:02+08:00
 ---
 
 # exhentai-tag-momoroco
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

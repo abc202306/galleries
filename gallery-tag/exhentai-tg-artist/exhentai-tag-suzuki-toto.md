@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:06:55+08:00
-mtime: 2026-01-02T16:50:07+08:00
+mtime: 2026-01-03T21:57:46+08:00
 ---
 
 # exhentai-tag-suzuki-toto
 
 > seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
 
-![[gallery-dynamic-base.base|gallery-dynamic-base.base]]
+![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## gallery-items
 

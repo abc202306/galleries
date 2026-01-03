@@ -2,9 +2,9 @@
 up:
   - "[[collection|collection]]"
 bases:
-  - "[[gallery-base.base|gallery-base.base]]"
+  - "[[base-gallery.base|base-gallery.base]]"
 ctime: 2026-01-01T10:15:01+08:00
-mtime: 2026-01-03T19:26:47+08:00
+mtime: 2026-01-03T21:55:42+08:00
 ---
 
 # gallery
