@@ -224,45 +224,45 @@ const config = {
             nhentai: "gallery-doc/gallery-doc-galleries/gallery-url-nhentai.md", //type/replace
         },
     },
-	ref: {
-		docs: {
-			docs: "[[gallery-doc|gallery-doc]]",
-			tag: "[[gallery-doc-gallery-tag|gallery-doc-gallery-tag]]",
-			collection: "[[collection|collection]]",
-		},
-		base: {
-			galleryDynamicBase: "[[base-gallery-dynamic.base|base-gallery-dynamic.base]]",
-			propertyDynamicBase: "[[base-property-dynamic.base|base-property-dynamic.base]]",
-			galleryBase: "[[base-gallery.base|base-gallery.base]]",
-		},
-		galleryTagGroup: {
-			artist: "[[exhentai-tg-artist|artist]]",
-			categories: "[[exhentai-tg-categories|categories]]",
-			character: "[[exhentai-tg-character|character]]",
-			cosplayer: "[[exhentai-tg-cosplayer|cosplayer]]",
-			female: "[[exhentai-tg-female|female]]",
-			group: "[[exhentai-tg-group|group]]",
-			keywords: "[[nhentai-tg-keywords|keywords]]",
-			language: "[[exhentai-tg-language|language]]",
-			location: "[[exhentai-tg-location|location]]",
-			male: "[[exhentai-tg-male|male]]",
-			mixed: "[[exhentai-tg-mixed|mixed]]",
-			other: "[[exhentai-tg-other|other]]",
-			parody: "[[exhentai-tg-parody|parody]]",
-			temp: "[[exhentai-tg-temp|temp]]"
-		},
-		collection: {
-			gallery: "[[collection-gallery-items|collection-gallery-items]]",
-			galleryNotes: "[[collection-gallery-notes|collection-gallery-notes]]",
-		},
-	},
-	keywords: {
-		exhentai: "exhentai",
-		nhentai: "nhentai",
-		galleryItems: "gallery-items",
-		noteList: "note-list",
-	},
-	propertyNames: [
+    ref: {
+        docs: {
+            docs: "[[gallery-doc|gallery-doc]]",
+            tag: "[[gallery-doc-gallery-tag|gallery-doc-gallery-tag]]",
+            collection: "[[collection|collection]]",
+        },
+        base: {
+            galleryDynamicBase: "[[base-gallery-dynamic.base|base-gallery-dynamic.base]]",
+            propertyDynamicBase: "[[base-property-dynamic.base|base-property-dynamic.base]]",
+            galleryBase: "[[base-gallery.base|base-gallery.base]]",
+        },
+        galleryTagGroup: {
+            artist: "[[exhentai-tg-artist|artist]]",
+            categories: "[[exhentai-tg-categories|categories]]",
+            character: "[[exhentai-tg-character|character]]",
+            cosplayer: "[[exhentai-tg-cosplayer|cosplayer]]",
+            female: "[[exhentai-tg-female|female]]",
+            group: "[[exhentai-tg-group|group]]",
+            keywords: "[[nhentai-tg-keywords|keywords]]",
+            language: "[[exhentai-tg-language|language]]",
+            location: "[[exhentai-tg-location|location]]",
+            male: "[[exhentai-tg-male|male]]",
+            mixed: "[[exhentai-tg-mixed|mixed]]",
+            other: "[[exhentai-tg-other|other]]",
+            parody: "[[exhentai-tg-parody|parody]]",
+            temp: "[[exhentai-tg-temp|temp]]"
+        },
+        collection: {
+            gallery: "[[collection-gallery-items|collection-gallery-items]]",
+            galleryNotes: "[[collection-gallery-notes|collection-gallery-notes]]",
+        },
+    },
+    keywords: {
+        exhentai: "exhentai",
+        nhentai: "nhentai",
+        galleryItems: "gallery-items",
+        noteList: "note-list",
+    },
+    propertyNames: [
         "artist",
         "group",
         "categories",
@@ -277,576 +277,650 @@ const config = {
         "other",
         "temp",
         "keywords",
-		"uploader",
+        "uploader",
     ]
 };
 
-function getLocalISOStringWithTimezone() {
-    const date = new Date();
-    const pad = (n) => String(n).padStart(2, "0");
+class DateUtil {
+    static _singleInstance = new DateUtil();
 
-    const offset = -date.getTimezoneOffset();
-    const sign = offset >= 0 ? "+" : "-";
-    const hours = pad(Math.floor(Math.abs(offset) / 60));
-    const minutes = pad(Math.abs(offset) % 60);
-
-    return (
-        `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}T` +
-        `${pad(date.getHours())}:${pad(date.getMinutes())}:${pad(date.getSeconds())}` +
-        `${sign}${hours}:${minutes}`
-    );
-}
-
-// Utility helpers to avoid relying on environment-specific prototype extensions
-function uniqueArray(arr) {
-    return Array.from(new Set(arr));
-}
-
-function groupBy(array, keyFn) {
-    const map = new Map();
-    for (const item of array) {
-        const key = keyFn(item);
-        const list = map.get(key) || [];
-        list.push(item);
-        map.set(key, list);
-    }
-    return Array.from(map.entries());
-}
-
-function safeArray(v) {
-    if (!v) return [];
-    return Array.isArray(v) ? v : [v];
-}
-
-function compareGalleryPathWithPropertyUploaded(path1, path2) {
-    const f1 = app.vault.getAbstractFileByPath(path1);
-    const f2 = app.vault.getAbstractFileByPath(path2);
-    const fc1 = app.metadataCache.getFileCache(f1);
-    const fc2 = app.metadataCache.getFileCache(f2);
-    const v1 = String(fc1?.frontmatter?.uploaded || "_");
-    const v2 = String(fc2?.frontmatter?.uploaded || "_");
-    // sort descending
-    const result = v2.localeCompare(v1);
-	if (result !== 0) {
-		return result;
-	}
-	return path2.localeCompare(path1);
-}
-
-function getGalleryPathRepresentationStr(path) {
-    const f2 = app.vault.getAbstractFileByPath(path);
-    const linktext2 = app.metadataCache.fileToLinktext(f2);
-    const fc2 = app.metadataCache.getFileCache(f2) || {};
-
-	const dateUploaded = fc2.frontmatter?.uploaded?.substring(0,10);
-	const postDescription = dateUploaded?` | ${dateUploaded}`:"";
-	
-    const display2 = fc2.frontmatter?.japanese || fc2.frontmatter?.english || linktext2;
-    const link2 =
-        display2 === linktext2
-            ? `| [[${linktext2}|${linktext2}]]`
-            : `\u001C${display2}\u001C | [[${linktext2}|${linktext2}]]`.replace(/\u001C/g, "`");
-
-    const coverField = fc2.frontmatter?.cover;
-    let coverEmbed = "";
-    if (coverField) {
-        const res = /^\[\[(?<linktext3>[^\|]*)\|?.*\]\]$/.exec(coverField);
-        coverEmbed = res
-            ? `\n\t- ![[${res.groups.linktext3}|200]]`
-            : `\n\t- ![200](${coverField})`;
+    static getSingleInstance() {
+        return DateUtil._singleInstance;
     }
 
-    return `1. ${link2}${postDescription}${coverEmbed}`;
+    getLocalISOStringWithTimezone() {
+        const date = new Date();
+        const pad = (n) => String(n).padStart(2, "0");
+
+        const offset = -date.getTimezoneOffset();
+        const sign = offset >= 0 ? "+" : "-";
+        const hours = pad(Math.floor(Math.abs(offset) / 60));
+        const minutes = pad(Math.abs(offset) % 60);
+
+        return (
+            `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())}T` +
+            `${pad(date.getHours())}:${pad(date.getMinutes())}:${pad(date.getSeconds())}` +
+            `${sign}${hours}:${minutes}`
+        );
+    }
 }
 
-function getNGStr(nonGalleryNotePaths) {
-    const ngls = [...nonGalleryNotePaths].sort();
-    return ngls
-        .map((path) => `[[${app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path))}|${app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path))}]]`)
-        .join(", ");
-}
+class ArrayUtil {
+    static _singleInstance = new ArrayUtil();
 
-function getGStrASList(galleryNotePaths) {
-    const gls = [...galleryNotePaths].sort(compareGalleryPathWithPropertyUploaded);
-    return gls.map(getGalleryPathRepresentationStr).join("\n");
-}
+    static getSingleInstance() {
+        return ArrayUtil._singleInstance;
+    }
+    // Utility helpers to avoid relying on environment-specific prototype extensions
+    uniqueArray(arr) {
+        return Array.from(new Set(arr));
+    }
 
-function getGStrASGroupedList(galleryNotePaths) {
-    const gls = [...galleryNotePaths].sort(compareGalleryPathWithPropertyUploaded);
-    const grouped = groupBy(gls, (gnPath) => getYear(app.vault.getAbstractFileByPath(gnPath)));
-    const parts = grouped
-        .sort((a, b) => b[0].localeCompare(a[0]))
-        .flatMap(([key, group]) => {
-			const grouped02 = groupBy(group, (gnPath) => getMonth(app.vault.getAbstractFileByPath(gnPath)));
-			const parts02 = grouped02
-		        .sort((a, b) => b[0].localeCompare(a[0]))
-				.flatMap(([key02, group02]) => [
-					`#### ${key02}`,
-					group02.map(getGalleryPathRepresentationStr).join("\n")
-				])
-			return [
-				`### ${key}`,
-				...parts02
-			]
-		});
-    return parts.join("\n\n");
-}
-
-function getGStr(galleryNotePaths) {
-    return getGStrASGroupedList(galleryNotePaths);
-}
-
-function getTagFileContent(title, ctime, mtime) {
-    const f = app.metadataCache.getFirstLinkpathDest(title);
-    const backlinks = app.metadataCache.getBacklinksForFile(f)?.data;
-    const paths = backlinks ? [...backlinks.keys()] : [];
-
-    const ngstr = getNGStr(
-        paths.filter((i) => !i.startsWith(config.path.folder.gallery)).filter((i) => i !== config.path.file.readme)
-    );
-    const gstr = getGStr(paths.filter((i) => i.startsWith(config.path.folder.gallery)));
-
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.base.galleryDynamicBase}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`;
-}
-
-function getYearFileContent(title, ctime, mtime) {
-    const f = app.metadataCache.getFirstLinkpathDest(title);
-    const backlinks = app.metadataCache.getBacklinksForFile(f)?.data;
-    const paths = backlinks ? [...backlinks.keys()] : [];
-
-    const ngstr = getNGStr(
-        paths.filter((i) => !i.startsWith(config.path.folder.gallery)).filter((i) => i !== config.path.file.readme)
-    );
-
-	const year = title.replace(/^gallery-year-/,"");
-
-    const galleryNotePaths = app
-        .vault
-        .getMarkdownFiles()
-        .filter((f) => f.path.startsWith(config.path.folder.gallery))
-        .filter((f) => getYear(f) === year)
-        .map((f) => f.path);
-    const gstr = getGStr(galleryNotePaths);
-
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`;
-}
-
-function toFileName(wikilinkStr) {
-	return /^\[\[(?<fn>[^\|]*?)\|.*?\]\]$/.exec(wikilinkStr).groups.fn || /^\[\[(?<fn>[^\|]*?)\]\]$/.exec(wikilinkStr).groups.fn || "_";
-}
-
-function getTagGroupMOC(title) {
-    const property = title.replace(/^(gallery-doc-)?((ex|n)hentai-)?(tg-)?/, "");
-    const galleryMDFileCaches = app
-        .vault
-        .getMarkdownFiles()
-        .filter((f) => f.path.startsWith(config.path.folder.gallery))
-        .map((f) => app.metadataCache.getFileCache(f) || {});
-
-    const allValues = galleryMDFileCaches.flatMap((fc) => safeArray((fc.frontmatter || {})[property]));
-    const uniqueValues = uniqueArray(allValues).filter((v) => v);
-
-    return uniqueValues
-        .sort((a, b) => toFileName(a).localeCompare(toFileName(b)))
-        .map((v) =>
-            `1. ${v} | ${galleryMDFileCaches.filter((fc) => safeArray((fc.frontmatter || {})[property]).includes(v)).length}`
-        )
-        .join("\n");
-}
-
-function getGroupFileContent(title, ctime, mtime, seealso) {
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${seealso}\n\n${getTagGroupMOC(title)}\n`;
-}
-
-function getTagCount(tagNameSpaceStr) {
-	const result01 = /^\[\[(.*)\|(.*)\]\]$/.exec(tagNameSpaceStr);
-	const result02 = /^\[\[(.*)\]\]$/.exec(tagNameSpaceStr);
-	const str = result01?.[1] || result02?.[1] || tagNameSpaceStr;
-    const property = str.replace(/^(ex|n)hentai-tg-/, "");
-    const galleryMDFileCaches = app
-        .vault
-        .getMarkdownFiles()
-        .filter((f) => f.path.startsWith(config.path.folder.gallery))
-        .map((f) => app.metadataCache.getFileCache(f) || {});
-
-    return uniqueArray(galleryMDFileCaches.flatMap((fc) => safeArray((fc.frontmatter || {})[property]))).filter((v) => v)
-        .length;
-}
-
-function getTagMetaFileContent(_title, ctime, mtime) {
-	const {docs} = config.ref.docs;
-	const {artist, categories, character, cosplayer, female, group, keywords, language, location, male, mixed, other, parody, temp} = config.ref.galleryTagGroup;
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# tag\n\n> seealso: ${docs}\n\n1. ${artist} | ${getTagCount(artist)}\n1. ${categories} | ${getTagCount(categories)}\n1. ${character} | ${getTagCount(character)}\n1. ${cosplayer} | ${getTagCount(cosplayer)}\n1. ${female} | ${getTagCount(female)}\n1. ${group} | ${getTagCount(group)}\n1. ${keywords} | ${getTagCount(keywords)}\n1. ${language} | ${getTagCount(language)}\n1. ${location} | ${getTagCount(location)}\n1. ${male} | ${getTagCount(male)}\n1. ${mixed} | ${getTagCount(mixed)}\n1. ${other} | ${getTagCount(other)}\n1. ${parody} | ${getTagCount(parody)}\n1. ${temp} | ${getTagCount(temp)}\n`;
-}
-
-function getTagGroupFileContent(title, ctime, mtime) {
-    return getGroupFileContent(title, ctime, mtime, config.ref.docs.tag);
-}
-
-function getUploaderGroupFileContent(title, ctime, mtime) {
-    return getGroupFileContent(title, ctime, mtime, config.ref.docs.docs);
-}
-
-function getPropertyFileContent(title, ctime, mtime) {
-    const f = app.metadataCache.getFirstLinkpathDest(title);
-    const backlinks = app.metadataCache.getBacklinksForFile(f)?.data;
-    const paths = backlinks ? [...backlinks.keys()] : [];
-
-    const ngstr = getNGStr(
-        paths.filter((i) => !i.startsWith(config.path.folder.gallery)).filter((i) => i !== config.path.file.readme)
-    );
-
-    return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.base.propertyDynamicBase}\n`;
-}
-
-function getRenderedFolderPathPart(part) {
-	const file01 = app.metadataCache.getFirstLinkpathDest(part);
-	if (file01) {
-		return `[[${part}\\|${part}]]`;
-	}
-	const file02 = app.metadataCache.getFirstLinkpathDest(`gallery-doc-${part}`) || app.metadataCache.getFirstLinkpathDest(`gallery-url-${part}`) || app.metadataCache.getFirstLinkpathDest(`gallery-year-${part}`) || app.metadataCache.getFirstLinkpathDest(`collection-${part}`);
-	if (file02) {
-		return `[[${file02.basename}\\|${part}]]`;
-	}
-	return `${part}`;
-}
-
-function getRenderedFolderPath(folder) {
-    return folder.path.split("/").map((part) => getRenderedFolderPathPart(part)).join("/");
-}
-
-
-
-function getDecendantFilesCount(folder, files, extension=/.*/) {
-    return files.filter((f) => f.path.startsWith(folder.path + "/") && extension.exec(f.extension)).length;
-}
-
-function replaceFrontMatter(fileContent, ctime, mtime, preFMBlock = "") {
-    return `---${preFMBlock}\nctime: ${ctime}\nmtime: ${mtime}\n---\n` + fileContent.replace(/^---\r?\n[^]*?(?<=\n)---\r?\n/, "");
-}
-
-async function getReadmeFileContent(_title, ctime, mtime) {
-    const file = app.vault.getAbstractFileByPath(config.path.file.readme);
-    const fileContent = await app.vault.read(file);
-
-    const files = app.vault.getFiles();
-    const folders = app.vault.getAllFolders().sort((a, b) => a.path.localeCompare(b.path));
-
-    const tableStr = `| Folder Path | DFC | DFMC | DFOC |\n| :--- | ---: | ---: | ---: |\n${folders
-        .map((folder) => `| ${getRenderedFolderPath(folder)} | ${getDecendantFilesCount(folder, files, /.*/)} | ${getDecendantFilesCount(folder, files, /^md$/)} | ${getDecendantFilesCount(folder, files, /^(?!md$)/)} |`)
-        .join("\n")}`;
-
-    const newData = replaceFrontMatter(fileContent, ctime, mtime).replace(
-        /(?<=\n)## Folder Struct\n[^#]*(?=\n##\s)/,
-        "## Folder Struct\n\n> DFC stands for the total number of descendant files\n\n" + tableStr + "\n"
-    );
-
-    return newData;
-}
-
-async function getNoteMetaFileContent(_title, ctime, mtime) {
-    const metaFilePath = config.path.file.galleryNotes;
-    const noteFiles = app
-        .vault
-        .getMarkdownFiles()
-        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.galleryNotes));
-
-    const file = app.vault.getAbstractFileByPath(metaFilePath);
-    const fileContent = await app.vault.read(file);
-
-    const gls = noteFiles
-        .sort((f1, f2) => {
-            const fc1 = app.metadataCache.getFileCache(f1) || {};
-            const fc2 = app.metadataCache.getFileCache(f2) || {};
-            const v1 = fc1.frontmatter?.ctime || "_";
-            const v2 = fc2.frontmatter?.ctime || "_";
-            return v2.localeCompare(v1);
-        })
-        .map((f) => f.path);
-
-    const gstr = gls.map(getGalleryPathRepresentationStr).join("\n");
-
-    const preFMBlock = `\nup:\n  - "${config.ref.docs.collection}"`;
-    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(new RegExp(`(?<=\n)## ${config.keywords.noteList}\n[^]*`),
-        `## ${config.keywords.noteList}\n\n${gstr}\n`
-    );
-
-    return newData;
-}
-
-
-async function getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles, preFMBlock = "") {
-    const file = app.vault.getAbstractFileByPath(metaFilePath);
-    const fileContent = await app.vault.read(file);
-
-    const gstr = getGStr(galleryNoteFiles.map((f) => f.path));
-
-    const newData = replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(new RegExp(`(?<=\n)## ${config.keywords.galleryItems}\n[^]*`),
-        `## ${config.keywords.galleryItems}\n\n${gstr}\n`
-    );
-
-    return newData;
-}
-
-async function getSpecGalleryMetaFileContent(_title, ctime, mtime) {
-    const metaFilePath = config.path.file.gallery;
-    const galleryNoteFiles = app
-        .vault
-        .getMarkdownFiles()
-        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery));
-    const preFMBlock = `\nup:\n  - "${config.ref.docs.collection}"\nbases:\n  - "${config.ref.base.galleryBase}"`;
-    return await getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles, preFMBlock);
-}
-
-async function getSpecEXHentaiGalleryMetaFileContent(_title, ctime, mtime) {
-    const metaFilePath = config.path.file.exhentai;
-    const galleryNoteFiles = app
-        .vault
-        .getMarkdownFiles()
-        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery))
-        .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes(config.keywords.exhentai));
-    return await getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles);
-}
-
-async function getSpecNHentaiGalleryMetaFileContent(_title, ctime, mtime) {
-    const metaFilePath = config.path.file.nhentai;
-    const galleryNoteFiles = app
-        .vault
-        .getMarkdownFiles()
-        .filter((f) => safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery))
-        .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes(config.keywords.nhentai));
-    return await getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles);
-}
-
-async function getFileContent(file, data, getSpecTypeFileContent) {
-    const title = file.basename;
-    const fileCache = app.metadataCache.getFileCache(file) || {};
-
-    const ctimeInFrontMatter = fileCache.frontmatter?.ctime;
-    const mtimeInFrontMatter = fileCache.frontmatter?.mtime;
-
-    const mtime = getLocalISOStringWithTimezone();
-    const ctime = ctimeInFrontMatter || mtime;
-
-    const formattedData = data.replace(/\r/g, "");
-
-    const newData1 = await getSpecTypeFileContent(title, ctimeInFrontMatter, mtimeInFrontMatter);
-    if (formattedData === newData1) return data;
-
-    const newData2 = await getSpecTypeFileContent(title, ctime, mtime);
-    return newData2;
-}
-
-function processFileWith(getSpecTypeFileContent) {
-    return async function processFileWrapper(file) {
-        const originalData = await app.vault.read(file);
-        const newData = await getFileContent(file, originalData, getSpecTypeFileContent);
-        if (newData !== originalData) {
-            await app.vault.process(file, () => newData);
+    groupBy(array, keyFn) {
+        const map = new Map();
+        for (const item of array) {
+            const key = keyFn(item);
+            const list = map.get(key) || [];
+            list.push(item);
+            map.set(key, list);
         }
-    };
+        return Array.from(map.entries());
+    }
+
+    safeArray(v) {
+        if (!v) return [];
+        return Array.isArray(v) ? v : [v];
+    }
 }
 
-function removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles() {
-    app.vault.getMarkdownFiles().forEach((f) => {
-        const fc = app.metadataCache.getFileCache(f) || {};
-        if (!fc.frontmatter) return;
-        for (const k of Object.keys(fc.frontmatter)) {
-            const v1 = fc.frontmatter[k];
-            if (!Array.isArray(v1)) continue;
-            const v2 = uniqueArray(v1);
-            if (v2.length === v1.length) continue;
-            app.fileManager.processFrontMatter(f, (fm) => {
-                fm[k] = v2;
+class PathUtil {
+    static _singleInstance = new PathUtil();
+
+    static getSingleInstance() {
+        return PathUtil._singleInstance;
+    }
+
+    compareGalleryPathWithPropertyUploaded(path1, path2) {
+        const f1 = app.vault.getAbstractFileByPath(path1);
+        const f2 = app.vault.getAbstractFileByPath(path2);
+        const fc1 = app.metadataCache.getFileCache(f1);
+        const fc2 = app.metadataCache.getFileCache(f2);
+        const v1 = String(fc1?.frontmatter?.uploaded || "_");
+        const v2 = String(fc2?.frontmatter?.uploaded || "_");
+        // sort descending
+        const result = v2.localeCompare(v1);
+        if (result !== 0) {
+            return result;
+        }
+        return path2.localeCompare(path1);
+    }
+
+    getGalleryPathRepresentationStr(path) {
+        const f2 = app.vault.getAbstractFileByPath(path);
+        const linktext2 = app.metadataCache.fileToLinktext(f2);
+        const fc2 = app.metadataCache.getFileCache(f2) || {};
+
+        const dateUploaded = fc2.frontmatter?.uploaded?.substring(0, 10);
+        const postDescription = dateUploaded ? ` | ${dateUploaded}` : "";
+
+        const display2 = fc2.frontmatter?.japanese || fc2.frontmatter?.english || linktext2;
+        const link2 =
+            display2 === linktext2
+                ? `| [[${linktext2}|${linktext2}]]`
+                : `\u001C${display2}\u001C | [[${linktext2}|${linktext2}]]`.replace(/\u001C/g, "`");
+
+        const coverField = fc2.frontmatter?.cover;
+        let coverEmbed = "";
+        if (coverField) {
+            const res = /^\[\[(?<linktext3>[^\|]*)\|?.*\]\]$/.exec(coverField);
+            coverEmbed = res
+                ? `\n\t- ![[${res.groups.linktext3}|200]]`
+                : `\n\t- ![200](${coverField})`;
+        }
+
+        return `1. ${link2}${postDescription}${coverEmbed}`;
+    }
+
+    getNGStr(nonGalleryNotePaths) {
+        const ngls = [...nonGalleryNotePaths].sort();
+        return ngls
+            .map((path) => `[[${app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path))}|${app.metadataCache.fileToLinktext(app.vault.getAbstractFileByPath(path))}]]`)
+            .join(", ");
+    }
+
+    getGStrASList(galleryNotePaths) {
+        const gls = [...galleryNotePaths].sort(pathUtil.compareGalleryPathWithPropertyUploaded);
+        return gls.map(pathUtil.getGalleryPathRepresentationStr).join("\n");
+    }
+
+    getGStrASGroupedList(galleryNotePaths) {
+        const gls = [...galleryNotePaths].sort(pathUtil.compareGalleryPathWithPropertyUploaded);
+        const grouped = arrayUtil.groupBy(gls, (gnPath) => stringUtil.getYear(app.vault.getAbstractFileByPath(gnPath)));
+        const parts = grouped
+            .sort((a, b) => b[0].localeCompare(a[0]))
+            .flatMap(([key, group]) => {
+                const grouped02 = arrayUtil.groupBy(group, (gnPath) => stringUtil.getMonth(app.vault.getAbstractFileByPath(gnPath)));
+                const parts02 = grouped02
+                    .sort((a, b) => b[0].localeCompare(a[0]))
+                    .flatMap(([key02, group02]) => [
+                        `#### ${key02}`,
+                        group02.map(pathUtil.getGalleryPathRepresentationStr).join("\n")
+                    ]);
+                return [
+                    `### ${key}`,
+                    ...parts02
+                ];
             });
-        }
-    });
+        return parts.join("\n\n");
+    }
+
+    getGStr(galleryNotePaths) {
+        return pathUtil.getGStrASGroupedList(galleryNotePaths);
+    }
 }
 
-function createFilesFromUnresolvedLinksForAllGalleryNoteFiles() {
-    const galleryNoteMDFiles = app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(config.path.folder.gallery));
-    const unresolvedLinktexts = galleryNoteMDFiles.flatMap((f) => Object.keys(app.metadataCache.unresolvedLinks?.[f.path] || {}));
+class FileTemplateUtil {
+    static _singleInstance = new FileTemplateUtil();
 
-	console.log("unresolvedLinktexts",unresolvedLinktexts)
+    static getSingleInstance() {
+        return FileTemplateUtil._singleInstance;
+    }
 
-    const galleryMDFileCaches = galleryNoteMDFiles.map((f) => app.metadataCache.getFileCache(f) || {});
-    for (const linktext of uniqueArray(unresolvedLinktexts)) {
-        const value = `[[${linktext}|${linktext}]]`;
-        const propertyName = config.propertyNames.find((pn) =>
-            galleryMDFileCaches.filter((fc) => safeArray((fc.frontmatter || {})[pn]).includes(value)).length !== 0
+    getTagFileContent(title, ctime, mtime) {
+        const f = app.metadataCache.getFirstLinkpathDest(title);
+        const backlinks = app.metadataCache.getBacklinksForFile(f)?.data;
+        const paths = backlinks ? [...backlinks.keys()] : [];
+
+        const ngstr = pathUtil.getNGStr(
+            paths.filter((i) => !i.startsWith(config.path.folder.gallery)).filter((i) => i !== config.path.file.readme)
+        );
+        const gstr = pathUtil.getGStr(paths.filter((i) => i.startsWith(config.path.folder.gallery)));
+
+        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.base.galleryDynamicBase}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`;
+    }
+
+    getYearFileContent(title, ctime, mtime) {
+        const f = app.metadataCache.getFirstLinkpathDest(title);
+        const backlinks = app.metadataCache.getBacklinksForFile(f)?.data;
+        const paths = backlinks ? [...backlinks.keys()] : [];
+
+        const ngstr = pathUtil.getNGStr(
+            paths.filter((i) => !i.startsWith(config.path.folder.gallery)).filter((i) => i !== config.path.file.readme)
         );
 
-        let folderPath = config.path.folder.tag;
+        const year = title.replace(/^gallery-year-/, "");
 
-        const destPath = folderPath + linktext + ".md";
-        try {
-            if (!app.vault.getAbstractFileByPath(destPath)) {
-                app.vault.create(destPath, "")
-					.then((f)=>app.metadataCache.getFileCache(f));
-            }
-        } catch (e) {
-            // ignore creation errors (file may exist already or race conditions)
+        const galleryNotePaths = app
+            .vault
+            .getMarkdownFiles()
+            .filter((f) => f.path.startsWith(config.path.folder.gallery))
+            .filter((f) => stringUtil.getYear(f) === year)
+            .map((f) => f.path);
+        const gstr = pathUtil.getGStr(galleryNotePaths);
+
+        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`;
+    }
+
+    getTagGroupMOC(title) {
+        const property = title.replace(/^(gallery-doc-)?((ex|n)hentai-)?(tg-)?/, "");
+        const galleryMDFileCaches = app
+            .vault
+            .getMarkdownFiles()
+            .filter((f) => f.path.startsWith(config.path.folder.gallery))
+            .map((f) => app.metadataCache.getFileCache(f) || {});
+
+        const allValues = galleryMDFileCaches.flatMap((fc) => arrayUtil.safeArray((fc.frontmatter || {})[property]));
+        const uniqueValues = arrayUtil.uniqueArray(allValues).filter((v) => v);
+
+        return uniqueValues
+            .sort((a, b) => stringUtil.toFileName(a).localeCompare(stringUtil.toFileName(b)))
+            .map((v) =>
+                `1. ${v} | ${galleryMDFileCaches.filter((fc) => arrayUtil.safeArray((fc.frontmatter || {})[property]).includes(v)).length}`
+            )
+            .join("\n");
+    }
+
+    getGroupFileContent(title, ctime, mtime, seealso) {
+        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${seealso}\n\n${fileTemplateUtil.getTagGroupMOC(title)}\n`;
+    }
+
+    getTagMetaFileContent(_title, ctime, mtime) {
+        const { docs } = config.ref.docs;
+        const { artist, categories, character, cosplayer, female, group, keywords, language, location, male, mixed, other, parody, temp } = config.ref.galleryTagGroup;
+        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# tag\n\n> seealso: ${docs}\n\n1. ${artist} | ${stringUtil.getTagCount(artist)}\n1. ${categories} | ${stringUtil.getTagCount(categories)}\n1. ${character} | ${stringUtil.getTagCount(character)}\n1. ${cosplayer} | ${stringUtil.getTagCount(cosplayer)}\n1. ${female} | ${stringUtil.getTagCount(female)}\n1. ${group} | ${stringUtil.getTagCount(group)}\n1. ${keywords} | ${stringUtil.getTagCount(keywords)}\n1. ${language} | ${stringUtil.getTagCount(language)}\n1. ${location} | ${stringUtil.getTagCount(location)}\n1. ${male} | ${stringUtil.getTagCount(male)}\n1. ${mixed} | ${stringUtil.getTagCount(mixed)}\n1. ${other} | ${stringUtil.getTagCount(other)}\n1. ${parody} | ${stringUtil.getTagCount(parody)}\n1. ${temp} | ${stringUtil.getTagCount(temp)}\n`;
+    }
+
+    getTagGroupFileContent(title, ctime, mtime) {
+        return fileTemplateUtil.getGroupFileContent(title, ctime, mtime, config.ref.docs.tag);
+    }
+
+    getUploaderGroupFileContent(title, ctime, mtime) {
+        return fileTemplateUtil.getGroupFileContent(title, ctime, mtime, config.ref.docs.docs);
+    }
+
+    getPropertyFileContent(title, ctime, mtime) {
+        const f = app.metadataCache.getFirstLinkpathDest(title);
+        const backlinks = app.metadataCache.getBacklinksForFile(f)?.data;
+        const paths = backlinks ? [...backlinks.keys()] : [];
+
+        const ngstr = pathUtil.getNGStr(
+            paths.filter((i) => !i.startsWith(config.path.folder.gallery)).filter((i) => i !== config.path.file.readme)
+        );
+
+        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.base.propertyDynamicBase}\n`;
+    }
+
+    async getReadmeFileContent(_title, ctime, mtime) {
+        const file = app.vault.getAbstractFileByPath(config.path.file.readme);
+        const fileContent = await app.vault.read(file);
+
+        const files = app.vault.getFiles();
+        const folders = app.vault.getAllFolders().sort((a, b) => a.path.localeCompare(b.path));
+
+        const tableStr = `| Folder Path | DFC | DFMC | DFOC |\n| :--- | ---: | ---: | ---: |\n${folders
+            .map((folder) => `| ${stringUtil.getRenderedFolderPath(folder)} | ${stringUtil.getDecendantFilesCount(folder, files, /.*/)} | ${stringUtil.getDecendantFilesCount(folder, files, /^md$/)} | ${stringUtil.getDecendantFilesCount(folder, files, /^(?!md$)/)} |`)
+            .join("\n")}`;
+
+        const newData = stringUtil.replaceFrontMatter(fileContent, ctime, mtime).replace(
+            /(?<=\n)## Folder Struct\n[^#]*(?=\n##\s)/,
+            "## Folder Struct\n\n> DFC stands for the total number of descendant files\n\n" + tableStr + "\n"
+        );
+
+        return newData;
+    }
+
+    async getNoteMetaFileContent(_title, ctime, mtime) {
+        const metaFilePath = config.path.file.galleryNotes;
+        const noteFiles = app
+            .vault
+            .getMarkdownFiles()
+            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.galleryNotes));
+
+        const file = app.vault.getAbstractFileByPath(metaFilePath);
+        const fileContent = await app.vault.read(file);
+
+        const gls = noteFiles
+            .sort((f1, f2) => {
+                const fc1 = app.metadataCache.getFileCache(f1) || {};
+                const fc2 = app.metadataCache.getFileCache(f2) || {};
+                const v1 = fc1.frontmatter?.ctime || "_";
+                const v2 = fc2.frontmatter?.ctime || "_";
+                return v2.localeCompare(v1);
+            })
+            .map((f) => f.path);
+
+        const gstr = gls.map(pathUtil.getGalleryPathRepresentationStr).join("\n");
+
+        const preFMBlock = `\nup:\n  - "${config.ref.docs.collection}"`;
+        const newData = stringUtil.replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(new RegExp(`(?<=\n)## ${config.keywords.noteList}\n[^]*`),
+            `## ${config.keywords.noteList}\n\n${gstr}\n`
+        );
+
+        return newData;
+    }
+
+    async getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles, preFMBlock = "") {
+        const file = app.vault.getAbstractFileByPath(metaFilePath);
+        const fileContent = await app.vault.read(file);
+
+        const gstr = pathUtil.getGStr(galleryNoteFiles.map((f) => f.path));
+
+        const newData = stringUtil.replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(new RegExp(`(?<=\n)## ${config.keywords.galleryItems}\n[^]*`),
+            `## ${config.keywords.galleryItems}\n\n${gstr}\n`
+        );
+
+        return newData;
+    }
+
+    async getSpecGalleryMetaFileContent(_title, ctime, mtime) {
+        const metaFilePath = config.path.file.gallery;
+        const galleryNoteFiles = app
+            .vault
+            .getMarkdownFiles()
+            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery));
+        const preFMBlock = `\nup:\n  - "${config.ref.docs.collection}"\nbases:\n  - "${config.ref.base.galleryBase}"`;
+        return await fileTemplateUtil.getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles, preFMBlock);
+    }
+
+    async getSpecEXHentaiGalleryMetaFileContent(_title, ctime, mtime) {
+        const metaFilePath = config.path.file.exhentai;
+        const galleryNoteFiles = app
+            .vault
+            .getMarkdownFiles()
+            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery))
+            .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes(config.keywords.exhentai));
+        return await fileTemplateUtil.getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles);
+    }
+
+    async getSpecNHentaiGalleryMetaFileContent(_title, ctime, mtime) {
+        const metaFilePath = config.path.file.nhentai;
+        const galleryNoteFiles = app
+            .vault
+            .getMarkdownFiles()
+            .filter((f) => arrayUtil.safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up).includes(config.ref.collection.gallery))
+            .filter((f) => (app.metadataCache.getFileCache(f)?.frontmatter?.url || "").includes(config.keywords.nhentai));
+        return await fileTemplateUtil.getGalleryMetaFileContentWithSpecPath(_title, ctime, mtime, metaFilePath, galleryNoteFiles);
+    }
+}
+
+class StringUtil {
+    static _singleInstance = new StringUtil();
+
+    static getSingleInstance() {
+        return StringUtil._singleInstance;
+    }
+
+    toFileName(wikilinkStr) {
+        return /^\[\[(?<fn>[^\|]*?)\|.*?\]\]$/.exec(wikilinkStr).groups.fn || /^\[\[(?<fn>[^\|]*?)\]\]$/.exec(wikilinkStr).groups.fn || "_";
+    }
+
+    getTagCount(tagNameSpaceStr) {
+        const result01 = /^\[\[(.*)\|(.*)\]\]$/.exec(tagNameSpaceStr);
+        const result02 = /^\[\[(.*)\]\]$/.exec(tagNameSpaceStr);
+        const str = result01?.[1] || result02?.[1] || tagNameSpaceStr;
+        const property = str.replace(/^(ex|n)hentai-tg-/, "");
+        const galleryMDFileCaches = app
+            .vault
+            .getMarkdownFiles()
+            .filter((f) => f.path.startsWith(config.path.folder.gallery))
+            .map((f) => app.metadataCache.getFileCache(f) || {});
+
+        return arrayUtil.uniqueArray(galleryMDFileCaches.flatMap((fc) => arrayUtil.safeArray((fc.frontmatter || {})[property]))).filter((v) => v)
+            .length;
+    }
+
+    getRenderedFolderPathPart(part) {
+        const file01 = app.metadataCache.getFirstLinkpathDest(part);
+        if (file01) {
+            return `[[${part}\\|${part}]]`;
         }
+        const file02 = app.metadataCache.getFirstLinkpathDest(`gallery-doc-${part}`) || app.metadataCache.getFirstLinkpathDest(`gallery-url-${part}`) || app.metadataCache.getFirstLinkpathDest(`gallery-year-${part}`) || app.metadataCache.getFirstLinkpathDest(`collection-${part}`);
+        if (file02) {
+            return `[[${file02.basename}\\|${part}]]`;
+        }
+        return `${part}`;
+    }
+
+    getRenderedFolderPath(folder) {
+        return folder.path.split("/").map((part) => stringUtil.getRenderedFolderPathPart(part)).join("/");
+    }
+
+    getDecendantFilesCount(folder, files, extension = /.*/) {
+        return files.filter((f) => f.path.startsWith(folder.path + "/") && extension.exec(f.extension)).length;
+    }
+
+    replaceFrontMatter(fileContent, ctime, mtime, preFMBlock = "") {
+        return `---${preFMBlock}\nctime: ${ctime}\nmtime: ${mtime}\n---\n` + fileContent.replace(/^---\r?\n[^]*?(?<=\n)---\r?\n/, "");
+    }
+
+    getYear(galleryNoteFile) {
+        return app.metadataCache.getFileCache(galleryNoteFile)?.frontmatter?.uploaded?.slice(0, 4) || "1000";
+    }
+
+    getMonth(galleryNoteFile) {
+        return app.metadataCache.getFileCache(galleryNoteFile)?.frontmatter?.uploaded?.slice(0, 7) || "1000-01";
     }
 }
 
-function getProcessFilePromise(path, getSpecTypeFileContent) {
-    const file = app.vault.getAbstractFileByPath(path);
-    const fileProcesser = processFileWith(getSpecTypeFileContent);
-    return fileProcesser(file);
-}
+class FileProcesserUtil {
+    static _singleInstance = new FileProcesserUtil();
 
-function getYear(galleryNoteFile) {
-    return app.metadataCache.getFileCache(galleryNoteFile)?.frontmatter?.uploaded?.slice(0, 4) || "1000";
-}
-
-function getMonth(galleryNoteFile) {
-    return app.metadataCache.getFileCache(galleryNoteFile)?.frontmatter?.uploaded?.slice(0, 7) || "1000-01";
-}
-
-function batchMoveGalleryNoteFilesByYearUploaded() {
-    const files = app.vault.getFiles();
-    const mdfiles = app.vault.getMarkdownFiles();
-    const candidates = mdfiles.filter((f) => f.path.startsWith(config.path.folder.gallery));
-
-    for (const f of candidates) {
-        if (f.path.split("/").length !== 3) continue;
-        const year = getYear(f);
-        const folderPath = `${f.parent.path}/${year}`;
-        if (!app.vault.getFolderByPath(folderPath)) app.vault.createFolder(folderPath);
+    static getSingleInstance() {
+        return FileProcesserUtil._singleInstance;
     }
 
-    for (const f of candidates) {
-        if (f.path.split("/").length !== 3) continue;
-        const year = app.metadataCache.getFileCache(f)?.frontmatter?.uploaded?.slice(0, 4);
-        const folderPath = `${f.parent.path}/${year}`;
-        if (!app.vault.getFolderByPath(folderPath)) app.vault.createFolder(folderPath);
-        const pathPrefix = `${f.parent.path}/${f.basename}`;
-        files.filter((f2) => f2.path.startsWith(pathPrefix)).forEach((f2) => {
-            const newPath2 = `${folderPath}/${f2.name}`;
-            app.vault.rename(f2, newPath2);
-            console.log(newPath2);
+    async getFileContent(file, data, getSpecTypeFileContent) {
+        const title = file.basename;
+        const fileCache = app.metadataCache.getFileCache(file) || {};
+
+        const ctimeInFrontMatter = fileCache.frontmatter?.ctime;
+        const mtimeInFrontMatter = fileCache.frontmatter?.mtime;
+
+        const mtime = dateUtil.getLocalISOStringWithTimezone();
+        const ctime = ctimeInFrontMatter || mtime;
+
+        const formattedData = data.replace(/\r/g, "");
+
+        const newData1 = await getSpecTypeFileContent(title, ctimeInFrontMatter, mtimeInFrontMatter);
+        if (formattedData === newData1) return data;
+
+        const newData2 = await getSpecTypeFileContent(title, ctime, mtime);
+        return newData2;
+    }
+
+    processFileWith(getSpecTypeFileContent) {
+        return async function processFileWrapper(file) {
+            const originalData = await app.vault.read(file);
+            const newData = await fileProcesserUtil.getFileContent(file, originalData, getSpecTypeFileContent);
+            if (newData !== originalData) {
+                await app.vault.process(file, () => newData);
+            }
+        };
+    }
+
+    removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles() {
+        app.vault.getMarkdownFiles().forEach((f) => {
+            const fc = app.metadataCache.getFileCache(f) || {};
+            if (!fc.frontmatter) return;
+            for (const k of Object.keys(fc.frontmatter)) {
+                const v1 = fc.frontmatter[k];
+                if (!Array.isArray(v1)) continue;
+                const v2 = arrayUtil.uniqueArray(v1);
+                if (v2.length === v1.length) continue;
+                app.fileManager.processFrontMatter(f, (fm) => {
+                    fm[k] = v2;
+                });
+            }
         });
     }
-}
 
-function stardandnizeGalleryNoteCoverFileName() {
-	const galleryNoteFiles = app.vault.getMarkdownFiles().filter(f=>f.path.startsWith(config.path.folder.gallery));
-	galleryNoteFiles.filter(f=>{
-	    const cover = app.metadataCache.getFileCache(f)?.frontmatter?.cover;
-	    const res = /^\[\[(.*?\|)?(?<basename>.*)\.(?<extension>.*)\]\]$/.exec(cover)
-	    if (!res){
-	        return;
-	    }
-	    const coverBasename = res.groups.basename;
-	    const coverExtension = res.groups.extension;
-	    const coverLinktext = `${coverBasename}.${coverExtension}`;
-	    const coverFile = app.metadataCache.getFirstLinkpathDest(coverLinktext);
-	    const newCoverLinktext = `${f.basename}.${coverExtension}`;
-		const newPath = `${coverFile.parent.path}/${newCoverLinktext}`
-	    if (!cover?.startsWith("[["+f.basename)) {
-	        app.fileManager.renameFile(coverFile,newCoverLinktext);
-	        console.log(coverFile.name,newPath);
-	    }
-	})
-}
+    createFilesFromUnresolvedLinksForAllGalleryNoteFiles() {
+        const galleryNoteMDFiles = app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(config.path.folder.gallery));
+        const unresolvedLinktexts = galleryNoteMDFiles.flatMap((f) => Object.keys(app.metadataCache.unresolvedLinks?.[f.path] || {}));
 
-function refreshCache(){
-	app.vault.getMarkdownFiles().forEach((f)=>app.metadataCache.getFileCache(f));
-}
+        console.log("unresolvedLinktexts", unresolvedLinktexts);
 
-async function main() {
-    console.time("run_script");
-    console.log(`==start (time="${new Date()}")`);
-	
-    const tasks = [];
+        const galleryMDFileCaches = galleryNoteMDFiles.map((f) => app.metadataCache.getFileCache(f) || {});
+        for (const linktext of arrayUtil.uniqueArray(unresolvedLinktexts)) {
+            const value = `[[${linktext}|${linktext}]]`;
+            const propertyName = config.propertyNames.find((pn) =>
+                galleryMDFileCaches.filter((fc) => arrayUtil.safeArray((fc.frontmatter || {})[pn]).includes(value)).length !== 0
+            );
 
-    // preparatory runs
-	tasks.push(refreshCache());
+            let folderPath = config.path.folder.tag;
 
-	await Promise.all(tasks);
-	
-	tasks.push(createFilesFromUnresolvedLinksForAllGalleryNoteFiles());
-    tasks.push(batchMoveGalleryNoteFilesByYearUploaded());
-	tasks.push(stardandnizeGalleryNoteCoverFileName());
-
-	await Promise.all(tasks);
-
-    // single-file generators
-    const singleFileSpecs = [
-        [config.path.file.readme, getReadmeFileContent],
-        [config.path.file.uploader, getUploaderGroupFileContent],
-        [config.path.file.tag, getTagMetaFileContent],
-        [config.path.file.galleryNotes, getNoteMetaFileContent],
-        [config.path.file.gallery, getSpecGalleryMetaFileContent],
-        [config.path.file.exhentai, getSpecEXHentaiGalleryMetaFileContent],
-        [config.path.file.nhentai, getSpecNHentaiGalleryMetaFileContent],
-    ];
-
-    for (const [path, fn] of singleFileSpecs) {
-        tasks.push((async () => {
+            const destPath = folderPath + linktext + ".md";
             try {
-				const timerName = "timer-"+fn.name+"-"+path;
-				console.time(timerName);
-                console.log("started:", fn.name, path);
-                await getProcessFilePromise(path, fn);
-                console.log("ended:", fn.name, path);
-				console.timeEnd(timerName);
+                if (!app.vault.getAbstractFileByPath(destPath)) {
+                    app.vault.create(destPath, "")
+                        .then((f) => app.metadataCache.getFileCache(f));
+                }
             } catch (e) {
-                console.error("error processing", path, e);
+                // ignore creation errors (file may exist already or race conditions)
             }
-        })());
+        }
     }
 
-	await Promise.all(tasks);
-	
-	tasks.push(refreshCache());
-	
-    // directory-scoped generators
-    const dirSpecs = [
-        [config.path.folder.docsTag, getTagGroupFileContent],
-        [config.path.folder.docsYear, getYearFileContent],
-        [config.path.folder.property, getPropertyFileContent],
-        [config.path.folder.uploader, getTagFileContent],
-        [config.path.folder.tag, getTagFileContent],
-    ];
-
-    for (const [rootDirPath, fn] of dirSpecs) {
-        tasks.push((async () => {
-            try {
-				const timerName = "timer-"+fn.name+"-"+rootDirPath;
-				console.time(timerName);
-                console.log("started:", fn.name, rootDirPath);
-                await Promise.all(app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(rootDirPath)).map(processFileWith(fn)));
-                console.log("ended:", fn.name, rootDirPath);
-				console.timeEnd(timerName);
-            } catch (e) {
-                console.error("error processing dir", rootDirPath, e);
-            }
-        })());
+    getProcessFilePromise(path, getSpecTypeFileContent) {
+        const file = app.vault.getAbstractFileByPath(path);
+        const fileProcesser = fileProcesserUtil.processFileWith(getSpecTypeFileContent);
+        return fileProcesser(file);
     }
 
-	await Promise.all(tasks);
 
-    // cleanup frontmatter
-    tasks.push((async () => {
+
+    batchMoveGalleryNoteFilesByYearUploaded() {
+        const files = app.vault.getFiles();
+        const mdfiles = app.vault.getMarkdownFiles();
+        const candidates = mdfiles.filter((f) => f.path.startsWith(config.path.folder.gallery));
+
+        for (const f of candidates) {
+            if (f.path.split("/").length !== 3) continue;
+            const year = stringUtil.getYear(f);
+            const folderPath = `${f.parent.path}/${year}`;
+            if (!app.vault.getFolderByPath(folderPath)) app.vault.createFolder(folderPath);
+        }
+
+        for (const f of candidates) {
+            if (f.path.split("/").length !== 3) continue;
+            const year = app.metadataCache.getFileCache(f)?.frontmatter?.uploaded?.slice(0, 4);
+            const folderPath = `${f.parent.path}/${year}`;
+            if (!app.vault.getFolderByPath(folderPath)) app.vault.createFolder(folderPath);
+            const pathPrefix = `${f.parent.path}/${f.basename}`;
+            files.filter((f2) => f2.path.startsWith(pathPrefix)).forEach((f2) => {
+                const newPath2 = `${folderPath}/${f2.name}`;
+                app.vault.rename(f2, newPath2);
+                console.log(newPath2);
+            });
+        }
+    }
+
+    standardizeGalleryNoteCoverFileName() {
+        const galleryNoteFiles = app.vault.getMarkdownFiles().filter(f => f.path.startsWith(config.path.folder.gallery));
+        galleryNoteFiles.filter(f => {
+            const cover = app.metadataCache.getFileCache(f)?.frontmatter?.cover;
+            const res = /^\[\[(.*?\|)?(?<basename>.*)\.(?<extension>.*)\]\]$/.exec(cover);
+            if (!res) {
+                return;
+            }
+            const coverBasename = res.groups.basename;
+            const coverExtension = res.groups.extension;
+            const coverLinktext = `${coverBasename}.${coverExtension}`;
+            const coverFile = app.metadataCache.getFirstLinkpathDest(coverLinktext);
+            const newCoverLinktext = `${f.basename}.${coverExtension}`;
+            const newPath = `${coverFile.parent.path}/${newCoverLinktext}`;
+            if (!cover?.startsWith("[[" + f.basename)) {
+                app.fileManager.renameFile(coverFile, newCoverLinktext);
+                console.log(coverFile.name, newPath);
+            }
+        });
+    }
+
+    refreshCache() {
+        app.vault.getMarkdownFiles().forEach((f) => app.metadataCache.getFileCache(f));
+    }
+}
+
+const dateUtil = DateUtil.getSingleInstance();
+const arrayUtil = ArrayUtil.getSingleInstance();
+const pathUtil = PathUtil.getSingleInstance();
+const fileTemplateUtil = FileTemplateUtil.getSingleInstance();
+const stringUtil = StringUtil.getSingleInstance();
+const fileProcesserUtil = FileProcesserUtil.getSingleInstance();
+
+class Main {
+    static main() {
+        Main.asyncMain().catch((err) => console.error("unhandled error in build-index-content main:", err));
+    }
+
+    static async processSingleFileSpec(path, fn) {
         try {
-			const timerName = "timer-removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles";
-			console.time(timerName);
-            console.log("started:", removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles.name);
-            await removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles();
-            console.log("ended:", removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles.name);
-			console.timeEnd(timerName);
+            const timerName = "timer-" + fn.name + "-" + path;
+            console.time(timerName);
+            console.log("started:", fn.name, path);
+            await fileProcesserUtil.getProcessFilePromise(path, fn);
+            console.log("ended:", fn.name, path);
+            console.timeEnd(timerName);
+        } catch (e) {
+            console.error("error processing", path, e);
+        }
+    }
+
+    static async processDirectorySpec(rootDirPath, fn) {
+        try {
+            const timerName = "timer-" + fn.name + "-" + rootDirPath;
+            console.time(timerName);
+            console.log("started:", fn.name, rootDirPath);
+            await Promise.all(app.vault.getMarkdownFiles().filter((f) => f.path.startsWith(rootDirPath)).map(fileProcesserUtil.processFileWith(fn)));
+            console.log("ended:", fn.name, rootDirPath);
+            console.timeEnd(timerName);
+        } catch (e) {
+            console.error("error processing dir", rootDirPath, e);
+        }
+    }
+
+    static clearFrontmatter() {
+        try {
+            const timerName = "timer-removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles";
+            console.time(timerName);
+            console.log("started:", fileProcesserUtil.removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles.name);
+            fileProcesserUtil.removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles();
+            console.log("ended:", fileProcesserUtil.removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles.name);
+            console.timeEnd(timerName);
         } catch (e) {
             console.error("error removing duplicates", e);
         }
-    })());
 
-    await Promise.all(tasks);
+    }
 
-    console.log(`==end (time="${new Date()}")`);
-    console.timeEnd("run_script");
+    static pushTasksWithSingleFileSpec(tasks) {
+        // single-file generators
+        const singleFileSpecs = [
+            [config.path.file.readme, fileTemplateUtil.getReadmeFileContent],
+            [config.path.file.uploader, fileTemplateUtil.getUploaderGroupFileContent],
+            [config.path.file.tag, fileTemplateUtil.getTagMetaFileContent],
+            [config.path.file.galleryNotes, fileTemplateUtil.getNoteMetaFileContent],
+            [config.path.file.gallery, fileTemplateUtil.getSpecGalleryMetaFileContent],
+            [config.path.file.exhentai, fileTemplateUtil.getSpecEXHentaiGalleryMetaFileContent],
+            [config.path.file.nhentai, fileTemplateUtil.getSpecNHentaiGalleryMetaFileContent],
+        ];
+
+        for (const [path, fn] of singleFileSpecs) {
+            tasks.push(Main.processSingleFileSpec(path, fn));
+        }
+    }
+
+    static pushTasksWithDirectorySpec(tasks) {
+        // directory-scoped generators
+        const dirSpecs = [
+            [config.path.folder.docsTag, fileTemplateUtil.getTagGroupFileContent],
+            [config.path.folder.docsYear, fileTemplateUtil.getYearFileContent],
+            [config.path.folder.property, fileTemplateUtil.getPropertyFileContent],
+            [config.path.folder.uploader, fileTemplateUtil.getTagFileContent],
+            [config.path.folder.tag, fileTemplateUtil.getTagFileContent],
+        ];
+
+        for (const [rootDirPath, fn] of dirSpecs) {
+            tasks.push(Main.processDirectorySpec(rootDirPath, fn));
+        }
+    }
+
+    static async asyncMain() {
+        console.time("run_script");
+        console.log(`==start (time="${new Date()}")`);
+
+        const tasks = [];
+
+        // preparatory runs
+        tasks.push(fileProcesserUtil.refreshCache());
+
+        await Promise.all(tasks);
+
+        tasks.push(fileProcesserUtil.createFilesFromUnresolvedLinksForAllGalleryNoteFiles());
+        tasks.push(fileProcesserUtil.batchMoveGalleryNoteFilesByYearUploaded());
+        tasks.push(fileProcesserUtil.standardizeGalleryNoteCoverFileName());
+
+        await Promise.all(tasks);
+
+        Main.pushTasksWithSingleFileSpec(tasks);
+
+        await Promise.all(tasks);
+
+        tasks.push(fileProcesserUtil.refreshCache());
+
+        await Promise.all(tasks);
+
+        Main.pushTasksWithDirectorySpec(tasks);
+
+        tasks.push(Main.clearFrontmatter());
+
+        await Promise.all(tasks);
+
+        console.log(`==end (time="${new Date()}")`);
+        console.timeEnd("run_script");
+    }
 }
 
-main().catch((err) => console.error("unhandled error in build-index-content main:", err));
+Main.main();
+
 ```
