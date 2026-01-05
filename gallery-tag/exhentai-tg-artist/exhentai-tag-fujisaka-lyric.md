@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:12+08:00
-mtime: 2026-01-03T21:58:17+08:00
+mtime: 2026-01-05T23:54:49+08:00
 ---
 
 # exhentai-tag-fujisaka-lyric
@@ -9,7 +9,7 @@ mtime: 2026-01-03T21:58:17+08:00
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

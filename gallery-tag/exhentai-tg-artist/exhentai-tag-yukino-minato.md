@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:51+08:00
-mtime: 2026-01-03T21:57:36+08:00
+mtime: 2026-01-05T23:54:00+08:00
 ---
 
 # exhentai-tag-yukino-minato
@@ -9,7 +9,7 @@ mtime: 2026-01-03T21:57:36+08:00
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

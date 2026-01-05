@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-03T22:11:36+08:00
+mtime: 2026-01-05T23:49:07+08:00
 ---
 
 # gallery-year-2022
 
 > seealso: [[gallery-doc-year|gallery-doc-year]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2022
 

@@ -9,7 +9,7 @@ mtime: 2026-01-03T21:55:42+08:00
 
 # gallery
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2026
 

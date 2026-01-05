@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:47+08:00
-mtime: 2026-01-03T22:55:27+08:00
+mtime: 2026-01-05T23:50:12+08:00
 ---
 
 # exhentai-uploader-bow8
@@ -9,7 +9,7 @@ mtime: 2026-01-03T22:55:27+08:00
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

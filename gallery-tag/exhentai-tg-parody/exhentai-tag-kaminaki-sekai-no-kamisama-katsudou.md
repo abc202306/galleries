@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:51+08:00
-mtime: 2026-01-03T21:56:10+08:00
+mtime: 2026-01-05T23:51:06+08:00
 ---
 
 # exhentai-tag-kaminaki-sekai-no-kamisama-katsudou
@@ -9,7 +9,7 @@ mtime: 2026-01-03T21:56:10+08:00
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

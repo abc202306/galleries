@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:53+08:00
-mtime: 2026-01-03T21:56:11+08:00
+mtime: 2026-01-05T23:51:13+08:00
 ---
 
 # exhentai-tag-dragon-quest-v
@@ -9,7 +9,7 @@ mtime: 2026-01-03T21:56:11+08:00
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

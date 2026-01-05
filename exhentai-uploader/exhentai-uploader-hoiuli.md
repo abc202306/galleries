@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:45+08:00
-mtime: 2026-01-03T22:55:23+08:00
+mtime: 2026-01-05T23:50:02+08:00
 ---
 
 # exhentai-uploader-hoiuli
@@ -9,7 +9,7 @@ mtime: 2026-01-03T22:55:23+08:00
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

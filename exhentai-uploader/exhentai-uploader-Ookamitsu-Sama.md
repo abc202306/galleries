@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:42+08:00
-mtime: 2026-01-03T22:55:18+08:00
+mtime: 2026-01-05T23:49:35+08:00
 ---
 
 # exhentai-uploader-Ookamitsu-Sama
@@ -9,7 +9,7 @@ mtime: 2026-01-03T22:55:18+08:00
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2025
 

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-03T19:27:27+08:00
-mtime: 2026-01-03T21:57:28+08:00
+mtime: 2026-01-05T23:53:51+08:00
 ---
 
 # exhentai-tag-fiammetta
@@ -9,7 +9,7 @@ mtime: 2026-01-03T21:57:28+08:00
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
-## gallery-items
+## [[gallery-items|gallery-items]]
 
 ### 2026
 

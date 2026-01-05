@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2026-01-03T22:19:01+08:00
+mtime: 2026-01-05T23:49:01+08:00
 ---
 
 # README
@@ -62,7 +62,7 @@ mtime: 2026-01-03T22:19:01+08:00
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2023\|2023]] | 76 | 38 | 38 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2024\|2024]] | 164 | 82 | 82 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2025\|2025]] | 274 | 137 | 137 |
-| [[gallery-doc\|gallery-doc]] | 57 | 52 | 5 |
+| [[gallery-doc\|gallery-doc]] | 58 | 53 | 5 |
 | [[gallery-doc-property\|gallery-doc-property]] | 33 | 33 | 0 |
 | [[gallery-doc-property\|gallery-doc-property]]/[[propertyns-gallery-basic\|propertyns-gallery-basic]] | 8 | 8 | 0 |
 | [[gallery-doc-property\|gallery-doc-property]]/[[propertyns-gallery-docs\|propertyns-gallery-docs]] | 1 | 1 | 0 |
@@ -78,7 +78,7 @@ mtime: 2026-01-03T22:19:01+08:00
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-image-file\|gallery-doc-image-file]] | 1 | 0 | 1 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-notation\|gallery-doc-notation]] | 1 | 1 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-property\|gallery-doc-property]] | 4 | 4 | 0 |
-| [[gallery-doc\|gallery-doc]]/[[gallery-doc-special-keywords\|gallery-doc-special-keywords]] | 2 | 2 | 0 |
+| [[gallery-doc\|gallery-doc]]/[[gallery-doc-special-keywords\|gallery-doc-special-keywords]] | 3 | 3 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-year\|gallery-doc-year]] | 14 | 14 | 0 |
 | [[collection-gallery-notes\|gallery-notes]] | 7 | 5 | 2 |
 | [[gallery-doc-gallery-tag\|gallery-tag]] | 1617 | 1617 | 0 |
@@ -259,7 +259,7 @@ const config = {
     keywords: {
         exhentai: "exhentai",
         nhentai: "nhentai",
-        galleryItems: "gallery-items",
+        galleryItems: "[[gallery-items|gallery-items]]",
         noteList: "note-list",
     },
     propertyNames: [
@@ -552,7 +552,7 @@ class FileTemplateUtil {
         const gstr = gls.map(pathUtil.getGalleryPathRepresentationStr).join("\n");
 
         const preFMBlock = `\nup:\n  - "${config.ref.docs.collection}"`;
-        const newData = stringUtil.replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(new RegExp(`(?<=\n)## ${config.keywords.noteList}\n[^]*`),
+        const newData = stringUtil.replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(new RegExp(`(?<=\n)## ${RegExp.escape(config.keywords.noteList)}\n[^]*`),
             `## ${config.keywords.noteList}\n\n${gstr}\n`
         );
 
@@ -565,7 +565,7 @@ class FileTemplateUtil {
 
         const gstr = pathUtil.getGStr(galleryNoteFiles.map((f) => f.path));
 
-        const newData = stringUtil.replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(new RegExp(`(?<=\n)## ${config.keywords.galleryItems}\n[^]*`),
+        const newData = stringUtil.replaceFrontMatter(fileContent, ctime, mtime, preFMBlock).replace(new RegExp(`(?<=\n)## ${RegExp.escape(config.keywords.galleryItems)}\n[^]*`),
             `## ${config.keywords.galleryItems}\n\n${gstr}\n`
         );
 
