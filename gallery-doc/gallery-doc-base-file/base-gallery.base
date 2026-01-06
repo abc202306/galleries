@@ -1,7 +1,7 @@
 filters:
   and:
+    - file.inFolder("galleries")
     - file.ext == "md"
-    - up.containsAny(link("collection-gallery-items", "collection-gallery-items"))
 formulas:
   image01: image(if(cover,cover,icon))
   cday: ctime.date()
@@ -440,7 +440,7 @@ views:
     name: artist/kiira
     filters:
       and:
-        - file.hasLink("kiira")
+        - file.hasLink("gallery-tag/exhentai-tg-artist/exhentai-tag-kiira")
     order:
       - formula.filetitle
       - artist
@@ -452,7 +452,7 @@ views:
     name: artist/utatane
     filters:
       and:
-        - file.hasLink("utatane")
+        - file.hasLink("gallery-tag/exhentai-tg-artist/exhentai-tag-utatane")
     order:
       - formula.filetitle
       - artist
@@ -464,7 +464,7 @@ views:
     name: artist/hikami-izuto
     filters:
       and:
-        - file.hasLink("hikami-izuto")
+        - file.hasLink("gallery-tag/exhentai-tg-artist/exhentai-tag-hikami-izuto")
     order:
       - formula.filetitle
       - artist
@@ -476,7 +476,7 @@ views:
     name: artist/henreader
     filters:
       and:
-        - file.hasLink("henreader")
+        - file.hasLink("gallery-tag/exhentai-tg-artist/exhentai-tag-henreader")
     order:
       - formula.filetitle
       - artist
@@ -488,7 +488,7 @@ views:
     name: artist/custom-udon
     filters:
       and:
-        - file.hasLink("custom-udon")
+        - file.hasLink("gallery-tag/exhentai-tg-artist/exhentai-tag-custom-udon")
     order:
       - formula.filetitle
       - artist
@@ -500,7 +500,7 @@ views:
     name: artist/murai-renji
     filters:
       and:
-        - file.hasLink("murai-renji")
+        - file.hasLink("gallery-tag/exhentai-tg-artist/exhentai-tag-murai-renji")
     order:
       - formula.filetitle
       - artist
@@ -512,7 +512,7 @@ views:
     name: artist/wancho
     filters:
       and:
-        - file.hasLink("wancho")
+        - file.hasLink("gallery-tag/exhentai-tg-group/exhentai-tag-wancho-ke")
     order:
       - formula.filetitle
       - artist
@@ -524,7 +524,7 @@ views:
     name: artist/kani-biimu
     filters:
       and:
-        - file.hasLink("kani-biimu")
+        - file.hasLink("gallery-tag/exhentai-tg-artist/exhentai-tag-kani-biimu")
     order:
       - formula.filetitle
       - artist
@@ -536,7 +536,7 @@ views:
     name: artist/yoyomax
     filters:
       and:
-        - file.hasLink("yoyomax")
+        - file.hasLink("gallery-tag/exhentai-tg-artist/exhentai-tag-yoyomax")
     order:
       - formula.filetitle
       - artist
@@ -548,7 +548,7 @@ views:
     name: artist/baku-p
     filters:
       and:
-        - file.hasLink("baku-p")
+        - file.hasLink("gallery-tag/exhentai-tg-artist/exhentai-tag-baku-p")
     order:
       - formula.filetitle
       - artist
@@ -560,7 +560,7 @@ views:
     name: artist/komugi
     filters:
       and:
-        - file.hasLink("komugi")
+        - file.hasLink("gallery-tag/exhentai-tg-artist/exhentai-tag-komugi")
     order:
       - formula.filetitle
       - artist
@@ -587,7 +587,7 @@ views:
     name: parody/touhou-project
     filters:
       and:
-        - file.hasLink("touhou-project")
+        - file.hasLink("gallery-tag/exhentai-tg-parody/exhentai-tag-touhou-project")
     order:
       - formula.filetitle
     image: formula.image01
@@ -596,21 +596,21 @@ views:
     name: parody/blue-archive
     filters:
       and:
-        - file.hasLink("blue-archive")
+        - file.hasLink("gallery-tag/exhentai-tg-parody/exhentai-tag-blue-archive")
     image: formula.image01
     cardSize: 100
   - type: cards
     name: parody/mahoujin-guru-guru
     filters:
       and:
-        - file.hasLink("mahoujin-guru-guru")
+        - file.hasLink("gallery-tag/exhentai-tg-parody/exhentai-tag-mahoujin-guru-guru")
     image: formula.image01
     cardSize: 100
   - type: cards
     name: parody/original
     filters:
       and:
-        - file.hasLink("original")
+        - file.hasLink("gallery-tag/exhentai-tg-parody/exhentai-tag-original")
     order:
       - formula.filetitle
     image: formula.image01
@@ -619,7 +619,7 @@ views:
     name: female/rape
     filters:
       and:
-        - file.hasLink("rape")
+        - file.hasLink("gallery-tag/exhentai-tg-female/exhentai-tag-rape")
     order:
       - formula.filetitle
     image: formula.image01
@@ -628,7 +628,7 @@ views:
     name: female/lolicon
     filters:
       and:
-        - file.hasLink("lolicon")
+        - file.hasLink("gallery-tag/exhentai-tg-female/exhentai-tag-lolicon")
     order:
       - formula.filetitle
     image: formula.image01
@@ -637,7 +637,7 @@ views:
     name: male/sole-male
     filters:
       and:
-        - file.hasLink("sole-male")
+        - file.hasLink("gallery-tag/exhentai-tg-male/exhentai-tag-sole-male")
     order:
       - formula.filetitle
     image: formula.image01
@@ -646,7 +646,7 @@ views:
     name: mixed/kodomo-doushi
     filters:
       and:
-        - file.hasLink("kodomo-doushi")
+        - file.hasLink("gallery-tag/exhentai-tg-mixed/exhentai-tag-kodomo-doushi")
     order:
       - formula.filetitle
     image: formula.image01
@@ -671,7 +671,7 @@ views:
     name: categories/doujinshi
     filters:
       and:
-        - file.hasLink("doujinshi")
+        - file.hasLink("gallery-tag/exhentai-tg-categories/exhentai-tag-doujinshi")
     order:
       - formula.filetitle
     image: formula.image01
@@ -680,7 +680,7 @@ views:
     name: categories/manga
     filters:
       or:
-        - file.hasLink("manga")
+        - file.hasLink("gallery-tag/exhentai-tg-categories/exhentai-tag-manga")
     order:
       - formula.filetitle
     image: formula.image01
@@ -689,7 +689,7 @@ views:
     name: categories/image-set
     filters:
       and:
-        - file.hasLink("image-set")
+        - file.hasLink("gallery-tag/exhentai-tg-categories/exhentai-tag-image-set")
     order:
       - formula.filetitle
     image: formula.image01
@@ -698,7 +698,7 @@ views:
     name: categories/artist-cg
     filters:
       and:
-        - file.hasLink("artist-cg")
+        - file.hasLink("gallery-tag/exhentai-tg-categories/exhentai-tag-artist-cg")
     order:
       - formula.filetitle
     image: formula.image01
@@ -707,7 +707,7 @@ views:
     name: categories/game-cg
     filters:
       and:
-        - file.hasLink("game-cg")
+        - file.hasLink("gallery-tag/exhentai-tg-categories/exhentai-tag-game-cg")
     order:
       - formula.filetitle
     image: formula.image01
@@ -716,7 +716,7 @@ views:
     name: categories/misc
     filters:
       and:
-        - file.hasLink("misc")
+        - file.hasLink("gallery-tag/exhentai-tg-categories/exhentai-tag-misc")
     order:
       - formula.filetitle
     image: formula.image01
@@ -725,7 +725,7 @@ views:
     name: categories/non-h
     filters:
       and:
-        - file.hasLink("non-h")
+        - file.hasLink("gallery-tag/exhentai-tg-categories/exhentai-tag-non-h")
     order:
       - formula.filetitle
     image: formula.image01
@@ -734,7 +734,7 @@ views:
     name: categories/western
     filters:
       and:
-        - file.hasLink("western")
+        - file.hasLink("gallery-tag/exhentai-tg-categories/exhentai-tag-western")
     order:
       - formula.filetitle
     image: formula.image01
@@ -743,7 +743,7 @@ views:
     name: character/kukuri
     filters:
       and:
-        - file.hasLink("kukuri")
+        - file.hasLink("gallery-tag/exhentai-tg-character/exhentai-tag-kukuri")
     order:
       - formula.filetitle
       - artist

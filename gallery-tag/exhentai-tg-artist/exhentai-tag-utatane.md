@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:06:53+08:00
-mtime: 2026-01-05T23:54:05+08:00
+mtime: 2026-01-06T17:47:24+08:00
 ---
 
 # exhentai-tag-utatane
 
-> seealso: [[exhentai-tg-artist|exhentai-tg-artist]]
+> seealso: [[exhentai-tg-artist|exhentai-tg-artist]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 

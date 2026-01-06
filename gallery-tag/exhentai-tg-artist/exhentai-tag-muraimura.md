@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:07:03+08:00
-mtime: 2026-01-05T23:54:26+08:00
+mtime: 2026-01-06T17:47:34+08:00
 ---
 
 # exhentai-tag-muraimura
 
-> seealso: [[exhentai-tg-artist|exhentai-tg-artist]], [[exhentai-tg-group|exhentai-tg-group]]
+> seealso: [[exhentai-tg-artist|exhentai-tg-artist]], [[exhentai-tg-group|exhentai-tg-group]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 

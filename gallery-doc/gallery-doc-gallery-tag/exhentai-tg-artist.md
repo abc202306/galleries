@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-03T19:26:52+08:00
+mtime: 2026-01-06T17:08:55+08:00
 ---
 
 # exhentai-tg-artist
@@ -486,7 +486,7 @@ mtime: 2026-01-03T19:26:52+08:00
 1. [[exhentai-tag-usa-jo|usa-jo]] | 2
 1. [[exhentai-tag-usagi-tosame|usagi-tosame]] | 2
 1. [[exhentai-tag-usakun|usakun]] | 1
-1. [[exhentai-tag-usashiro-mani-or-mani|usashiro-mani-or-mani]] | 3
+1. [[exhentai-tag-usashiro-mani-or-mani|usashiro-mani-or-mani]] | 4
 1. [[exhentai-tag-ushi-kousen|ushi-kousen]] | 1
 1. [[exhentai-tag-usitora-tatumi|usitora-tatumi]] | 1
 1. [[exhentai-tag-utatane|utatane]] | 4

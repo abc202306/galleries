@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:05:53+08:00
-mtime: 2026-01-05T23:51:14+08:00
+mtime: 2026-01-06T17:46:30+08:00
 ---
 
 # exhentai-tag-blue-archive
 
-> seealso: [[exhentai-tg-parody|exhentai-tg-parody]]
+> seealso: [[exhentai-tg-parody|exhentai-tg-parody]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 

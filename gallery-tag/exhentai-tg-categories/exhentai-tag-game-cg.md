@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:06:50+08:00
-mtime: 2026-01-05T23:55:01+08:00
+mtime: 2026-01-06T17:47:48+08:00
 ---
 
 # exhentai-tag-game-cg
 
-> seealso: [[exhentai-tg-categories|exhentai-tg-categories]]
+> seealso: [[exhentai-tg-categories|exhentai-tg-categories]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
