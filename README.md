@@ -7,13 +7,19 @@ mtime: 2026-01-07T21:45:47+08:00
 
 ![](./gallery-doc/gallery-doc-image-file/image-obsidian-vault-galleries-graph-view.png)
 
+| | |
+| --- | --- |
+| preview-url | https://abc202306.github.io/quartz/ |
+| source-url | https://github.com/abc202306/galleries/ |
+
 > [!Note]
 > 1. [[#pinned|#pinned]]
-> 2. [[#Web Clipper|#Web Clipper]]
-> 3. [[#Folder Struct|#Folder Struct]]
-> 4. [[#Views of gallery-base.base|#Views of gallery-base.base]]
-> 5. [[#symbols|#symbols]]
-> 6. [[#Script|#Script]]
+> 1. [[#Web Clipper|#Web Clipper]]
+> 1. [[#Folder Struct|#Folder Struct]]
+> 1. [[#Views of gallery-base.base|#Views of gallery-base.base]]
+> 1. [[#symbols|#symbols]]
+> 1. [[#How to Use|#How to Use]]
+> 1. [[#Script|#Script]]
 
 ## pinned
 
@@ -198,6 +204,20 @@ mtime: 2026-01-07T21:45:47+08:00
 | `/gallery-notes/`                            | `/gallery-note-(?<date>\d{4}-\d{2}-\d{2})\s(?<noteTitle>.*)^\.md$/`                                                              | [[tag-regexp-prefix\|regexp-prefix]]     |            |
 | `/gallery-notes/`                            | `"base-galley-note.base"`                                                                                                        | [[tag-file\|file]]       |            |
 | `/gallery-tag/`                              | `/^(ex\|n)hentai-tg-(?<tagNameSpaceName>.+)\/exhentai-tag-(?<exhentaiTagName>.+)\.md$/`                                          | [[tag-regexp-prefix\|regexp-prefix]]     | [[tag-grouped\|grouped]]  |
+
+## How to Use
+
+1. requirements
+	1. Obsidian (software)
+	1. Git (Software)
+	1. Git LFS (Git Extension)
+
+```powershell
+mkdir "./galleries/"
+cd "./galleries/"
+git clone "https://github.com/abc202306/galleries/"
+git lfs pull
+```
 
 ## Script
 
