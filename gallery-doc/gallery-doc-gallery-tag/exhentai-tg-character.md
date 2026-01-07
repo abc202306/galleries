@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-03T19:26:52+08:00
+mtime: 2026-01-07T21:45:50+08:00
 ---
 
 # exhentai-tg-character
@@ -232,7 +232,7 @@ mtime: 2026-01-03T19:26:52+08:00
 1. [[exhentai-tag-sensei|sensei]] | 52
 1. [[exhentai-tag-serena-fuoco-le-brillante-de-la-grazia|serena-fuoco-le-brillante-de-la-grazia]] | 1
 1. [[exhentai-tag-shamare|shamare]] | 1
-1. [[exhentai-tag-shana|shana]] | 1
+1. [[exhentai-tag-shana|shana]] | 2
 1. [[exhentai-tag-sherlock-shellingford|sherlock-shellingford]] | 1
 1. [[exhentai-tag-shigure-mayoi|shigure-mayoi]] | 1
 1. [[exhentai-tag-shigure-ui|shigure-ui]] | 1

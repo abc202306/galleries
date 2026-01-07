@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:28+08:00
-mtime: 2026-01-05T23:52:51+08:00
+mtime: 2026-01-07T21:47:14+08:00
 ---
 
 # exhentai-tag-impregnation
@@ -10,6 +10,13 @@ mtime: 2026-01-05T23:52:51+08:00
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+1. `[ポッシ the Posse (ポッシ)] ゆきちゃんとサンタさん(交配おじさん)と眠姦生クリスマス [中国翻訳]` | [[exhentai-g-3724492-a0a12c8c9c|exhentai-g-3724492-a0a12c8c9c]] | 2026-01-06
+	- ![[exhentai-g-3724492-a0a12c8c9c.webp|200]]
 
 ### 2025
 

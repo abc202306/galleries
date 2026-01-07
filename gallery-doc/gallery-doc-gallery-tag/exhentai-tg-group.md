@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-06T17:08:55+08:00
+mtime: 2026-01-07T21:45:50+08:00
 ---
 
 # exhentai-tg-group
@@ -124,6 +124,7 @@ mtime: 2026-01-06T17:08:55+08:00
 1. [[exhentai-tag-kirai-na-nomimono|kirai-na-nomimono]] | 2
 1. [[exhentai-tag-kitsune-to-budou|kitsune-to-budou]] | 1
 1. [[exhentai-tag-kitsuneya|kitsuneya]] | 4
+1. [[exhentai-tag-kodomo-ginkou|kodomo-ginkou]] | 1
 1. [[exhentai-tag-komanest|komanest]] | 1
 1. [[exhentai-tag-komugibatake|komugibatake]] | 3
 1. [[exhentai-tag-kotsubuan|kotsubuan]] | 2
@@ -213,7 +214,7 @@ mtime: 2026-01-06T17:08:55+08:00
 1. [[exhentai-tag-silver-dog|silver-dog]] | 1
 1. [[exhentai-tag-simpleclass|simpleclass]] | 1
 1. [[exhentai-tag-soiya|soiya]] | 1
-1. [[exhentai-tag-sojou-no-kuuran|sojou-no-kuuran]] | 1
+1. [[exhentai-tag-sojou-no-kuuran|sojou-no-kuuran]] | 2
 1. [[exhentai-tag-sorairo-no-oto|sorairo-no-oto]] | 1
 1. [[exhentai-tag-spiral|spiral]] | 1
 1. [[exhentai-tag-squeeze-candy-heaven|squeeze-candy-heaven]] | 2

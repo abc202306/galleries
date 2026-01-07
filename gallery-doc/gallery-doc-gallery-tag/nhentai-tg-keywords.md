@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-03T19:26:48+08:00
+mtime: 2026-01-07T21:45:48+08:00
 ---
 
 # nhentai-tg-keywords
@@ -11,7 +11,7 @@ mtime: 2026-01-03T19:26:48+08:00
 1. [[exhentai-tag-age-regression|age-regression]] | 4
 1. [[exhentai-tag-ahegao|ahegao]] | 27
 1. [[exhentai-tag-amputee|amputee]] | 1
-1. [[exhentai-tag-anal|anal]] | 31
+1. [[exhentai-tag-anal|anal]] | 32
 1. [[exhentai-tag-anal-intercourse|anal-intercourse]] | 15
 1. [[exhentai-tag-anthology|anthology]] | 7
 1. [[exhentai-tag-apron|apron]] | 3
@@ -173,7 +173,7 @@ mtime: 2026-01-03T19:26:48+08:00
 1. [[exhentai-tag-leg-lock|leg-lock]] | 2
 1. [[exhentai-tag-leotard|leotard]] | 1
 1. [[exhentai-tag-lingerie|lingerie]] | 3
-1. [[exhentai-tag-lolicon|lolicon]] | 388
+1. [[exhentai-tag-lolicon|lolicon]] | 389
 1. [[exhentai-tag-low-lolicon|low-lolicon]] | 1
 1. [[exhentai-tag-low-scat|low-scat]] | 2
 1. [[exhentai-tag-low-shotacon|low-shotacon]] | 3
@@ -247,7 +247,7 @@ mtime: 2026-01-03T19:26:48+08:00
 1. [[exhentai-tag-schoolgirl-uniform|schoolgirl-uniform]] | 36
 1. [[exhentai-tag-selfcest|selfcest]] | 1
 1. [[exhentai-tag-sentou|sentou]] | 1
-1. [[exhentai-tag-sex-toys|sex-toys]] | 27
+1. [[exhentai-tag-sex-toys|sex-toys]] | 28
 1. [[exhentai-tag-shared-senses|shared-senses]] | 3
 1. [[exhentai-tag-shemale|shemale]] | 1
 1. [[exhentai-tag-shibari|shibari]] | 2
@@ -265,7 +265,7 @@ mtime: 2026-01-03T19:26:48+08:00
 1. [[exhentai-tag-snuff|snuff]] | 4
 1. [[exhentai-tag-sockjob|sockjob]] | 1
 1. [[exhentai-tag-sole-dickgirl|sole-dickgirl]] | 1
-1. [[exhentai-tag-sole-female|sole-female]] | 199
+1. [[exhentai-tag-sole-female|sole-female]] | 200
 1. [[exhentai-tag-sole-male|sole-male]] | 201
 1. [[exhentai-tag-solo-action|solo-action]] | 5
 1. [[exhentai-tag-soushuuhen|soushuuhen]] | 2
@@ -283,7 +283,7 @@ mtime: 2026-01-03T19:26:48+08:00
 1. [[exhentai-tag-syringe|syringe]] | 1
 1. [[exhentai-tag-tabi-socks|tabi-socks]] | 1
 1. [[exhentai-tag-tail|tail]] | 35
-1. [[exhentai-tag-tail-plug|tail-plug]] | 13
+1. [[exhentai-tag-tail-plug|tail-plug]] | 14
 1. [[exhentai-tag-tankoubon|tankoubon]] | 16
 1. [[exhentai-tag-tanlines|tanlines]] | 18
 1. [[exhentai-tag-teacher|teacher]] | 21
@@ -300,7 +300,7 @@ mtime: 2026-01-03T19:26:48+08:00
 1. [[exhentai-tag-tribadism|tribadism]] | 3
 1. [[exhentai-tag-tutor|tutor]] | 10
 1. [[exhentai-tag-twins|twins]] | 9
-1. [[exhentai-tag-twintails|twintails]] | 75
+1. [[exhentai-tag-twintails|twintails]] | 76
 1. [[exhentai-tag-uncensored|uncensored]] | 31
 1. [[exhentai-tag-unusual-insertions|unusual-insertions]] | 5
 1. [[exhentai-tag-unusual-pupils|unusual-pupils]] | 21

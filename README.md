@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2026-01-06T17:08:53+08:00
+mtime: 2026-01-07T21:45:47+08:00
 ---
 
 # README
@@ -32,9 +32,9 @@ mtime: 2026-01-06T17:08:53+08:00
 
 | Folder Path | DFC | DFMC | DFOC |
 | :--- | ---: | ---: | ---: |
-| [[gallery-doc-exhentai-uploader\|exhentai-uploader]] | 168 | 168 | 0 |
-| [[gallery-doc-galleries\|galleries]] | 1406 | 703 | 703 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]] | 594 | 297 | 297 |
+| [[gallery-doc-exhentai-uploader\|exhentai-uploader]] | 169 | 169 | 0 |
+| [[gallery-doc-galleries\|galleries]] | 1412 | 706 | 706 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]] | 598 | 299 | 299 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2012\|2012]] | 2 | 1 | 1 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2014\|2014]] | 2 | 1 | 1 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2015\|2015]] | 4 | 2 | 2 |
@@ -48,8 +48,8 @@ mtime: 2026-01-06T17:08:53+08:00
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2023\|2023]] | 40 | 20 | 20 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2024\|2024]] | 100 | 50 | 50 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2025\|2025]] | 334 | 167 | 167 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2026\|2026]] | 4 | 2 | 2 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]] | 812 | 406 | 406 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2026\|2026]] | 8 | 4 | 4 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]] | 814 | 407 | 407 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2014\|2014]] | 26 | 13 | 13 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2015\|2015]] | 18 | 9 | 9 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2016\|2016]] | 18 | 9 | 9 |
@@ -62,6 +62,7 @@ mtime: 2026-01-06T17:08:53+08:00
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2023\|2023]] | 76 | 38 | 38 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2024\|2024]] | 164 | 82 | 82 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2025\|2025]] | 274 | 137 | 137 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2026\|2026]] | 2 | 1 | 1 |
 | [[gallery-doc\|gallery-doc]] | 62 | 57 | 5 |
 | [[gallery-doc-property\|gallery-doc-property]] | 33 | 33 | 0 |
 | [[gallery-doc-property\|gallery-doc-property]]/[[propertyns-gallery-basic\|propertyns-gallery-basic]] | 8 | 8 | 0 |
@@ -80,14 +81,14 @@ mtime: 2026-01-06T17:08:53+08:00
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-property\|gallery-doc-property]] | 4 | 4 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-special-keywords\|gallery-doc-special-keywords]] | 7 | 7 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-year\|gallery-doc-year]] | 14 | 14 | 0 |
-| [[collection-gallery-notes\|gallery-notes]] | 7 | 5 | 2 |
-| [[gallery-doc-gallery-tag\|gallery-tag]] | 1618 | 1618 | 0 |
+| [[collection-gallery-notes\|gallery-notes]] | 9 | 6 | 3 |
+| [[gallery-doc-gallery-tag\|gallery-tag]] | 1619 | 1619 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-artist\|exhentai-tg-artist]] | 539 | 539 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-categories\|exhentai-tg-categories]] | 10 | 10 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-character\|exhentai-tg-character]] | 275 | 275 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-cosplayer\|exhentai-tg-cosplayer]] | 1 | 1 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-female\|exhentai-tg-female]] | 252 | 252 | 0 |
-| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-group\|exhentai-tg-group]] | 253 | 253 | 0 |
+| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-group\|exhentai-tg-group]] | 254 | 254 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-language\|exhentai-tg-language]] | 9 | 9 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-location\|exhentai-tg-location]] | 4 | 4 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-male\|exhentai-tg-male]] | 54 | 54 | 0 |

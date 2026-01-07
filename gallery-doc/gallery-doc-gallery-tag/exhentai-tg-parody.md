@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-03T19:26:52+08:00
+mtime: 2026-01-07T21:45:49+08:00
 ---
 
 # exhentai-tg-parody
@@ -75,7 +75,7 @@ mtime: 2026-01-03T19:26:52+08:00
 1. [[exhentai-tag-non-non-biyori|non-non-biyori]] | 1
 1. [[exhentai-tag-ongeki|ongeki]] | 2
 1. [[exhentai-tag-onii-chan-wa-oshimai|onii-chan-wa-oshimai]] | 7
-1. [[exhentai-tag-original|original]] | 200
+1. [[exhentai-tag-original|original]] | 202
 1. [[exhentai-tag-oshi-no-ko|oshi-no-ko]] | 1
 1. [[exhentai-tag-pokemon-or-pocket-monsters|pokemon-or-pocket-monsters]] | 2
 1. [[exhentai-tag-princess-connect|princess-connect]] | 7
@@ -86,7 +86,7 @@ mtime: 2026-01-03T19:26:52+08:00
 1. [[exhentai-tag-ryuuou-no-oshigoto|ryuuou-no-oshigoto]] | 3
 1. [[exhentai-tag-seiken-densetsu-3|seiken-densetsu-3]] | 1
 1. [[exhentai-tag-sewayaki-kitsune-no-senko-san|sewayaki-kitsune-no-senko-san]] | 1
-1. [[exhentai-tag-shakugan-no-shana|shakugan-no-shana]] | 1
+1. [[exhentai-tag-shakugan-no-shana|shakugan-no-shana]] | 2
 1. [[exhentai-tag-shugo-chara|shugo-chara]] | 1
 1. [[exhentai-tag-shuukan-watashi-no-onii-chan|shuukan-watashi-no-onii-chan]] | 1
 1. [[exhentai-tag-sister-princess|sister-princess]] | 1

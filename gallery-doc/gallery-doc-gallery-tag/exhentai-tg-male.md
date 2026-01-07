@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-02T16:26:43+08:00
+mtime: 2026-01-07T21:45:49+08:00
 ---
 
 # exhentai-tg-male
@@ -11,7 +11,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-asphyxiation|asphyxiation]] | 1
 1. [[exhentai-tag-bald|bald]] | 10
 1. [[exhentai-tag-ball-caressing|ball-caressing]] | 2
-1. [[exhentai-tag-bbm|bbm]] | 21
+1. [[exhentai-tag-bbm|bbm]] | 22
 1. [[exhentai-tag-bear|bear]] | 1
 1. [[exhentai-tag-bear-boy|bear-boy]] | 1
 1. [[exhentai-tag-beauty-mark|beauty-mark]] | 1
@@ -61,7 +61,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-masturbation|masturbation]] | 1
 1. [[exhentai-tag-milking|milking]] | 1
 1. [[exhentai-tag-mind-control|mind-control]] | 1
-1. [[exhentai-tag-monster|monster]] | 4
+1. [[exhentai-tag-monster|monster]] | 5
 1. [[exhentai-tag-multiple-orgasms|multiple-orgasms]] | 1
 1. [[exhentai-tag-muscle|muscle]] | 4
 1. [[exhentai-tag-muscle-growth|muscle-growth]] | 1
@@ -81,7 +81,7 @@ mtime: 2026-01-02T16:26:43+08:00
 1. [[exhentai-tag-sleeping|sleeping]] | 4
 1. [[exhentai-tag-smell|smell]] | 1
 1. [[exhentai-tag-snuff|snuff]] | 1
-1. [[exhentai-tag-sole-male|sole-male]] | 101
+1. [[exhentai-tag-sole-male|sole-male]] | 102
 1. [[exhentai-tag-stockings|stockings]] | 1
 1. [[exhentai-tag-sweating|sweating]] | 2
 1. [[exhentai-tag-tall-man|tall-man]] | 1
