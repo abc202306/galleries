@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-07T21:45:47+08:00
+mtime: 2026-01-12T22:35:23+08:00
 ---
 
 # gallery-doc-exhentai-uploader
@@ -9,7 +9,7 @@ mtime: 2026-01-07T21:45:47+08:00
 
 1. [[exhentai-uploader--Lumina-|-Lumina-]] | 1
 1. [[exhentai-uploader--terry-|-terry-]] | 1
-1. [[exhentai-uploader-(Disowned)|(Disowned)]] | 13
+1. [[exhentai-uploader-(Disowned)|(Disowned)]] | 14
 1. [[exhentai-uploader-114514beastman|114514beastman]] | 1
 1. [[exhentai-uploader-4Lajf|4Lajf]] | 1
 1. [[exhentai-uploader-5DK|5DK]] | 2
@@ -144,7 +144,7 @@ mtime: 2026-01-07T21:45:47+08:00
 1. [[exhentai-uploader-Riven6984|Riven6984]] | 1
 1. [[exhentai-uploader-rizelbr|rizelbr]] | 5
 1. [[exhentai-uploader-Rogabute|Rogabute]] | 5
-1. [[exhentai-uploader-saibachu|saibachu]] | 11
+1. [[exhentai-uploader-saibachu|saibachu]] | 12
 1. [[exhentai-uploader-sakuraso614|sakuraso614]] | 1
 1. [[exhentai-uploader-Santaporno|Santaporno]] | 1
 1. [[exhentai-uploader-Sarasa26|Sarasa26]] | 1

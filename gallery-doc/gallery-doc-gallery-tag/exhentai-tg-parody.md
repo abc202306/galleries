@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-07T21:45:49+08:00
+mtime: 2026-01-12T22:35:24+08:00
 ---
 
 # exhentai-tg-parody
@@ -14,7 +14,7 @@ mtime: 2026-01-07T21:45:49+08:00
 1. [[exhentai-tag-arknights|arknights]] | 2
 1. [[exhentai-tag-azur-lane|azur-lane]] | 7
 1. [[exhentai-tag-bakemonogatari|bakemonogatari]] | 1
-1. [[exhentai-tag-blue-archive|blue-archive]] | 96
+1. [[exhentai-tag-blue-archive|blue-archive]] | 97
 1. [[exhentai-tag-bocchi-the-rock|bocchi-the-rock]] | 1
 1. [[exhentai-tag-boruto|boruto]] | 4
 1. [[exhentai-tag-buddy-daddies|buddy-daddies]] | 1
@@ -75,7 +75,7 @@ mtime: 2026-01-07T21:45:49+08:00
 1. [[exhentai-tag-non-non-biyori|non-non-biyori]] | 1
 1. [[exhentai-tag-ongeki|ongeki]] | 2
 1. [[exhentai-tag-onii-chan-wa-oshimai|onii-chan-wa-oshimai]] | 7
-1. [[exhentai-tag-original|original]] | 202
+1. [[exhentai-tag-original|original]] | 203
 1. [[exhentai-tag-oshi-no-ko|oshi-no-ko]] | 1
 1. [[exhentai-tag-pokemon-or-pocket-monsters|pokemon-or-pocket-monsters]] | 2
 1. [[exhentai-tag-princess-connect|princess-connect]] | 7

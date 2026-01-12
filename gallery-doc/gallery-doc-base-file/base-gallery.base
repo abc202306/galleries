@@ -134,11 +134,11 @@ views:
       - visible
       - filesize
     sort:
-      - property: character
-        direction: ASC
+      - property: ctime
+        direction: DESC
     columnSize:
       formula.image01: -10
-      formula.filetitle: 224
+      formula.filetitle: 328
       note.artist: 97
       note.group: 137
       note.keywords: 98

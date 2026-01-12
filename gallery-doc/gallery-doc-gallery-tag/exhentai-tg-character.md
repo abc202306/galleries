@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-07T21:45:50+08:00
+mtime: 2026-01-12T22:35:33+08:00
 ---
 
 # exhentai-tg-character
@@ -84,7 +84,7 @@ mtime: 2026-01-07T21:45:50+08:00
 1. [[exhentai-tag-hikari-tachibana|hikari-tachibana]] | 3
 1. [[exhentai-tag-himawari-uzumaki|himawari-uzumaki]] | 4
 1. [[exhentai-tag-himiko-toga|himiko-toga]] | 3
-1. [[exhentai-tag-hina-sorasaki|hina-sorasaki]] | 7
+1. [[exhentai-tag-hina-sorasaki|hina-sorasaki]] | 8
 1. [[exhentai-tag-hinata-hoshino|hinata-hoshino]] | 3
 1. [[exhentai-tag-hinata-hyuga|hinata-hyuga]] | 3
 1. [[exhentai-tag-hinata-wakaba|hinata-wakaba]] | 2
@@ -229,7 +229,7 @@ mtime: 2026-01-07T21:45:50+08:00
 1. [[exhentai-tag-satori-komeiji|satori-komeiji]] | 2
 1. [[exhentai-tag-seia-yurizono|seia-yurizono]] | 5
 1. [[exhentai-tag-senko|senko]] | 1
-1. [[exhentai-tag-sensei|sensei]] | 52
+1. [[exhentai-tag-sensei|sensei]] | 53
 1. [[exhentai-tag-serena-fuoco-le-brillante-de-la-grazia|serena-fuoco-le-brillante-de-la-grazia]] | 1
 1. [[exhentai-tag-shamare|shamare]] | 1
 1. [[exhentai-tag-shana|shana]] | 2

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-07T21:45:50+08:00
+mtime: 2026-01-12T22:35:33+08:00
 ---
 
 # exhentai-tg-group
@@ -90,6 +90,7 @@ mtime: 2026-01-07T21:45:50+08:00
 1. [[exhentai-tag-hammer-head|hammer-head]] | 2
 1. [[exhentai-tag-happy-lamb-barn|happy-lamb-barn]] | 5
 1. [[exhentai-tag-harmonear|harmonear]] | 1
+1. [[exhentai-tag-haruru-urara|haruru-urara]] | 1
 1. [[exhentai-tag-helldevice|helldevice]] | 3
 1. [[exhentai-tag-himawari-mandiu|himawari-mandiu]] | 1
 1. [[exhentai-tag-himitsukessya-usagi|himitsukessya-usagi]] | 1

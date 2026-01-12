@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-07T21:46:41+08:00
-mtime: 2026-01-07T21:46:41+08:00
+mtime: 2026-01-12T22:37:27+08:00
 ---
 
 # exhentai-tag-kodomo-ginkou
 
-> seealso: 
+> seealso: [[exhentai-tg-group|exhentai-tg-group]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 

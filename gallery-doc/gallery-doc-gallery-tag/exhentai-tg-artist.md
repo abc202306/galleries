@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-07T21:45:50+08:00
+mtime: 2026-01-12T22:35:33+08:00
 ---
 
 # exhentai-tg-artist
@@ -72,6 +72,7 @@ mtime: 2026-01-07T21:45:50+08:00
 1. [[exhentai-tag-cock-robin|cock-robin]] | 1
 1. [[exhentai-tag-comodox|comodox]] | 2
 1. [[exhentai-tag-crumbles|crumbles]] | 2
+1. [[exhentai-tag-crybaby|crybaby]] | 1
 1. [[exhentai-tag-custom-udon|custom-udon]] | 3
 1. [[exhentai-tag-cyocyo-or-cyocyopolice|cyocyo-or-cyocyopolice]] | 1
 1. [[exhentai-tag-daidenjin|daidenjin]] | 1
@@ -481,6 +482,7 @@ mtime: 2026-01-07T21:45:50+08:00
 1. [[exhentai-tag-umi-suzume|umi-suzume]] | 1
 1. [[exhentai-tag-unknownartist|unknownartist]] | 1
 1. [[exhentai-tag-uno-ryoku|uno-ryoku]] | 3
+1. [[exhentai-tag-ura-ra|ura-ra]] | 1
 1. [[exhentai-tag-urin|urin]] | 1
 1. [[exhentai-tag-urotan|urotan]] | 2
 1. [[exhentai-tag-usa-jo|usa-jo]] | 2

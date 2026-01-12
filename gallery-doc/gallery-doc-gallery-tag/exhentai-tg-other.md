@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-07T21:45:49+08:00
+mtime: 2026-01-12T22:35:33+08:00
 ---
 
 # exhentai-tg-other
@@ -17,12 +17,12 @@ mtime: 2026-01-07T21:45:49+08:00
 1. [[exhentai-tag-dakimakura|dakimakura]] | 1
 1. [[exhentai-tag-extraneous-ads|extraneous-ads]] | 5
 1. [[exhentai-tag-full-censorship|full-censorship]] | 9
-1. [[exhentai-tag-full-color|full-color]] | 30
+1. [[exhentai-tag-full-color|full-color]] | 31
 1. [[exhentai-tag-goudoushi|goudoushi]] | 2
 1. [[exhentai-tag-incomplete|incomplete]] | 1
 1. [[exhentai-tag-kodomo-only|kodomo-only]] | 3
 1. [[exhentai-tag-missing-cover|missing-cover]] | 1
-1. [[exhentai-tag-mosaic-censorship|mosaic-censorship]] | 51
+1. [[exhentai-tag-mosaic-censorship|mosaic-censorship]] | 52
 1. [[exhentai-tag-multi-work-series|multi-work-series]] | 24
 1. [[exhentai-tag-no-penetration|no-penetration]] | 3
 1. [[exhentai-tag-non-nude|non-nude]] | 1
@@ -38,6 +38,6 @@ mtime: 2026-01-07T21:45:49+08:00
 1. [[exhentai-tag-story-arc|story-arc]] | 7
 1. [[exhentai-tag-tankoubon|tankoubon]] | 9
 1. [[exhentai-tag-time-stop|time-stop]] | 1
-1. [[exhentai-tag-uncensored|uncensored]] | 31
-1. [[exhentai-tag-variant-set|variant-set]] | 19
+1. [[exhentai-tag-uncensored|uncensored]] | 32
+1. [[exhentai-tag-variant-set|variant-set]] | 20
 1. [[exhentai-tag-western-imageset|western-imageset]] | 3
