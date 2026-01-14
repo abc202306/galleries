@@ -1,0 +1,12 @@
+formulas:
+  imagepropembed: image(cover)
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - formula.imagepropembed
+    sort:
+      - property: ctime
+        direction: DESC
+    image: note.cover

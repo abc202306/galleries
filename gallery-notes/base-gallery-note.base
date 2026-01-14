@@ -13,3 +13,14 @@ views:
         direction: DESC
     image: note.cover
     cardSize: 100
+  - type: cards
+    name: CardsMicro
+    order:
+      - file.name
+      - gallery
+      - url
+    sort:
+      - property: ctime
+        direction: DESC
+    image: note.cover
+    cardSize: 400

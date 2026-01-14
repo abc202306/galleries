@@ -82,6 +82,39 @@ views:
     image: formula.image01
     cardSize: 50
   - type: cards
+    name: cardsmicro
+    order: []
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      formula.image01: -10
+      formula.filetitle: 90
+      note.artist: 63
+      note.group: 65
+      note.english: 67
+      note.japanese: 70
+      note.categories: 187
+      note.url: 50
+      note.parody: 68
+      note.language: 162
+      note.character: 62
+      note.uploader: 60
+      note.uploaded: 63
+      note.pagecount: 44
+      note.female: 73
+      note.male: 64
+      note.mixed: 70
+      note.location: 58
+      note.other: 60
+      note.rating: 52
+      note.favorited: 51
+      note.visible: 38
+      note.filesize: 81
+      note.parent: 108
+    image: formula.image01
+    cardSize: 300
+  - type: cards
     name: created
     order:
       - formula.filetitle
