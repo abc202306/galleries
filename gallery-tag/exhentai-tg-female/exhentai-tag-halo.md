@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:29+08:00
-mtime: 2026-01-12T22:38:21+08:00
+mtime: 2026-01-16T17:15:27+08:00
 ---
 
 # exhentai-tag-halo
@@ -15,6 +15,8 @@ mtime: 2026-01-12T22:38:21+08:00
 
 #### 2026-01
 
+1. `[TrinkeT (からあげ3)] このあと勝ちます (ブルーアーカイブ) [中国翻訳] [DL版]` | [[exhentai-g-3739197-c79205a4c2|exhentai-g-3739197-c79205a4c2]] | 2026-01-15
+	- ![[exhentai-g-3739197-c79205a4c2.webp|200]]
 1. `[HARURU-URARA (うらーら)] も～っと ヒナちゃんと甘々子作りDays (ブルーアーカイブ) [中国翻訳] [DL版]` | [[exhentai-g-3732387-a0634cee61|exhentai-g-3732387-a0634cee61]] | 2026-01-11
 	- ![[exhentai-g-3732387-a0634cee61.webp|200]]
 1. `[Kataokasan] 迟到的阿能生贺漫画 (Arknights) [Chinese]` | [[exhentai-g-3717940-139cf2ee58|exhentai-g-3717940-139cf2ee58]] | 2026-01-02

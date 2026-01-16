@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:32+08:00
-mtime: 2026-01-05T23:53:05+08:00
+mtime: 2026-01-16T17:15:38+08:00
 ---
 
 # exhentai-tag-collar
@@ -15,6 +15,8 @@ mtime: 2026-01-05T23:53:05+08:00
 
 #### 2026-01
 
+1. `[ポッシ the Posse (ポッシ)] 手癖が悪いエルフィンちゃんを窒息セック♡でわからせ (トリックカル) [中国翻訳]` | [[exhentai-g-3737447-83ab1c8cea|exhentai-g-3737447-83ab1c8cea]] | 2026-01-14
+	- ![[exhentai-g-3737447-83ab1c8cea.webp|200]]
 1. `[Kataokasan] 迟到的阿能生贺漫画 (Arknights) [Chinese]` | [[exhentai-g-3717940-139cf2ee58|exhentai-g-3717940-139cf2ee58]] | 2026-01-02
 	- ![[exhentai-g-3717940-139cf2ee58.webp|200]]
 

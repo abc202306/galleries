@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-12T22:35:33+08:00
+mtime: 2026-01-16T17:13:09+08:00
 ---
 
 # exhentai-tg-character
@@ -203,6 +203,7 @@ mtime: 2026-01-12T22:35:33+08:00
 1. [[exhentai-tag-ranko-kanzaki|ranko-kanzaki]] | 1
 1. [[exhentai-tag-reimu-hakurei|reimu-hakurei]] | 2
 1. [[exhentai-tag-rein|rein]] | 4
+1. [[exhentai-tag-reisa-uzawa|reisa-uzawa]] | 1
 1. [[exhentai-tag-reisen-udongein-inaba|reisen-udongein-inaba]] | 1
 1. [[exhentai-tag-remilia-scarlet|remilia-scarlet]] | 5
 1. [[exhentai-tag-rena-kinui|rena-kinui]] | 2

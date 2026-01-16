@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-12T22:35:33+08:00
+mtime: 2026-01-16T17:13:10+08:00
 ---
 
 # exhentai-tg-artist
@@ -185,6 +185,7 @@ mtime: 2026-01-12T22:35:33+08:00
 1. [[exhentai-tag-kannazuki-motofumi|kannazuki-motofumi]] | 1
 1. [[exhentai-tag-kanoe|kanoe]] | 1
 1. [[exhentai-tag-kanroame|kanroame]] | 2
+1. [[exhentai-tag-karaage3|karaage3]] | 1
 1. [[exhentai-tag-karv|karv]] | 1
 1. [[exhentai-tag-kataokasan|kataokasan]] | 1
 1. [[exhentai-tag-kawanishi-yuuji|kawanishi-yuuji]] | 1
@@ -357,7 +358,7 @@ mtime: 2026-01-12T22:35:33+08:00
 1. [[exhentai-tag-ponsuke|ponsuke]] | 3
 1. [[exhentai-tag-poron|poron]] | 1
 1. [[exhentai-tag-poruserin|poruserin]] | 3
-1. [[exhentai-tag-possummachine|possummachine]] | 4
+1. [[exhentai-tag-possummachine|possummachine]] | 5
 1. [[exhentai-tag-pu-en|pu-en]] | 1
 1. [[exhentai-tag-puchiyama|puchiyama]] | 1
 1. [[exhentai-tag-pumo|pumo]] | 1

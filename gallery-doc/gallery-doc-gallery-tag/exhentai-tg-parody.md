@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-12T22:35:24+08:00
+mtime: 2026-01-16T17:13:09+08:00
 ---
 
 # exhentai-tg-parody
@@ -14,7 +14,7 @@ mtime: 2026-01-12T22:35:24+08:00
 1. [[exhentai-tag-arknights|arknights]] | 2
 1. [[exhentai-tag-azur-lane|azur-lane]] | 7
 1. [[exhentai-tag-bakemonogatari|bakemonogatari]] | 1
-1. [[exhentai-tag-blue-archive|blue-archive]] | 97
+1. [[exhentai-tag-blue-archive|blue-archive]] | 98
 1. [[exhentai-tag-bocchi-the-rock|bocchi-the-rock]] | 1
 1. [[exhentai-tag-boruto|boruto]] | 4
 1. [[exhentai-tag-buddy-daddies|buddy-daddies]] | 1
@@ -104,6 +104,7 @@ mtime: 2026-01-12T22:35:24+08:00
 1. [[exhentai-tag-toaru-majutsu-no-index|toaru-majutsu-no-index]] | 1
 1. [[exhentai-tag-toradora|toradora]] | 2
 1. [[exhentai-tag-touhou-project|touhou-project]] | 25
+1. [[exhentai-tag-trickcal-revive|trickcal-revive]] | 1
 1. [[exhentai-tag-violated-heroine|violated-heroine]] | 1
 1. [[exhentai-tag-voiceroid|voiceroid]] | 8
 1. [[exhentai-tag-warioware|warioware]] | 1
