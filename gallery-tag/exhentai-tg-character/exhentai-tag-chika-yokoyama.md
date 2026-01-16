@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:47+08:00
-mtime: 2026-01-05T23:53:52+08:00
+mtime: 2026-01-16T17:54:35+08:00
 ---
 
 # exhentai-tag-chika-yokoyama
@@ -15,5 +15,7 @@ mtime: 2026-01-05T23:53:52+08:00
 
 #### 2025-12
 
-1. `Poruserin decensored & cleaned collection [HQC]` | [[exhentai-g-3675960-faf31bcc0d|exhentai-g-3675960-faf31bcc0d]] | 2025-12-08
+##### 2025-12-08
+
+1. `Poruserin decensored & cleaned collection [HQC]` | [[exhentai-g-3675960-faf31bcc0d|exhentai-g-3675960-faf31bcc0d]]
 	- ![[exhentai-g-3675960-faf31bcc0d.webp|200]]

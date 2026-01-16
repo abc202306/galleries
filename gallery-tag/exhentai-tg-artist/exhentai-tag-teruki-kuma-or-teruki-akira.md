@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:54+08:00
-mtime: 2026-01-05T23:54:08+08:00
+mtime: 2026-01-16T17:55:03+08:00
 ---
 
 # exhentai-tag-teruki-kuma-or-teruki-akira
@@ -15,5 +15,7 @@ mtime: 2026-01-05T23:54:08+08:00
 
 #### 2024-08
 
-1. `(C104) [P.A.Project (てるき熊)] スケベワークス —Skeb-e Works— 06 (よろず)` | [[nhentai-g-527886|nhentai-g-527886]] | 2024-08-31
+##### 2024-08-31
+
+1. `(C104) [P.A.Project (てるき熊)] スケベワークス —Skeb-e Works— 06 (よろず)` | [[nhentai-g-527886|nhentai-g-527886]]
 	- ![[nhentai-g-527886.jpg|200]]

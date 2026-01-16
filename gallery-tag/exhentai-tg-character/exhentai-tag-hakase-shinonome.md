@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:46+08:00
-mtime: 2026-01-05T23:53:49+08:00
+mtime: 2026-01-16T17:54:30+08:00
 ---
 
 # exhentai-tag-hakase-shinonome
@@ -15,5 +15,7 @@ mtime: 2026-01-05T23:53:49+08:00
 
 #### 2025-12
 
-1. `[Artist] Cello20000` | [[exhentai-g-3682162-62e827bd3c|exhentai-g-3682162-62e827bd3c]] | 2025-12-12
+##### 2025-12-12
+
+1. `[Artist] Cello20000` | [[exhentai-g-3682162-62e827bd3c|exhentai-g-3682162-62e827bd3c]]
 	- ![[exhentai-g-3682162-62e827bd3c.webp|200]]

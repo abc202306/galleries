@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:54+08:00
-mtime: 2026-01-05T23:50:26+08:00
+mtime: 2026-01-16T17:52:14+08:00
 ---
 
 # exhentai-tag-screenshots
@@ -15,5 +15,7 @@ mtime: 2026-01-05T23:50:26+08:00
 
 #### 2022-06
 
-1. `LostLife` | [[exhentai-g-2248673-3bb2a907cd|exhentai-g-2248673-3bb2a907cd]] | 2022-06-16
+##### 2022-06-16
+
+1. `LostLife` | [[exhentai-g-2248673-3bb2a907cd|exhentai-g-2248673-3bb2a907cd]]
 	- ![[exhentai-g-2248673-3bb2a907cd.webp|200]]

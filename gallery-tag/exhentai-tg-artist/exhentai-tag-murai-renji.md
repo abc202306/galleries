@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:03+08:00
-mtime: 2026-01-06T17:47:34+08:00
+mtime: 2026-01-16T17:55:30+08:00
 ---
 
 # exhentai-tag-murai-renji
@@ -15,5 +15,7 @@ mtime: 2026-01-06T17:47:34+08:00
 
 #### 2021-12
 
-1. `artist - murai renji` | [[exhentai-g-2094866-66514afca7|exhentai-g-2094866-66514afca7]] | 2021-12-26
+##### 2021-12-26
+
+1. `artist - murai renji` | [[exhentai-g-2094866-66514afca7|exhentai-g-2094866-66514afca7]]
 	- ![[exhentai-g-2094866-66514afca7.webp|200]]

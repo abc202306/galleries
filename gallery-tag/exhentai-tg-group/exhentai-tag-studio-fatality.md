@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:04+08:00
-mtime: 2026-01-05T23:51:37+08:00
+mtime: 2026-01-16T17:53:39+08:00
 ---
 
 # exhentai-tag-studio-fatality
@@ -15,5 +15,7 @@ mtime: 2026-01-05T23:51:37+08:00
 
 #### 2025-08
 
-1. `(C65) [STUDiO FATALITY (やなぎー)] FORBIDDEN FRUIT (シスタープリンセス)` | [[nhentai-g-591692|nhentai-g-591692]] | 2025-08-21
+##### 2025-08-21
+
+1. `(C65) [STUDiO FATALITY (やなぎー)] FORBIDDEN FRUIT (シスタープリンセス)` | [[nhentai-g-591692|nhentai-g-591692]]
 	- ![[nhentai-g-591692.webp|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:56+08:00
-mtime: 2026-01-05T23:54:13+08:00
+mtime: 2026-01-16T17:55:09+08:00
 ---
 
 # exhentai-tag-shinjima-saki-or-masaki-shinji
@@ -15,5 +15,7 @@ mtime: 2026-01-05T23:54:13+08:00
 
 #### 2025-11
 
-1. `コミック Mate legend Vol.66 2025年12月号 [DL版]` | [[nhentai-g-609916|nhentai-g-609916]] | 2025-11-15
+##### 2025-11-15
+
+1. `コミック Mate legend Vol.66 2025年12月号 [DL版]` | [[nhentai-g-609916|nhentai-g-609916]]
 	- ![[nhentai-g-609916.webp|200]]

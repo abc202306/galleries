@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:16+08:00
-mtime: 2026-01-05T23:54:57+08:00
+mtime: 2026-01-16T17:56:05+08:00
 ---
 
 # exhentai-tag-arisu-kazumi
@@ -15,10 +15,14 @@ mtime: 2026-01-05T23:54:57+08:00
 
 #### 2025-12
 
-1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3673326-5d8c116322|exhentai-g-3673326-5d8c116322]] | 2025-12-07
+##### 2025-12-07
+
+1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3673326-5d8c116322|exhentai-g-3673326-5d8c116322]]
 	- ![[exhentai-g-3673326-5d8c116322.webp|200]]
 
 #### 2025-11
 
-1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3631905-9b99716fdf|exhentai-g-3631905-9b99716fdf]] | 2025-11-11
+##### 2025-11-11
+
+1. `Loli Cunnygram + Loli Streams` | [[exhentai-g-3631905-9b99716fdf|exhentai-g-3631905-9b99716fdf]]
 	- ![[exhentai-g-3631905-9b99716fdf.webp|200]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:43+08:00
-mtime: 2026-01-05T23:49:51+08:00
+mtime: 2026-01-16T17:49:47+08:00
 ---
 
 # exhentai-uploader-Lolifinity
@@ -15,5 +15,7 @@ mtime: 2026-01-05T23:49:51+08:00
 
 #### 2025-12
 
-1. `[モチ] 桃香異聞録 (COMIC X-EROS #14) [final個人漢化]` | [[exhentai-g-3682541-c70546babb|exhentai-g-3682541-c70546babb]] | 2025-12-13
+##### 2025-12-13
+
+1. `[モチ] 桃香異聞録 (COMIC X-EROS #14) [final個人漢化]` | [[exhentai-g-3682541-c70546babb|exhentai-g-3682541-c70546babb]]
 	- ![[exhentai-g-3682541-c70546babb.webp|200]]

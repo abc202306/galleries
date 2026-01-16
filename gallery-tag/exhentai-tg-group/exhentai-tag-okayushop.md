@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:06+08:00
-mtime: 2026-01-05T23:51:47+08:00
+mtime: 2026-01-16T17:53:45+08:00
 ---
 
 # exhentai-tag-okayushop
@@ -15,5 +15,7 @@ mtime: 2026-01-05T23:51:47+08:00
 
 #### 2023-01
 
-1. `[Okayushop (Okayu)] 裏SONチャンネル (紫咲シオン) [DL版]` | [[nhentai-g-436048|nhentai-g-436048]] | 2023-01-09
+##### 2023-01-09
+
+1. `[Okayushop (Okayu)] 裏SONチャンネル (紫咲シオン) [DL版]` | [[nhentai-g-436048|nhentai-g-436048]]
 	- ![[nhentai-g-436048.jpg|200]]

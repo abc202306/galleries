@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:47+08:00
-mtime: 2026-01-05T23:50:11+08:00
+mtime: 2026-01-16T17:50:01+08:00
 ---
 
 # exhentai-uploader-Badumpo
@@ -15,7 +15,12 @@ mtime: 2026-01-05T23:50:11+08:00
 
 #### 2023-07
 
-1. `David and Ella 2nd batch` | [[exhentai-g-2616364-16475e46b5|exhentai-g-2616364-16475e46b5]] | 2023-07-21
+##### 2023-07-21
+
+1. `David and Ella 2nd batch` | [[exhentai-g-2616364-16475e46b5|exhentai-g-2616364-16475e46b5]]
 	- ![[exhentai-g-2616364-16475e46b5.webp|200]]
-1. `David and Ella` | [[exhentai-g-2600535-28ca405e7a|exhentai-g-2600535-28ca405e7a]] | 2023-07-05
+
+##### 2023-07-05
+
+1. `David and Ella` | [[exhentai-g-2600535-28ca405e7a|exhentai-g-2600535-28ca405e7a]]
 	- ![[exhentai-g-2600535-28ca405e7a.webp|200]]

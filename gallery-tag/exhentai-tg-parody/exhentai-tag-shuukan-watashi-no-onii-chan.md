@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:49+08:00
-mtime: 2026-01-05T23:50:52+08:00
+mtime: 2026-01-16T17:50:53+08:00
 ---
 
 # exhentai-tag-shuukan-watashi-no-onii-chan
@@ -15,5 +15,7 @@ mtime: 2026-01-05T23:50:52+08:00
 
 #### 2014-06
 
-1. `(C67) FlavorGraphics* (瑞井鹿央)] From Shinyokohama To Akihabara (週刊わたしのおにいちゃん) [英訳]` | [[nhentai-g-48805|nhentai-g-48805]] | 2014-06-28
+##### 2014-06-28
+
+1. `(C67) FlavorGraphics* (瑞井鹿央)] From Shinyokohama To Akihabara (週刊わたしのおにいちゃん) [英訳]` | [[nhentai-g-48805|nhentai-g-48805]]
 	- ![[nhentai-g-48805.jpg|200]]

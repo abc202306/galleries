@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:51+08:00
-mtime: 2026-01-06T17:47:23+08:00
+mtime: 2026-01-16T17:54:51+08:00
 ---
 
 # exhentai-tag-yoyomax
@@ -15,5 +15,7 @@ mtime: 2026-01-06T17:47:23+08:00
 
 #### 2022-01
 
-1. `yoyomax EP-1 Tomomi and doctor` | [[exhentai-g-2114701-eec2ff568d|exhentai-g-2114701-eec2ff568d]] | 2022-01-16
+##### 2022-01-16
+
+1. `yoyomax EP-1 Tomomi and doctor` | [[exhentai-g-2114701-eec2ff568d|exhentai-g-2114701-eec2ff568d]]
 	- ![[exhentai-g-2114701-eec2ff568d.webp|200]]

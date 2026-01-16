@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:07:04+08:00
-mtime: 2026-01-05T23:54:28+08:00
+mtime: 2026-01-16T17:55:34+08:00
 ---
 
 # exhentai-tag-mizui-kaou
@@ -15,5 +15,7 @@ mtime: 2026-01-05T23:54:28+08:00
 
 #### 2014-06
 
-1. `(C67) FlavorGraphics* (瑞井鹿央)] From Shinyokohama To Akihabara (週刊わたしのおにいちゃん) [英訳]` | [[nhentai-g-48805|nhentai-g-48805]] | 2014-06-28
+##### 2014-06-28
+
+1. `(C67) FlavorGraphics* (瑞井鹿央)] From Shinyokohama To Akihabara (週刊わたしのおにいちゃん) [英訳]` | [[nhentai-g-48805|nhentai-g-48805]]
 	- ![[nhentai-g-48805.jpg|200]]

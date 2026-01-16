@@ -401,8 +401,7 @@ class PathUtil {
         const linktext2 = app.metadataCache.fileToLinktext(f2);
         const fc2 = app.metadataCache.getFileCache(f2) || {};
 
-        const dateUploaded = fc2.frontmatter?.uploaded?.substring(0, 10);
-        const postDescription = dateUploaded ? ` | ${dateUploaded}` : "";
+        const postDescription = "";
 
         const display2 = fc2.frontmatter?.japanese || fc2.frontmatter?.english || linktext2;
         const link2 =
@@ -436,20 +435,29 @@ class PathUtil {
 
     getGStrASGroupedList(galleryNotePaths) {
         const gls = [...galleryNotePaths].sort(pathUtil.compareGalleryPathWithPropertyUploaded);
-        const grouped = arrayUtil.groupBy(gls, (gnPath) => stringUtil.getYear(app.vault.getAbstractFileByPath(gnPath)));
-        const parts = grouped
+        const groupedByYear = arrayUtil.groupBy(gls, (gnPath) => stringUtil.getYear(app.vault.getAbstractFileByPath(gnPath)));
+        const parts = groupedByYear
             .sort((a, b) => b[0].localeCompare(a[0]))
-            .flatMap(([key, group]) => {
-                const grouped02 = arrayUtil.groupBy(group, (gnPath) => stringUtil.getMonth(app.vault.getAbstractFileByPath(gnPath)));
-                const parts02 = grouped02
+            .flatMap(([yearKey, yearGroup]) => {
+                const groupedByMonth = arrayUtil.groupBy(yearGroup, (gnPath) => stringUtil.getMonth(app.vault.getAbstractFileByPath(gnPath)));
+                const yearSectionContentParts = groupedByMonth
                     .sort((a, b) => b[0].localeCompare(a[0]))
-                    .flatMap(([key02, group02]) => [
-                        `#### ${key02}`,
-                        group02.map(pathUtil.getGalleryPathRepresentationStr).join("\n")
-                    ]);
+                    .flatMap(([monthKey, monthGroup]) => {
+						const groupedByDay = arrayUtil.groupBy(monthGroup, (gnPath) => stringUtil.getDay(app.vault.getAbstractFileByPath(gnPath)));
+						const daySectionContentParts = groupedByDay
+							.sort((a, b) => b[0].localeCompare(a[0]))
+							.flatMap(([dayKey, dayGroup]) => [
+								`##### ${dayKey}`,
+								dayGroup.map(pathUtil.getGalleryPathRepresentationStr).join("\n")
+							]);
+						return [
+	                        `#### ${monthKey}`,
+	                        ...daySectionContentParts
+	                    ]					
+					});
                 return [
-                    `### ${key}`,
-                    ...parts02
+                    `### ${yearKey}`,
+                    ...yearSectionContentParts
                 ];
             });
         return parts.join("\n\n");
@@ -733,6 +741,10 @@ class StringUtil {
 
     getMonth(galleryNoteFile) {
         return app.metadataCache.getFileCache(galleryNoteFile)?.frontmatter?.uploaded?.slice(0, 7) || "1000-01";
+    }
+
+    getDay(galleryNoteFile) {
+        return app.metadataCache.getFileCache(galleryNoteFile)?.frontmatter?.uploaded?.slice(0, 10) || "1000-01-01";
     }
 }
 
