@@ -153,3 +153,7 @@
 
 !*.gitignore
 !*.gitattributes
+
+# # A Inbox
+
+build-index-content-for-obisidian-note-vault-gallery.js

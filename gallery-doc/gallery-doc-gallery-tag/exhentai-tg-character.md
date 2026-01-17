@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-16T17:13:09+08:00
+mtime: 2026-01-17T16:34:43+08:00
 ---
 
 # exhentai-tg-character
@@ -27,7 +27,7 @@ mtime: 2026-01-16T17:13:09+08:00
 1. [[exhentai-tag-aroma-kurosu|aroma-kurosu]] | 1
 1. [[exhentai-tag-arona|arona]] | 6
 1. [[exhentai-tag-ashley|ashley]] | 1
-1. [[exhentai-tag-asuha-chigusa|asuha-chigusa]] | 1
+1. [[exhentai-tag-asuha-chigusa|asuha-chigusa]] | 2
 1. [[exhentai-tag-asuka-ninomiya|asuka-ninomiya]] | 1
 1. [[exhentai-tag-aya-shameimaru|aya-shameimaru]] | 1
 1. [[exhentai-tag-ayaka-ichijo|ayaka-ichijo]] | 1
@@ -92,7 +92,7 @@ mtime: 2026-01-16T17:13:09+08:00
 1. [[exhentai-tag-hoshino-takanashi|hoshino-takanashi]] | 10
 1. [[exhentai-tag-hotaru-ichijou|hotaru-ichijou]] | 1
 1. [[exhentai-tag-i-401|i-401]] | 1
-1. [[exhentai-tag-ibuki-tanga|ibuki-tanga]] | 18
+1. [[exhentai-tag-ibuki-tanga|ibuki-tanga]] | 19
 1. [[exhentai-tag-illyasviel-von-einzbern|illyasviel-von-einzbern]] | 1
 1. [[exhentai-tag-ino-yamanaka|ino-yamanaka]] | 1
 1. [[exhentai-tag-inori-yuitsuka|inori-yuitsuka]] | 4
@@ -106,7 +106,7 @@ mtime: 2026-01-16T17:13:09+08:00
 1. [[exhentai-tag-kanna-kamui|kanna-kamui]] | 2
 1. [[exhentai-tag-kanoe-itagaki|kanoe-itagaki]] | 1
 1. [[exhentai-tag-kaoru-ryuzaki|kaoru-ryuzaki]] | 5
-1. [[exhentai-tag-kasumi-chigusa|kasumi-chigusa]] | 1
+1. [[exhentai-tag-kasumi-chigusa|kasumi-chigusa]] | 2
 1. [[exhentai-tag-kazuhiko-nukumizu|kazuhiko-nukumizu]] | 3
 1. [[exhentai-tag-kiritan-tohoku|kiritan-tohoku]] | 4
 1. [[exhentai-tag-kisaki-ryuuge|kisaki-ryuuge]] | 5
@@ -148,7 +148,7 @@ mtime: 2026-01-16T17:13:09+08:00
 1. [[exhentai-tag-madoka-kuki|madoka-kuki]] | 1
 1. [[exhentai-tag-mahiro-oyama|mahiro-oyama]] | 7
 1. [[exhentai-tag-mai-fukuyama|mai-fukuyama]] | 1
-1. [[exhentai-tag-maki-konuri|maki-konuri]] | 3
+1. [[exhentai-tag-maki-konuri|maki-konuri]] | 4
 1. [[exhentai-tag-malon|malon]] | 1
 1. [[exhentai-tag-mano-sakuragi|mano-sakuragi]] | 1
 1. [[exhentai-tag-maomao|maomao]] | 1
@@ -230,7 +230,7 @@ mtime: 2026-01-16T17:13:09+08:00
 1. [[exhentai-tag-satori-komeiji|satori-komeiji]] | 2
 1. [[exhentai-tag-seia-yurizono|seia-yurizono]] | 5
 1. [[exhentai-tag-senko|senko]] | 1
-1. [[exhentai-tag-sensei|sensei]] | 53
+1. [[exhentai-tag-sensei|sensei]] | 55
 1. [[exhentai-tag-serena-fuoco-le-brillante-de-la-grazia|serena-fuoco-le-brillante-de-la-grazia]] | 1
 1. [[exhentai-tag-shamare|shamare]] | 1
 1. [[exhentai-tag-shana|shana]] | 2

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-16T17:13:10+08:00
+mtime: 2026-01-17T16:34:43+08:00
 ---
 
 # exhentai-tg-artist
@@ -214,7 +214,7 @@ mtime: 2026-01-16T17:13:10+08:00
 1. [[exhentai-tag-konayama-kata|konayama-kata]] | 1
 1. [[exhentai-tag-konnyaku|konnyaku]] | 2
 1. [[exhentai-tag-kotoba-kun|kotoba-kun]] | 2
-1. [[exhentai-tag-kouji|kouji]] | 4
+1. [[exhentai-tag-kouji|kouji]] | 5
 1. [[exhentai-tag-kouzuki-rio|kouzuki-rio]] | 2
 1. [[exhentai-tag-kso|kso]] | 3
 1. [[exhentai-tag-kujou-danbo|kujou-danbo]] | 1
@@ -402,7 +402,7 @@ mtime: 2026-01-16T17:13:10+08:00
 1. [[exhentai-tag-sc-naru|sc-naru]] | 1
 1. [[exhentai-tag-scarabaeus|scarabaeus]] | 1
 1. [[exhentai-tag-scarfy|scarfy]] | 1
-1. [[exhentai-tag-sekiya-asami|sekiya-asami]] | 2
+1. [[exhentai-tag-sekiya-asami|sekiya-asami]] | 3
 1. [[exhentai-tag-sen|sen]] | 1
 1. [[exhentai-tag-senifu|senifu]] | 2
 1. [[exhentai-tag-serizawa-yuuji|serizawa-yuuji]] | 2

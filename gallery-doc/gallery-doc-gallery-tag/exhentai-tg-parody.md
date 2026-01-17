@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-16T17:13:09+08:00
+mtime: 2026-01-17T16:34:42+08:00
 ---
 
 # exhentai-tg-parody
@@ -14,7 +14,7 @@ mtime: 2026-01-16T17:13:09+08:00
 1. [[exhentai-tag-arknights|arknights]] | 2
 1. [[exhentai-tag-azur-lane|azur-lane]] | 7
 1. [[exhentai-tag-bakemonogatari|bakemonogatari]] | 1
-1. [[exhentai-tag-blue-archive|blue-archive]] | 98
+1. [[exhentai-tag-blue-archive|blue-archive]] | 100
 1. [[exhentai-tag-bocchi-the-rock|bocchi-the-rock]] | 1
 1. [[exhentai-tag-boruto|boruto]] | 4
 1. [[exhentai-tag-buddy-daddies|buddy-daddies]] | 1
@@ -82,7 +82,7 @@ mtime: 2026-01-16T17:13:09+08:00
 1. [[exhentai-tag-pripara|pripara]] | 6
 1. [[exhentai-tag-puella-magi-madoka-magica-side-story-magia-record|puella-magi-madoka-magica-side-story-magia-record]] | 1
 1. [[exhentai-tag-puniru-wa-kawaii-slime|puniru-wa-kawaii-slime]] | 2
-1. [[exhentai-tag-qualidea-code|qualidea-code]] | 1
+1. [[exhentai-tag-qualidea-code|qualidea-code]] | 2
 1. [[exhentai-tag-ryuuou-no-oshigoto|ryuuou-no-oshigoto]] | 3
 1. [[exhentai-tag-seiken-densetsu-3|seiken-densetsu-3]] | 1
 1. [[exhentai-tag-sewayaki-kitsune-no-senko-san|sewayaki-kitsune-no-senko-san]] | 1

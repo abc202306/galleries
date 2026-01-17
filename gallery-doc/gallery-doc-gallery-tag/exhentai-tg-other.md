@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-12T22:35:33+08:00
+mtime: 2026-01-17T16:34:43+08:00
 ---
 
 # exhentai-tg-other
@@ -17,7 +17,7 @@ mtime: 2026-01-12T22:35:33+08:00
 1. [[exhentai-tag-dakimakura|dakimakura]] | 1
 1. [[exhentai-tag-extraneous-ads|extraneous-ads]] | 5
 1. [[exhentai-tag-full-censorship|full-censorship]] | 9
-1. [[exhentai-tag-full-color|full-color]] | 31
+1. [[exhentai-tag-full-color|full-color]] | 32
 1. [[exhentai-tag-goudoushi|goudoushi]] | 2
 1. [[exhentai-tag-incomplete|incomplete]] | 1
 1. [[exhentai-tag-kodomo-only|kodomo-only]] | 3
@@ -29,7 +29,7 @@ mtime: 2026-01-12T22:35:33+08:00
 1. [[exhentai-tag-novel|novel]] | 1
 1. [[exhentai-tag-nudity-only|nudity-only]] | 7
 1. [[exhentai-tag-pixel-art|pixel-art]] | 3
-1. [[exhentai-tag-rough-translation|rough-translation]] | 12
+1. [[exhentai-tag-rough-translation|rough-translation]] | 13
 1. [[exhentai-tag-sample|sample]] | 1
 1. [[exhentai-tag-scanmark|scanmark]] | 3
 1. [[exhentai-tag-screenshots|screenshots]] | 1

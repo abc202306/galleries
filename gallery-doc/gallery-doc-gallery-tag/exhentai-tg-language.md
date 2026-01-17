@@ -1,13 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-16T17:13:09+08:00
+mtime: 2026-01-17T16:34:43+08:00
 ---
 
 # exhentai-tg-language
 
 > seealso: [[gallery-doc-gallery-tag|gallery-doc-gallery-tag]]
 
-1. [[exhentai-tag-chinese|chinese]] | 316
+1. [[exhentai-tag-chinese|chinese]] | 319
 1. [[exhentai-tag-english|english]] | 107
 1. [[exhentai-tag-japanese|japanese]] | 285
 1. [[exhentai-tag-korean|korean]] | 3
@@ -15,4 +15,4 @@ mtime: 2026-01-16T17:13:09+08:00
 1. [[exhentai-tag-spanish|spanish]] | 2
 1. [[exhentai-tag-speechless|speechless]] | 7
 1. [[exhentai-tag-text-cleaned|text-cleaned]] | 2
-1. [[exhentai-tag-translated|translated]] | 404
+1. [[exhentai-tag-translated|translated]] | 406
