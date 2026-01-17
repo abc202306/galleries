@@ -1,11 +1,11 @@
 ---
 ctime: 2025-12-09T10:46:17+08:00
-mtime: 2026-01-16T17:13:08+08:00
+mtime: 2026-01-18T02:04:29+08:00
 ---
 
 # tag
 
-> seealso: undefined
+> seealso: [[gallery-doc|gallery-doc]]
 
 1. [[exhentai-tg-artist|artist]] | 542
 1. [[exhentai-tg-categories|categories]] | 10
