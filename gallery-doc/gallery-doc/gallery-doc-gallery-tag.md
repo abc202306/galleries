@@ -1,18 +1,18 @@
 ---
 ctime: 2025-12-09T10:46:17+08:00
-mtime: 2026-01-18T02:04:29+08:00
+mtime: 2026-01-18T22:18:59+08:00
 ---
 
 # tag
 
 > seealso: [[gallery-doc|gallery-doc]]
 
-1. [[exhentai-tg-artist|artist]] | 542
+1. [[exhentai-tg-artist|artist]] | 544
 1. [[exhentai-tg-categories|categories]] | 10
 1. [[exhentai-tg-character|character]] | 277
 1. [[exhentai-tg-cosplayer|cosplayer]] | 1
 1. [[exhentai-tg-female|female]] | 269
-1. [[exhentai-tg-group|group]] | 260
+1. [[exhentai-tg-group|group]] | 262
 1. [[nhentai-tg-keywords|keywords]] | 316
 1. [[exhentai-tg-language|language]] | 9
 1. [[exhentai-tg-location|location]] | 4

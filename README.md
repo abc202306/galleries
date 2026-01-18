@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2026-01-18T16:13:28+08:00
+mtime: 2026-01-18T22:44:04+08:00
 ---
 
 # README
@@ -38,9 +38,9 @@ mtime: 2026-01-18T16:13:28+08:00
 
 | Folder Path | DFC | DFMC | DFOC |
 | :--- | ---: | ---: | ---: |
-| [[gallery-doc-exhentai-uploader\|exhentai-uploader]] | 172 | 172 | 0 |
-| [[gallery-doc-galleries\|galleries]] | 1426 | 713 | 713 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]] | 612 | 306 | 306 |
+| [[gallery-doc-exhentai-uploader\|exhentai-uploader]] | 173 | 173 | 0 |
+| [[gallery-doc-galleries\|galleries]] | 1432 | 716 | 716 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]] | 614 | 307 | 307 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2012\|2012]] | 2 | 1 | 1 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2014\|2014]] | 2 | 1 | 1 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2015\|2015]] | 4 | 2 | 2 |
@@ -54,22 +54,22 @@ mtime: 2026-01-18T16:13:28+08:00
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2023\|2023]] | 40 | 20 | 20 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2024\|2024]] | 100 | 50 | 50 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2025\|2025]] | 338 | 169 | 169 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2026\|2026]] | 18 | 9 | 9 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]] | 814 | 407 | 407 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-exhentai\|exhentai]]/[[gallery-year-2026\|2026]] | 20 | 10 | 10 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]] | 818 | 409 | 409 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2014\|2014]] | 26 | 13 | 13 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2015\|2015]] | 18 | 9 | 9 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2016\|2016]] | 18 | 9 | 9 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2017\|2017]] | 24 | 12 | 12 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2018\|2018]] | 42 | 21 | 21 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2019\|2019]] | 28 | 14 | 14 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2020\|2020]] | 46 | 23 | 23 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2020\|2020]] | 48 | 24 | 24 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2021\|2021]] | 38 | 19 | 19 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2022\|2022]] | 58 | 29 | 29 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2023\|2023]] | 76 | 38 | 38 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2024\|2024]] | 166 | 83 | 83 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2025\|2025]] | 274 | 137 | 137 |
-| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2026\|2026]] | 0 | 0 | 0 |
-| [[gallery-doc\|gallery-doc]] | 63 | 57 | 6 |
+| [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2026\|2026]] | 2 | 1 | 1 |
+| [[gallery-doc\|gallery-doc]] | 64 | 57 | 7 |
 | [[gallery-doc-property\|gallery-doc-property]] | 33 | 33 | 0 |
 | [[gallery-doc-property\|gallery-doc-property]]/[[propertyns-gallery-basic\|propertyns-gallery-basic]] | 8 | 8 | 0 |
 | [[gallery-doc-property\|gallery-doc-property]]/[[propertyns-gallery-docs\|propertyns-gallery-docs]] | 1 | 1 | 0 |
@@ -78,7 +78,7 @@ mtime: 2026-01-18T16:13:28+08:00
 | [[gallery-doc-templates\|gallery-doc-templates]] | 3 | 3 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[collection\|collection]] | 2 | 2 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc\|gallery-doc]] | 13 | 13 | 0 |
-| [[gallery-doc\|gallery-doc]]/[[gallery-doc-base-file\|gallery-doc-base-file]] | 4 | 0 | 4 |
+| [[gallery-doc\|gallery-doc]]/[[gallery-doc-base-file\|gallery-doc-base-file]] | 5 | 0 | 5 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-canvas\|gallery-doc-canvas]] | 1 | 0 | 1 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-galleries\|gallery-doc-galleries]] | 2 | 2 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-gallery-tag\|gallery-doc-gallery-tag]] | 14 | 14 | 0 |
@@ -87,14 +87,14 @@ mtime: 2026-01-18T16:13:28+08:00
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-property\|gallery-doc-property]] | 4 | 4 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-special-keywords\|gallery-doc-special-keywords]] | 7 | 7 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-year\|gallery-doc-year]] | 14 | 14 | 0 |
-| [[collection-gallery-notes\|gallery-notes]] | 9 | 6 | 3 |
-| [[gallery-doc-gallery-tag\|gallery-tag]] | 1626 | 1626 | 0 |
-| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-artist\|exhentai-tg-artist]] | 542 | 542 | 0 |
+| [[collection-gallery-notes\|gallery-notes]] | 8 | 6 | 2 |
+| [[gallery-doc-gallery-tag\|gallery-tag]] | 1630 | 1630 | 0 |
+| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-artist\|exhentai-tg-artist]] | 544 | 544 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-categories\|exhentai-tg-categories]] | 10 | 10 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-character\|exhentai-tg-character]] | 276 | 276 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-cosplayer\|exhentai-tg-cosplayer]] | 1 | 1 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-female\|exhentai-tg-female]] | 252 | 252 | 0 |
-| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-group\|exhentai-tg-group]] | 256 | 256 | 0 |
+| [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-group\|exhentai-tg-group]] | 258 | 258 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-language\|exhentai-tg-language]] | 9 | 9 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-location\|exhentai-tg-location]] | 4 | 4 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-male\|exhentai-tg-male]] | 54 | 54 | 0 |
@@ -103,7 +103,9 @@ mtime: 2026-01-18T16:13:28+08:00
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-parody\|exhentai-tg-parody]] | 107 | 107 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-temp\|exhentai-tg-temp]] | 1 | 1 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[nhentai-tg-keywords\|nhentai-tg-keywords]] | 74 | 74 | 0 |
-| src | 3 | 0 | 3 |
+| src | 9 | 6 | 3 |
+| src/tsscript20260118021000 | 9 | 6 | 3 |
+| src/tsscript20260118021000/github-copilot-docs-20260118223400-refactor | 6 | 6 | 0 |
 
 ## Views of [[base-gallery.base\|gallery-base.base]]
 
@@ -230,25 +232,25 @@ git lfs pull
 ### Command to Compile
 
 ```powershell
-.\src\compile-tsscript20260118021000.ps1
+.\src\tsscript20260118021000\compile-tsscript20260118021000.ps1
 ```
 
 ### Command to Run
 
 ```js
-class TSScriptRunner {
-	static compiledJSScriptPath = "src/build-index-content-for-obisidian-note-vault-gallery-tsscript20260118021000.js";
+class CompiledJSScriptRunner {
+	static compiledJSScriptPath = "src/tsscript20260118021000/build-index-content-for-obisidian-note-vault-gallery-tsscript20260118021000.js";
 	
 	compiledJSScriptFile;
 	compiledJSScriptFileContent;
 	compiledJSScriptFunc;
 
-	static get() {
-		return new TSScriptRunner();
+	static async aGet() {
+		return await (new CompiledJSScriptRunner()).aInit();
 	}
 
-	async init() {
-		this.compiledJSScriptFile = app.vault.getAbstractFileByPath(TSScriptRunner.compiledJSScriptPath);
+	async aInit() {
+		this.compiledJSScriptFile = app.vault.getAbstractFileByPath(CompiledJSScriptRunner.compiledJSScriptPath);
 		this.compiledJSScriptFileContent = await app.vault.read(this.compiledJSScriptFile);
 
 		this.compiledJSScriptFunc = new Function(this.compiledJSScriptFileContent);
@@ -261,5 +263,7 @@ class TSScriptRunner {
 	}
 }
 
-(await TSScriptRunner.get().init()).run();
+const runner = await CompiledJSScriptRunner.aGet();
+
+runner.run();
 ```

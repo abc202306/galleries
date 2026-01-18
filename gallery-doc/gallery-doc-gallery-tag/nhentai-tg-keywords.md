@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-07T21:45:48+08:00
+mtime: 2026-01-18T18:27:59+08:00
 ---
 
 # nhentai-tg-keywords
@@ -131,7 +131,7 @@ mtime: 2026-01-07T21:45:48+08:00
 1. [[exhentai-tag-gender-morph|gender-morph]] | 2
 1. [[exhentai-tag-ghost|ghost]] | 1
 1. [[exhentai-tag-glasses|glasses]] | 42
-1. [[exhentai-tag-gloves|gloves]] | 15
+1. [[exhentai-tag-gloves|gloves]] | 16
 1. [[exhentai-tag-goblin|goblin]] | 1
 1. [[exhentai-tag-gokkun|gokkun]] | 3
 1. [[exhentai-tag-goudoushi|goudoushi]] | 3
@@ -172,8 +172,8 @@ mtime: 2026-01-07T21:45:48+08:00
 1. [[exhentai-tag-leash|leash]] | 16
 1. [[exhentai-tag-leg-lock|leg-lock]] | 2
 1. [[exhentai-tag-leotard|leotard]] | 1
-1. [[exhentai-tag-lingerie|lingerie]] | 3
-1. [[exhentai-tag-lolicon|lolicon]] | 389
+1. [[exhentai-tag-lingerie|lingerie]] | 4
+1. [[exhentai-tag-lolicon|lolicon]] | 390
 1. [[exhentai-tag-low-lolicon|low-lolicon]] | 1
 1. [[exhentai-tag-low-scat|low-scat]] | 2
 1. [[exhentai-tag-low-shotacon|low-shotacon]] | 3
@@ -265,12 +265,12 @@ mtime: 2026-01-07T21:45:48+08:00
 1. [[exhentai-tag-snuff|snuff]] | 4
 1. [[exhentai-tag-sockjob|sockjob]] | 1
 1. [[exhentai-tag-sole-dickgirl|sole-dickgirl]] | 1
-1. [[exhentai-tag-sole-female|sole-female]] | 200
-1. [[exhentai-tag-sole-male|sole-male]] | 201
+1. [[exhentai-tag-sole-female|sole-female]] | 201
+1. [[exhentai-tag-sole-male|sole-male]] | 202
 1. [[exhentai-tag-solo-action|solo-action]] | 5
 1. [[exhentai-tag-soushuuhen|soushuuhen]] | 2
 1. [[exhentai-tag-squirting|squirting]] | 8
-1. [[exhentai-tag-stockings|stockings]] | 72
+1. [[exhentai-tag-stockings|stockings]] | 73
 1. [[exhentai-tag-stomach-deformation|stomach-deformation]] | 34
 1. [[exhentai-tag-story-arc|story-arc]] | 5
 1. [[exhentai-tag-stretching|stretching]] | 1
@@ -301,7 +301,7 @@ mtime: 2026-01-07T21:45:48+08:00
 1. [[exhentai-tag-tutor|tutor]] | 10
 1. [[exhentai-tag-twins|twins]] | 9
 1. [[exhentai-tag-twintails|twintails]] | 76
-1. [[exhentai-tag-uncensored|uncensored]] | 31
+1. [[exhentai-tag-uncensored|uncensored]] | 32
 1. [[exhentai-tag-unusual-insertions|unusual-insertions]] | 5
 1. [[exhentai-tag-unusual-pupils|unusual-pupils]] | 21
 1. [[exhentai-tag-unusual-teeth|unusual-teeth]] | 1

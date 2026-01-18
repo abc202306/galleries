@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-17T16:34:42+08:00
+mtime: 2026-01-18T22:19:00+08:00
 ---
 
 # exhentai-tg-parody
@@ -75,7 +75,7 @@ mtime: 2026-01-17T16:34:42+08:00
 1. [[exhentai-tag-non-non-biyori|non-non-biyori]] | 1
 1. [[exhentai-tag-ongeki|ongeki]] | 2
 1. [[exhentai-tag-onii-chan-wa-oshimai|onii-chan-wa-oshimai]] | 7
-1. [[exhentai-tag-original|original]] | 203
+1. [[exhentai-tag-original|original]] | 204
 1. [[exhentai-tag-oshi-no-ko|oshi-no-ko]] | 1
 1. [[exhentai-tag-pokemon-or-pocket-monsters|pokemon-or-pocket-monsters]] | 2
 1. [[exhentai-tag-princess-connect|princess-connect]] | 7
@@ -96,7 +96,7 @@ mtime: 2026-01-17T16:34:42+08:00
 1. [[exhentai-tag-takopii-no-genzai|takopii-no-genzai]] | 1
 1. [[exhentai-tag-tales-of-berseria|tales-of-berseria]] | 1
 1. [[exhentai-tag-tantei-opera-milky-holmes|tantei-opera-milky-holmes]] | 1
-1. [[exhentai-tag-the-idolmaster|the-idolmaster]] | 34
+1. [[exhentai-tag-the-idolmaster|the-idolmaster]] | 35
 1. [[exhentai-tag-the-legend-of-zelda|the-legend-of-zelda]] | 1
 1. [[exhentai-tag-the-owl-house|the-owl-house]] | 2
 1. [[exhentai-tag-the-powerpuff-girls|the-powerpuff-girls]] | 2
