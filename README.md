@@ -225,9 +225,9 @@ git lfs pull
 ## Script
 
 - id: [[tsscript20260118021000]]
-- ps: [[compile-tsscript20260118021000.ps1]]
-- ts: [[build-index-content-for-obisidian-note-vault-gallery-tsscript20260118021000.ts]]
-- js: [[build-index-content-for-obisidian-note-vault-gallery-tsscript20260118021000.js]]
+- ps: src/[[tsscript20260118021000]]/[[compile-tsscript20260118021000.ps1]]
+- ts: src/[[tsscript20260118021000]]/[[build-index-content-for-obisidian-note-vault-gallery-tsscript20260118021000.ts]]
+- js: src/[[tsscript20260118021000]]/[[build-index-content-for-obisidian-note-vault-gallery-tsscript20260118021000.js]]
 
 ### Command to Compile
 
