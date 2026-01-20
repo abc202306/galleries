@@ -227,32 +227,11 @@ git lfs pull
 ### command-to-run
 
 ```js
-class CompiledJSScriptRunner {
-	static compiledJSScriptPath = "src/tsscript20260118021000/build-index-content-for-obisidian-note-vault-gallery-tsscript20260118021000.js";
-	
-	compiledJSScriptFile;
-	compiledJSScriptFileContent;
-	compiledJSScriptFunc;
-
-	static async aGet() {
-		return await (new CompiledJSScriptRunner()).aInit();
-	}
-
-	async aInit() {
-		this.compiledJSScriptFile = app.vault.getAbstractFileByPath(CompiledJSScriptRunner.compiledJSScriptPath);
-		this.compiledJSScriptFileContent = await app.vault.read(this.compiledJSScriptFile);
-
-		this.compiledJSScriptFunc = new Function(this.compiledJSScriptFileContent);
-
-		return this;
-	}
-	
-	run() {
-		this.compiledJSScriptFunc();
-	}
-}
-
-const runner = await CompiledJSScriptRunner.aGet();
-
-runner.run();
+app.vault.read(
+	app.vault.getAbstractFileByPath(
+		"src/tsscript20260118021000/build-index-content-for-obisidian-note-vault-gallery-tsscript20260118021000.js"
+	)
+).then(scriptFileContent=>{
+	(new Function(scriptFileContent))()
+})
 ```
