@@ -1170,8 +1170,8 @@ class FileTemplateUtil {
         const newData = stringUtil
             .replaceFrontMatter(fileContent, ctime, mtime)
             .replace(
-                /(?<=\n)## Folder Struct\n[^#]*(?=\n##\s)/,
-                '## Folder Struct\n\n> DFC stands for the total number of descendant files\n\n' +
+                /(?<=\n)## folder-struct\n[^#]*(?=\n##\s)/,
+                '## folder-struct\n\n> DFC stands for the total number of descendant files\n\n' +
                 tableStr +
                 '\n'
             )
@@ -1482,7 +1482,7 @@ class Main {
             ],
             [
                 config.pathFile.uploader,
-                fileTemplateUtil.getUploaderGroupFileContent.bind(fileTemplateUtil)      
+                fileTemplateUtil.getUploaderGroupFileContent.bind(fileTemplateUtil)
             ],
             [
                 config.pathFile.tag,

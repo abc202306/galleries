@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:06:14+08:00
-mtime: 2026-01-16T17:53:55+08:00
+mtime: 2026-01-20T17:09:45+08:00
 ---
 
 # exhentai-tag-happy-lamb-barn
 
-> seealso: [[exhentai-tg-group|exhentai-tg-group]]
+> seealso: [[exhentai-tg-group|exhentai-tg-group]], [[gallery-doc-artist|gallery-doc-artist]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 

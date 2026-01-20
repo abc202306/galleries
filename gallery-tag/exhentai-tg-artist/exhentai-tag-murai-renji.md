@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:07:03+08:00
-mtime: 2026-01-16T17:55:30+08:00
+mtime: 2026-01-20T17:11:37+08:00
 ---
 
 # exhentai-tag-murai-renji
 
-> seealso: [[exhentai-tg-artist|exhentai-tg-artist]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
+> seealso: [[exhentai-tg-artist|exhentai-tg-artist]], [[gallery-doc-artist|gallery-doc-artist]], [[gallery-doc-tracked-tags|gallery-doc-tracked-tags]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
