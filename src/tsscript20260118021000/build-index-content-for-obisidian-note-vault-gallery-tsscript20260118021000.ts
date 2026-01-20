@@ -18,6 +18,8 @@ namespace Constants {
         new RegExp(`(?<=\n)## ${escapeRegExp(keyword)}\n[^]*`)
     export const REGEX_FRONTMATTER_SECTION_REPLACE = (keyword: string) =>
         new RegExp(`(?<=\n)## ${escapeRegExp(keyword)}\n[^]*?(?=\n##\s)`)
+    export const REGEX_PROPERTY_EXTRACTOR = /^(gallery-doc-)?((ex|n)hentai-)?(tg-)?/
+    export const REGEX_FOLDER_STAT_TABLE = /(?<=\n)## folder-struct\n[^#]*(?=\n##\s)/
 
     // Path depth constants
     export const MARKDOWN_FILE_PATH_DEPTH = 3
@@ -194,6 +196,56 @@ class SingletonFactory {
 }
 
 /**
+ * Metadata cache utility for reducing redundant lookups
+ * Caches file caches and file lists during processing stages
+ * Significantly improves performance when accessing metadata repeatedly
+ */
+class MetadataCacheUtil {
+    private fileCache = new Map<string, FileCache>()
+    private markdownFilesCache: VaultFile[] | null = null
+    private allFilesCache: VaultFile[] | null = null
+
+    /**
+     * Gets or caches file metadata
+     */
+    getFileCache(file: VaultFile): FileCache {
+        if (!this.fileCache.has(file.path)) {
+            this.fileCache.set(file.path, app.metadataCache.getFileCache(file) || {})
+        }
+        return this.fileCache.get(file.path)!
+    }
+
+    /**
+     * Gets or caches all markdown files
+     */
+    getMarkdownFiles(): VaultFile[] {
+        if (!this.markdownFilesCache) {
+            this.markdownFilesCache = app.vault.getMarkdownFiles()
+        }
+        return this.markdownFilesCache!!
+    }
+
+    /**
+     * Gets or caches all files
+     */
+    getAllFiles(): VaultFile[] {
+        if (!this.allFilesCache) {
+            this.allFilesCache = app.vault.getFiles()
+        }
+        return this.allFilesCache!!
+    }
+
+    /**
+     * Clears cache to force refresh
+     */
+    clear(): void {
+        this.fileCache.clear()
+        this.markdownFilesCache = null
+        this.allFilesCache = null
+    }
+}
+
+/**
  * Utility for date/time operations
  * Provides consistent date formatting across the application
  */
@@ -287,6 +339,7 @@ class PathUtil {
      * Compares two gallery file paths for sorting by upload date
      * Primary sort: by uploaded date property in descending order (newest first)
      * Secondary sort: alphabetically (for items with same upload date)
+     * Uses cached metadata for performance optimization
      * 
      * @param path1 - First file path to compare
      * @param path2 - Second file path to compare
@@ -295,8 +348,8 @@ class PathUtil {
     comparePathByUploadedDate(path1: string, path2: string): number {
         const f1 = app.vault.getAbstractFileByPath(path1)
         const f2 = app.vault.getAbstractFileByPath(path2)
-        const fc1 = app.metadataCache.getFileCache(f1)
-        const fc2 = app.metadataCache.getFileCache(f2)
+        const fc1 = metadataCacheUtil.getFileCache(f1)
+        const fc2 = metadataCacheUtil.getFileCache(f2)
         const v1 = String(fc1?.frontmatter?.uploaded || '_')
         const v2 = String(fc2?.frontmatter?.uploaded || '_')
         // Sort in descending order (newest items first)
@@ -311,6 +364,7 @@ class PathUtil {
      * Generates a markdown representation string for a gallery file
      * Includes formatted wikilink, Japanese/English title display, and optional cover thumbnail image
      * Returns a numbered list item formatted for markdown output
+     * Uses cached metadata for performance optimization
      * 
      * @param path - Gallery file path
      * @returns Formatted markdown string for the gallery item in list format
@@ -318,7 +372,7 @@ class PathUtil {
     getGalleryItemRepresentationStr(path: string): string {
         const f2 = app.vault.getAbstractFileByPath(path)
         const linktext2 = app.metadataCache.fileToLinktext(f2)
-        const fc2 = app.metadataCache.getFileCache(f2) || {}
+        const fc2 = metadataCacheUtil.getFileCache(f2) || {}
 
         const postDescription = ''
 
@@ -509,6 +563,7 @@ class StringUtil {
     /**
      * Converts a folder path part into a rendered markdown representation
      * Creates wikilinks if the note exists, otherwise returns plain text
+     * Optimized with prefix attempts to reduce lookup operations
      * 
      * @param part - Folder path part to render
      * @returns Rendered markdown string (wikilink or plain text)
@@ -518,13 +573,12 @@ class StringUtil {
         if (file01) {
             return `[[${part}\\|${part}]]`
         }
-        const file02 =
-            app.metadataCache.getFirstLinkpathDest(`gallery-doc-${part}`) ||
-            app.metadataCache.getFirstLinkpathDest(`gallery-url-${part}`) ||
-            app.metadataCache.getFirstLinkpathDest(`gallery-year-${part}`) ||
-            app.metadataCache.getFirstLinkpathDest(`collection-${part}`)
-        if (file02) {
-            return `[[${file02.basename}\\|${part}]]`
+        const prefixes = ['gallery-doc-', 'gallery-url-', 'gallery-year-', 'collection-']
+        for (const prefix of prefixes) {
+            const file = app.metadataCache.getFirstLinkpathDest(`${prefix}${part}`)
+            if (file) {
+                return `[[${file.basename}\\|${part}]]`
+            }
         }
         return `${part}`
     }
@@ -854,6 +908,7 @@ const arrayUtil: ArrayUtil = ArrayUtil.getInstance()
 const pathUtil: PathUtil = PathUtil.getInstance()
 const stringUtil: StringUtil = StringUtil.getInstance()
 const fileProcesserUtil: FileProcesserUtil = FileProcesserUtil.getInstance()
+const metadataCacheUtil: MetadataCacheUtil = SingletonFactory.getInstance('MetadataCacheUtil', () => new MetadataCacheUtil())
 
 /**
  * Unified logging utility
@@ -1071,16 +1126,17 @@ class ContentGenerator {
      * Generates tag group index with value listings
      * Builds a numbered list of all unique values for a specific tag property
      * Shows count of galleries for each value to provide usage metrics
+     * Uses cached metadata for performance optimization
      * 
      * @param title - Tag group title to extract property name from
      * @returns Formatted markdown list of tag values with counts
      */
     private generateTagGroupIndex(title: string): string {
-        const property = title.replace(/^(gallery-doc-)?((ex|n)hentai-)?(tg-)?/, '')
-        const galleryMDFileCaches = app.vault
+        const property = title.replace(Constants.REGEX_PROPERTY_EXTRACTOR, '')
+        const galleryMDFileCaches = metadataCacheUtil
             .getMarkdownFiles()
             .filter((f: any) => f.path.startsWith(config.folders.gallery))
-            .map((f: any) => app.metadataCache.getFileCache(f) || {})
+            .map((f: any) => metadataCacheUtil.getFileCache(f) || {})
 
         const allValues = galleryMDFileCaches.flatMap((fc: any) =>
             arrayUtil.safeArray((fc.frontmatter || {})[property])
@@ -1165,6 +1221,7 @@ class ContentGenerator {
      * Generates README file content with folder structure statistics
      * Creates a comprehensive overview table showing descendant file counts for each folder
      * Table columns: Folder Path | DFC (all files) | DFMC (markdown files) | DFOC (other files)
+     * Uses cached file lists for performance optimization
      * 
      * @param _title - File title (unused, kept for signature consistency)
      * @param ctime - Creation timestamp
@@ -1179,7 +1236,7 @@ class ContentGenerator {
         const file = app.vault.getAbstractFileByPath(config.files.readme)
         const fileContent = await app.vault.read(file)
 
-        const files = app.vault.getFiles()
+        const files = metadataCacheUtil.getAllFiles()
         const folders = app.vault
             .getAllFolders()
             .sort((a: any, b: any) => a.path.localeCompare(b.path))
@@ -1189,7 +1246,7 @@ class ContentGenerator {
         const newData = stringUtil
             .replaceFrontMatter(fileContent, ctime, mtime)
             .replace(
-                /(?<=\n)## folder-struct\n[^#]*(?=\n##\s)/,
+                Constants.REGEX_FOLDER_STAT_TABLE,
                 '## folder-struct\n\n> DFC stands for the total number of descendant files\n\n' +
                 tableStr +
                 '\n'
@@ -1202,6 +1259,7 @@ class ContentGenerator {
      * Generates gallery notes metadata file content
      * Lists all gallery note files organized chronologically (newest first)
      * Creates a master index of all galleries with their metadata and cover images
+     * Uses cached metadata for performance optimization
      * 
      * @param _title - File title (unused, kept for signature consistency)
      * @param ctime - Creation timestamp
@@ -1214,11 +1272,11 @@ class ContentGenerator {
         mtime: string,
     ): Promise<string> {
         const metaFilePath = config.files.galleryNotes
-        const noteFiles = app.vault
+        const noteFiles = metadataCacheUtil
             .getMarkdownFiles()
             .filter((f: any) =>
                 arrayUtil
-                    .safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up)
+                    .safeArray(metadataCacheUtil.getFileCache(f)?.frontmatter?.up)
                     .includes(config.refs.collectionGalleryNotes)
             )
 
@@ -1227,8 +1285,8 @@ class ContentGenerator {
 
         const gls = noteFiles
             .sort((f1: any, f2: any) => {
-                const fc1 = app.metadataCache.getFileCache(f1) || {}
-                const fc2 = app.metadataCache.getFileCache(f2) || {}
+                const fc1 = metadataCacheUtil.getFileCache(f1) || {}
+                const fc2 = metadataCacheUtil.getFileCache(f2) || {}
                 const v1 = fc1.frontmatter?.ctime || '_'
                 const v2 = fc2.frontmatter?.ctime || '_'
                 return v2.localeCompare(v1)
@@ -1289,6 +1347,7 @@ class ContentGenerator {
      * Generates generic gallery items file content (all galleries)
      * Master collection of all gallery items regardless of source site
      * Includes base template reference for dynamic content
+     * Uses cached metadata for performance optimization
      * 
      * @param _title - File title (unused, kept for signature consistency)
      * @param ctime - Creation timestamp
@@ -1300,11 +1359,11 @@ class ContentGenerator {
         ctime: string,
         mtime: string,
     ): Promise<string> {
-        const galleryNoteFiles = app.vault
+        const galleryNoteFiles = metadataCacheUtil
             .getMarkdownFiles()
             .filter((f: any) =>
                 arrayUtil
-                    .safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up)
+                    .safeArray(metadataCacheUtil.getFileCache(f)?.frontmatter?.up)
                     .includes(config.refs.collectionGallery)
             )
         const preFMBlock = `\nup:\n  - "${config.refs.docsCollection}"\nbases:\n  - "${config.refs.baseGallery}"`
@@ -1322,6 +1381,7 @@ class ContentGenerator {
      * Generates eXHentai-specific gallery file content
      * Lists only gallery items that have eXHentai URLs in their metadata
      * Provides a filtered view of galleries from the eXHentai source site
+     * Uses cached metadata for performance optimization
      * 
      * @param _title - File title (unused, kept for signature consistency)
      * @param ctime - Creation timestamp
@@ -1333,15 +1393,15 @@ class ContentGenerator {
         ctime: string,
         mtime: string,
     ): Promise<string> {
-        const galleryNoteFiles = app.vault
+        const galleryNoteFiles = metadataCacheUtil
             .getMarkdownFiles()
             .filter((f: any) =>
                 arrayUtil
-                    .safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up)
+                    .safeArray(metadataCacheUtil.getFileCache(f)?.frontmatter?.up)
                     .includes(config.refs.collectionGallery)
             )
             .filter((f: any) =>
-                (app.metadataCache.getFileCache(f)?.frontmatter?.url || '').includes(
+                (metadataCacheUtil.getFileCache(f)?.frontmatter?.url || '').includes(
                     config.keywords.exhentai
                 )
             )
@@ -1358,6 +1418,7 @@ class ContentGenerator {
      * Generates nHentai-specific gallery file content
      * Lists only gallery items that have nHentai URLs in their metadata
      * Provides a filtered view of galleries from the nHentai source site
+     * Uses cached metadata for performance optimization
      * 
      * @param _title - File title (unused, kept for signature consistency)
      * @param ctime - Creation timestamp
@@ -1369,15 +1430,15 @@ class ContentGenerator {
         ctime: string,
         mtime: string,
     ): Promise<string> {
-        const galleryNoteFiles = app.vault
+        const galleryNoteFiles = metadataCacheUtil
             .getMarkdownFiles()
             .filter((f: any) =>
                 arrayUtil
-                    .safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up)
+                    .safeArray(metadataCacheUtil.getFileCache(f)?.frontmatter?.up)
                     .includes(config.refs.collectionGallery)
             )
             .filter((f: any) =>
-                (app.metadataCache.getFileCache(f)?.frontmatter?.url || '').includes(
+                (metadataCacheUtil.getFileCache(f)?.frontmatter?.url || '').includes(
                     config.keywords.nhentai
                 )
             )
@@ -1624,36 +1685,35 @@ class Main {
     }
 
     /**
-     * Processes all configured single files sequentially
-     * Each file is processed with its dedicated content generator and logged independently
+     * Processes all configured single files in parallel
+     * Each file is processed with its dedicated content generator
+     * Parallelization improves performance for I/O-bound operations
      */
     private static async processSingleFiles(): Promise<void> {
         const specs = Main.getSingleFileSpecs()
-        for (const [path, fn] of specs) {
-            await Main.processSingleFile(path, fn)
-        }
+        await Promise.all(specs.map(([path, fn]) => Main.processSingleFile(path, fn)))
     }
 
     /**
-     * Processes all configured directories sequentially
+     * Processes all configured directories in parallel
      * Each directory is processed with its dedicated content generator for all matching files
+     * Parallelization significantly improves performance for large vault structures
      */
     private static async processDirectories(): Promise<void> {
         const specs = Main.getDirectorySpecs()
-        for (const [rootDirPath, fn] of specs) {
-            await Main.processDirectory(rootDirPath, fn)
-        }
+        await Promise.all(specs.map(([rootDirPath, fn]) => Main.processDirectory(rootDirPath, fn)))
     }
 
     /**
      * Stage 1: Refresh cache
      * Ensures metadata cache is current before processing begins
-     * Forces Obsidian to reparse all file metadata
+     * Forces Obsidian to reparse all file metadata and clears internal caches
      */
     private static async stageRefreshCache(): Promise<void> {
-        await Main.timedAsyncOperation('Stage 1: Refresh metadata cache', () =>
-            Promise.resolve(fileProcesserUtil.refreshCache())
-        )
+        await Main.timedAsyncOperation('Stage 1: Refresh metadata cache', () => {
+            metadataCacheUtil.clear()
+            return Promise.resolve(fileProcesserUtil.refreshCache())
+        })
     }
 
     /**
