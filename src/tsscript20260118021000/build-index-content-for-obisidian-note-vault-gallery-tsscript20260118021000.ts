@@ -214,21 +214,34 @@ class Config {
 const config = new Config()
 
 /**
+ * Generic singleton factory for creating and managing single instances
+ * Reduces boilerplate code for singleton pattern implementation
+ */
+class SingletonFactory {
+    private static readonly instances = new Map<string, any>()
+
+    static getInstance<T>(key: string, factory: () => T): T {
+        if (!this.instances.has(key)) {
+            this.instances.set(key, factory())
+        }
+        return this.instances.get(key)
+    }
+}
+
+/**
  * Utility for date/time operations
  * Provides consistent date formatting across the application
  */
 class DateUtil {
-    private static readonly _singleInstance: DateUtil = new DateUtil()
+    private static readonly instance = SingletonFactory.getInstance('DateUtil', () => new DateUtil())
 
-    static getSingleInstance(): DateUtil {
-        return DateUtil._singleInstance
+    static getInstance(): DateUtil {
+        return this.instance
     }
 
     /**
      * Returns current date in ISO format with timezone information
      * Example: 2026-01-18T15:30:45+08:00
-     * 
-     * @returns ISO formatted date string with timezone
      */
     getLocalISOStringWithTimezone(): string {
         const date = new Date()
@@ -256,17 +269,14 @@ class DateUtil {
  * Provides common array manipulation functions
  */
 class ArrayUtil {
-    private static readonly _singleInstance: ArrayUtil = new ArrayUtil()
+    private static readonly instance = SingletonFactory.getInstance('ArrayUtil', () => new ArrayUtil())
 
-    static getSingleInstance(): ArrayUtil {
-        return ArrayUtil._singleInstance
+    static getInstance(): ArrayUtil {
+        return this.instance
     }
 
     /**
      * Removes duplicate entries from an array while preserving order
-     * 
-     * @param arr - Array to deduplicate
-     * @returns New array with unique elements only
      */
     uniqueArray<T>(arr: T[]): T[] {
         return Array.from(new Set(arr))
@@ -274,10 +284,6 @@ class ArrayUtil {
 
     /**
      * Groups array elements by a key function
-     * 
-     * @param array - Array to group
-     * @param keyFn - Function that determines the grouping key for each element
-     * @returns Array of [key, elements] tuples
      */
     groupBy<T, K>(array: T[], keyFn: (item: T) => K): Array<[K, T[]]> {
         const map = new Map<K, T[]>()
@@ -293,9 +299,6 @@ class ArrayUtil {
     /**
      * Safely converts a value to an array
      * Handles undefined, null, and already-array values
-     * 
-     * @param v - Value to convert
-     * @returns Array containing the value(s), or empty array if value is falsy
      */
     safeArray<T>(v: T | T[] | undefined | null): T[] {
         if (!v) return []
@@ -308,10 +311,10 @@ class ArrayUtil {
  * Handles path comparisons, gallery representations, and nested list generation
  */
 class PathUtil {
-    private static readonly _singleInstance: PathUtil = new PathUtil()
+    private static readonly instance = SingletonFactory.getInstance('PathUtil', () => new PathUtil())
 
-    static getSingleInstance(): PathUtil {
-        return PathUtil._singleInstance
+    static getInstance(): PathUtil {
+        return this.instance
     }
 
     /**
@@ -322,7 +325,7 @@ class PathUtil {
      * @param path2 - Second file path
      * @returns Negative if path1 < path2, positive if path1 > path2, 0 if equal
      */
-    compareGalleryPathWithPropertyUploaded(path1: string, path2: string): number {
+    comparePathWithPropertyUploaded(path1: string, path2: string): number {
         const f1 = app.vault.getAbstractFileByPath(path1)
         const f2 = app.vault.getAbstractFileByPath(path2)
         const fc1 = app.metadataCache.getFileCache(f1)
@@ -403,49 +406,44 @@ class PathUtil {
      */
     getGStrASList(galleryNotePaths: Set<string>): string {
         const gls = [...galleryNotePaths].sort(
-            this.compareGalleryPathWithPropertyUploaded.bind(this)
+            this.comparePathWithPropertyUploaded.bind(this)
         )
         return gls.map(p => this.getGalleryPathRepresentationStr(p)).join('\n')
     }
 
     /**
      * Generates a hierarchical grouped list of gallery items organized by year/month/day
-     * 
-     * @param galleryNotePaths - Set of gallery file paths
-     * @returns Formatted markdown hierarchical list
      */
     getGStrASGroupedList(galleryNotePaths: Set<string>): string {
         const gls = [...galleryNotePaths].sort(
-            this.compareGalleryPathWithPropertyUploaded.bind(this)
+            this.comparePathWithPropertyUploaded.bind(this)
         )
         const groupedByYear = arrayUtil.groupBy(gls, gnPath =>
             stringUtil.getYear(app.vault.getAbstractFileByPath(gnPath))
         )
         const parts: string[] = groupedByYear
             .sort((a, b) => b[0].localeCompare(a[0]))
-            .flatMap(([yearKey, yearGroup]) => this._buildYearSection(yearKey, yearGroup))
+            .flatMap(([yearKey, yearGroup]) => this.buildYearSection(yearKey, yearGroup))
         return parts.join('\n\n')
     }
 
     /**
      * Builds a year section for grouped lists
-     * @private
      */
-    private _buildYearSection(yearKey: string, yearGroup: string[]): string[] {
+    private buildYearSection(yearKey: string, yearGroup: string[]): string[] {
         const groupedByMonth = arrayUtil.groupBy(yearGroup, gnPath =>
             stringUtil.getMonth(app.vault.getAbstractFileByPath(gnPath))
         )
         const yearSectionContentParts: string[] = groupedByMonth
             .sort((a, b) => b[0].localeCompare(a[0]))
-            .flatMap(([monthKey, monthGroup]) => this._buildMonthSection(monthKey, monthGroup))
+            .flatMap(([monthKey, monthGroup]) => this.buildMonthSection(monthKey, monthGroup))
         return [`### ${yearKey}`, ...yearSectionContentParts] as string[]
     }
 
     /**
      * Builds a month section for grouped lists
-     * @private
      */
-    private _buildMonthSection(monthKey: string, monthGroup: string[]): string[] {
+    private buildMonthSection(monthKey: string, monthGroup: string[]): string[] {
         const groupedByDay = arrayUtil.groupBy(monthGroup, gnPath =>
             stringUtil.getDay(app.vault.getAbstractFileByPath(gnPath))
         )
@@ -462,9 +460,6 @@ class PathUtil {
 
     /**
      * Generates the final gallery string (delegates to grouping logic)
-     * 
-     * @param galleryNotePaths - Set of gallery file paths
-     * @returns Formatted gallery string
      */
     getGStr(galleryNotePaths: Set<string>): string {
         return this.getGStrASGroupedList(galleryNotePaths)
@@ -476,10 +471,10 @@ class PathUtil {
  * Handles wikilink parsing, file naming, and metadata extraction
  */
 class StringUtil {
-    private static readonly _singleInstance: StringUtil = new StringUtil()
+    private static readonly instance = SingletonFactory.getInstance('StringUtil', () => new StringUtil())
 
-    static getSingleInstance(): StringUtil {
-        return StringUtil._singleInstance
+    static getInstance(): StringUtil {
+        return this.instance
     }
 
     /**
@@ -646,11 +641,10 @@ class StringUtil {
  * Orchestrates file content generation, updates, and batch operations
  */
 class FileProcesserUtil {
-    private static readonly _singleInstance: FileProcesserUtil =
-        new FileProcesserUtil()
+    private static readonly instance = SingletonFactory.getInstance('FileProcesserUtil', () => new FileProcesserUtil())
 
-    static getSingleInstance(): FileProcesserUtil {
-        return FileProcesserUtil._singleInstance
+    static getInstance(): FileProcesserUtil {
+        return this.instance
     }
 
     /**
@@ -866,12 +860,11 @@ class FileProcesserUtil {
     }
 }
 
-const dateUtil: DateUtil = DateUtil.getSingleInstance()
-const arrayUtil: ArrayUtil = ArrayUtil.getSingleInstance()
-const pathUtil: PathUtil = PathUtil.getSingleInstance()
-const stringUtil: StringUtil = StringUtil.getSingleInstance()
-const fileProcesserUtil: FileProcesserUtil =
-    FileProcesserUtil.getSingleInstance()
+const dateUtil: DateUtil = DateUtil.getInstance()
+const arrayUtil: ArrayUtil = ArrayUtil.getInstance()
+const pathUtil: PathUtil = PathUtil.getInstance()
+const stringUtil: StringUtil = StringUtil.getInstance()
+const fileProcesserUtil: FileProcesserUtil = FileProcesserUtil.getInstance()
 
 /**
  * Unified logging utility
@@ -912,61 +905,86 @@ class Logger {
  * Generates content for various file types based on vault metadata
  */
 class FileTemplateUtil {
-    private static readonly _singleInstance: FileTemplateUtil =
-        new FileTemplateUtil()
+    private static readonly instance = SingletonFactory.getInstance('FileTemplateUtil', () => new FileTemplateUtil())
 
-    static getSingleInstance(): FileTemplateUtil {
-        return FileTemplateUtil._singleInstance
+    static getInstance(): FileTemplateUtil {
+        return this.instance
     }
 
     /**
-     * Gets gallery tag file content
-     * Includes backlinks, gallery items, and base template reference
-     * 
-     * @param title - File title
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @returns Generated file content
+     * Generates a standard frontmatter header and content
      */
-    getTagFileContent(
+    private generateStandardContent(
         title: string,
         ctime: string,
         mtime: string,
-        _seealso?: string
+        contentBody: string,
+        preFMBlock: string = ''
+    ): string {
+        return `---${preFMBlock}\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n${contentBody}`
+    }
+
+    /**
+     * Generates content with backlink section and gallery items
+     */
+    private generateContentWithBacklinksAndGallery(
+        title: string,
+        ctime: string,
+        mtime: string,
+        backlinksFilter: (path: string) => boolean,
+        galleryFilter: (path: string) => boolean,
+        additionalContent: string = '',
     ): string {
         const f = app.metadataCache.getFirstLinkpathDest(title)
         const backlinks = app.metadataCache.getBacklinksForFile(f)?.data
         const paths = backlinks ? [...backlinks.keys()] : []
 
-        const ngstr = pathUtil.getNGStr(
-            new Set(
-                paths
-                    .filter(i => !i.startsWith(config.pathFolder.gallery))
-                    .filter(i => i !== config.pathFile.readme)
-            )
-        )
-        const gstr = pathUtil.getGStr(
-            new Set(paths.filter(i => i.startsWith(config.pathFolder.gallery)))
-        )
+        const ngstr = pathUtil.getNGStr(new Set(paths.filter(backlinksFilter)))
+        const gstr = pathUtil.getGStr(new Set(paths.filter(galleryFilter)))
 
-        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.baseGalleryDynamic}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`
+        const seealsoSection = ngstr ? `> seealso: ${ngstr}\n\n` : ''
+        const gallerySection = (gstr?.length === 0) ? "" : `## ${config.keywords.galleryItems}\n\n${gstr}\n`;
+
+        const contentBody = `${seealsoSection}${additionalContent}${gallerySection}`
+        return this.generateStandardContent(title, ctime, mtime, contentBody)
+    }
+
+    /**
+     * Gets tag file content
+     * Includes backlinks, gallery items, and base template reference
+     */
+    async getTagFileContent(
+        title: string,
+        ctime: string,
+        mtime: string,
+    ): Promise<string> {
+        const baseTemplate = `!${config.ref.baseGalleryDynamic}\n\n`
+        return this.generateContentWithBacklinksAndGallery(
+            title,
+            ctime,
+            mtime,
+            i => !i.startsWith(config.pathFolder.gallery) && i !== config.pathFile.readme,
+            i => i.startsWith(config.pathFolder.gallery),
+            baseTemplate
+        )
     }
 
     /**
      * Gets year-based file content
      * Filters gallery items by year from the file title
-     * 
-     * @param title - File title (format: gallery-year-YYYY)
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @returns Generated file content
      */
-    getYearFileContent(
+    async getYearFileContent(
         title: string,
         ctime: string,
         mtime: string,
-        _seealso?: string
-    ): string {
+    ): Promise<string> {
+        const year = title.replace(/^gallery-year-/, '')
+        const galleryNotePaths = app.vault
+            .getMarkdownFiles()
+            .filter((f: any) => f.path.startsWith(config.pathFolder.gallery))
+            .filter((f: any) => stringUtil.getYear(f) === year)
+            .map((f: any) => f.path)
+
         const f = app.metadataCache.getFirstLinkpathDest(title)
         const backlinks = app.metadataCache.getBacklinksForFile(f)?.data
         const paths = backlinks ? [...backlinks.keys()] : []
@@ -979,36 +997,10 @@ class FileTemplateUtil {
             )
         )
 
-        const year = title.replace(/^gallery-year-/, '')
-
-        const galleryNotePaths = app.vault
-            .getMarkdownFiles()
-            .filter((f: any) => f.path.startsWith(config.pathFolder.gallery))
-            .filter((f: any) => stringUtil.getYear(f) === year)
-            .map((f: any) => f.path)
         const gstr = pathUtil.getGStr(new Set(galleryNotePaths))
+        const seealsoSection = ngstr ? `> seealso: ${ngstr}\n\n` : ''
 
-        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n## ${config.keywords.galleryItems}\n\n${gstr}\n`
-    }
-
-    /**
-     * Gets group file content with tag group MOC
-     * 
-     * @param title - File title
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @param seealso - See also reference
-     * @returns Generated file content
-     */
-    private getGroupFileContent(
-        title: string,
-        ctime: string,
-        mtime: string,
-        seealso: string
-    ): string {
-        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${seealso}\n\n${this._getTagGroupMOC(
-            title
-        )}\n`
+        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n${seealsoSection}## ${config.keywords.galleryItems}\n\n${gstr}\n`
     }
 
     /**
@@ -1020,12 +1012,11 @@ class FileTemplateUtil {
      * @param mtime - Modification time
      * @returns Generated file content
      */
-    getTagMetaFileContent(
+    async getTagMetaFileContent(
         _title: string,
         ctime: string,
         mtime: string,
-        _seealso?: string
-    ): string {
+    ): Promise<string> {
         const {
             docs,
             galleryTagGroupArtist,
@@ -1070,66 +1061,86 @@ class FileTemplateUtil {
 
     /**
      * Gets tag group file content
-     * 
-     * @param title - File title
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @returns Generated file content
      */
-    getTagGroupFileContent(
+    async getTagGroupFileContent(
         title: string,
         ctime: string,
         mtime: string,
-        _seealso?: string
-    ): string {
-        return this.getGroupFileContent(title, ctime, mtime, config.ref.docsTag)
+    ): Promise<string> {
+        return this.generateGroupFileContent(title, ctime, mtime, config.ref.docsTag)
     }
 
     /**
      * Gets uploader group file content
-     * 
-     * @param title - File title
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @returns Generated file content
      */
-    getUploaderGroupFileContent(
+    async getUploaderGroupFileContent(
         title: string,
         ctime: string,
         mtime: string,
-        _seealso?: string
+    ): Promise<string> {
+        return this.generateGroupFileContent(title, ctime, mtime, config.ref.docsMeta)
+    }
+
+    /**
+     * Generates group file content with tag group MOC
+     */
+    private generateGroupFileContent(
+        title: string,
+        ctime: string,
+        mtime: string,
+        seealso: string
     ): string {
-        return this.getGroupFileContent(title, ctime, mtime, config.ref.docsMeta)
+        const body = `> seealso: ${seealso}\n\n${this.generateTagGroupMOC(title)}\n`
+        return this.generateStandardContent(title, ctime, mtime, body)
+    }
+
+    /**
+     * Builds tag group index of values and their counts
+     */
+    private generateTagGroupMOC(title: string): string {
+        const property = title.replace(/^(gallery-doc-)?((ex|n)hentai-)?(tg-)?/, '')
+        const galleryMDFileCaches = app.vault
+            .getMarkdownFiles()
+            .filter((f: any) => f.path.startsWith(config.pathFolder.gallery))
+            .map((f: any) => app.metadataCache.getFileCache(f) || {})
+
+        const allValues = galleryMDFileCaches.flatMap((fc: any) =>
+            arrayUtil.safeArray((fc.frontmatter || {})[property])
+        )
+        const uniqueValues = arrayUtil.uniqueArray(allValues).filter((v: any) => v)
+
+        return uniqueValues
+            .sort((a: any, b: any) =>
+                stringUtil.toFileName(a).localeCompare(stringUtil.toFileName(b))
+            )
+            .map(
+                (v: any) =>
+                    `1. ${v} | ${galleryMDFileCaches.filter((fc: any) =>
+                        arrayUtil.safeArray((fc.frontmatter || {})[property]).includes(v)
+                    ).length
+                    }`
+            )
+            .join('\n')
     }
 
     /**
      * Gets property file content
      * Includes base property dynamic reference
-     * 
-     * @param title - File title
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @returns Generated file content
      */
-    getPropertyFileContent(
+    async getPropertyFileContent(
         title: string,
         ctime: string,
         mtime: string,
-        _seealso?: string
-    ): string {
-        const f = app.metadataCache.getFirstLinkpathDest(title)
-        const backlinks = app.metadataCache.getBacklinksForFile(f)?.data
-        const paths = backlinks ? [...backlinks.keys()] : []
-
-        const ngstr = pathUtil.getNGStr(
-            new Set(
-                paths
-                    .filter(i => !i.startsWith(config.pathFolder.gallery))
-                    .filter(i => i !== config.pathFile.readme)
-            )
+    ): Promise<string> {
+        const baseTemplate = `!${config.ref.basePropertyDynamic}\n`
+        return this.generateContentWithBacklinksAndGallery(
+            title,
+            ctime,
+            mtime,
+            i => !i.startsWith(config.pathFolder.gallery) && i !== config.pathFile.readme,
+            i => false,
+            baseTemplate
         )
-
-        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n> seealso: ${ngstr}\n\n!${config.ref.basePropertyDynamic}\n`
     }
 
     /**
@@ -1145,7 +1156,6 @@ class FileTemplateUtil {
         _title: string,
         ctime: string,
         mtime: string,
-        _seealso?: string
     ): Promise<string> {
         const file = app.vault.getAbstractFileByPath(config.pathFile.readme)
         const fileContent = await app.vault.read(file)
@@ -1155,7 +1165,7 @@ class FileTemplateUtil {
             .getAllFolders()
             .sort((a: any, b: any) => a.path.localeCompare(b.path))
 
-        const tableStr = this._generateFolderStatisticsTable(folders, files)
+        const tableStr = this.generateFolderStatisticsTable(folders, files)
 
         const newData = stringUtil
             .replaceFrontMatter(fileContent, ctime, mtime)
@@ -1182,7 +1192,6 @@ class FileTemplateUtil {
         _title: string,
         ctime: string,
         mtime: string,
-        _seealso?: string
     ): Promise<string> {
         const metaFilePath = config.pathFile.galleryNotes
         const noteFiles = app.vault
@@ -1224,19 +1233,12 @@ class FileTemplateUtil {
     /**
      * Gets gallery meta file content
      * Lists all gallery items with base template reference
-     * 
-     * @param title - File title
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @returns Generated content
      */
     async getSpecGalleryMetaFileContent(
         _title: string,
         ctime: string,
         mtime: string,
-        _seealso?: string
     ): Promise<string> {
-        const metaFilePath = config.pathFile.gallery
         const galleryNoteFiles = app.vault
             .getMarkdownFiles()
             .filter((f: any) =>
@@ -1245,11 +1247,11 @@ class FileTemplateUtil {
                     .includes(config.ref.collectionGallery)
             )
         const preFMBlock = `\nup:\n  - "${config.ref.docsCollection}"\nbases:\n  - "${config.ref.baseGallery}"`
-        return await this._getGalleryMetaFileContentWithSpecPath(
+        return await this.generateGalleryMetaFileContent(
             _title,
             ctime,
             mtime,
-            metaFilePath,
+            config.pathFile.gallery,
             galleryNoteFiles,
             preFMBlock
         )
@@ -1258,19 +1260,12 @@ class FileTemplateUtil {
     /**
      * Gets eXHentai-specific gallery meta file content
      * Lists only gallery items with eXHentai URLs
-     * 
-     * @param title - File title
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @returns Generated content
      */
     async getSpecEXHentaiGalleryMetaFileContent(
         _title: string,
         ctime: string,
         mtime: string,
-        _seealso?: string
     ): Promise<string> {
-        const metaFilePath = config.pathFile.exhentai
         const galleryNoteFiles = app.vault
             .getMarkdownFiles()
             .filter((f: any) =>
@@ -1283,11 +1278,11 @@ class FileTemplateUtil {
                     config.keywords.exhentai
                 )
             )
-        return await this._getGalleryMetaFileContentWithSpecPath(
+        return await this.generateGalleryMetaFileContent(
             _title,
             ctime,
             mtime,
-            metaFilePath,
+            config.pathFile.exhentai,
             galleryNoteFiles
         )
     }
@@ -1295,19 +1290,12 @@ class FileTemplateUtil {
     /**
      * Gets nHentai-specific gallery meta file content
      * Lists only gallery items with nHentai URLs
-     * 
-     * @param title - File title
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @returns Generated content
      */
     async getSpecNHentaiGalleryMetaFileContent(
         _title: string,
         ctime: string,
         mtime: string,
-        _seealso?: string
     ): Promise<string> {
-        const metaFilePath = config.pathFile.nhentai
         const galleryNoteFiles = app.vault
             .getMarkdownFiles()
             .filter((f: any) =>
@@ -1320,20 +1308,45 @@ class FileTemplateUtil {
                     config.keywords.nhentai
                 )
             )
-        return await this._getGalleryMetaFileContentWithSpecPath(
+        return await this.generateGalleryMetaFileContent(
             _title,
             ctime,
             mtime,
-            metaFilePath,
+            config.pathFile.nhentai,
             galleryNoteFiles
         )
     }
 
     /**
-     * Generates a folder statistics table
-     * @private
+     * Gets gallery meta file content for a specific path
+     * Internal helper used by spec gallery content generators
      */
-    private _generateFolderStatisticsTable(folders: any[], files: any[]): string {
+    private async generateGalleryMetaFileContent(
+        _title: string,
+        ctime: string,
+        mtime: string,
+        metaFilePath: string,
+        galleryNoteFiles: any[],
+        preFMBlock: string = ''
+    ): Promise<string> {
+        const file = app.vault.getAbstractFileByPath(metaFilePath)
+        const fileContent = await app.vault.read(file)
+        const gstr = pathUtil.getGStr(new Set(galleryNoteFiles.map(f => f.path)))
+
+        const newData = stringUtil
+            .replaceFrontMatter(fileContent, ctime, mtime, preFMBlock)
+            .replace(
+                Constants.REGEX_FRONTMATTER_SECTION(config.keywords.galleryItems),
+                `## ${config.keywords.galleryItems}\n\n${gstr}\n`
+            )
+
+        return newData
+    }
+
+    /**
+     * Generates a folder statistics table
+     */
+    private generateFolderStatisticsTable(folders: any[], files: any[]): string {
         return `| Folder Path | DFC | DFMC | DFOC |\n| :--- | ---: | ---: | ---: |\n${folders
             .map(
                 (folder: any) =>
@@ -1356,66 +1369,9 @@ class FileTemplateUtil {
             .join('\n')}`
     }
 
-    /**
-     * Builds tag group index of values and their counts
-     * @private
-     */
-    private _getTagGroupMOC(title: string): string {
-        const property = title.replace(/^(gallery-doc-)?((ex|n)hentai-)?(tg-)?/, '')
-        const galleryMDFileCaches = app.vault
-            .getMarkdownFiles()
-            .filter((f: any) => f.path.startsWith(config.pathFolder.gallery))
-            .map((f: any) => app.metadataCache.getFileCache(f) || {})
-
-        const allValues = galleryMDFileCaches.flatMap((fc: any) =>
-            arrayUtil.safeArray((fc.frontmatter || {})[property])
-        )
-        const uniqueValues = arrayUtil.uniqueArray(allValues).filter((v: any) => v)
-
-        return uniqueValues
-            .sort((a: any, b: any) =>
-                stringUtil.toFileName(a).localeCompare(stringUtil.toFileName(b))
-            )
-            .map(
-                (v: any) =>
-                    `1. ${v} | ${galleryMDFileCaches.filter((fc: any) =>
-                        arrayUtil.safeArray((fc.frontmatter || {})[property]).includes(v)
-                    ).length
-                    }`
-            )
-            .join('\n')
-    }
-
-    /**
-     * Gets gallery meta file content for a specific path
-     * Internal helper used by spec gallery content generators
-     * @private
-     */
-    private async _getGalleryMetaFileContentWithSpecPath(
-        _title: string,
-        ctime: string,
-        mtime: string,
-        metaFilePath: string,
-        galleryNoteFiles: any[],
-        preFMBlock: string = ''
-    ): Promise<string> {
-        const file = app.vault.getAbstractFileByPath(metaFilePath)
-        const fileContent = await app.vault.read(file)
-
-        const gstr = pathUtil.getGStr(new Set(galleryNoteFiles.map(f => f.path)))
-
-        const newData = stringUtil
-            .replaceFrontMatter(fileContent, ctime, mtime, preFMBlock)
-            .replace(
-                Constants.REGEX_FRONTMATTER_SECTION(config.keywords.galleryItems),
-                `## ${config.keywords.galleryItems}\n\n${gstr}\n`
-            )
-
-        return newData
-    }
 }
 
-const fileTemplateUtil: FileTemplateUtil = FileTemplateUtil.getSingleInstance()
+const fileTemplateUtil: FileTemplateUtil = FileTemplateUtil.getInstance()
 
 /**
  * Main orchestrator for the gallery index building process
@@ -1435,98 +1391,102 @@ class Main {
     }
 
     /**
-     * Processes a single file with a specified generator function
-     * Includes timing and logging
-     * 
-     * @param path - File path to process
-     * @param fn - Generator function for this file type
+     * Executes a timed operation with logging
      */
-    private static async processSingleFileSpec(
-        path: string,
-        fn: FileContentGenerator
-    ): Promise<void> {
+    private static timedOperation(
+        operationName: string,
+        operation: () => void
+    ): void {
         try {
-            const timerName = `${Constants.LOG_PREFIX_TIMER}${fn.name}-${path}`
+            const timerName = `${Constants.LOG_PREFIX_TIMER}${operationName}`
             console.time(timerName)
-            Main.logger.log(`${Constants.LOG_PREFIX_STARTED} ${fn.name} ${path}`)
-            await fileProcesserUtil.getProcessFilePromise(path, fn)
-            Main.logger.log(`${Constants.LOG_PREFIX_ENDED} ${fn.name} ${path}`)
+            Main.logger.log(`${Constants.LOG_PREFIX_STARTED} ${operationName}`)
+            operation()
+            Main.logger.log(`${Constants.LOG_PREFIX_ENDED} ${operationName}`)
             console.timeEnd(timerName)
         } catch (e) {
-            Main.logger.error(`error processing ${path}`, e)
+            Main.logger.error(`error in ${operationName}`, e)
         }
     }
 
     /**
-     * Processes all files in a directory with a specified generator function
-     * Includes timing and logging
-     * 
-     * @param rootDirPath - Directory path to process
-     * @param fn - Generator function for this file type
+     * Executes an async timed operation with logging
      */
-    private static async processDirectorySpec(
+    private static async timedAsyncOperation(
+        operationName: string,
+        operation: () => Promise<void>
+    ): Promise<void> {
+        try {
+            const timerName = `${Constants.LOG_PREFIX_TIMER}${operationName}`
+            console.time(timerName)
+            Main.logger.log(`${Constants.LOG_PREFIX_STARTED} ${operationName}`)
+            await operation()
+            Main.logger.log(`${Constants.LOG_PREFIX_ENDED} ${operationName}`)
+            console.timeEnd(timerName)
+        } catch (e) {
+            Main.logger.error(`error in ${operationName}`, e)
+        }
+    }
+
+    /**
+     * Processes a single file with a specified generator function
+     */
+    private static async processSingleFile(
+        path: string,
+        fn: FileContentGenerator
+    ): Promise<void> {
+        const operationName = `${fn.name.replace(/^bound /g, "bound-")}-${path}`
+        await Main.timedAsyncOperation(operationName, () =>
+            fileProcesserUtil.getProcessFilePromise(path, fn)
+        )
+    }
+
+    /**
+     * Processes all files in a directory with a specified generator function
+     */
+    private static async processDirectory(
         rootDirPath: string,
         fn: FileContentGenerator
     ): Promise<void> {
-        try {
-            const timerName = `${Constants.LOG_PREFIX_TIMER}${fn.name}-${rootDirPath}`
-            console.time(timerName)
-            Main.logger.log(`${Constants.LOG_PREFIX_STARTED} ${fn.name} ${rootDirPath}`)
+        const operationName = `${fn.name.replace(/^bound /g, "bound-")}-${rootDirPath}`
+        await Main.timedAsyncOperation(operationName, async () => {
             await Promise.all(
                 app.vault
                     .getMarkdownFiles()
                     .filter((f: any) => f.path.startsWith(rootDirPath))
                     .map(fileProcesserUtil.processFileWith(fn))
             )
-            Main.logger.log(`${Constants.LOG_PREFIX_ENDED} ${fn.name} ${rootDirPath}`)
-            console.timeEnd(timerName)
-        } catch (e) {
-            Main.logger.error(`error processing dir ${rootDirPath}`, e)
-        }
+        })
     }
 
     /**
-     * Removes duplicated values from array-type frontmatter properties
-     * Includes timing and logging
+     * Cleans up frontmatter properties
      */
     private static clearFrontmatter(): void {
-        try {
-            const timerName =
-                'timer-removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles'
-            console.time(timerName)
-            const operationName = fileProcesserUtil
-                .removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles
-                .name
-            Main.logger.log(`${Constants.LOG_PREFIX_STARTED} ${operationName}`)
-            fileProcesserUtil.removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles()
-            Main.logger.log(`${Constants.LOG_PREFIX_ENDED} ${operationName}`)
-            console.timeEnd(timerName)
-        } catch (e) {
-            Main.logger.error('error removing duplicates', e)
-        }
+        Main.timedOperation(
+            'removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles',
+            () => {
+                fileProcesserUtil.removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles()
+            }
+        )
     }
 
     /**
-     * Queues all single-file processing tasks
-     * Single-file generators process specific files (README, metadata files, etc.)
-     * 
-     * @param tasks - Task queue to populate
+     * Builds configuration for single-file processing tasks
      */
-    private static pushTasksWithSingleFileSpec(tasks: Promise<any>[]): void {
-        const singleFileSpecs: Array<[string, FileContentGenerator]> = [
+    private static getSingleFileSpecs(): Array<[string, FileContentGenerator]> {
+        return [
             [
                 config.pathFile.readme,
                 fileTemplateUtil.getReadmeFileContent.bind(fileTemplateUtil)
             ],
             [
                 config.pathFile.uploader,
-                async (title: string, ctime: string, mtime: string) =>
-                    fileTemplateUtil.getUploaderGroupFileContent(title, ctime, mtime)
+                fileTemplateUtil.getUploaderGroupFileContent.bind(fileTemplateUtil)      
             ],
             [
                 config.pathFile.tag,
-                async (title: string, ctime: string, mtime: string) =>
-                    fileTemplateUtil.getTagMetaFileContent(title, ctime, mtime)
+                fileTemplateUtil.getTagMetaFileContent.bind(fileTemplateUtil)
             ],
             [
                 config.pathFile.galleryNotes,
@@ -1538,114 +1498,139 @@ class Main {
             ],
             [
                 config.pathFile.exhentai,
-                fileTemplateUtil.getSpecEXHentaiGalleryMetaFileContent.bind(
-                    fileTemplateUtil
-                )
+                fileTemplateUtil.getSpecEXHentaiGalleryMetaFileContent.bind(fileTemplateUtil)
             ],
             [
                 config.pathFile.nhentai,
-                fileTemplateUtil.getSpecNHentaiGalleryMetaFileContent.bind(
-                    fileTemplateUtil
-                )
+                fileTemplateUtil.getSpecNHentaiGalleryMetaFileContent.bind(fileTemplateUtil)
             ]
         ]
+    }
 
-        for (const [path, fn] of singleFileSpecs) {
-            tasks.push(Main.processSingleFileSpec(path, fn))
+    /**
+     * Builds configuration for directory-scoped processing tasks
+     */
+    private static getDirectorySpecs(): Array<[string, FileContentGenerator]> {
+        return [
+            [
+                config.pathFolder.docsTag,
+                fileTemplateUtil.getTagGroupFileContent.bind(fileTemplateUtil)
+            ],
+            [
+                config.pathFolder.docsYear,
+                fileTemplateUtil.getYearFileContent.bind(fileTemplateUtil)
+            ],
+            [
+                config.pathFolder.property,
+                fileTemplateUtil.getPropertyFileContent.bind(fileTemplateUtil)
+            ],
+            [
+                config.pathFolder.uploader,
+                fileTemplateUtil.getTagFileContent.bind(fileTemplateUtil)
+            ],
+            [
+                config.pathFolder.tag,
+                fileTemplateUtil.getTagFileContent.bind(fileTemplateUtil)
+            ]
+        ]
+    }
+
+    /**
+     * Processes all single files sequentially
+     */
+    private static async processSingleFiles(): Promise<void> {
+        const specs = Main.getSingleFileSpecs()
+        for (const [path, fn] of specs) {
+            await Main.processSingleFile(path, fn)
         }
     }
 
     /**
-     * Queues all directory-scoped processing tasks
-     * Directory generators process all files within specified directories
-     * 
-     * @param tasks - Task queue to populate
+     * Processes all directories sequentially
      */
-    private static pushTasksWithDirectorySpec(tasks: Promise<any>[]): void {
-        const dirSpecs: Array<[string, FileContentGenerator]> = [
-            [
-                config.pathFolder.docsTag,
-                async (title: string, ctime: string, mtime: string) =>
-                    fileTemplateUtil.getTagGroupFileContent(title, ctime, mtime)
-            ],
-            [
-                config.pathFolder.docsYear,
-                async (title: string, ctime: string, mtime: string) =>
-                    fileTemplateUtil.getYearFileContent(title, ctime, mtime)
-            ],
-            [
-                config.pathFolder.property,
-                async (title: string, ctime: string, mtime: string) =>
-                    fileTemplateUtil.getPropertyFileContent(title, ctime, mtime)
-            ],
-            [
-                config.pathFolder.uploader,
-                async (title: string, ctime: string, mtime: string) =>
-                    fileTemplateUtil.getTagFileContent(title, ctime, mtime)
-            ],
-            [
-                config.pathFolder.tag,
-                async (title: string, ctime: string, mtime: string) =>
-                    fileTemplateUtil.getTagFileContent(title, ctime, mtime)
-            ]
-        ]
-
-        for (const [rootDirPath, fn] of dirSpecs) {
-            tasks.push(Main.processDirectorySpec(rootDirPath, fn))
+    private static async processDirectories(): Promise<void> {
+        const specs = Main.getDirectorySpecs()
+        for (const [rootDirPath, fn] of specs) {
+            await Main.processDirectory(rootDirPath, fn)
         }
+    }
+
+    /**
+     * Execution stage: Prepare - refresh metadata cache
+     */
+    private static async stageRefreshCache(): Promise<void> {
+        await Main.timedAsyncOperation('refreshCache', () =>
+            Promise.resolve(fileProcesserUtil.refreshCache())
+        )
+    }
+
+    /**
+     * Execution stage: File creation and batch operations
+     */
+    private static async stageBatchOperations(): Promise<void> {
+        await Main.timedAsyncOperation('batchOperations', async () => {
+            await Promise.all([
+                Promise.resolve(
+                    fileProcesserUtil.createFilesFromUnresolvedLinksForAllGalleryNoteFiles()
+                ),
+                Promise.resolve(
+                    fileProcesserUtil.batchMoveGalleryNoteFilesByYearUploaded()
+                ),
+                Promise.resolve(fileProcesserUtil.standardizeGalleryNoteCoverFileName())
+            ])
+        })
+    }
+
+    /**
+     * Execution stage: Process single files
+     */
+    private static async stageSingleFileProcessing(): Promise<void> {
+        await Main.timedAsyncOperation('singleFileProcessing', () =>
+            Main.processSingleFiles()
+        )
+    }
+
+    /**
+     * Execution stage: Process directory files
+     */
+    private static async stageDirectoryProcessing(): Promise<void> {
+        await Main.timedAsyncOperation('directoryProcessing', () =>
+            Main.processDirectories()
+        )
+    }
+
+    /**
+     * Execution stage: Cleanup
+     */
+    private static stageCleanup(): void {
+        Main.clearFrontmatter()
     }
 
     /**
      * Main async orchestration method
-     * Executes all processing stages in order:
-     * 1. Cache refresh
-     * 2. File creation and batch operations
-     * 3. Single-file processing
-     * 4. Directory-scoped processing
-     * 5. Frontmatter cleanup
+     * Executes all processing stages in order
      */
     static async asyncMain(): Promise<void> {
         console.time('run_script')
         Main.logger.log(`${Constants.LOG_STARTED_SCRIPT} (time="${new Date()}")`)
 
-        const tasks: Promise<any>[] = []
-
-        // Stage 1: Preparatory - refresh metadata cache
-        tasks.push(Promise.resolve(fileProcesserUtil.refreshCache()))
-        await Promise.all(tasks)
+        // Stage 1: Cache refresh
+        await Main.stageRefreshCache()
 
         // Stage 2: File creation and batch operations
-        tasks.length = 0
-        tasks.push(
-            Promise.resolve(
-                fileProcesserUtil.createFilesFromUnresolvedLinksForAllGalleryNoteFiles()
-            )
-        )
-        tasks.push(
-            Promise.resolve(
-                fileProcesserUtil.batchMoveGalleryNoteFilesByYearUploaded()
-            )
-        )
-        tasks.push(
-            Promise.resolve(fileProcesserUtil.standardizeGalleryNoteCoverFileName())
-        )
-        await Promise.all(tasks)
+        await Main.stageBatchOperations()
 
         // Stage 3: Single-file processing
-        tasks.length = 0
-        Main.pushTasksWithSingleFileSpec(tasks)
-        await Promise.all(tasks)
+        await Main.stageSingleFileProcessing()
 
         // Stage 4: Cache refresh before directory processing
-        tasks.length = 0
-        tasks.push(Promise.resolve(fileProcesserUtil.refreshCache()))
-        await Promise.all(tasks)
+        await Main.stageRefreshCache()
 
-        // Stage 5: Directory-scoped processing and cleanup
-        tasks.length = 0
-        Main.pushTasksWithDirectorySpec(tasks)
-        tasks.push(Promise.resolve(Main.clearFrontmatter()))
-        await Promise.all(tasks)
+        // Stage 5: Directory processing
+        await Main.stageDirectoryProcessing()
+
+        // Stage 6: Cleanup
+        Main.stageCleanup()
 
         Main.logger.log(`${Constants.LOG_ENDED_SCRIPT} (time="${new Date()}")`)
         console.timeEnd('run_script')

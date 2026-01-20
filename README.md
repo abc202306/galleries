@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2026-01-18T22:44:04+08:00
+mtime: 2026-01-20T14:26:43+08:00
 ---
 
 # README
@@ -69,7 +69,7 @@ mtime: 2026-01-18T22:44:04+08:00
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2024\|2024]] | 166 | 83 | 83 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2025\|2025]] | 274 | 137 | 137 |
 | [[gallery-doc-galleries\|galleries]]/[[gallery-url-nhentai\|nhentai]]/[[gallery-year-2026\|2026]] | 2 | 1 | 1 |
-| [[gallery-doc\|gallery-doc]] | 64 | 57 | 7 |
+| [[gallery-doc\|gallery-doc]] | 65 | 58 | 7 |
 | [[gallery-doc-property\|gallery-doc-property]] | 33 | 33 | 0 |
 | [[gallery-doc-property\|gallery-doc-property]]/[[propertyns-gallery-basic\|propertyns-gallery-basic]] | 8 | 8 | 0 |
 | [[gallery-doc-property\|gallery-doc-property]]/[[propertyns-gallery-docs\|propertyns-gallery-docs]] | 1 | 1 | 0 |
@@ -77,7 +77,7 @@ mtime: 2026-01-18T22:44:04+08:00
 | [[gallery-doc-property\|gallery-doc-property]]/[[propertyns-gallery-notes\|propertyns-gallery-notes]] | 1 | 1 | 0 |
 | [[gallery-doc-templates\|gallery-doc-templates]] | 3 | 3 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[collection\|collection]] | 2 | 2 | 0 |
-| [[gallery-doc\|gallery-doc]]/[[gallery-doc\|gallery-doc]] | 13 | 13 | 0 |
+| [[gallery-doc\|gallery-doc]]/[[gallery-doc\|gallery-doc]] | 14 | 14 | 0 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-base-file\|gallery-doc-base-file]] | 5 | 0 | 5 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-canvas\|gallery-doc-canvas]] | 1 | 0 | 1 |
 | [[gallery-doc\|gallery-doc]]/[[gallery-doc-galleries\|gallery-doc-galleries]] | 2 | 2 | 0 |
@@ -103,9 +103,10 @@ mtime: 2026-01-18T22:44:04+08:00
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-parody\|exhentai-tg-parody]] | 107 | 107 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[exhentai-tg-temp\|exhentai-tg-temp]] | 1 | 1 | 0 |
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[nhentai-tg-keywords\|nhentai-tg-keywords]] | 74 | 74 | 0 |
-| src | 9 | 6 | 3 |
-| src/tsscript20260118021000 | 9 | 6 | 3 |
+| src | 18 | 15 | 3 |
+| src/tsscript20260118021000 | 18 | 15 | 3 |
 | src/tsscript20260118021000/github-copilot-docs-20260118223400-refactor | 6 | 6 | 0 |
+| src/tsscript20260118021000/github-copilot-docs-20260120142100-refactor | 9 | 9 | 0 |
 
 ## Views of [[base-gallery.base\|gallery-base.base]]
 
