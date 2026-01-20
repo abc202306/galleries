@@ -1,6 +1,6 @@
 ---
 ctime: 2025-12-17T20:55:15+08:00
-mtime: 2026-01-20T19:31:11+08:00
+mtime: 2026-01-20T19:40:11+08:00
 ---
 
 # README
@@ -115,9 +115,10 @@ An Obsidian Note Vault for storing gallery notes, and also for storing digests f
 | [[gallery-doc-gallery-tag\|gallery-tag]]/[[nhentai-tg-keywords\|nhentai-tg-keywords]] | 74 | 74 | 0 |
 | src | 20 | 17 | 3 |
 | src/[[tsscript20260118021000\|tsscript20260118021000]] | 20 | 17 | 3 |
-| src/[[tsscript20260118021000\|tsscript20260118021000]]/github-copilot-docs-20260118223400-refactor | 6 | 6 | 0 |
-| src/[[tsscript20260118021000\|tsscript20260118021000]]/github-copilot-docs-20260120142100-refactor | 9 | 9 | 0 |
-| src/[[tsscript20260118021000\|tsscript20260118021000]]/github-copilot-docs-20260120193000-refactor | 1 | 1 | 0 |
+| src/[[tsscript20260118021000\|tsscript20260118021000]]/github-copilot-docs | 16 | 16 | 0 |
+| src/[[tsscript20260118021000\|tsscript20260118021000]]/github-copilot-docs/github-copilot-docs-20260118223400-refactor | 6 | 6 | 0 |
+| src/[[tsscript20260118021000\|tsscript20260118021000]]/github-copilot-docs/github-copilot-docs-20260120142100-refactor | 9 | 9 | 0 |
+| src/[[tsscript20260118021000\|tsscript20260118021000]]/github-copilot-docs/github-copilot-docs-20260120193000-refactor | 1 | 1 | 0 |
 
 ## views-of-base-gallery-base
 
@@ -195,30 +196,6 @@ An Obsidian Note Vault for storing gallery notes, and also for storing digests f
 > 	- FILE | [[tag-file|file]]
 > - symbol-tag
 > 	- GROUPED | [[tag-grouped|grouped]]
-
-
-| FOLDER                                       | FILE                                                                                                                             | SYMBOL-TYPE | SYMBOL-TAG |
-| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------- |
-| `/`                                          | `"README.md"`                                                                                                                    | [[tag-file\|file]]       |            |
-| `/exhentai-uploader/`                        | `/^exhentai-uploader-(?<uploaderName>.+)\.md/`                                                                                   | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/galleries/exhentai/`                       | `/^(?<yearUploaded>\d{4})\/exhentai-g-(?<exhentaiGalleryID>\d+)-(?<exhentaiGalleryToken>.+)\.(?<extension>md\|png\|jpg\|webp)$/` | [[tag-regexp-prefix\|regexp-prefix]]     | [[tag-grouped\|grouped]]  |
-| `/galleries/nhentai/`                        | `/^(?<yearUploaded>\d{4})\/nehentai-g-(?<nhentaiGalleryID>\d+)\.(?<extension>md\|png\|jpg\|webp)$/`                              | [[tag-regexp-prefix\|regexp-prefix]]     | [[tag-grouped\|grouped]]  |
-| `/gallery-doc-property/`                     | `/^(?<propertyNameSpaceName>.+)\/property-(?<propertyName>.+)\.md$/`                                                             | [[tag-regexp-prefix\|regexp-prefix]]     | [[tag-grouped\|grouped]]  |
-| `/gallery-doc-templates/`                    | `/^template-(?<templateName>.+)\.md$/`                                                                                           | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-doc/collection/`                   | `/^collection-(?<collectionName>gallery-.+)\.md$/`                                                                               | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-doc/gallery-doc-base-file/`        | `/^base-(?<baseItemName>.+)\.base$/`                                                                                             | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-doc/gallery-doc-canvas/`           | `/^canvas-(?<canvasName>.+)\.canvas$/`                                                                                           | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-doc/gallery-doc-galleries/`        | `/^gallery-url-(?<galleryUrlTypeName>.+)\.md$/`                                                                                  | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-doc/gallery-doc-image-file/`       | `/^image-(?<imageName>.+)\.png$/`                                                                                                | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-doc/gallery-doc-notation/`         | `/^notation-(?<notationName>.+)\.md$/`                                                                                           | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-doc/gallery-doc-property/`         | `/^propertyns-(?<propertyNameSpaceName>.+)\.md$/`                                                                                | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-doc/gallery-doc-special-keywords/` | `/^(?<fileBaseName>.+)\.md$/`                                                                                                    | [[tag-regexp-none\|regexp-none]]       |            |
-| `/gallery-doc/gallery-doc-year/`             | `/^gallery-year-(?<year>\d{4})\.md$/`                                                                                            | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-doc/gallery-doc/`                  | `/^gallery-doc-(?<galleryDocName>.+)\.md$/`                                                                                      | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-doc/gallery-tag/`                  | `/^(ex\|n)hentai-tg-(?<tagNameSpaceName>.+)\.md$/`                                                                               | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-notes/`                            | `/gallery-note-(?<date>\d{4}-\d{2}-\d{2})\s(?<noteTitle>.*)^\.md$/`                                                              | [[tag-regexp-prefix\|regexp-prefix]]     |            |
-| `/gallery-notes/`                            | `"base-galley-note.base"`                                                                                                        | [[tag-file\|file]]       |            |
-| `/gallery-tag/`                              | `/^(ex\|n)hentai-tg-(?<tagNameSpaceName>.+)\/exhentai-tag-(?<exhentaiTagName>.+)\.md$/`                                          | [[tag-regexp-prefix\|regexp-prefix]]     | [[tag-grouped\|grouped]]  |
 
 ## how-to-use
 
