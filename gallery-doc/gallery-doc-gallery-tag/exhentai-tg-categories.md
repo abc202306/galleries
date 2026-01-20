@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-18T22:19:00+08:00
+mtime: 2026-01-20T22:01:45+08:00
 ---
 
 # exhentai-tg-categories
@@ -9,9 +9,9 @@ mtime: 2026-01-18T22:19:00+08:00
 
 1. [[exhentai-tag-artist-cg|artist-cg]] | 35
 1. [[exhentai-tag-cosplay|cosplay]] | 1
-1. [[exhentai-tag-doujinshi|doujinshi]] | 487
+1. [[exhentai-tag-doujinshi|doujinshi]] | 488
 1. [[exhentai-tag-game-cg|game-cg]] | 8
-1. [[exhentai-tag-image-set|image-set]] | 37
+1. [[exhentai-tag-image-set|image-set]] | 39
 1. [[exhentai-tag-manga|manga]] | 119
 1. [[exhentai-tag-misc|misc]] | 23
 1. [[exhentai-tag-non-h|non-h]] | 4

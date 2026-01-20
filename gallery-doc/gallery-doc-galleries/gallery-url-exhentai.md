@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-18T22:18:59+08:00
+mtime: 2026-01-20T22:01:43+08:00
 ---
 
 # exhentai
@@ -509,6 +509,11 @@ mtime: 2026-01-18T22:18:59+08:00
 
 #### 2025-07
 
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
+
 ##### 2025-07-08
 
 1. `[砂漠] 真夜中の夜子さん [中国翻訳] [無修正] [DL版]` | [[exhentai-g-3433419-0fd273c1ea|exhentai-g-3433419-0fd273c1ea]]
@@ -872,6 +877,8 @@ mtime: 2026-01-18T22:18:59+08:00
 
 1. `[とらのえのまきもの (トラノエ)] らぁらのごめんね (プリパラ) [DL版]` | [[exhentai-g-2783545-be490c6872|exhentai-g-2783545-be490c6872]]
 	- ![[exhentai-g-2783545-be490c6872.webp|200]]
+1. `PIXIV プシュケーLo(942719) 2023作品合集` | [[exhentai-g-2783114-7bac1c2cfe|exhentai-g-2783114-7bac1c2cfe]]
+	- ![[exhentai-g-2783114-7bac1c2cfe.webp|200]]
 
 ##### 2023-12-12
 
@@ -947,6 +954,11 @@ mtime: 2026-01-18T22:18:59+08:00
 
 1. `David and Ella 2nd batch` | [[exhentai-g-2616364-16475e46b5|exhentai-g-2616364-16475e46b5]]
 	- ![[exhentai-g-2616364-16475e46b5.webp|200]]
+
+##### 2023-07-09
+
+1. `[正経同人 (As109)] CITY no.109 ティア編 [英訳]` | [[exhentai-g-2604767-7466c9940b|exhentai-g-2604767-7466c9940b]]
+	- ![[exhentai-g-2604767-7466c9940b.webp|200]]
 
 ##### 2023-07-05
 

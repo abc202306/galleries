@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:50+08:00
-mtime: 2026-01-16T17:51:58+08:00
+mtime: 2026-01-20T21:46:07+08:00
 ---
 
 # exhentai-tag-my-hero-academia-or-boku-no-hero-academia
@@ -31,3 +31,10 @@ mtime: 2026-01-16T17:51:58+08:00
 
 1. `[Artist] らす` | [[exhentai-g-3649819-3ce65fba06|exhentai-g-3649819-3ce65fba06]]
 	- ![[exhentai-g-3649819-3ce65fba06.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]

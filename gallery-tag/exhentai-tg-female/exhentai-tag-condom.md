@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:32+08:00
-mtime: 2026-01-16T17:53:26+08:00
+mtime: 2026-01-20T21:47:01+08:00
 ---
 
 # exhentai-tag-condom
@@ -31,6 +31,13 @@ mtime: 2026-01-16T17:53:26+08:00
 
 1. `[こんにゃく] 葵ちゃんと秘密の生活指導 1-9 [日本語] [進行中]` | [[exhentai-g-3650841-b141016bab|exhentai-g-3650841-b141016bab]]
 	- ![[exhentai-g-3650841-b141016bab.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 #### 2025-06
 

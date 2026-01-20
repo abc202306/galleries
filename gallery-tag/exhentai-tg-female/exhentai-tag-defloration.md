@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:31+08:00
-mtime: 2026-01-16T17:53:22+08:00
+mtime: 2026-01-20T21:47:00+08:00
 ---
 
 # exhentai-tag-defloration
@@ -82,6 +82,13 @@ mtime: 2026-01-16T17:53:22+08:00
 
 1. `[アンソロジー] 催ぷにッ！ 7限目` | [[nhentai-g-590842|nhentai-g-590842]]
 	- ![[nhentai-g-590842.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 #### 2025-06
 

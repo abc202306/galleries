@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:27+08:00
-mtime: 2026-01-18T22:19:57+08:00
+mtime: 2026-01-20T22:03:01+08:00
 ---
 
 # exhentai-tag-lolicon
@@ -598,6 +598,11 @@ mtime: 2026-01-18T22:19:57+08:00
 	- ![[nhentai-g-585182.webp|200]]
 1. `(C105) [ふつうのタピオカやさん (ふたつのピーナツ)] ●才からの体操教室 (オリジナル)︱●岁学生的体操课教室(chinese)[李四个人汉化] [DL版]` | [[nhentai-g-585109|nhentai-g-585109]]
 	- ![[nhentai-g-585109.webp|200]]
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 ##### 2025-07-08
 
@@ -1558,6 +1563,8 @@ mtime: 2026-01-18T22:19:57+08:00
 
 1. `[とらのえのまきもの (トラノエ)] らぁらのごめんね (プリパラ) [DL版]` | [[exhentai-g-2783545-be490c6872|exhentai-g-2783545-be490c6872]]
 	- ![[exhentai-g-2783545-be490c6872.webp|200]]
+1. `PIXIV プシュケーLo(942719) 2023作品合集` | [[exhentai-g-2783114-7bac1c2cfe|exhentai-g-2783114-7bac1c2cfe]]
+	- ![[exhentai-g-2783114-7bac1c2cfe.webp|200]]
 1. `[ダル・ゾデサデハーイ (ダル)] モモイがたくさん泣かされる本 (ブルーアーカイブ) [DL版]` | [[nhentai-g-488409|nhentai-g-488409]]
 	- ![[nhentai-g-488409.png|200]]
 
@@ -1696,6 +1703,11 @@ mtime: 2026-01-18T22:19:57+08:00
 
 1. `David and Ella 2nd batch` | [[exhentai-g-2616364-16475e46b5|exhentai-g-2616364-16475e46b5]]
 	- ![[exhentai-g-2616364-16475e46b5.webp|200]]
+
+##### 2023-07-09
+
+1. `[正経同人 (As109)] CITY no.109 ティア編 [英訳]` | [[exhentai-g-2604767-7466c9940b|exhentai-g-2604767-7466c9940b]]
+	- ![[exhentai-g-2604767-7466c9940b.webp|200]]
 
 ##### 2023-07-05
 

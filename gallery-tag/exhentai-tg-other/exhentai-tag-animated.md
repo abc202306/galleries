@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:55+08:00
-mtime: 2026-01-16T17:52:18+08:00
+mtime: 2026-01-20T21:46:25+08:00
 ---
 
 # exhentai-tag-animated
@@ -26,6 +26,13 @@ mtime: 2026-01-16T17:52:18+08:00
 
 1. `[FANBOX] (24GIFs/111p) 赤井 (id=251370) (24/10/03~25/11/05)` | [[exhentai-g-3635855-9a21a20b1d|exhentai-g-3635855-9a21a20b1d]]
 	- ![[exhentai-g-3635855-9a21a20b1d.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 #### 2025-01
 

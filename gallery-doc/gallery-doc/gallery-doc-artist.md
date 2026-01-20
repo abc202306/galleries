@@ -17,7 +17,7 @@ mtime: 2026-01-20T16:00:22+08:00
 ### artist
 
 - [[exhentai-tag-murai-renji|murai-renji]]
-- as109 | 水叔
+- [[exhentai-tag-as109-or-g.s|as109-or-g.s]] | 水叔
 ### group
 
 - [[exhentai-tag-happy-lamb-barn|happy-lamb-barn]]

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:54+08:00
-mtime: 2026-01-16T17:52:16+08:00
+mtime: 2026-01-20T21:46:24+08:00
 ---
 
 # exhentai-tag-mosaic-censorship
@@ -142,6 +142,13 @@ mtime: 2026-01-16T17:52:16+08:00
 
 1. `(C89) [しあわせまんじゅう (しあわせ1500)] みんなでお勉強しましょ!! [英訳]` | [[nhentai-g-591724|nhentai-g-591724]]
 	- ![[nhentai-g-591724.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 #### 2025-06
 

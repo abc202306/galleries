@@ -14,6 +14,7 @@ english: ケ十キ @atat250
 japanese: ケ十キ @atat250
 url: https://exhentai.org/g/2952454/eeb1de169e/
 artist:
+  - "[[exhentai-tag-kejuki|kejuki]]"
 group:
 parody:
   - "[[exhentai-tag-blue-archive|blue-archive]]"
@@ -50,7 +51,7 @@ title: ケ十キ @atat250
 | url | https://exhentai.org/g/2952454/eeb1de169e/ |
 | parody | [[exhentai-tag-blue-archive\|blue-archive]] |
 | character | [[exhentai-tag-midori-saiba\|midori-saiba]], [[exhentai-tag-momoi-saiba\|momoi-saiba]] |
-| artist |  |
+| artist | [[exhentai-tag-kejuki\|kejuki]] |
 | group |  |
 | languages | [[exhentai-tag-japanese\|japanese]] |
 | categories | [[exhentai-tag-doujinshi\|doujinshi]] |

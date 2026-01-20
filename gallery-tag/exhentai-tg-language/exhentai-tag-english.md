@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:59+08:00
-mtime: 2026-01-16T17:53:34+08:00
+mtime: 2026-01-20T21:46:31+08:00
 ---
 
 # exhentai-tag-english
@@ -99,6 +99,13 @@ mtime: 2026-01-16T17:53:34+08:00
 
 1. `(C89) [しあわせまんじゅう (しあわせ1500)] みんなでお勉強しましょ!! [英訳]` | [[nhentai-g-591724|nhentai-g-591724]]
 	- ![[nhentai-g-591724.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 #### 2025-06
 
@@ -281,6 +288,11 @@ mtime: 2026-01-16T17:53:34+08:00
 
 1. `David and Ella 2nd batch` | [[exhentai-g-2616364-16475e46b5|exhentai-g-2616364-16475e46b5]]
 	- ![[exhentai-g-2616364-16475e46b5.webp|200]]
+
+##### 2023-07-09
+
+1. `[正経同人 (As109)] CITY no.109 ティア編 [英訳]` | [[exhentai-g-2604767-7466c9940b|exhentai-g-2604767-7466c9940b]]
+	- ![[exhentai-g-2604767-7466c9940b.webp|200]]
 
 ##### 2023-07-05
 

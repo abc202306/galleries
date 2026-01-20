@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-18T22:19:00+08:00
+mtime: 2026-01-20T21:45:46+08:00
 ---
 
 # exhentai-tg-parody
@@ -12,9 +12,10 @@ mtime: 2026-01-18T22:19:00+08:00
 1. [[exhentai-tag-alice-in-wonderland|alice-in-wonderland]] | 2
 1. [[exhentai-tag-ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai|ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai]] | 1
 1. [[exhentai-tag-arknights|arknights]] | 2
+1. [[exhentai-tag-avatar-the-last-airbender|avatar-the-last-airbender]] | 1
 1. [[exhentai-tag-azur-lane|azur-lane]] | 7
-1. [[exhentai-tag-bakemonogatari|bakemonogatari]] | 1
-1. [[exhentai-tag-blue-archive|blue-archive]] | 100
+1. [[exhentai-tag-bakemonogatari|bakemonogatari]] | 2
+1. [[exhentai-tag-blue-archive|blue-archive]] | 101
 1. [[exhentai-tag-bocchi-the-rock|bocchi-the-rock]] | 1
 1. [[exhentai-tag-boruto|boruto]] | 4
 1. [[exhentai-tag-buddy-daddies|buddy-daddies]] | 1
@@ -65,7 +66,8 @@ mtime: 2026-01-18T22:19:00+08:00
 1. [[exhentai-tag-megaman-or-rockman|megaman-or-rockman]] | 1
 1. [[exhentai-tag-mikakunin-de-shinkoukei|mikakunin-de-shinkoukei]] | 2
 1. [[exhentai-tag-mobile-suit-gundam-the-witch-from-mercury|mobile-suit-gundam-the-witch-from-mercury]] | 1
-1. [[exhentai-tag-my-hero-academia-or-boku-no-hero-academia|my-hero-academia-or-boku-no-hero-academia]] | 3
+1. [[exhentai-tag-mushoku-tensei|mushoku-tensei]] | 1
+1. [[exhentai-tag-my-hero-academia-or-boku-no-hero-academia|my-hero-academia-or-boku-no-hero-academia]] | 4
 1. [[exhentai-tag-my-little-pony-friendship-is-magic|my-little-pony-friendship-is-magic]] | 2
 1. [[exhentai-tag-naruto|naruto]] | 5
 1. [[exhentai-tag-new-game|new-game]] | 1
@@ -75,7 +77,7 @@ mtime: 2026-01-18T22:19:00+08:00
 1. [[exhentai-tag-non-non-biyori|non-non-biyori]] | 1
 1. [[exhentai-tag-ongeki|ongeki]] | 2
 1. [[exhentai-tag-onii-chan-wa-oshimai|onii-chan-wa-oshimai]] | 7
-1. [[exhentai-tag-original|original]] | 204
+1. [[exhentai-tag-original|original]] | 205
 1. [[exhentai-tag-oshi-no-ko|oshi-no-ko]] | 1
 1. [[exhentai-tag-pokemon-or-pocket-monsters|pokemon-or-pocket-monsters]] | 2
 1. [[exhentai-tag-princess-connect|princess-connect]] | 7

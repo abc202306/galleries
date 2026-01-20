@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:32+08:00
-mtime: 2026-01-16T17:53:26+08:00
+mtime: 2026-01-20T21:47:01+08:00
 ---
 
 # exhentai-tag-cowgirl
@@ -38,3 +38,10 @@ mtime: 2026-01-16T17:53:26+08:00
 
 1. `[Tempest (よろず)] ブルアカU149孕ませ合同 ～Ura Petit Archive～ (ブルーアーカイブ) [DL版]` | [[exhentai-g-3498577-3f1e518251|exhentai-g-3498577-3f1e518251]]
 	- ![[exhentai-g-3498577-3f1e518251.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]

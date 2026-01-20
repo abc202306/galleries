@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:57+08:00
-mtime: 2026-01-16T17:52:25+08:00
+mtime: 2026-01-20T21:46:28+08:00
 ---
 
 # exhentai-tag-first-person-perspective
@@ -19,6 +19,13 @@ mtime: 2026-01-16T17:52:25+08:00
 
 1. `[消すぐあ] お年玉` | [[exhentai-g-3675066-e28c290986|exhentai-g-3675066-e28c290986]]
 	- ![[exhentai-g-3675066-e28c290986.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 #### 2025-06
 

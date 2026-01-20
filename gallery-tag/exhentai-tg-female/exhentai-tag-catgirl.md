@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:32+08:00
-mtime: 2026-01-16T17:53:28+08:00
+mtime: 2026-01-20T21:47:02+08:00
 ---
 
 # exhentai-tag-catgirl
@@ -54,6 +54,13 @@ mtime: 2026-01-16T17:53:28+08:00
 
 1. `[しぷおる] 調整記録 ご主人様の元へ届くまで [中国翻訳] [DL版]` | [[nhentai-g-606586|nhentai-g-606586]]
 	- ![[nhentai-g-606586.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 #### 2025-05
 
@@ -149,6 +156,13 @@ mtime: 2026-01-16T17:53:28+08:00
 
 1. `(C100) [Paperer’s Nest (天響龍音)] せんせー、ないしょだよ? [中国翻訳]` | [[nhentai-g-481804|nhentai-g-481804]]
 	- ![[nhentai-g-481804.jpg|200]]
+
+#### 2023-07
+
+##### 2023-07-09
+
+1. `[正経同人 (As109)] CITY no.109 ティア編 [英訳]` | [[exhentai-g-2604767-7466c9940b|exhentai-g-2604767-7466c9940b]]
+	- ![[exhentai-g-2604767-7466c9940b.webp|200]]
 
 #### 2023-03
 

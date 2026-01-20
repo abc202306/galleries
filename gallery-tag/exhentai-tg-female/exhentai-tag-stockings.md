@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:20+08:00
-mtime: 2026-01-18T17:08:53+08:00
+mtime: 2026-01-20T21:46:50+08:00
 ---
 
 # exhentai-tag-stockings
@@ -178,6 +178,11 @@ mtime: 2026-01-18T17:08:53+08:00
 
 1. `(C105) [ふつうのタピオカやさん (ふたつのピーナツ)] ●才からの体操教室 (オリジナル)︱●岁学生的体操课教室(chinese)[李四个人汉化] [DL版]` | [[nhentai-g-585109|nhentai-g-585109]]
 	- ![[nhentai-g-585109.webp|200]]
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 ##### 2025-07-08
 
@@ -473,6 +478,13 @@ mtime: 2026-01-18T17:08:53+08:00
 
 1. `[テンタクルーズ (たけみつてんた)] グルグル三昧 (魔法陣グルグル)` | [[nhentai-g-477735|nhentai-g-477735]]
 	- ![[nhentai-g-477735.jpg|200]]
+
+#### 2023-07
+
+##### 2023-07-09
+
+1. `[正経同人 (As109)] CITY no.109 ティア編 [英訳]` | [[exhentai-g-2604767-7466c9940b|exhentai-g-2604767-7466c9940b]]
+	- ![[exhentai-g-2604767-7466c9940b.webp|200]]
 
 #### 2023-05
 

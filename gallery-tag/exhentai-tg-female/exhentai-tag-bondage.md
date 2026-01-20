@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:33+08:00
-mtime: 2026-01-16T17:53:29+08:00
+mtime: 2026-01-20T21:47:03+08:00
 ---
 
 # exhentai-tag-bondage
@@ -85,6 +85,13 @@ mtime: 2026-01-16T17:53:29+08:00
 
 1. `[FANBOX] ぽるせりん | Poruserin (10/31/2025)` | [[exhentai-g-3611933-e12fb2b3f5|exhentai-g-3611933-e12fb2b3f5]]
 	- ![[exhentai-g-3611933-e12fb2b3f5.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 #### 2025-06
 

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:48+08:00
-mtime: 2026-01-16T17:50:05+08:00
+mtime: 2026-01-20T21:46:02+08:00
 ---
 
 # exhentai-uploader-(Disowned)
@@ -19,6 +19,13 @@ mtime: 2026-01-16T17:50:05+08:00
 
 1. `(COMIC1☆11) [不可不可 (関谷あさみ)] ホームメイド (クオリディア・コード) [中国翻訳]` | [[exhentai-g-3643915-46f1be2712|exhentai-g-3643915-46f1be2712]]
 	- ![[exhentai-g-3643915-46f1be2712.webp|200]]
+
+#### 2025-07
+
+##### 2025-07-15
+
+1. `The Holy Loli Grail - Greatest Loli's Of All Time [95% Uncensored Collection]` | [[exhentai-g-3441601-5be78deced|exhentai-g-3441601-5be78deced]]
+	- ![[exhentai-g-3441601-5be78deced.webp|200]]
 
 ### 2024
 
