@@ -30,7 +30,8 @@ mtime: 2025-12-19T16:50:09+08:00
 1. [[gallery-doc-exhentai-uploader|uploader]]
 1. [[gallery-doc-year|gallery-doc-year]]
 1. [[gallery-doc-graph-view|gallery-doc-graph-view]]
-
+1. [[gallery-doc-artist]]
+1. [[gallery-doc-project]]
 ## [[gallery-doc-property|gallery-doc-property]]
 
 ### [[propertyns-gallery-basic|propertyns-gallery-basic]]
