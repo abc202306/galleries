@@ -88,130 +88,95 @@ type FileContentGenerator = (
 ) => Promise<string>
 
 /**
- * Configuration for folder paths
- * All folder types follow the pattern: type/rewrite
+ * Unified application configuration class
+ * Centralizes management of all paths, references, keywords, and property configurations
+ * This singleton provides a single source of truth for all system-wide constants and mappings
  */
-class FolderConfig {
-    tag: string = 'gallery-tag/'
-    gallery: string = 'galleries/'
-    property: string = 'gallery-doc-property/'
-    uploader: string = 'exhentai-uploader/'
-    docsTag: string = 'gallery-doc/gallery-doc-gallery-tag/'
-    docsYear: string = 'gallery-doc/gallery-doc-year/'
-
-    static readonly _typeDict: TypeDictConfig = {
-        rewrite: ['tag', 'gallery', 'property', 'uploader', 'docsTag', 'docsYear']
+class AppConfig {
+    // ==================== Folder path configuration ===================="
+    readonly folders = {
+        tag: 'gallery-tag/',
+        gallery: 'galleries/',
+        property: 'gallery-doc-property/',
+        uploader: 'exhentai-uploader/',
+        docsTag: 'gallery-doc/gallery-doc-gallery-tag/',
+        docsYear: 'gallery-doc/gallery-doc-year/'
     }
-}
 
-interface FileTypeDict {
-    replace: string[]
-    rewrite: string[]
-}
-
-/**
- * Configuration for file paths
- * replace: files that require full content replacement
- * rewrite: files that require selective content rewriting
- */
-class FileConfig {
-    readme: string = 'README.md'
-    tag: string = 'gallery-doc/gallery-doc/gallery-doc-gallery-tag.md'
-    uploader: string = 'gallery-doc/gallery-doc/gallery-doc-exhentai-uploader.md'
-    galleryNotes: string = 'gallery-doc/collection/collection-gallery-notes.md'
-    gallery: string = 'gallery-doc/collection/collection-gallery-items.md'
-    exhentai: string = 'gallery-doc/gallery-doc-galleries/gallery-url-exhentai.md'
-    nhentai: string = 'gallery-doc/gallery-doc-galleries/gallery-url-nhentai.md'
-
-    static readonly _typeDict: FileTypeDict = {
-        replace: ['readme', 'galleryNotes', 'gallery', 'exhentai', 'nhentai'],
-        rewrite: ['tag', 'uploader']
+    // ==================== File path configuration ====================
+    readonly files = {
+        readme: 'README.md',
+        tagMeta: 'gallery-doc/gallery-doc/gallery-doc-gallery-tag.md',
+        uploaderMeta: 'gallery-doc/gallery-doc/gallery-doc-exhentai-uploader.md',
+        galleryNotes: 'gallery-doc/collection/collection-gallery-notes.md',
+        galleryItems: 'gallery-doc/collection/collection-gallery-items.md',
+        exhentaiGallery: 'gallery-doc/gallery-doc-galleries/gallery-url-exhentai.md',
+        nhentaiGallery: 'gallery-doc/gallery-doc-galleries/gallery-url-nhentai.md'
     }
-}
 
-/**
- * Configuration for wikilink references
- * Includes links to documentation, base templates, and tag groups
- */
-class RefConfig {
-    // Documentation references
-    docsMeta: string = '[[gallery-doc|gallery-doc]]'
-    docsTag: string = '[[gallery-doc-gallery-tag|gallery-doc-gallery-tag]]'
-    docsCollection: string = '[[collection|collection]]'
-    docs: string = '[[gallery-doc|gallery-doc]]'
+    // ==================== Wikilink reference configuration ====================
+    readonly refs = {
+        // Documentation references
+        docsMeta: '[[gallery-doc|gallery-doc]]',
+        docsTag: '[[gallery-doc-gallery-tag|gallery-doc-gallery-tag]]',
+        docsCollection: '[[collection|collection]]',
+        
+        // Base template references (used for dynamic content generation in embedded notes)
+        baseGalleryDynamic: '[[base-gallery-dynamic.base|base-gallery-dynamic.base]]',
+        basePropertyDynamic: '[[base-property-dynamic.base|base-property-dynamic.base]]',
+        baseGallery: '[[base-gallery.base|base-gallery.base]]',
+        
+        // Category tag group references (organized by content type for gallery classification)
+        tagGroups: {
+            artist: '[[exhentai-tg-artist|artist]]',
+            categories: '[[exhentai-tg-categories|categories]]',
+            character: '[[exhentai-tg-character|character]]',
+            cosplayer: '[[exhentai-tg-cosplayer|cosplayer]]',
+            female: '[[exhentai-tg-female|female]]',
+            group: '[[exhentai-tg-group|group]]',
+            keywords: '[[nhentai-tg-keywords|keywords]]',
+            language: '[[exhentai-tg-language|language]]',
+            location: '[[exhentai-tg-location|location]]',
+            male: '[[exhentai-tg-male|male]]',
+            mixed: '[[exhentai-tg-mixed|mixed]]',
+            other: '[[exhentai-tg-other|other]]',
+            parody: '[[exhentai-tg-parody|parody]]',
+            temp: '[[exhentai-tg-temp|temp]]'
+        },
+        
+        // Collection references (for organizing grouped content hierarchically)
+        collectionGallery: '[[collection-gallery-items|collection-gallery-items]]',
+        collectionGalleryNotes: '[[collection-gallery-notes|collection-gallery-notes]]'
+    }
 
-    // Base template references
-    baseGalleryDynamic: string = '[[base-gallery-dynamic.base|base-gallery-dynamic.base]]'
-    basePropertyDynamic: string = '[[base-property-dynamic.base|base-property-dynamic.base]]'
-    baseGallery: string = '[[base-gallery.base|base-gallery.base]]'
+    // ==================== Keywords configuration ===================="
+    readonly keywords = {
+        exhentai: 'exhentai',
+        nhentai: 'nhentai',
+        galleryItems: '[[gallery-items|gallery-items]]',
+        noteList: 'note-list'
+    }
 
-    // Gallery tag group references - organized by tag type
-    galleryTagGroupArtist: string = '[[exhentai-tg-artist|artist]]'
-    galleryTagGroupCategories: string = '[[exhentai-tg-categories|categories]]'
-    galleryTagGroupCharacter: string = '[[exhentai-tg-character|character]]'
-    galleryTagGroupCosplayer: string = '[[exhentai-tg-cosplayer|cosplayer]]'
-    galleryTagGroupFemale: string = '[[exhentai-tg-female|female]]'
-    galleryTagGroupGroup: string = '[[exhentai-tg-group|group]]'
-    galleryTagGroupKeywords: string = '[[nhentai-tg-keywords|keywords]]'
-    galleryTagGroupLanguage: string = '[[exhentai-tg-language|language]]'
-    galleryTagGroupLocation: string = '[[exhentai-tg-location|location]]'
-    galleryTagGroupMale: string = '[[exhentai-tg-male|male]]'
-    galleryTagGroupMixed: string = '[[exhentai-tg-mixed|mixed]]'
-    galleryTagGroupOther: string = '[[exhentai-tg-other|other]]'
-    galleryTagGroupParody: string = '[[exhentai-tg-parody|parody]]'
-    galleryTagGroupTemp: string = '[[exhentai-tg-temp|temp]]'
-
-    // Collection references
-    collectionGallery: string = '[[collection-gallery-items|collection-gallery-items]]'
-    collectionGalleryNotes: string = '[[collection-gallery-notes|collection-gallery-notes]]'
-}
-
-/**
- * Configuration for keywords used in content
- */
-class KeywordsConfig {
-    exhentai: string = 'exhentai'
-    nhentai: string = 'nhentai'
-    galleryItems: string = '[[gallery-items|gallery-items]]'
-    noteList: string = 'note-list'
-}
-
-/**
- * Configuration for frontmatter property names
- */
-class PropertyConfig {
-    propertyNames: string[] = [
-        'artist',
-        'group',
-        'categories',
-        'character',
-        'parody',
-        'language',
-        'cosplayer',
-        'female',
-        'location',
-        'male',
-        'mixed',
-        'other',
-        'temp',
-        'keywords',
-        'uploader'
+    // ==================== Frontmatter property field configuration ====================
+    readonly properties = [
+        'artist', 'group', 'categories', 'character', 'parody',
+        'language', 'cosplayer', 'female', 'location', 'male',
+        'mixed', 'other', 'temp', 'keywords', 'uploader'
     ]
+
+    /**
+     * Retrieves all tag group reference wikilinks
+     * Provides a convenient way to iterate over all available tag group categories
+     * Used for generating tag metadata files and aggregate tag listings
+     * 
+     * @returns Array of wikilink strings for all tag groups (14 categories total)
+     */
+    getAllTagGroupRefs(): string[] {
+        return Object.values(this.refs.tagGroups)
+    }
 }
 
-/**
- * Global application configuration instance
- * Aggregates all configuration objects in a single place
- */
-class Config {
-    pathFolder: FolderConfig = new FolderConfig()
-    pathFile: FileConfig = new FileConfig()
-    ref: RefConfig = new RefConfig()
-    keywords: KeywordsConfig = new KeywordsConfig()
-    property: PropertyConfig = new PropertyConfig()
-}
-
-const config = new Config()
+const config = new AppConfig()
 
 /**
  * Generic singleton factory for creating and managing single instances
@@ -307,8 +272,9 @@ class ArrayUtil {
 }
 
 /**
- * Utility for file path and content operations
- * Handles path comparisons, gallery representations, and nested list generation
+ * File path and content processing utility class
+ * Handles path comparison, gallery item representations, and grouped/hierarchical list generation
+ * Provides formatting logic for gallery items with metadata and cover images
  */
 class PathUtil {
     private static readonly instance = SingletonFactory.getInstance('PathUtil', () => new PathUtil())
@@ -318,21 +284,22 @@ class PathUtil {
     }
 
     /**
-     * Compares two gallery file paths for sorting
-     * Primary sort: by uploaded date (descending), then alphabetically
+     * Compares two gallery file paths for sorting by upload date
+     * Primary sort: by uploaded date property in descending order (newest first)
+     * Secondary sort: alphabetically (for items with same upload date)
      * 
-     * @param path1 - First file path
-     * @param path2 - Second file path
+     * @param path1 - First file path to compare
+     * @param path2 - Second file path to compare
      * @returns Negative if path1 < path2, positive if path1 > path2, 0 if equal
      */
-    comparePathWithPropertyUploaded(path1: string, path2: string): number {
+    comparePathByUploadedDate(path1: string, path2: string): number {
         const f1 = app.vault.getAbstractFileByPath(path1)
         const f2 = app.vault.getAbstractFileByPath(path2)
         const fc1 = app.metadataCache.getFileCache(f1)
         const fc2 = app.metadataCache.getFileCache(f2)
         const v1 = String(fc1?.frontmatter?.uploaded || '_')
         const v2 = String(fc2?.frontmatter?.uploaded || '_')
-        // sort descending
+        // Sort in descending order (newest items first)
         const result = v2.localeCompare(v1)
         if (result !== 0) {
             return result
@@ -342,12 +309,13 @@ class PathUtil {
 
     /**
      * Generates a markdown representation string for a gallery file
-     * Includes wikilink, Japanese/English title, and optional cover image
+     * Includes formatted wikilink, Japanese/English title display, and optional cover thumbnail image
+     * Returns a numbered list item formatted for markdown output
      * 
      * @param path - Gallery file path
-     * @returns Formatted markdown string for the gallery item
+     * @returns Formatted markdown string for the gallery item in list format
      */
-    getGalleryPathRepresentationStr(path: string): string {
+    getGalleryItemRepresentationStr(path: string): string {
         const f2 = app.vault.getAbstractFileByPath(path)
         const linktext2 = app.metadataCache.fileToLinktext(f2)
         const fc2 = app.metadataCache.getFileCache(f2) || {}
@@ -379,12 +347,13 @@ class PathUtil {
     }
 
     /**
-     * Generates comma-separated wikilinks for non-gallery notes
+     * Generates comma-separated wikilinks for non-gallery note references
+     * Used to display "see also" references to related documentation or notes
      * 
-     * @param nonGalleryNotePaths - Set of non-gallery file paths
-     * @returns Formatted wikilink string
+     * @param nonGalleryNotePaths - Set of non-gallery file paths to link to
+     * @returns Formatted comma-separated wikilink string for all provided paths
      */
-    getNGStr(nonGalleryNotePaths: Set<string>): string {
+    getNonGalleryNotesStr(nonGalleryNotePaths: Set<string>): string {
         const ngls = [...nonGalleryNotePaths].sort()
         return ngls
             .map(
@@ -399,24 +368,30 @@ class PathUtil {
     }
 
     /**
-     * Generates a simple list of gallery items
+     * Generates a simple flat list of gallery items
+     * Items are sorted by upload date (newest first) and formatted as numbered markdown list
      * 
-     * @param galleryNotePaths - Set of gallery file paths
-     * @returns Formatted markdown list
+     * @param galleryNotePaths - Set of gallery file paths to render
+     * @returns Formatted markdown list of gallery items (no grouping by date)
      */
-    getGStrASList(galleryNotePaths: Set<string>): string {
+    getGalleryItemsSimpleList(galleryNotePaths: Set<string>): string {
         const gls = [...galleryNotePaths].sort(
-            this.comparePathWithPropertyUploaded.bind(this)
+            this.comparePathByUploadedDate.bind(this)
         )
-        return gls.map(p => this.getGalleryPathRepresentationStr(p)).join('\n')
+        return gls.map(p => this.getGalleryItemRepresentationStr(p)).join('\n')
     }
 
     /**
      * Generates a hierarchical grouped list of gallery items organized by year/month/day
+     * Creates a nested markdown structure with heading levels for temporal organization
+     * Useful for displaying large galleries organized by upload date with visual hierarchy
+     * 
+     * @param galleryNotePaths - Set of gallery file paths to render and group
+     * @returns Formatted markdown with year/month/day grouping (### for year, #### for month, ##### for day)
      */
-    getGStrASGroupedList(galleryNotePaths: Set<string>): string {
+    getGalleryItemsGroupedList(galleryNotePaths: Set<string>): string {
         const gls = [...galleryNotePaths].sort(
-            this.comparePathWithPropertyUploaded.bind(this)
+            this.comparePathByUploadedDate.bind(this)
         )
         const groupedByYear = arrayUtil.groupBy(gls, gnPath =>
             stringUtil.getYear(app.vault.getAbstractFileByPath(gnPath))
@@ -428,7 +403,12 @@ class PathUtil {
     }
 
     /**
-     * Builds a year section for grouped lists
+     * Constructs a year section of the grouped list hierarchy
+     * Groups all items from a year into months, each with its own section
+     * 
+     * @param yearKey - Year string in YYYY format
+     * @param yearGroup - Array of file paths for all items in this year
+     * @returns Array of markdown strings representing the year section and its contents
      */
     private buildYearSection(yearKey: string, yearGroup: string[]): string[] {
         const groupedByMonth = arrayUtil.groupBy(yearGroup, gnPath =>
@@ -441,7 +421,12 @@ class PathUtil {
     }
 
     /**
-     * Builds a month section for grouped lists
+     * Constructs a month section of the grouped list hierarchy
+     * Groups all items from a month into days, each with its own subsection
+     * 
+     * @param monthKey - Month string in YYYY-MM format
+     * @param monthGroup - Array of file paths for all items in this month
+     * @returns Array of markdown strings representing the month section and its contents
      */
     private buildMonthSection(monthKey: string, monthGroup: string[]): string[] {
         const groupedByDay = arrayUtil.groupBy(monthGroup, gnPath =>
@@ -452,17 +437,21 @@ class PathUtil {
             .flatMap(([dayKey, dayGroup]): string[] => [
                 `##### ${dayKey}`,
                 dayGroup
-                    .map(p => this.getGalleryPathRepresentationStr(p))
+                    .map(p => this.getGalleryItemRepresentationStr(p))
                     .join('\n')
             ])
         return [`#### ${monthKey}`, ...daySectionContentParts] as string[]
     }
 
     /**
-     * Generates the final gallery string (delegates to grouping logic)
+     * Retrieves the final gallery items string with grouping applied
+     * This is the public entry point that delegates to the grouping logic
+     * 
+     * @param galleryNotePaths - Set of gallery file paths to render
+     * @returns Complete formatted markdown string with hierarchical year/month/day grouping
      */
-    getGStr(galleryNotePaths: Set<string>): string {
-        return this.getGStrASGroupedList(galleryNotePaths)
+    getGalleryItemsStr(galleryNotePaths: Set<string>): string {
+        return this.getGalleryItemsGroupedList(galleryNotePaths)
     }
 }
 
@@ -505,7 +494,7 @@ class StringUtil {
         const property = str.replace(/^(ex|n)hentai-tg-/, '')
         const galleryMDFileCaches = app.vault
             .getMarkdownFiles()
-            .filter((f: any) => f.path.startsWith(config.pathFolder.gallery))
+            .filter((f: any) => f.path.startsWith(config.folders.gallery))
             .map((f: any) => app.metadataCache.getFileCache(f) || {})
 
         return arrayUtil
@@ -732,7 +721,7 @@ class FileProcesserUtil {
     createFilesFromUnresolvedLinksForAllGalleryNoteFiles(): void {
         const galleryNoteMDFiles = app.vault
             .getMarkdownFiles()
-            .filter((f: any) => f.path.startsWith(config.pathFolder.gallery))
+            .filter((f: any) => f.path.startsWith(config.folders.gallery))
         const unresolvedLinktexts = galleryNoteMDFiles.flatMap((f: any) =>
             Object.keys(app.metadataCache.unresolvedLinks?.[f.path] || {})
         )
@@ -745,14 +734,14 @@ class FileProcesserUtil {
         )
         for (const linktext of arrayUtil.uniqueArray(unresolvedLinktexts)) {
             const value = `[[${linktext}|${linktext}]]`
-            const propertyName = config.property.propertyNames.find(
-                pn =>
+            const propertyName = config.properties.find(
+                (pn: any) =>
                     galleryMDFileCaches.filter((fc: any) =>
                         arrayUtil.safeArray((fc.frontmatter || {})[pn]).includes(value)
                     ).length !== 0
             )
 
-            const folderPath = config.pathFolder.tag
+            const folderPath = config.folders.tag
             const destPath = folderPath + linktext + '.md'
             try {
                 if (!app.vault.getAbstractFileByPath(destPath)) {
@@ -790,7 +779,7 @@ class FileProcesserUtil {
         const files = app.vault.getFiles()
         const mdfiles = app.vault.getMarkdownFiles()
         const candidates = mdfiles.filter((f: any) =>
-            f.path.startsWith(config.pathFolder.gallery)
+            f.path.startsWith(config.folders.gallery)
         )
 
         // First pass: create year folders
@@ -829,7 +818,7 @@ class FileProcesserUtil {
     standardizeGalleryNoteCoverFileName(): void {
         const galleryNoteFiles = app.vault
             .getMarkdownFiles()
-            .filter((f: any) => f.path.startsWith(config.pathFolder.gallery))
+            .filter((f: any) => f.path.startsWith(config.folders.gallery))
         galleryNoteFiles.filter((f: any) => {
             const cover = app.metadataCache.getFileCache(f)?.frontmatter?.cover
             const res = Constants.REGEX_COVER_WIKILINK.exec(cover)
@@ -901,18 +890,27 @@ class Logger {
 }
 
 /**
- * Utility for file template generation
- * Generates content for various file types based on vault metadata
+ * Specialized file content generation utility class
+ * Responsible for template generation for various file types including tags, uploaders, and metadata
+ * Handles complex content creation logic for gallery indexing and documentation
  */
-class FileTemplateUtil {
-    private static readonly instance = SingletonFactory.getInstance('FileTemplateUtil', () => new FileTemplateUtil())
+class ContentGenerator {
+    private static readonly instance = SingletonFactory.getInstance('ContentGenerator', () => new ContentGenerator())
 
-    static getInstance(): FileTemplateUtil {
+    static getInstance(): ContentGenerator {
         return this.instance
     }
 
     /**
-     * Generates a standard frontmatter header and content
+     * Generates standard frontmatter header with content body
+     * Creates a complete file with frontmatter metadata and markdown content
+     * 
+     * @param title - Document title for the main heading
+     * @param ctime - Creation timestamp in ISO format
+     * @param mtime - Last modification timestamp in ISO format
+     * @param contentBody - Markdown content to place after frontmatter
+     * @param preFMBlock - Additional frontmatter properties to prepend before timestamps
+     * @returns Complete formatted file content with frontmatter and body
      */
     private generateStandardContent(
         title: string,
@@ -925,7 +923,17 @@ class FileTemplateUtil {
     }
 
     /**
-     * Generates content with backlink section and gallery items
+     * Generates content with backlinks and gallery items
+     * Common base method for multiple template types that need to display backlinks and gallery lists
+     * Automatically filters and formats content based on provided filter functions
+     * 
+     * @param title - Document title
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @param backlinksFilter - Predicate function to filter relevant backlinks (e.g., exclude galleries)
+     * @param galleryFilter - Predicate function to filter gallery items (e.g., include only galleries)
+     * @param additionalContent - Optional extra content to insert before gallery section
+     * @returns Generated file content with filtered backlinks and galleries
      */
     private generateContentWithBacklinksAndGallery(
         title: string,
@@ -939,8 +947,8 @@ class FileTemplateUtil {
         const backlinks = app.metadataCache.getBacklinksForFile(f)?.data
         const paths = backlinks ? [...backlinks.keys()] : []
 
-        const ngstr = pathUtil.getNGStr(new Set(paths.filter(backlinksFilter)))
-        const gstr = pathUtil.getGStr(new Set(paths.filter(galleryFilter)))
+        const ngstr = pathUtil.getNonGalleryNotesStr(new Set(paths.filter(backlinksFilter)))
+        const gstr = pathUtil.getGalleryItemsStr(new Set(paths.filter(galleryFilter)))
 
         const seealsoSection = ngstr ? `> seealso: ${ngstr}\n\n` : ''
         const gallerySection = (gstr?.length === 0) ? "" : `## ${config.keywords.galleryItems}\n\n${gstr}\n`;
@@ -950,30 +958,42 @@ class FileTemplateUtil {
     }
 
     /**
-     * Gets tag file content
-     * Includes backlinks, gallery items, and base template reference
+     * Generates tag file content
+     * Includes backlinks from related notes, gallery items, and base template reference
+     * Used for generating individual tag pages that aggregate related galleries
+     * 
+     * @param title - Tag name
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @returns Complete formatted tag file content
      */
-    async getTagFileContent(
+    async generateTagFileContent(
         title: string,
         ctime: string,
         mtime: string,
     ): Promise<string> {
-        const baseTemplate = `!${config.ref.baseGalleryDynamic}\n\n`
+        const baseTemplate = `!${config.refs.baseGalleryDynamic}\n\n`
         return this.generateContentWithBacklinksAndGallery(
             title,
             ctime,
             mtime,
-            i => !i.startsWith(config.pathFolder.gallery) && i !== config.pathFile.readme,
-            i => i.startsWith(config.pathFolder.gallery),
+            i => !i.startsWith(config.folders.gallery) && i !== config.files.readme,
+            i => i.startsWith(config.folders.gallery),
             baseTemplate
         )
     }
 
     /**
-     * Gets year-based file content
-     * Filters gallery items by year from the file title
+     * Generates year-based index file content
+     * Filters gallery items by the year extracted from the file title (e.g., gallery-year-2024)
+     * Displays all galleries uploaded in that specific year organized chronologically
+     * 
+     * @param title - Year identifier in format like 'gallery-year-2024'
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @returns Complete formatted year index file content
      */
-    async getYearFileContent(
+    async generateYearFileContent(
         title: string,
         ctime: string,
         mtime: string,
@@ -981,7 +1001,7 @@ class FileTemplateUtil {
         const year = title.replace(/^gallery-year-/, '')
         const galleryNotePaths = app.vault
             .getMarkdownFiles()
-            .filter((f: any) => f.path.startsWith(config.pathFolder.gallery))
+            .filter((f: any) => f.path.startsWith(config.folders.gallery))
             .filter((f: any) => stringUtil.getYear(f) === year)
             .map((f: any) => f.path)
 
@@ -989,100 +1009,53 @@ class FileTemplateUtil {
         const backlinks = app.metadataCache.getBacklinksForFile(f)?.data
         const paths = backlinks ? [...backlinks.keys()] : []
 
-        const ngstr = pathUtil.getNGStr(
+        const ngstr = pathUtil.getNonGalleryNotesStr(
             new Set(
                 paths
-                    .filter(i => !i.startsWith(config.pathFolder.gallery))
-                    .filter(i => i !== config.pathFile.readme)
+                    .filter(i => !i.startsWith(config.folders.gallery))
+                    .filter(i => i !== config.files.readme)
             )
         )
 
-        const gstr = pathUtil.getGStr(new Set(galleryNotePaths))
+        const gstr = pathUtil.getGalleryItemsStr(new Set(galleryNotePaths))
         const seealsoSection = ngstr ? `> seealso: ${ngstr}\n\n` : ''
 
         return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# ${title}\n\n${seealsoSection}## ${config.keywords.galleryItems}\n\n${gstr}\n`
     }
 
     /**
-     * Gets tag metadata file content
-     * Lists all tag groups with their counts
+     * Generates tag metadata file content (central tag index)
+     * Lists all available tag groups with their unique value counts
+     * Used as the master index for navigating all tag categories (14 categories total)
      * 
-     * @param title - File title
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @returns Generated file content
+     * @param _title - File title (unused, kept for signature consistency)
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @returns Complete formatted tag metadata file content with all tag group listings
      */
-    async getTagMetaFileContent(
+    async generateTagMetaFileContent(
         _title: string,
         ctime: string,
         mtime: string,
     ): Promise<string> {
-        const {
-            docs,
-            galleryTagGroupArtist,
-            galleryTagGroupCategories,
-            galleryTagGroupCharacter,
-            galleryTagGroupCosplayer,
-            galleryTagGroupFemale,
-            galleryTagGroupGroup,
-            galleryTagGroupKeywords,
-            galleryTagGroupLanguage,
-            galleryTagGroupLocation,
-            galleryTagGroupMale,
-            galleryTagGroupMixed,
-            galleryTagGroupOther,
-            galleryTagGroupParody,
-            galleryTagGroupTemp
-        } = config.ref
-
-        const tagGroups = [
-            galleryTagGroupArtist,
-            galleryTagGroupCategories,
-            galleryTagGroupCharacter,
-            galleryTagGroupCosplayer,
-            galleryTagGroupFemale,
-            galleryTagGroupGroup,
-            galleryTagGroupKeywords,
-            galleryTagGroupLanguage,
-            galleryTagGroupLocation,
-            galleryTagGroupMale,
-            galleryTagGroupMixed,
-            galleryTagGroupOther,
-            galleryTagGroupParody,
-            galleryTagGroupTemp
-        ]
-
+        const tagGroups = config.getAllTagGroupRefs()
         const ol = tagGroups
             .map(value => `1. ${value} | ${stringUtil.getTagCount(value)}\n`)
             .join('')
 
-        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# tag\n\n> seealso: ${docs}\n\n${ol}`
+        return `---\nctime: ${ctime}\nmtime: ${mtime}\n---\n\n# tag\n\n> seealso: ${config.refs.docsMeta}\n\n${ol}`
     }
 
     /**
-     * Gets tag group file content
-     */
-    async getTagGroupFileContent(
-        title: string,
-        ctime: string,
-        mtime: string,
-    ): Promise<string> {
-        return this.generateGroupFileContent(title, ctime, mtime, config.ref.docsTag)
-    }
-
-    /**
-     * Gets uploader group file content
-     */
-    async getUploaderGroupFileContent(
-        title: string,
-        ctime: string,
-        mtime: string,
-    ): Promise<string> {
-        return this.generateGroupFileContent(title, ctime, mtime, config.ref.docsMeta)
-    }
-
-    /**
-     * Generates group file content with tag group MOC
+     * Generates group file content for tag groups and uploader groups
+     * Common method for both tag-group and uploader-group file generation
+     * Creates a master-of-contents style listing with counts for each category value
+     * 
+     * @param title - Group name (e.g., 'exhentai-tg-artist' or 'exhentai-uploader')
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @param seealso - Documentation wikilink to display as reference
+     * @returns Complete formatted group file content
      */
     private generateGroupFileContent(
         title: string,
@@ -1090,18 +1063,23 @@ class FileTemplateUtil {
         mtime: string,
         seealso: string
     ): string {
-        const body = `> seealso: ${seealso}\n\n${this.generateTagGroupMOC(title)}\n`
+        const body = `> seealso: ${seealso}\n\n${this.generateTagGroupIndex(title)}\n`
         return this.generateStandardContent(title, ctime, mtime, body)
     }
 
     /**
-     * Builds tag group index of values and their counts
+     * Generates tag group index with value listings
+     * Builds a numbered list of all unique values for a specific tag property
+     * Shows count of galleries for each value to provide usage metrics
+     * 
+     * @param title - Tag group title to extract property name from
+     * @returns Formatted markdown list of tag values with counts
      */
-    private generateTagGroupMOC(title: string): string {
+    private generateTagGroupIndex(title: string): string {
         const property = title.replace(/^(gallery-doc-)?((ex|n)hentai-)?(tg-)?/, '')
         const galleryMDFileCaches = app.vault
             .getMarkdownFiles()
-            .filter((f: any) => f.path.startsWith(config.pathFolder.gallery))
+            .filter((f: any) => f.path.startsWith(config.folders.gallery))
             .map((f: any) => app.metadataCache.getFileCache(f) || {})
 
         const allValues = galleryMDFileCaches.flatMap((fc: any) =>
@@ -1124,40 +1102,81 @@ class FileTemplateUtil {
     }
 
     /**
-     * Gets property file content
-     * Includes base property dynamic reference
+     * Generates tag group file content
+     * Creates index page for a specific tag category (e.g., artist, character, language)
+     * 
+     * @param title - Tag group name
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @returns Complete formatted tag group file content
      */
-    async getPropertyFileContent(
+    async generateTagGroupFileContent(
         title: string,
         ctime: string,
         mtime: string,
     ): Promise<string> {
-        const baseTemplate = `!${config.ref.basePropertyDynamic}\n`
+        return this.generateGroupFileContent(title, ctime, mtime, config.refs.docsTag)
+    }
+
+    /**
+     * Generates uploader group file content
+     * Creates index page for gallery uploaders with their upload counts
+     * 
+     * @param title - Uploader identifier
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @returns Complete formatted uploader group file content
+     */
+    async generateUploaderGroupFileContent(
+        title: string,
+        ctime: string,
+        mtime: string,
+    ): Promise<string> {
+        return this.generateGroupFileContent(title, ctime, mtime, config.refs.docsMeta)
+    }
+
+    /**
+     * Generates property file content
+     * Creates index page for a specific metadata property with backlink references
+     * Includes base template reference for dynamic content generation
+     * 
+     * @param title - Property name (e.g., 'artist', 'character')
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @returns Complete formatted property file content
+     */
+    async generatePropertyFileContent(
+        title: string,
+        ctime: string,
+        mtime: string,
+    ): Promise<string> {
+        const baseTemplate = `!${config.refs.basePropertyDynamic}\n`
         return this.generateContentWithBacklinksAndGallery(
             title,
             ctime,
             mtime,
-            i => !i.startsWith(config.pathFolder.gallery) && i !== config.pathFile.readme,
+            i => !i.startsWith(config.folders.gallery) && i !== config.files.readme,
             i => false,
             baseTemplate
         )
     }
 
     /**
-     * Gets README file content with folder structure statistics
-     * Generates a table showing descendant file counts
+     * Generates README file content with folder structure statistics
+     * Creates a comprehensive overview table showing descendant file counts for each folder
+     * Table columns: Folder Path | DFC (all files) | DFMC (markdown files) | DFOC (other files)
      * 
-     * @param title - File title
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @returns Generated README content
+     * @param _title - File title (unused, kept for signature consistency)
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @returns Complete formatted README file content
      */
-    async getReadmeFileContent(
+    async generateReadmeFileContent(
         _title: string,
         ctime: string,
         mtime: string,
     ): Promise<string> {
-        const file = app.vault.getAbstractFileByPath(config.pathFile.readme)
+        const file = app.vault.getAbstractFileByPath(config.files.readme)
         const fileContent = await app.vault.read(file)
 
         const files = app.vault.getFiles()
@@ -1180,26 +1199,27 @@ class FileTemplateUtil {
     }
 
     /**
-     * Gets gallery notes metadata file content
-     * Lists all gallery notes organized by date
+     * Generates gallery notes metadata file content
+     * Lists all gallery note files organized chronologically (newest first)
+     * Creates a master index of all galleries with their metadata and cover images
      * 
-     * @param title - File title
-     * @param ctime - Creation time
-     * @param mtime - Modification time
-     * @returns Generated content
+     * @param _title - File title (unused, kept for signature consistency)
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @returns Complete formatted gallery notes metadata file content
      */
-    async getNoteMetaFileContent(
+    async generateGalleryNotesMetaFileContent(
         _title: string,
         ctime: string,
         mtime: string,
     ): Promise<string> {
-        const metaFilePath = config.pathFile.galleryNotes
+        const metaFilePath = config.files.galleryNotes
         const noteFiles = app.vault
             .getMarkdownFiles()
             .filter((f: any) =>
                 arrayUtil
                     .safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up)
-                    .includes(config.ref.collectionGalleryNotes)
+                    .includes(config.refs.collectionGalleryNotes)
             )
 
         const file = app.vault.getAbstractFileByPath(metaFilePath)
@@ -1216,10 +1236,10 @@ class FileTemplateUtil {
             .map((f: any) => f.path)
 
         const gstr = gls
-            .map((p: string) => pathUtil.getGalleryPathRepresentationStr(p))
+            .map((p: string) => pathUtil.getGalleryItemRepresentationStr(p))
             .join('\n')
 
-        const preFMBlock = `\nup:\n  - "${config.ref.docsCollection}"`
+        const preFMBlock = `\nup:\n  - "${config.refs.docsCollection}"`
         const newData = stringUtil
             .replaceFrontMatter(fileContent, ctime, mtime, preFMBlock)
             .replace(
@@ -1231,95 +1251,17 @@ class FileTemplateUtil {
     }
 
     /**
-     * Gets gallery meta file content
-     * Lists all gallery items with base template reference
-     */
-    async getSpecGalleryMetaFileContent(
-        _title: string,
-        ctime: string,
-        mtime: string,
-    ): Promise<string> {
-        const galleryNoteFiles = app.vault
-            .getMarkdownFiles()
-            .filter((f: any) =>
-                arrayUtil
-                    .safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up)
-                    .includes(config.ref.collectionGallery)
-            )
-        const preFMBlock = `\nup:\n  - "${config.ref.docsCollection}"\nbases:\n  - "${config.ref.baseGallery}"`
-        return await this.generateGalleryMetaFileContent(
-            _title,
-            ctime,
-            mtime,
-            config.pathFile.gallery,
-            galleryNoteFiles,
-            preFMBlock
-        )
-    }
-
-    /**
-     * Gets eXHentai-specific gallery meta file content
-     * Lists only gallery items with eXHentai URLs
-     */
-    async getSpecEXHentaiGalleryMetaFileContent(
-        _title: string,
-        ctime: string,
-        mtime: string,
-    ): Promise<string> {
-        const galleryNoteFiles = app.vault
-            .getMarkdownFiles()
-            .filter((f: any) =>
-                arrayUtil
-                    .safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up)
-                    .includes(config.ref.collectionGallery)
-            )
-            .filter((f: any) =>
-                (app.metadataCache.getFileCache(f)?.frontmatter?.url || '').includes(
-                    config.keywords.exhentai
-                )
-            )
-        return await this.generateGalleryMetaFileContent(
-            _title,
-            ctime,
-            mtime,
-            config.pathFile.exhentai,
-            galleryNoteFiles
-        )
-    }
-
-    /**
-     * Gets nHentai-specific gallery meta file content
-     * Lists only gallery items with nHentai URLs
-     */
-    async getSpecNHentaiGalleryMetaFileContent(
-        _title: string,
-        ctime: string,
-        mtime: string,
-    ): Promise<string> {
-        const galleryNoteFiles = app.vault
-            .getMarkdownFiles()
-            .filter((f: any) =>
-                arrayUtil
-                    .safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up)
-                    .includes(config.ref.collectionGallery)
-            )
-            .filter((f: any) =>
-                (app.metadataCache.getFileCache(f)?.frontmatter?.url || '').includes(
-                    config.keywords.nhentai
-                )
-            )
-        return await this.generateGalleryMetaFileContent(
-            _title,
-            ctime,
-            mtime,
-            config.pathFile.nhentai,
-            galleryNoteFiles
-        )
-    }
-
-    /**
-     * Gets gallery meta file content for a specific path
-     * Internal helper used by spec gallery content generators
+     * Generates gallery metadata file content (common internal helper)
+     * Shared implementation for different gallery category files (all, exhentai, nhentai)
+     * Filters gallery items and renders them with specified frontmatter
+     * 
+     * @param _title - File title (unused, kept for signature consistency)
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @param metaFilePath - Path to the metadata file being updated
+     * @param galleryNoteFiles - Pre-filtered array of gallery files to include
+     * @param preFMBlock - Additional frontmatter properties to prepend
+     * @returns Complete formatted gallery metadata file content
      */
     private async generateGalleryMetaFileContent(
         _title: string,
@@ -1331,7 +1273,7 @@ class FileTemplateUtil {
     ): Promise<string> {
         const file = app.vault.getAbstractFileByPath(metaFilePath)
         const fileContent = await app.vault.read(file)
-        const gstr = pathUtil.getGStr(new Set(galleryNoteFiles.map(f => f.path)))
+        const gstr = pathUtil.getGalleryItemsStr(new Set(galleryNoteFiles.map(f => f.path)))
 
         const newData = stringUtil
             .replaceFrontMatter(fileContent, ctime, mtime, preFMBlock)
@@ -1344,7 +1286,118 @@ class FileTemplateUtil {
     }
 
     /**
-     * Generates a folder statistics table
+     * Generates generic gallery items file content (all galleries)
+     * Master collection of all gallery items regardless of source site
+     * Includes base template reference for dynamic content
+     * 
+     * @param _title - File title (unused, kept for signature consistency)
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @returns Complete formatted gallery items file content
+     */
+    async generateGalleryItemsFileContent(
+        _title: string,
+        ctime: string,
+        mtime: string,
+    ): Promise<string> {
+        const galleryNoteFiles = app.vault
+            .getMarkdownFiles()
+            .filter((f: any) =>
+                arrayUtil
+                    .safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up)
+                    .includes(config.refs.collectionGallery)
+            )
+        const preFMBlock = `\nup:\n  - "${config.refs.docsCollection}"\nbases:\n  - "${config.refs.baseGallery}"`
+        return await this.generateGalleryMetaFileContent(
+            _title,
+            ctime,
+            mtime,
+            config.files.galleryItems,
+            galleryNoteFiles,
+            preFMBlock
+        )
+    }
+
+    /**
+     * Generates eXHentai-specific gallery file content
+     * Lists only gallery items that have eXHentai URLs in their metadata
+     * Provides a filtered view of galleries from the eXHentai source site
+     * 
+     * @param _title - File title (unused, kept for signature consistency)
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @returns Complete formatted eXHentai gallery file content
+     */
+    async generateExhentaiGalleryFileContent(
+        _title: string,
+        ctime: string,
+        mtime: string,
+    ): Promise<string> {
+        const galleryNoteFiles = app.vault
+            .getMarkdownFiles()
+            .filter((f: any) =>
+                arrayUtil
+                    .safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up)
+                    .includes(config.refs.collectionGallery)
+            )
+            .filter((f: any) =>
+                (app.metadataCache.getFileCache(f)?.frontmatter?.url || '').includes(
+                    config.keywords.exhentai
+                )
+            )
+        return await this.generateGalleryMetaFileContent(
+            _title,
+            ctime,
+            mtime,
+            config.files.exhentaiGallery,
+            galleryNoteFiles
+        )
+    }
+
+    /**
+     * Generates nHentai-specific gallery file content
+     * Lists only gallery items that have nHentai URLs in their metadata
+     * Provides a filtered view of galleries from the nHentai source site
+     * 
+     * @param _title - File title (unused, kept for signature consistency)
+     * @param ctime - Creation timestamp
+     * @param mtime - Modification timestamp
+     * @returns Complete formatted nHentai gallery file content
+     */
+    async generateNhentaiGalleryFileContent(
+        _title: string,
+        ctime: string,
+        mtime: string,
+    ): Promise<string> {
+        const galleryNoteFiles = app.vault
+            .getMarkdownFiles()
+            .filter((f: any) =>
+                arrayUtil
+                    .safeArray(app.metadataCache.getFileCache(f)?.frontmatter?.up)
+                    .includes(config.refs.collectionGallery)
+            )
+            .filter((f: any) =>
+                (app.metadataCache.getFileCache(f)?.frontmatter?.url || '').includes(
+                    config.keywords.nhentai
+                )
+            )
+        return await this.generateGalleryMetaFileContent(
+            _title,
+            ctime,
+            mtime,
+            config.files.nhentaiGallery,
+            galleryNoteFiles
+        )
+    }
+
+    /**
+     * Generates folder statistics table for README
+     * Creates a markdown table with descendant file counts for each folder
+     * Helps monitor vault organization and file distribution
+     * 
+     * @param folders - Array of all folder objects in the vault
+     * @param files - Array of all file objects in the vault
+     * @returns Formatted markdown table with folder statistics
      */
     private generateFolderStatisticsTable(folders: any[], files: any[]): string {
         return `| Folder Path | DFC | DFMC | DFOC |\n| :--- | ---: | ---: | ---: |\n${folders
@@ -1368,30 +1421,44 @@ class FileTemplateUtil {
             )
             .join('\n')}`
     }
-
 }
 
-const fileTemplateUtil: FileTemplateUtil = FileTemplateUtil.getInstance()
+const fileTemplateUtil: ContentGenerator = ContentGenerator.getInstance()
 
 /**
- * Main orchestrator for the gallery index building process
- * Coordinates all file processing tasks and manages the execution workflow
+ * Main program orchestrator
+ * Manages the complete execution workflow for the gallery index building process
+ * Coordinates all file processing tasks and maintains the 6-stage processing pipeline
+ * 
+ * Execution pipeline stages:
+ * 1. Cache Refresh - Ensures metadata is current before processing
+ * 2. Batch Operations - Creates unresolved links, organizes years, standardizes filenames
+ * 3. Single File Processing - Generates README and critical metadata files
+ * 4. Cache Refresh - Updates metadata again before directory processing
+ * 5. Directory Processing - Batch generates tags, years, properties, uploaders
+ * 6. Cleanup - Removes duplicate values from frontmatter array properties
  */
 class Main {
     private static readonly logger: Logger = new Logger()
 
     /**
-     * Entry point for the script
-     * Initiates the main async process with error handling
+     * Script entry point
+     * Initiates the main async workflow with error handling
+     * Catches and logs any unhandled errors from the async pipeline
      */
     static main(): void {
         Main.asyncMain().catch(err =>
-            Main.logger.error('unhandled error in build-index-content main:', err)
+            Main.logger.error('Unhandled exception during script execution:', err)
         )
     }
 
     /**
-     * Executes a timed operation with logging
+     * Executes a timed synchronous operation with logging
+     * Records start/end timestamps and logs operation status
+     * Catches and logs any errors without stopping execution
+     * 
+     * @param operationName - Descriptive name of the operation (appears in logs)
+     * @param operation - Synchronous function to execute
      */
     private static timedOperation(
         operationName: string,
@@ -1405,12 +1472,17 @@ class Main {
             Main.logger.log(`${Constants.LOG_PREFIX_ENDED} ${operationName}`)
             console.timeEnd(timerName)
         } catch (e) {
-            Main.logger.error(`error in ${operationName}`, e)
+            Main.logger.error(`${operationName} execution failed`, e)
         }
     }
 
     /**
-     * Executes an async timed operation with logging
+     * Executes a timed asynchronous operation with logging
+     * Awaits async functions and records performance metrics
+     * Catches and logs errors without stopping the pipeline
+     * 
+     * @param operationName - Descriptive name of the operation (appears in logs)
+     * @param operation - Async function to execute and await
      */
     private static async timedAsyncOperation(
         operationName: string,
@@ -1424,31 +1496,39 @@ class Main {
             Main.logger.log(`${Constants.LOG_PREFIX_ENDED} ${operationName}`)
             console.timeEnd(timerName)
         } catch (e) {
-            Main.logger.error(`error in ${operationName}`, e)
+            Main.logger.error(`${operationName} execution failed`, e)
         }
     }
 
     /**
-     * Processes a single file with a specified generator function
+     * Processes a single file with its content generator
+     * Calls the file processor utility and wraps it with timing/logging
+     * 
+     * @param path - Path to the file to process
+     * @param fn - Content generator function for this file type
      */
     private static async processSingleFile(
         path: string,
         fn: FileContentGenerator
     ): Promise<void> {
-        const operationName = `${fn.name.replace(/^bound /g, "bound-")}-${path}`
+        const operationName = `Process file: ${path}`
         await Main.timedAsyncOperation(operationName, () =>
             fileProcesserUtil.getProcessFilePromise(path, fn)
         )
     }
 
     /**
-     * Processes all files in a directory with a specified generator function
+     * Processes all markdown files in a directory with a content generator
+     * Applies the generator to all matching files and handles them in parallel
+     * 
+     * @param rootDirPath - Directory path to process
+     * @param fn - Content generator function for all files in this directory
      */
     private static async processDirectory(
         rootDirPath: string,
         fn: FileContentGenerator
     ): Promise<void> {
-        const operationName = `${fn.name.replace(/^bound /g, "bound-")}-${rootDirPath}`
+        const operationName = `Process directory: ${rootDirPath}`
         await Main.timedAsyncOperation(operationName, async () => {
             await Promise.all(
                 app.vault
@@ -1460,11 +1540,12 @@ class Main {
     }
 
     /**
-     * Cleans up frontmatter properties
+     * Cleans up duplicate values in frontmatter array properties
+     * Processes all markdown files and removes duplicate entries while preserving order
      */
     private static clearFrontmatter(): void {
         Main.timedOperation(
-            'removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles',
+            'Clear duplicate frontmatter properties',
             () => {
                 fileProcesserUtil.removeDuplicatedValueInArrayPropertyInFrontmatterForAllMarkdownFiles()
             }
@@ -1472,71 +1553,79 @@ class Main {
     }
 
     /**
-     * Builds configuration for single-file processing tasks
+     * Builds configuration array for single-file processing tasks
+     * Returns tuples of (file path, content generator function) for all files requiring updates
+     * 
+     * @returns Array of [filepath, generator] tuples for single-file processing
      */
     private static getSingleFileSpecs(): Array<[string, FileContentGenerator]> {
         return [
             [
-                config.pathFile.readme,
-                fileTemplateUtil.getReadmeFileContent.bind(fileTemplateUtil)
+                config.files.readme,
+                fileTemplateUtil.generateReadmeFileContent.bind(fileTemplateUtil)
             ],
             [
-                config.pathFile.uploader,
-                fileTemplateUtil.getUploaderGroupFileContent.bind(fileTemplateUtil)
+                config.files.uploaderMeta,
+                fileTemplateUtil.generateUploaderGroupFileContent.bind(fileTemplateUtil)
             ],
             [
-                config.pathFile.tag,
-                fileTemplateUtil.getTagMetaFileContent.bind(fileTemplateUtil)
+                config.files.tagMeta,
+                fileTemplateUtil.generateTagMetaFileContent.bind(fileTemplateUtil)
             ],
             [
-                config.pathFile.galleryNotes,
-                fileTemplateUtil.getNoteMetaFileContent.bind(fileTemplateUtil)
+                config.files.galleryNotes,
+                fileTemplateUtil.generateGalleryNotesMetaFileContent.bind(fileTemplateUtil)
             ],
             [
-                config.pathFile.gallery,
-                fileTemplateUtil.getSpecGalleryMetaFileContent.bind(fileTemplateUtil)
+                config.files.galleryItems,
+                fileTemplateUtil.generateGalleryItemsFileContent.bind(fileTemplateUtil)
             ],
             [
-                config.pathFile.exhentai,
-                fileTemplateUtil.getSpecEXHentaiGalleryMetaFileContent.bind(fileTemplateUtil)
+                config.files.exhentaiGallery,
+                fileTemplateUtil.generateExhentaiGalleryFileContent.bind(fileTemplateUtil)
             ],
             [
-                config.pathFile.nhentai,
-                fileTemplateUtil.getSpecNHentaiGalleryMetaFileContent.bind(fileTemplateUtil)
+                config.files.nhentaiGallery,
+                fileTemplateUtil.generateNhentaiGalleryFileContent.bind(fileTemplateUtil)
             ]
         ]
     }
 
     /**
-     * Builds configuration for directory-scoped processing tasks
+     * Builds configuration array for directory-level processing tasks
+     * Returns tuples of (directory path, content generator function) for batch file generation
+     * Processes all files within each directory with the same generator
+     * 
+     * @returns Array of [dirpath, generator] tuples for directory-level processing
      */
     private static getDirectorySpecs(): Array<[string, FileContentGenerator]> {
         return [
             [
-                config.pathFolder.docsTag,
-                fileTemplateUtil.getTagGroupFileContent.bind(fileTemplateUtil)
+                config.folders.docsTag,
+                fileTemplateUtil.generateTagGroupFileContent.bind(fileTemplateUtil)
             ],
             [
-                config.pathFolder.docsYear,
-                fileTemplateUtil.getYearFileContent.bind(fileTemplateUtil)
+                config.folders.docsYear,
+                fileTemplateUtil.generateYearFileContent.bind(fileTemplateUtil)
             ],
             [
-                config.pathFolder.property,
-                fileTemplateUtil.getPropertyFileContent.bind(fileTemplateUtil)
+                config.folders.property,
+                fileTemplateUtil.generatePropertyFileContent.bind(fileTemplateUtil)
             ],
             [
-                config.pathFolder.uploader,
-                fileTemplateUtil.getTagFileContent.bind(fileTemplateUtil)
+                config.folders.uploader,
+                fileTemplateUtil.generateTagFileContent.bind(fileTemplateUtil)
             ],
             [
-                config.pathFolder.tag,
-                fileTemplateUtil.getTagFileContent.bind(fileTemplateUtil)
+                config.folders.tag,
+                fileTemplateUtil.generateTagFileContent.bind(fileTemplateUtil)
             ]
         ]
     }
 
     /**
-     * Processes all single files sequentially
+     * Processes all configured single files sequentially
+     * Each file is processed with its dedicated content generator and logged independently
      */
     private static async processSingleFiles(): Promise<void> {
         const specs = Main.getSingleFileSpecs()
@@ -1546,7 +1635,8 @@ class Main {
     }
 
     /**
-     * Processes all directories sequentially
+     * Processes all configured directories sequentially
+     * Each directory is processed with its dedicated content generator for all matching files
      */
     private static async processDirectories(): Promise<void> {
         const specs = Main.getDirectorySpecs()
@@ -1556,19 +1646,25 @@ class Main {
     }
 
     /**
-     * Execution stage: Prepare - refresh metadata cache
+     * Stage 1: Refresh cache
+     * Ensures metadata cache is current before processing begins
+     * Forces Obsidian to reparse all file metadata
      */
     private static async stageRefreshCache(): Promise<void> {
-        await Main.timedAsyncOperation('refreshCache', () =>
+        await Main.timedAsyncOperation('Stage 1: Refresh metadata cache', () =>
             Promise.resolve(fileProcesserUtil.refreshCache())
         )
     }
 
     /**
-     * Execution stage: File creation and batch operations
+     * Stage 2: Batch operations
+     * Includes:
+     * - Creating files from unresolved wikilinks
+     * - Organizing gallery notes into year-based subdirectories
+     * - Standardizing gallery cover filenames to match note names
      */
     private static async stageBatchOperations(): Promise<void> {
-        await Main.timedAsyncOperation('batchOperations', async () => {
+        await Main.timedAsyncOperation('Stage 2: Batch operations', async () => {
             await Promise.all([
                 Promise.resolve(
                     fileProcesserUtil.createFilesFromUnresolvedLinksForAllGalleryNoteFiles()
@@ -1582,39 +1678,46 @@ class Main {
     }
 
     /**
-     * Execution stage: Process single files
+     * Stage 3: Single file processing
+     * Generates critical metadata files like README, tag index, uploader index, etc.
      */
     private static async stageSingleFileProcessing(): Promise<void> {
-        await Main.timedAsyncOperation('singleFileProcessing', () =>
+        await Main.timedAsyncOperation('Stage 3: Single file processing', () =>
             Main.processSingleFiles()
         )
     }
 
     /**
-     * Execution stage: Process directory files
+     * Stage 5: Directory processing
+     * Batch generates content for all files in configured directories
+     * Creates tag group files, year files, property files, uploader files
      */
     private static async stageDirectoryProcessing(): Promise<void> {
-        await Main.timedAsyncOperation('directoryProcessing', () =>
+        await Main.timedAsyncOperation('Stage 5: Directory processing', () =>
             Main.processDirectories()
         )
     }
 
     /**
-     * Execution stage: Cleanup
+     * Stage 6: Cleanup
+     * Removes duplicate values from frontmatter array properties across all files
      */
     private static stageCleanup(): void {
-        Main.clearFrontmatter()
+        Main.timedOperation('Stage 6: Cleanup and deduplication', () => {
+            Main.clearFrontmatter()
+        })
     }
 
     /**
      * Main async orchestration method
-     * Executes all processing stages in order
+     * Executes all 6 processing stages sequentially to build the gallery index
+     * Maintains consistent performance metrics and error handling throughout
      */
     static async asyncMain(): Promise<void> {
         console.time('run_script')
         Main.logger.log(`${Constants.LOG_STARTED_SCRIPT} (time="${new Date()}")`)
 
-        // Stage 1: Cache refresh
+        // Stage 1: Refresh metadata cache
         await Main.stageRefreshCache()
 
         // Stage 2: File creation and batch operations
@@ -1623,13 +1726,15 @@ class Main {
         // Stage 3: Single-file processing
         await Main.stageSingleFileProcessing()
 
-        // Stage 4: Cache refresh before directory processing
-        await Main.stageRefreshCache()
+        // Stage 4: Refresh cache again before directory processing
+        await Main.timedAsyncOperation('Stage 4: Refresh metadata cache (2)', () =>
+            Promise.resolve(fileProcesserUtil.refreshCache())
+        )
 
-        // Stage 5: Directory processing
+        // Stage 5: Directory processing (batch generation)
         await Main.stageDirectoryProcessing()
 
-        // Stage 6: Cleanup
+        // Stage 6: Cleanup and deduplication
         Main.stageCleanup()
 
         Main.logger.log(`${Constants.LOG_ENDED_SCRIPT} (time="${new Date()}")`)
