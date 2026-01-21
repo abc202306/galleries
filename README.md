@@ -135,50 +135,51 @@ An Obsidian Note Vault for storing gallery notes, and also for storing digests f
 
 ### artist
 
-> seealso: [[base-gallery.base#artist|artist]]
+> seealso: [[base-gallery.base#artist]], [[gallery-doc-artist]]
 
 1. [[base-gallery.base#artist/kiira]] | 5 | [[exhentai-tag-kiira|kiira]]
-2. [[base-gallery.base#artist/henreader]] | 5 | [[exhentai-tag-henreader|henreader]]
-3. [[base-gallery.base#artist/utatane]] | 4 | [[exhentai-tag-utatane|utatane]]
-4. [[base-gallery.base#artist/wancho]] | 5 | [[exhentai-tag-wancho|wancho]]
-5. [[base-gallery.base#artist/custom-udon]] | 3 | [[exhentai-tag-custom-udon|custom-udon]]
-6. [[base-gallery.base#artist/komugi]] | 3 | [[exhentai-tag-komugi|komugi]]
-7. [[base-gallery.base#artist/hikami-izuto]] | 2 | [[exhentai-tag-hikami-izuto|hikami-izuto]]
-8. [[base-gallery.base#artist/murai-renji]] | 1 | [[exhentai-tag-murai-renji|murai-renji]]
-9. [[base-gallery.base#artist/yoyomax]] | 1 | [[exhentai-tag-yoyomax|yoyomax]]
-10. [[base-gallery.base#artist/kani-biimu]] | 1 | [[exhentai-tag-kani-biimu|kani-biimu]]
-11. [[base-gallery.base#artist/baku-p]] | 1 | [[exhentai-tag-baku-p|baku-p]]
+1. [[base-gallery.base#artist/henreader]] | 5 | [[exhentai-tag-henreader|henreader]]
+1. [[base-gallery.base#artist/utatane]] | 4 | [[exhentai-tag-utatane|utatane]]
+1. [[base-gallery.base#artist/wancho]] | 3 | [[exhentai-tag-wancho|wancho]]
+1. [[base-gallery.base#artist/custom-udon]] | 3 | [[exhentai-tag-custom-udon|custom-udon]]
+1. [[base-gallery.base#artist/komugi]] | 3 | [[exhentai-tag-komugi|komugi]]
+1. [[base-gallery.base#artist/hikami-izuto]] | 2 | [[exhentai-tag-hikami-izuto|hikami-izuto]]
+1. | 2 | [[exhentai-tag-as109-or-g.s|as109-or-g.s]]
+1. [[base-gallery.base#artist/murai-renji]] | 1 | [[exhentai-tag-murai-renji|murai-renji]]
+1. [[base-gallery.base#artist/yoyomax]] | 1 | [[exhentai-tag-yoyomax|yoyomax]]
+1. [[base-gallery.base#artist/kani-biimu]] | 1 | [[exhentai-tag-kani-biimu|kani-biimu]]
+1. [[base-gallery.base#artist/baku-p]] | 1 | [[exhentai-tag-baku-p|baku-p]]
 
 ### categories
 
-> seealso: [[base-gallery.base#categories|categories]]
+> seealso: [[base-gallery.base#categories]]
 
-1. [[base-gallery.base#categories/doujinshi]] | 463 | [[exhentai-tag-doujinshi|doujinshi]]
-2. [[base-gallery.base#categories/manga]] | 114 | [[exhentai-tag-manga|manga]]
-3. [[base-gallery.base#categories/image-set]] | 37 | [[exhentai-tag-image-set|image-set]]
-4. [[base-gallery.base#categories/misc]] | 23 | [[exhentai-tag-misc|misc]]
-5. [[base-gallery.base#categories/artist-cg]] | 33 | [[exhentai-tag-artist-cg|artist-cg]]
-6. [[base-gallery.base#categories/game-cg]] | 8 | [[exhentai-tag-game-cg|game-cg]]
-7. [[base-gallery.base#categories/non-h]] | 4 | [[exhentai-tag-non-h|non-h]]
-8. [[base-gallery.base#categories/western]] | 1 | [[exhentai-tag-western|western]]
+1. [[base-gallery.base#categories/doujinshi]] | 489 | [[exhentai-tag-doujinshi|doujinshi]]
+1. [[base-gallery.base#categories/manga]] | 119 | [[exhentai-tag-manga|manga]]
+1. [[base-gallery.base#categories/image-set]] | 39 | [[exhentai-tag-image-set|image-set]]
+1. [[base-gallery.base#categories/artist-cg]] | 35 | [[exhentai-tag-artist-cg|artist-cg]]
+1. [[base-gallery.base#categories/misc]] | 23 | [[exhentai-tag-misc|misc]]
+1. [[base-gallery.base#categories/game-cg]] | 8 | [[exhentai-tag-game-cg|game-cg]]
+1. [[base-gallery.base#categories/non-h]] | 4 | [[exhentai-tag-non-h|non-h]]
+1. [[base-gallery.base#categories/western]] | 1 | [[exhentai-tag-western|western]]
 
 ### parody
 
-> seealso: [[base-gallery.base#parody|parody]]
+> seealso: [[base-gallery.base#parody]]
 
-1. [[base-gallery.base#parody/original]] | 193 | [[exhentai-tag-original|original]]
-2. [[base-gallery.base#parody/blue-archive]] | 93 | [[exhentai-tag-blue-archive|blue-archive]]
-3. [[base-gallery.base#parody/touhou-project]] | 25 | [[exhentai-tag-touhou-project|touhou-project]]
-4. [[base-gallery.base#parody/mahoujin-guru-guru]] | 20 | [[exhentai-tag-mahoujin-guru-guru|mahoujin-guru-guru]]
+1. [[base-gallery.base#parody/original]] | 205 | [[exhentai-tag-original|original]]
+1. [[base-gallery.base#parody/blue-archive]] | 101 | [[exhentai-tag-blue-archive|blue-archive]]
+1. [[base-gallery.base#parody/touhou-project]] | 25 | [[exhentai-tag-touhou-project|touhou-project]]
+1. [[base-gallery.base#parody/mahoujin-guru-guru]] | 20 | [[exhentai-tag-mahoujin-guru-guru|mahoujin-guru-guru]]
 
 ### female
 
-1. [[base-gallery.base#female/lolicon]] | 644 | [[exhentai-tag-lolicon|lolicon]]
-2. [[base-gallery.base#female/rape]] | 106 | [[exhentai-tag-rape|rape]]
+1. [[base-gallery.base#female/lolicon]] | 676 | [[exhentai-tag-lolicon|lolicon]]
+1. [[base-gallery.base#female/rape]] | 110 | [[exhentai-tag-rape|rape]]
 
 ### male
 
-1. [[base-gallery.base#male/sole-male]] | 293 | [[exhentai-tag-sole-male|sole-male]]
+1. [[base-gallery.base#male/sole-male]] | 309 | [[exhentai-tag-sole-male|sole-male]]
 
 ### mixed
 
