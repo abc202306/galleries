@@ -11,6 +11,7 @@ An Obsidian Note Vault for storing gallery notes, and also for storing digests f
 | --- | --- |
 | preview-url | https://abc202306.github.io/quartz/ |
 | source-url | https://github.com/abc202306/galleries/ |
+| version | v1.0.0.20260122 |
 
 <img src="./gallery-doc/gallery-doc-image-file/image-obsidian-vault-galleries-graph-view.png" width=200>
 

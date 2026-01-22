@@ -352,7 +352,7 @@ API 变化:          0
 
 | 链接 | 用途 |
 |------|------|
-| [源代码](src/tsscript20260118021000/) | 查看改进代码 |
+| [源代码](../../build-index-content-for-obisidian-note-vault-gallery-tsscript20260118021000.ts) | 查看改进代码 |
 | [完成总结](README_REFACTORING.md) | 了解全局 |
 | [文档索引](REFACTORING_INDEX.md) | 导航所有文档 |
 | [快速参考](REFACTORING_QUICK_REFERENCE.md) | 快速查阅 |
