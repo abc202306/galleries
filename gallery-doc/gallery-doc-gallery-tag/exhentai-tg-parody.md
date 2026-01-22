@@ -1,12 +1,13 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-20T21:45:46+08:00
+mtime: 2026-01-22T11:32:25+08:00
 ---
 
 # exhentai-tg-parody
 
 > seealso: [[gallery-doc-gallery-tag|gallery-doc-gallery-tag]]
 
+1. [[exhentai-tag-aharen-san-wa-hakarenai|aharen-san-wa-hakarenai]] | 1
 1. [[exhentai-tag-aishiteruze-baby|aishiteruze-baby]] | 1
 1. [[exhentai-tag-alice-gear-aegis|alice-gear-aegis]] | 1
 1. [[exhentai-tag-alice-in-wonderland|alice-in-wonderland]] | 2
@@ -15,11 +16,12 @@ mtime: 2026-01-20T21:45:46+08:00
 1. [[exhentai-tag-avatar-the-last-airbender|avatar-the-last-airbender]] | 1
 1. [[exhentai-tag-azur-lane|azur-lane]] | 7
 1. [[exhentai-tag-bakemonogatari|bakemonogatari]] | 2
-1. [[exhentai-tag-blue-archive|blue-archive]] | 101
+1. [[exhentai-tag-blue-archive|blue-archive]] | 103
 1. [[exhentai-tag-bocchi-the-rock|bocchi-the-rock]] | 1
 1. [[exhentai-tag-boruto|boruto]] | 4
 1. [[exhentai-tag-buddy-daddies|buddy-daddies]] | 1
 1. [[exhentai-tag-cardcaptor-sakura|cardcaptor-sakura]] | 6
+1. [[exhentai-tag-denkigai-no-honya-san|denkigai-no-honya-san]] | 1
 1. [[exhentai-tag-doraemon|doraemon]] | 1
 1. [[exhentai-tag-dorei-to-no-seikatsu|dorei-to-no-seikatsu]] | 1
 1. [[exhentai-tag-dragon-ball|dragon-ball]] | 1
@@ -43,12 +45,15 @@ mtime: 2026-01-20T21:45:46+08:00
 1. [[exhentai-tag-goddess-of-victory-nikke|goddess-of-victory-nikke]] | 3
 1. [[exhentai-tag-granblue-fantasy|granblue-fantasy]] | 4
 1. [[exhentai-tag-hacka-doll|hacka-doll]] | 1
+1. [[exhentai-tag-hazure-skill-kinomi-master|hazure-skill-kinomi-master]] | 1
 1. [[exhentai-tag-himesama-goumon-no-jikan-desu|himesama-goumon-no-jikan-desu]] | 1
 1. [[exhentai-tag-himouto-umaru-chan|himouto-umaru-chan]] | 1
 1. [[exhentai-tag-hololive|hololive]] | 5
 1. [[exhentai-tag-honkai-star-rail|honkai-star-rail]] | 2
+1. [[exhentai-tag-houkago-teibou-nisshi|houkago-teibou-nisshi]] | 1
 1. [[exhentai-tag-idoly-pride|idoly-pride]] | 1
 1. [[exhentai-tag-inou-battle-wa-nichijou-kei-no-naka-de|inou-battle-wa-nichijou-kei-no-naka-de]] | 1
+1. [[exhentai-tag-jijou-wo-shiranai-tenkousei-ga-guigui-kuru.|jijou-wo-shiranai-tenkousei-ga-guigui-kuru.]] | 1
 1. [[exhentai-tag-kaminaki-sekai-no-kamisama-katsudou|kaminaki-sekai-no-kamisama-katsudou]] | 1
 1. [[exhentai-tag-kantai-collection|kantai-collection]] | 8
 1. [[exhentai-tag-kobayashi-san-chi-no-maid-dragon|kobayashi-san-chi-no-maid-dragon]] | 1
@@ -77,7 +82,7 @@ mtime: 2026-01-20T21:45:46+08:00
 1. [[exhentai-tag-non-non-biyori|non-non-biyori]] | 1
 1. [[exhentai-tag-ongeki|ongeki]] | 2
 1. [[exhentai-tag-onii-chan-wa-oshimai|onii-chan-wa-oshimai]] | 7
-1. [[exhentai-tag-original|original]] | 205
+1. [[exhentai-tag-original|original]] | 207
 1. [[exhentai-tag-oshi-no-ko|oshi-no-ko]] | 1
 1. [[exhentai-tag-pokemon-or-pocket-monsters|pokemon-or-pocket-monsters]] | 2
 1. [[exhentai-tag-princess-connect|princess-connect]] | 7
@@ -85,10 +90,12 @@ mtime: 2026-01-20T21:45:46+08:00
 1. [[exhentai-tag-puella-magi-madoka-magica-side-story-magia-record|puella-magi-madoka-magica-side-story-magia-record]] | 1
 1. [[exhentai-tag-puniru-wa-kawaii-slime|puniru-wa-kawaii-slime]] | 2
 1. [[exhentai-tag-qualidea-code|qualidea-code]] | 2
+1. [[exhentai-tag-recettear|recettear]] | 1
 1. [[exhentai-tag-ryuuou-no-oshigoto|ryuuou-no-oshigoto]] | 3
 1. [[exhentai-tag-seiken-densetsu-3|seiken-densetsu-3]] | 1
 1. [[exhentai-tag-sewayaki-kitsune-no-senko-san|sewayaki-kitsune-no-senko-san]] | 1
 1. [[exhentai-tag-shakugan-no-shana|shakugan-no-shana]] | 2
+1. [[exhentai-tag-shinryaku-ika-musume-or-invasion-squid-girl|shinryaku-ika-musume-or-invasion-squid-girl]] | 1
 1. [[exhentai-tag-shugo-chara|shugo-chara]] | 1
 1. [[exhentai-tag-shuukan-watashi-no-onii-chan|shuukan-watashi-no-onii-chan]] | 1
 1. [[exhentai-tag-sister-princess|sister-princess]] | 1
@@ -114,5 +121,6 @@ mtime: 2026-01-20T21:45:46+08:00
 1. [[exhentai-tag-wonderful-precure|wonderful-precure]] | 1
 1. [[exhentai-tag-world-trigger|world-trigger]] | 1
 1. [[exhentai-tag-xenogears|xenogears]] | 1
+1. [[exhentai-tag-yama-no-susume|yama-no-susume]] | 1
 1. [[exhentai-tag-yu-gi-oh|yu-gi-oh]] | 1
 1. [[exhentai-tag-zenless-zone-zero|zenless-zone-zero]] | 1

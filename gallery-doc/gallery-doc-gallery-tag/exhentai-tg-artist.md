@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-20T22:01:45+08:00
+mtime: 2026-01-22T11:32:25+08:00
 ---
 
 # exhentai-tg-artist
@@ -429,6 +429,7 @@ mtime: 2026-01-20T22:01:45+08:00
 1. [[exhentai-tag-shinjima-saki|shinjima-saki]] | 2
 1. [[exhentai-tag-shinjima-saki-or-masaki-shinji|shinjima-saki-or-masaki-shinji]] | 1
 1. [[exhentai-tag-shinkaida-tetsuyarou|shinkaida-tetsuyarou]] | 1
+1. [[exhentai-tag-shino|shino]] | 1
 1. [[exhentai-tag-shinozuki-kou|shinozuki-kou]] | 1
 1. [[exhentai-tag-shinya-yaoya|shinya-yaoya]] | 1
 1. [[exhentai-tag-shipuoru|shipuoru]] | 4
@@ -491,6 +492,7 @@ mtime: 2026-01-20T22:01:45+08:00
 1. [[exhentai-tag-tsyatu|tsyatu]] | 1
 1. [[exhentai-tag-typehatena|typehatena]] | 2
 1. [[exhentai-tag-ueda-yuu|ueda-yuu]] | 2
+1. [[exhentai-tag-ug|ug]] | 1
 1. [[exhentai-tag-uko|uko]] | 1
 1. [[exhentai-tag-ukyochu|ukyochu]] | 1
 1. [[exhentai-tag-umashio|umashio]] | 1

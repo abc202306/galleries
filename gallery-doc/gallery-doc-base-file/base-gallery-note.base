@@ -1,6 +1,7 @@
 filters:
   and:
-    - up.containsAny(link("collection-gallery-notes", "collection-gallery-notes"))
+    - file.inFolder("gallery-notes")
+    - file.ext == "md"
 views:
   - type: cards
     name: Cards

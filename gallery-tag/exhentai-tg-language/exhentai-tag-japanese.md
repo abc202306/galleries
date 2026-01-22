@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:59+08:00
-mtime: 2026-01-20T22:02:28+08:00
+mtime: 2026-01-22T11:33:36+08:00
 ---
 
 # exhentai-tag-japanese
@@ -10,6 +10,22 @@ mtime: 2026-01-20T22:02:28+08:00
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+##### 2026-01-21
+
+1. `[FANBOX] Shino (2025)` | [[exhentai-g-3749460-a040d73876|exhentai-g-3749460-a040d73876]]
+	- ![[exhentai-g-3749460-a040d73876.webp|200]]
+
+##### 2026-01-20
+
+1. `[心街] パジャマウラの恩返し` | [[exhentai-g-3748192-d35c8af674|exhentai-g-3748192-d35c8af674]]
+	- ![[exhentai-g-3748192-d35c8af674.webp|200]]
+1. `[Pixiv + Twitter] まぼかに (113912362)` | [[exhentai-g-3747985-d54cc85dae|exhentai-g-3747985-d54cc85dae]]
+	- ![[exhentai-g-3747985-d54cc85dae.webp|200]]
 
 ### 2025
 

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:28+08:00
-mtime: 2026-01-20T22:03:02+08:00
+mtime: 2026-01-22T11:33:04+08:00
 ---
 
 # exhentai-tag-kemonomimi
@@ -14,6 +14,18 @@ mtime: 2026-01-20T22:03:02+08:00
 ### 2026
 
 #### 2026-01
+
+##### 2026-01-21
+
+1. `[UG] コミュ症改善!? にゃんダフル喫茶 (デジタルぷにぺどッ! Vol.17) [中国翻訳]` | [[exhentai-g-3749259-75fcb4edad|exhentai-g-3749259-75fcb4edad]]
+	- ![[exhentai-g-3749259-75fcb4edad.webp|200]]
+
+##### 2026-01-20
+
+1. `[心街] パジャマウラの恩返し` | [[exhentai-g-3748192-d35c8af674|exhentai-g-3748192-d35c8af674]]
+	- ![[exhentai-g-3748192-d35c8af674.webp|200]]
+1. `[Pixiv + Twitter] まぼかに (113912362)` | [[exhentai-g-3747985-d54cc85dae|exhentai-g-3747985-d54cc85dae]]
+	- ![[exhentai-g-3747985-d54cc85dae.webp|200]]
 
 ##### 2026-01-17
 
