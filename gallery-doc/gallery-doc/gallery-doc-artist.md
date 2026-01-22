@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-20T16:00:22+08:00
-mtime: 2026-01-20T16:00:22+08:00
+mtime: 2026-01-22T23:33:59+08:00
 ---
 
 # gallery-doc-artist
@@ -14,10 +14,17 @@ mtime: 2026-01-20T16:00:22+08:00
 
 ## impasto
 
-### artist
-
 - [[exhentai-tag-murai-renji|murai-renji]]
 - [[exhentai-tag-as109-or-g.s|as109-or-g.s]] | 水叔
-### group
+
+## guro
+
+- ju ge
+- カガダ
+- 原崎
+
+## related
+
+### impasto-artistgroup
 
 - [[exhentai-tag-happy-lamb-barn|happy-lamb-barn]]
