@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-24T23:54:24+08:00
+mtime: 2026-01-25T01:14:51+08:00
 ---
 
 # exhentai-tg-language
@@ -9,7 +9,7 @@ mtime: 2026-01-24T23:54:24+08:00
 
 1. [[exhentai-tag-chinese|chinese]] | 332
 1. [[exhentai-tag-english|english]] | 109
-1. [[exhentai-tag-japanese|japanese]] | 289
+1. [[exhentai-tag-japanese|japanese]] | 290
 1. [[exhentai-tag-korean|korean]] | 3
 1. [[exhentai-tag-n_a|n_a]] | 5
 1. [[exhentai-tag-spanish|spanish]] | 2

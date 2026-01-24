@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-24T23:54:25+08:00
+mtime: 2026-01-25T01:14:51+08:00
 ---
 
 # exhentai-tg-artist
@@ -135,6 +135,7 @@ mtime: 2026-01-24T23:54:25+08:00
 1. [[exhentai-tag-hakuun|hakuun]] | 1
 1. [[exhentai-tag-hanamiya-natsuka|hanamiya-natsuka]] | 3
 1. [[exhentai-tag-hanbun-kyojaku|hanbun-kyojaku]] | 1
+1. [[exhentai-tag-harasaki|harasaki]] | 1
 1. [[exhentai-tag-harigane-shinshi|harigane-shinshi]] | 2
 1. [[exhentai-tag-harubaru-haruto|harubaru-haruto]] | 2
 1. [[exhentai-tag-haruki|haruki]] | 1

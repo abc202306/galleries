@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-24T23:54:24+08:00
+mtime: 2026-01-25T01:14:51+08:00
 ---
 
 # exhentai-tg-parody
@@ -105,7 +105,7 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-takopii-no-genzai|takopii-no-genzai]] | 1
 1. [[exhentai-tag-tales-of-berseria|tales-of-berseria]] | 1
 1. [[exhentai-tag-tantei-opera-milky-holmes|tantei-opera-milky-holmes]] | 1
-1. [[exhentai-tag-the-idolmaster|the-idolmaster]] | 35
+1. [[exhentai-tag-the-idolmaster|the-idolmaster]] | 36
 1. [[exhentai-tag-the-legend-of-zelda|the-legend-of-zelda]] | 1
 1. [[exhentai-tag-the-owl-house|the-owl-house]] | 2
 1. [[exhentai-tag-the-powerpuff-girls|the-powerpuff-girls]] | 2

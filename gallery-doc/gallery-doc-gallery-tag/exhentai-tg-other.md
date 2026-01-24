@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-24T23:54:24+08:00
+mtime: 2026-01-25T01:14:51+08:00
 ---
 
 # exhentai-tg-other
@@ -17,7 +17,7 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-dakimakura|dakimakura]] | 1
 1. [[exhentai-tag-extraneous-ads|extraneous-ads]] | 7
 1. [[exhentai-tag-full-censorship|full-censorship]] | 9
-1. [[exhentai-tag-full-color|full-color]] | 32
+1. [[exhentai-tag-full-color|full-color]] | 33
 1. [[exhentai-tag-goudoushi|goudoushi]] | 3
 1. [[exhentai-tag-incomplete|incomplete]] | 1
 1. [[exhentai-tag-kodomo-only|kodomo-only]] | 3

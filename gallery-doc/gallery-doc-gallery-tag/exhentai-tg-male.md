@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-24T23:54:24+08:00
+mtime: 2026-01-25T01:14:51+08:00
 ---
 
 # exhentai-tg-male
@@ -17,9 +17,9 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-beauty-mark|beauty-mark]] | 1
 1. [[exhentai-tag-big-penis|big-penis]] | 16
 1. [[exhentai-tag-blindfold|blindfold]] | 1
-1. [[exhentai-tag-blood|blood]] | 1
+1. [[exhentai-tag-blood|blood]] | 2
 1. [[exhentai-tag-bull|bull]] | 1
-1. [[exhentai-tag-business-suit|business-suit]] | 1
+1. [[exhentai-tag-business-suit|business-suit]] | 2
 1. [[exhentai-tag-butler|butler]] | 1
 1. [[exhentai-tag-cat|cat]] | 2
 1. [[exhentai-tag-cbt|cbt]] | 1
@@ -48,6 +48,7 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-gender-morph|gender-morph]] | 2
 1. [[exhentai-tag-glasses|glasses]] | 14
 1. [[exhentai-tag-group|group]] | 1
+1. [[exhentai-tag-guro|guro]] | 1
 1. [[exhentai-tag-gyaru-oh|gyaru-oh]] | 1
 1. [[exhentai-tag-hairy|hairy]] | 3
 1. [[exhentai-tag-handjob|handjob]] | 1
@@ -81,8 +82,8 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-shotacon|shotacon]] | 26
 1. [[exhentai-tag-sleeping|sleeping]] | 4
 1. [[exhentai-tag-smell|smell]] | 1
-1. [[exhentai-tag-snuff|snuff]] | 1
-1. [[exhentai-tag-sole-male|sole-male]] | 114
+1. [[exhentai-tag-snuff|snuff]] | 2
+1. [[exhentai-tag-sole-male|sole-male]] | 115
 1. [[exhentai-tag-stockings|stockings]] | 1
 1. [[exhentai-tag-sweating|sweating]] | 2
 1. [[exhentai-tag-tall-man|tall-man]] | 1

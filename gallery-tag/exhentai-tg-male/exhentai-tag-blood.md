@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:58+08:00
-mtime: 2026-01-16T17:52:27+08:00
+mtime: 2026-01-25T01:15:26+08:00
 ---
 
 # exhentai-tag-blood
@@ -19,6 +19,13 @@ mtime: 2026-01-16T17:52:27+08:00
 
 1. `Poruserin decensored +Hardcore edits (Virgin, blood, deflowered) [HQC]` | [[exhentai-g-3670232-47ca5c1fbc|exhentai-g-3670232-47ca5c1fbc]]
 	- ![[exhentai-g-3670232-47ca5c1fbc.webp|200]]
+
+#### 2025-10
+
+##### 2025-10-31
+
+1. `[原崎] やよいちゃんの受難 (アイドルマスター)` | [[exhentai-g-3613475-dc8b798f72|exhentai-g-3613475-dc8b798f72]]
+	- ![[exhentai-g-3613475-dc8b798f72.webp|200]]
 
 ### 2024
 

@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:19+08:00
-mtime: 2026-01-16T17:52:31+08:00
+mtime: 2026-01-25T01:15:46+08:00
 ---
 
 # exhentai-tag-twintails
@@ -130,6 +130,8 @@ mtime: 2026-01-16T17:52:31+08:00
 
 ##### 2025-10-31
 
+1. `[原崎] やよいちゃんの受難 (アイドルマスター)` | [[exhentai-g-3613475-dc8b798f72|exhentai-g-3613475-dc8b798f72]]
+	- ![[exhentai-g-3613475-dc8b798f72.webp|200]]
 1. `[FANBOX] ぽるせりん | Poruserin (10/31/2025)` | [[exhentai-g-3611933-e12fb2b3f5|exhentai-g-3611933-e12fb2b3f5]]
 	- ![[exhentai-g-3611933-e12fb2b3f5.webp|200]]
 

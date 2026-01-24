@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-24T23:54:25+08:00
+mtime: 2026-01-25T01:14:51+08:00
 ---
 
 # exhentai-tg-character
@@ -284,6 +284,7 @@ mtime: 2026-01-24T23:54:25+08:00
 1. [[exhentai-tag-yaia|yaia]] | 1
 1. [[exhentai-tag-yaoyao|yaoyao]] | 1
 1. [[exhentai-tag-yayoi|yayoi]] | 1
+1. [[exhentai-tag-yayoi-takatsuki|yayoi-takatsuki]] | 1
 1. [[exhentai-tag-yoshino-yorita|yoshino-yorita]] | 2
 1. [[exhentai-tag-yukimi-sajo|yukimi-sajo]] | 2
 1. [[exhentai-tag-yun-iijima|yun-iijima]] | 1

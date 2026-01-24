@@ -1781,7 +1781,7 @@ class Main {
         Main.logger.log(`${Constants.LOG_STARTED_SCRIPT} (time="${new Date()}")`)
 
         // Stage 1: Refresh metadata cache
-        await Main.stageRefreshCache()
+        // await Main.stageRefreshCache()
 
         // Stage 2: File creation and batch operations
         await Main.stageBatchOperations()
@@ -1790,9 +1790,12 @@ class Main {
         await Main.stageSingleFileProcessing()
 
         // Stage 4: Refresh cache again before directory processing
-        await Main.timedAsyncOperation('Stage 4: Refresh metadata cache (2)', () =>
-            Promise.resolve(fileProcesserUtil.refreshCache())
-        )
+        // await Main.timedAsyncOperation('Stage 4: Refresh metadata cache (2)', () =>
+        //     Promise.resolve(fileProcesserUtil.refreshCache())
+        // )
+
+        console.log('Waiting 30 seconds to ensure cache is updated...');
+        await new Promise(resolve => setTimeout(resolve, 30000)); // wait for 30 second to ensure cache is updated
 
         // Stage 5: Directory processing (batch generation)
         await Main.stageDirectoryProcessing()

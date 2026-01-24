@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-24T23:54:23+08:00
+mtime: 2026-01-25T01:14:50+08:00
 ---
 
 # gallery-doc-exhentai-uploader
@@ -9,7 +9,7 @@ mtime: 2026-01-24T23:54:23+08:00
 
 1. [[exhentai-uploader--Lumina-|-Lumina-]] | 1
 1. [[exhentai-uploader--terry-|-terry-]] | 1
-1. [[exhentai-uploader-(Disowned)|(Disowned)]] | 15
+1. [[exhentai-uploader-(Disowned)|(Disowned)]] | 16
 1. [[exhentai-uploader-114514beastman|114514beastman]] | 1
 1. [[exhentai-uploader-1235789gzy1|1235789gzy1]] | 1
 1. [[exhentai-uploader-4Lajf|4Lajf]] | 1
