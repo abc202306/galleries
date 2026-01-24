@@ -899,7 +899,10 @@ class FileProcesserUtil {
     refreshCache(): void {
         app.vault
             .getMarkdownFiles()
-            .forEach((f: any) => app.metadataCache.getFileCache(f))
+            .forEach((f: any) => {
+                app.metadataCache.getFileCache(f);
+                app.metadataCache.getBacklinksForFile(f);
+            })
     }
 }
 

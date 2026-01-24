@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-22T11:32:25+08:00
+mtime: 2026-01-24T23:54:24+08:00
 ---
 
 # exhentai-tg-parody
@@ -14,7 +14,7 @@ mtime: 2026-01-22T11:32:25+08:00
 1. [[exhentai-tag-ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai|ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai]] | 1
 1. [[exhentai-tag-arknights|arknights]] | 2
 1. [[exhentai-tag-avatar-the-last-airbender|avatar-the-last-airbender]] | 1
-1. [[exhentai-tag-azur-lane|azur-lane]] | 7
+1. [[exhentai-tag-azur-lane|azur-lane]] | 8
 1. [[exhentai-tag-bakemonogatari|bakemonogatari]] | 2
 1. [[exhentai-tag-blue-archive|blue-archive]] | 103
 1. [[exhentai-tag-bocchi-the-rock|bocchi-the-rock]] | 1
@@ -82,7 +82,7 @@ mtime: 2026-01-22T11:32:25+08:00
 1. [[exhentai-tag-non-non-biyori|non-non-biyori]] | 1
 1. [[exhentai-tag-ongeki|ongeki]] | 2
 1. [[exhentai-tag-onii-chan-wa-oshimai|onii-chan-wa-oshimai]] | 7
-1. [[exhentai-tag-original|original]] | 207
+1. [[exhentai-tag-original|original]] | 212
 1. [[exhentai-tag-oshi-no-ko|oshi-no-ko]] | 1
 1. [[exhentai-tag-pokemon-or-pocket-monsters|pokemon-or-pocket-monsters]] | 2
 1. [[exhentai-tag-princess-connect|princess-connect]] | 7
@@ -112,7 +112,7 @@ mtime: 2026-01-22T11:32:25+08:00
 1. [[exhentai-tag-the-wolf-and-the-seven-young-kids|the-wolf-and-the-seven-young-kids]] | 1
 1. [[exhentai-tag-toaru-majutsu-no-index|toaru-majutsu-no-index]] | 1
 1. [[exhentai-tag-toradora|toradora]] | 2
-1. [[exhentai-tag-touhou-project|touhou-project]] | 25
+1. [[exhentai-tag-touhou-project|touhou-project]] | 26
 1. [[exhentai-tag-trickcal-revive|trickcal-revive]] | 1
 1. [[exhentai-tag-violated-heroine|violated-heroine]] | 1
 1. [[exhentai-tag-voiceroid|voiceroid]] | 8

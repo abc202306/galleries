@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:06:18+08:00
-mtime: 2026-01-16T17:54:04+08:00
+mtime: 2026-01-24T23:56:53+08:00
 ---
 
 # exhentai-tag-23.4do
@@ -10,6 +10,15 @@ mtime: 2026-01-16T17:54:04+08:00
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+##### 2026-01-23
+
+1. `[23.4ド (イチリ)] 堕天計画 総集編 [中国翻訳] [無修正] [DL版]` | [[exhentai-g-3752564-d7e93cfeae|exhentai-g-3752564-d7e93cfeae]]
+	- ![[exhentai-g-3752564-d7e93cfeae.webp|200]]
 
 ### 2025
 

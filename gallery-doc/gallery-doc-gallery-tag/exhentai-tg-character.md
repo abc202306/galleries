@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-22T11:32:25+08:00
+mtime: 2026-01-24T23:54:25+08:00
 ---
 
 # exhentai-tg-character
@@ -65,6 +65,7 @@ mtime: 2026-01-22T11:32:25+08:00
 1. [[exhentai-tag-fiammetta|fiammetta]] | 1
 1. [[exhentai-tag-fine|fine]] | 4
 1. [[exhentai-tag-flandre-scarlet|flandre-scarlet]] | 6
+1. [[exhentai-tag-formidable|formidable]] | 1
 1. [[exhentai-tag-g41|g41]] | 1
 1. [[exhentai-tag-ganyu|ganyu]] | 1
 1. [[exhentai-tag-gawr-gura|gawr-gura]] | 4
@@ -211,7 +212,7 @@ mtime: 2026-01-22T11:32:25+08:00
 1. [[exhentai-tag-reina-aharen|reina-aharen]] | 1
 1. [[exhentai-tag-reisa-uzawa|reisa-uzawa]] | 1
 1. [[exhentai-tag-reisen-udongein-inaba|reisen-udongein-inaba]] | 1
-1. [[exhentai-tag-remilia-scarlet|remilia-scarlet]] | 5
+1. [[exhentai-tag-remilia-scarlet|remilia-scarlet]] | 6
 1. [[exhentai-tag-rena-kinui|rena-kinui]] | 2
 1. [[exhentai-tag-renji-kusakabe|renji-kusakabe]] | 1
 1. [[exhentai-tag-rika-jougasaki|rika-jougasaki]] | 1

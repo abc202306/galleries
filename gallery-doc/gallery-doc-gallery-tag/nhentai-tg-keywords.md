@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-18T18:27:59+08:00
+mtime: 2026-01-24T23:54:24+08:00
 ---
 
 # nhentai-tg-keywords
@@ -97,7 +97,7 @@ mtime: 2026-01-18T18:27:59+08:00
 1. [[exhentai-tag-elf|elf]] | 5
 1. [[exhentai-tag-emotionless-sex|emotionless-sex]] | 2
 1. [[exhentai-tag-enema|enema]] | 1
-1. [[exhentai-tag-exhibitionism|exhibitionism]] | 22
+1. [[exhentai-tag-exhibitionism|exhibitionism]] | 23
 1. [[exhentai-tag-exposed-clothing|exposed-clothing]] | 1
 1. [[exhentai-tag-extraneous-ads|extraneous-ads]] | 17
 1. [[exhentai-tag-eye-covering-bang|eye-covering-bang]] | 10
@@ -173,7 +173,7 @@ mtime: 2026-01-18T18:27:59+08:00
 1. [[exhentai-tag-leg-lock|leg-lock]] | 2
 1. [[exhentai-tag-leotard|leotard]] | 1
 1. [[exhentai-tag-lingerie|lingerie]] | 4
-1. [[exhentai-tag-lolicon|lolicon]] | 390
+1. [[exhentai-tag-lolicon|lolicon]] | 391
 1. [[exhentai-tag-low-lolicon|low-lolicon]] | 1
 1. [[exhentai-tag-low-scat|low-scat]] | 2
 1. [[exhentai-tag-low-shotacon|low-shotacon]] | 3
@@ -266,11 +266,11 @@ mtime: 2026-01-18T18:27:59+08:00
 1. [[exhentai-tag-sockjob|sockjob]] | 1
 1. [[exhentai-tag-sole-dickgirl|sole-dickgirl]] | 1
 1. [[exhentai-tag-sole-female|sole-female]] | 201
-1. [[exhentai-tag-sole-male|sole-male]] | 202
+1. [[exhentai-tag-sole-male|sole-male]] | 203
 1. [[exhentai-tag-solo-action|solo-action]] | 5
 1. [[exhentai-tag-soushuuhen|soushuuhen]] | 2
 1. [[exhentai-tag-squirting|squirting]] | 8
-1. [[exhentai-tag-stockings|stockings]] | 73
+1. [[exhentai-tag-stockings|stockings]] | 74
 1. [[exhentai-tag-stomach-deformation|stomach-deformation]] | 34
 1. [[exhentai-tag-story-arc|story-arc]] | 5
 1. [[exhentai-tag-stretching|stretching]] | 1

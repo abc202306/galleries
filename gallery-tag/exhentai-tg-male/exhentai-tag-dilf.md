@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:57+08:00
-mtime: 2026-01-20T21:46:29+08:00
+mtime: 2026-01-24T23:55:51+08:00
 ---
 
 # exhentai-tag-dilf
@@ -10,6 +10,15 @@ mtime: 2026-01-20T21:46:29+08:00
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
 ## [[gallery-items|gallery-items]]
+
+### 2026
+
+#### 2026-01
+
+##### 2026-01-22
+
+1. `[ゑびす屋 (アメちゃ)] オジサン大大大大大大大大大大大大大大大大大大大大大だ〜い好き [中国翻訳] [DL版]` | [[exhentai-g-3750648-ec58a90659|exhentai-g-3750648-ec58a90659]]
+	- ![[exhentai-g-3750648-ec58a90659.webp|200]]
 
 ### 2025
 

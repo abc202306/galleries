@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-22T11:32:25+08:00
+mtime: 2026-01-24T23:54:24+08:00
 ---
 
 # exhentai-tg-male
@@ -9,13 +9,13 @@ mtime: 2026-01-22T11:32:25+08:00
 
 1. [[exhentai-tag-anal|anal]] | 1
 1. [[exhentai-tag-asphyxiation|asphyxiation]] | 1
-1. [[exhentai-tag-bald|bald]] | 10
+1. [[exhentai-tag-bald|bald]] | 11
 1. [[exhentai-tag-ball-caressing|ball-caressing]] | 2
-1. [[exhentai-tag-bbm|bbm]] | 22
+1. [[exhentai-tag-bbm|bbm]] | 23
 1. [[exhentai-tag-bear|bear]] | 1
 1. [[exhentai-tag-bear-boy|bear-boy]] | 1
 1. [[exhentai-tag-beauty-mark|beauty-mark]] | 1
-1. [[exhentai-tag-big-penis|big-penis]] | 15
+1. [[exhentai-tag-big-penis|big-penis]] | 16
 1. [[exhentai-tag-blindfold|blindfold]] | 1
 1. [[exhentai-tag-blood|blood]] | 1
 1. [[exhentai-tag-bull|bull]] | 1
@@ -31,16 +31,17 @@ mtime: 2026-01-22T11:32:25+08:00
 1. [[exhentai-tag-coach|coach]] | 2
 1. [[exhentai-tag-condom|condom]] | 5
 1. [[exhentai-tag-crossdressing|crossdressing]] | 2
+1. [[exhentai-tag-cunnilingus|cunnilingus]] | 1
 1. [[exhentai-tag-dark-skin|dark-skin]] | 24
 1. [[exhentai-tag-demon|demon]] | 1
-1. [[exhentai-tag-dilf|dilf]] | 33
+1. [[exhentai-tag-dilf|dilf]] | 34
 1. [[exhentai-tag-dog|dog]] | 2
 1. [[exhentai-tag-dog-boy|dog-boy]] | 1
 1. [[exhentai-tag-exhibitionism|exhibitionism]] | 1
 1. [[exhentai-tag-facial-hair|facial-hair]] | 2
 1. [[exhentai-tag-feminization|feminization]] | 1
 1. [[exhentai-tag-first-person-perspective|first-person-perspective]] | 6
-1. [[exhentai-tag-foot-licking|foot-licking]] | 2
+1. [[exhentai-tag-foot-licking|foot-licking]] | 3
 1. [[exhentai-tag-furry|furry]] | 3
 1. [[exhentai-tag-gang-rape|gang-rape]] | 2
 1. [[exhentai-tag-gender-change|gender-change]] | 11
@@ -81,7 +82,7 @@ mtime: 2026-01-22T11:32:25+08:00
 1. [[exhentai-tag-sleeping|sleeping]] | 4
 1. [[exhentai-tag-smell|smell]] | 1
 1. [[exhentai-tag-snuff|snuff]] | 1
-1. [[exhentai-tag-sole-male|sole-male]] | 109
+1. [[exhentai-tag-sole-male|sole-male]] | 114
 1. [[exhentai-tag-stockings|stockings]] | 1
 1. [[exhentai-tag-sweating|sweating]] | 2
 1. [[exhentai-tag-tall-man|tall-man]] | 1
