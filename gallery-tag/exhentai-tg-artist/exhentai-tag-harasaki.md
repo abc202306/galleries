@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-25T01:16:19+08:00
-mtime: 2026-01-25T01:16:19+08:00
+mtime: 2026-01-25T01:30:52+08:00
 ---
 
 # exhentai-tag-harasaki
 
-> seealso: [[gallery-doc-artist|gallery-doc-artist]]
+> seealso: [[exhentai-tg-artist|exhentai-tg-artist]], [[gallery-doc-artist|gallery-doc-artist]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 

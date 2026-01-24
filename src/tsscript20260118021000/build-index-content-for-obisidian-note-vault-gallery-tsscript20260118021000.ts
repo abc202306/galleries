@@ -1794,8 +1794,8 @@ class Main {
         //     Promise.resolve(fileProcesserUtil.refreshCache())
         // )
 
-        console.log('Waiting 30 seconds to ensure cache is updated...');
-        await new Promise(resolve => setTimeout(resolve, 30000)); // wait for 30 second to ensure cache is updated
+        console.log('Waiting 10 seconds to ensure cache is updated...');
+        await new Promise(resolve => setTimeout(resolve, 10000)); // wait for 10 second to ensure cache is updated
 
         // Stage 5: Directory processing (batch generation)
         await Main.stageDirectoryProcessing()

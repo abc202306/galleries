@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:06:29+08:00
-mtime: 2026-01-25T01:15:53+08:00
+mtime: 2026-01-25T01:30:28+08:00
 ---
 
 # exhentai-tag-guro
 
-> seealso: [[exhentai-tg-female|exhentai-tg-female]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
+> seealso: [[exhentai-tg-female|exhentai-tg-female]], [[exhentai-tg-male|exhentai-tg-male]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
