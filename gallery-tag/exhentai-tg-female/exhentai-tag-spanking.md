@@ -1,11 +1,11 @@
 ---
 ctime: 2026-01-01T00:06:21+08:00
-mtime: 2026-01-16T17:52:35+08:00
+mtime: 2026-01-26T14:59:36+08:00
 ---
 
 # exhentai-tag-spanking
 
-> seealso: [[exhentai-tg-female|exhentai-tg-female]]
+> seealso: [[exhentai-tg-female|exhentai-tg-female]], [[nhentai-tg-keywords|nhentai-tg-keywords]]
 
 ![[base-gallery-dynamic.base|base-gallery-dynamic.base]]
 
@@ -37,3 +37,10 @@ mtime: 2026-01-16T17:52:35+08:00
 
 1. `[アパラチ屋 (かぶ)] 紅魔館の大黒柱 (東方Project) [中国翻訳] [DL版]` | [[exhentai-g-2678956-f40f3b5aee|exhentai-g-2678956-f40f3b5aee]]
 	- ![[exhentai-g-2678956-f40f3b5aee.webp|200]]
+
+#### 2023-07
+
+##### 2023-07-20
+
+1. `[うさ城まに] はるのめざめ (COMICキスハグ vol.1) [中国翻訳]` | [[nhentai-g-464106|nhentai-g-464106]]
+	- ![[nhentai-g-464106.jpg|200]]

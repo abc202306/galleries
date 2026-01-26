@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-25T01:14:51+08:00
+mtime: 2026-01-26T14:45:52+08:00
 ---
 
 # exhentai-tg-character
@@ -50,7 +50,7 @@ mtime: 2026-01-25T01:14:51+08:00
 1. [[exhentai-tag-chinatsu-hinata|chinatsu-hinata]] | 1
 1. [[exhentai-tag-chino-kafuu|chino-kafuu]] | 7
 1. [[exhentai-tag-chloe-von-einzbern|chloe-von-einzbern]] | 1
-1. [[exhentai-tag-cirno|cirno]] | 1
+1. [[exhentai-tag-cirno|cirno]] | 2
 1. [[exhentai-tag-cure-friendly|cure-friendly]] | 1
 1. [[exhentai-tag-daetta|daetta]] | 1
 1. [[exhentai-tag-daisuke-aoki|daisuke-aoki]] | 2
@@ -160,7 +160,7 @@ mtime: 2026-01-25T01:14:51+08:00
 1. [[exhentai-tag-mari-iochi|mari-iochi]] | 6
 1. [[exhentai-tag-maria-balthasar|maria-balthasar]] | 1
 1. [[exhentai-tag-marie|marie]] | 1
-1. [[exhentai-tag-marisa-kirisame|marisa-kirisame]] | 2
+1. [[exhentai-tag-marisa-kirisame|marisa-kirisame]] | 3
 1. [[exhentai-tag-marlene-wallace|marlene-wallace]] | 1
 1. [[exhentai-tag-marnie|marnie]] | 1
 1. [[exhentai-tag-masamune-izumi|masamune-izumi]] | 1
@@ -207,17 +207,17 @@ mtime: 2026-01-25T01:14:51+08:00
 1. [[exhentai-tag-qiqi|qiqi]] | 1
 1. [[exhentai-tag-queen-zephyr|queen-zephyr]] | 1
 1. [[exhentai-tag-ranko-kanzaki|ranko-kanzaki]] | 1
-1. [[exhentai-tag-reimu-hakurei|reimu-hakurei]] | 2
+1. [[exhentai-tag-reimu-hakurei|reimu-hakurei]] | 3
 1. [[exhentai-tag-rein|rein]] | 4
 1. [[exhentai-tag-reina-aharen|reina-aharen]] | 1
 1. [[exhentai-tag-reisa-uzawa|reisa-uzawa]] | 1
-1. [[exhentai-tag-reisen-udongein-inaba|reisen-udongein-inaba]] | 1
-1. [[exhentai-tag-remilia-scarlet|remilia-scarlet]] | 6
+1. [[exhentai-tag-reisen-udongein-inaba|reisen-udongein-inaba]] | 2
+1. [[exhentai-tag-remilia-scarlet|remilia-scarlet]] | 7
 1. [[exhentai-tag-rena-kinui|rena-kinui]] | 2
 1. [[exhentai-tag-renji-kusakabe|renji-kusakabe]] | 1
 1. [[exhentai-tag-rika-jougasaki|rika-jougasaki]] | 1
 1. [[exhentai-tag-riki-naoe|riki-naoe]] | 1
-1. [[exhentai-tag-rin-kaenbyou|rin-kaenbyou]] | 1
+1. [[exhentai-tag-rin-kaenbyou|rin-kaenbyou]] | 2
 1. [[exhentai-tag-rin-kokonoe|rin-kokonoe]] | 2
 1. [[exhentai-tag-rin-shibuya|rin-shibuya]] | 1
 1. [[exhentai-tag-risa-matoba|risa-matoba]] | 6
@@ -234,7 +234,7 @@ mtime: 2026-01-25T01:14:51+08:00
 1. [[exhentai-tag-sanae-kochiya|sanae-kochiya]] | 1
 1. [[exhentai-tag-sasaki-saku|sasaki-saku]] | 1
 1. [[exhentai-tag-sasuke-uchiha|sasuke-uchiha]] | 1
-1. [[exhentai-tag-satori-komeiji|satori-komeiji]] | 2
+1. [[exhentai-tag-satori-komeiji|satori-komeiji]] | 3
 1. [[exhentai-tag-seia-yurizono|seia-yurizono]] | 5
 1. [[exhentai-tag-senko|senko]] | 1
 1. [[exhentai-tag-sensei|sensei]] | 55
@@ -254,9 +254,10 @@ mtime: 2026-01-25T01:14:51+08:00
 1. [[exhentai-tag-shuuka-hanazono|shuuka-hanazono]] | 1
 1. [[exhentai-tag-sora|sora]] | 3
 1. [[exhentai-tag-star-sapphire|star-sapphire]] | 1
-1. [[exhentai-tag-suika-ibuki|suika-ibuki]] | 1
+1. [[exhentai-tag-suika-ibuki|suika-ibuki]] | 2
 1. [[exhentai-tag-suletta-mercury|suletta-mercury]] | 1
 1. [[exhentai-tag-sunny-milk|sunny-milk]] | 1
+1. [[exhentai-tag-suwako-moriya|suwako-moriya]] | 1
 1. [[exhentai-tag-suzuran|suzuran]] | 1
 1. [[exhentai-tag-sylvie|sylvie]] | 1
 1. [[exhentai-tag-tabitha|tabitha]] | 1
@@ -266,7 +267,7 @@ mtime: 2026-01-25T01:14:51+08:00
 1. [[exhentai-tag-teitoku|teitoku]] | 5
 1. [[exhentai-tag-tenka-osaki|tenka-osaki]] | 1
 1. [[exhentai-tag-tenma-maemi|tenma-maemi]] | 1
-1. [[exhentai-tag-tewi-inaba|tewi-inaba]] | 2
+1. [[exhentai-tag-tewi-inaba|tewi-inaba]] | 3
 1. [[exhentai-tag-tio|tio]] | 1
 1. [[exhentai-tag-tokiko|tokiko]] | 1
 1. [[exhentai-tag-touma-kamijou|touma-kamijou]] | 1
@@ -277,7 +278,7 @@ mtime: 2026-01-25T01:14:51+08:00
 1. [[exhentai-tag-umaru-doma|umaru-doma]] | 1
 1. [[exhentai-tag-unicorn|unicorn]] | 1
 1. [[exhentai-tag-usada-pekora|usada-pekora]] | 1
-1. [[exhentai-tag-utsuho-reiuji|utsuho-reiuji]] | 1
+1. [[exhentai-tag-utsuho-reiuji|utsuho-reiuji]] | 2
 1. [[exhentai-tag-uzuki-shimamura|uzuki-shimamura]] | 1
 1. [[exhentai-tag-vivio-takamachi|vivio-takamachi]] | 1
 1. [[exhentai-tag-watson-amelia|watson-amelia]] | 2
@@ -286,6 +287,8 @@ mtime: 2026-01-25T01:14:51+08:00
 1. [[exhentai-tag-yayoi|yayoi]] | 1
 1. [[exhentai-tag-yayoi-takatsuki|yayoi-takatsuki]] | 1
 1. [[exhentai-tag-yoshino-yorita|yoshino-yorita]] | 2
+1. [[exhentai-tag-youmu-konpaku|youmu-konpaku]] | 1
+1. [[exhentai-tag-yukari-yakumo|yukari-yakumo]] | 1
 1. [[exhentai-tag-yukimi-sajo|yukimi-sajo]] | 2
 1. [[exhentai-tag-yun-iijima|yun-iijima]] | 1
 1. [[exhentai-tag-yuni-shingyouji|yuni-shingyouji]] | 2

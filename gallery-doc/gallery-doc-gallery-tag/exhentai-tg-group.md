@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-24T23:54:24+08:00
+mtime: 2026-01-26T14:45:52+08:00
 ---
 
 # exhentai-tg-group
@@ -175,7 +175,7 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-nijigen-koubou|nijigen-koubou]] | 2
 1. [[exhentai-tag-nisiarea|nisiarea]] | 1
 1. [[exhentai-tag-noraneko-no-tama|noraneko-no-tama]] | 2
-1. [[exhentai-tag-nounai-kanojo|nounai-kanojo]] | 1
+1. [[exhentai-tag-nounai-kanojo|nounai-kanojo]] | 2
 1. [[exhentai-tag-nyankone|nyankone]] | 1
 1. [[exhentai-tag-nyankopi|nyankopi]] | 1
 1. [[exhentai-tag-nyannyan-daikoushin|nyannyan-daikoushin]] | 4

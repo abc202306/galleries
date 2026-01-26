@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-25T01:14:51+08:00
+mtime: 2026-01-26T14:45:52+08:00
 ---
 
 # exhentai-tg-parody
@@ -112,7 +112,7 @@ mtime: 2026-01-25T01:14:51+08:00
 1. [[exhentai-tag-the-wolf-and-the-seven-young-kids|the-wolf-and-the-seven-young-kids]] | 1
 1. [[exhentai-tag-toaru-majutsu-no-index|toaru-majutsu-no-index]] | 1
 1. [[exhentai-tag-toradora|toradora]] | 2
-1. [[exhentai-tag-touhou-project|touhou-project]] | 26
+1. [[exhentai-tag-touhou-project|touhou-project]] | 27
 1. [[exhentai-tag-trickcal-revive|trickcal-revive]] | 1
 1. [[exhentai-tag-violated-heroine|violated-heroine]] | 1
 1. [[exhentai-tag-voiceroid|voiceroid]] | 8

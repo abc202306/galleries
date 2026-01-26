@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-24T23:54:24+08:00
+mtime: 2026-01-26T14:45:52+08:00
 ---
 
 # nhentai-tg-keywords
@@ -18,7 +18,7 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-armpit-sex|armpit-sex]] | 1
 1. [[exhentai-tag-artbook|artbook]] | 3
 1. [[exhentai-tag-artistcg|artistcg]] | 1
-1. [[exhentai-tag-asphyxiation|asphyxiation]] | 4
+1. [[exhentai-tag-asphyxiation|asphyxiation]] | 5
 1. [[exhentai-tag-assjob|assjob]] | 1
 1. [[exhentai-tag-bald|bald]] | 21
 1. [[exhentai-tag-bandages|bandages]] | 1
@@ -62,7 +62,7 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-clothed-male-nude-female|clothed-male-nude-female]] | 2
 1. [[exhentai-tag-coach|coach]] | 3
 1. [[exhentai-tag-collar|collar]] | 33
-1. [[exhentai-tag-condom|condom]] | 6
+1. [[exhentai-tag-condom|condom]] | 7
 1. [[exhentai-tag-confinement|confinement]] | 1
 1. [[exhentai-tag-corpse|corpse]] | 1
 1. [[exhentai-tag-corruption|corruption]] | 2
@@ -181,7 +181,7 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-maid|maid]] | 7
 1. [[exhentai-tag-males-only|males-only]] | 1
 1. [[exhentai-tag-masked-face|masked-face]] | 4
-1. [[exhentai-tag-masturbation|masturbation]] | 26
+1. [[exhentai-tag-masturbation|masturbation]] | 27
 1. [[exhentai-tag-mesugaki|mesugaki]] | 6
 1. [[exhentai-tag-mesuiki|mesuiki]] | 1
 1. [[exhentai-tag-midget|midget]] | 1
@@ -244,7 +244,7 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-school-gym-uniform|school-gym-uniform]] | 5
 1. [[exhentai-tag-school-swimsuit|school-swimsuit]] | 15
 1. [[exhentai-tag-schoolboy-uniform|schoolboy-uniform]] | 5
-1. [[exhentai-tag-schoolgirl-uniform|schoolgirl-uniform]] | 36
+1. [[exhentai-tag-schoolgirl-uniform|schoolgirl-uniform]] | 37
 1. [[exhentai-tag-selfcest|selfcest]] | 1
 1. [[exhentai-tag-sentou|sentou]] | 1
 1. [[exhentai-tag-sex-toys|sex-toys]] | 28
@@ -265,10 +265,11 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-snuff|snuff]] | 4
 1. [[exhentai-tag-sockjob|sockjob]] | 1
 1. [[exhentai-tag-sole-dickgirl|sole-dickgirl]] | 1
-1. [[exhentai-tag-sole-female|sole-female]] | 201
-1. [[exhentai-tag-sole-male|sole-male]] | 203
+1. [[exhentai-tag-sole-female|sole-female]] | 202
+1. [[exhentai-tag-sole-male|sole-male]] | 204
 1. [[exhentai-tag-solo-action|solo-action]] | 5
 1. [[exhentai-tag-soushuuhen|soushuuhen]] | 2
+1. [[exhentai-tag-spanking|spanking]] | 1
 1. [[exhentai-tag-squirting|squirting]] | 8
 1. [[exhentai-tag-stockings|stockings]] | 74
 1. [[exhentai-tag-stomach-deformation|stomach-deformation]] | 34
@@ -298,7 +299,7 @@ mtime: 2026-01-24T23:54:24+08:00
 1. [[exhentai-tag-tracksuit|tracksuit]] | 1
 1. [[exhentai-tag-transparent-clothing|transparent-clothing]] | 1
 1. [[exhentai-tag-tribadism|tribadism]] | 3
-1. [[exhentai-tag-tutor|tutor]] | 10
+1. [[exhentai-tag-tutor|tutor]] | 11
 1. [[exhentai-tag-twins|twins]] | 9
 1. [[exhentai-tag-twintails|twintails]] | 76
 1. [[exhentai-tag-uncensored|uncensored]] | 32

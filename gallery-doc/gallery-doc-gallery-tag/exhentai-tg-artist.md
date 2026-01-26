@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-25T01:14:51+08:00
+mtime: 2026-01-26T14:45:52+08:00
 ---
 
 # exhentai-tg-artist
@@ -215,6 +215,7 @@ mtime: 2026-01-25T01:14:51+08:00
 1. [[exhentai-tag-kinnotama-or-matanonki|kinnotama-or-matanonki]] | 1
 1. [[exhentai-tag-kinomoto-anzu|kinomoto-anzu]] | 2
 1. [[exhentai-tag-kishiri-toworu|kishiri-toworu]] | 1
+1. [[exhentai-tag-kishiri-toworu-or-woruto|kishiri-toworu-or-woruto]] | 1
 1. [[exhentai-tag-kiya-shii|kiya-shii]] | 2
 1. [[exhentai-tag-kobayashi-oukei|kobayashi-oukei]] | 2
 1. [[exhentai-tag-koizumi-hitsuji|koizumi-hitsuji]] | 3
@@ -508,6 +509,7 @@ mtime: 2026-01-25T01:14:51+08:00
 1. [[exhentai-tag-usa-jo|usa-jo]] | 2
 1. [[exhentai-tag-usagi-tosame|usagi-tosame]] | 2
 1. [[exhentai-tag-usakun|usakun]] | 1
+1. [[exhentai-tag-usashiro-mani|usashiro-mani]] | 1
 1. [[exhentai-tag-usashiro-mani-or-mani|usashiro-mani-or-mani]] | 4
 1. [[exhentai-tag-ushi-kousen|ushi-kousen]] | 1
 1. [[exhentai-tag-ushiro-muki|ushiro-muki]] | 1
