@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-26T14:45:52+08:00
+mtime: 2026-01-27T18:41:01+08:00
 ---
 
 # nhentai-tg-keywords
@@ -37,7 +37,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-blindfold|blindfold]] | 10
 1. [[exhentai-tag-blood|blood]] | 2
 1. [[exhentai-tag-bloomers|bloomers]] | 4
-1. [[exhentai-tag-blowjob|blowjob]] | 100
+1. [[exhentai-tag-blowjob|blowjob]] | 101
 1. [[exhentai-tag-blowjob-face|blowjob-face]] | 3
 1. [[exhentai-tag-body-swap|body-swap]] | 1
 1. [[exhentai-tag-body-writing|body-writing]] | 2
@@ -61,7 +61,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-clone|clone]] | 1
 1. [[exhentai-tag-clothed-male-nude-female|clothed-male-nude-female]] | 2
 1. [[exhentai-tag-coach|coach]] | 3
-1. [[exhentai-tag-collar|collar]] | 33
+1. [[exhentai-tag-collar|collar]] | 34
 1. [[exhentai-tag-condom|condom]] | 7
 1. [[exhentai-tag-confinement|confinement]] | 1
 1. [[exhentai-tag-corpse|corpse]] | 1
@@ -78,7 +78,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-dark-sclera|dark-sclera]] | 1
 1. [[exhentai-tag-dark-skin|dark-skin]] | 24
 1. [[exhentai-tag-daughter|daughter]] | 21
-1. [[exhentai-tag-deepthroat|deepthroat]] | 11
+1. [[exhentai-tag-deepthroat|deepthroat]] | 12
 1. [[exhentai-tag-defloration|defloration]] | 59
 1. [[exhentai-tag-demon|demon]] | 1
 1. [[exhentai-tag-demon-girl|demon-girl]] | 11
@@ -105,6 +105,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-facesitting|facesitting]] | 2
 1. [[exhentai-tag-facial-hair|facial-hair]] | 2
 1. [[exhentai-tag-fairy|fairy]] | 2
+1. [[exhentai-tag-farting|farting]] | 1
 1. [[exhentai-tag-females-only|females-only]] | 15
 1. [[exhentai-tag-femdom|femdom]] | 9
 1. [[exhentai-tag-ffm-threesome|ffm-threesome]] | 28
@@ -139,7 +140,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-group|group]] | 61
 1. [[exhentai-tag-guro|guro]] | 3
 1. [[exhentai-tag-hair-buns|hair-buns]] | 8
-1. [[exhentai-tag-halo|halo]] | 44
+1. [[exhentai-tag-halo|halo]] | 45
 1. [[exhentai-tag-handjob|handjob]] | 15
 1. [[exhentai-tag-harem|harem]] | 8
 1. [[exhentai-tag-heterochromia|heterochromia]] | 5
@@ -150,7 +151,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-how-to|how-to]] | 1
 1. [[exhentai-tag-huge-penis|huge-penis]] | 1
 1. [[exhentai-tag-humiliation|humiliation]] | 2
-1. [[exhentai-tag-impregnation|impregnation]] | 37
+1. [[exhentai-tag-impregnation|impregnation]] | 38
 1. [[exhentai-tag-incest|incest]] | 69
 1. [[exhentai-tag-incomplete|incomplete]] | 4
 1. [[exhentai-tag-infantilism|infantilism]] | 1
@@ -159,7 +160,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-inseki|inseki]] | 3
 1. [[exhentai-tag-internal-urination|internal-urination]] | 1
 1. [[exhentai-tag-inverted-nipples|inverted-nipples]] | 2
-1. [[exhentai-tag-kemonomimi|kemonomimi]] | 56
+1. [[exhentai-tag-kemonomimi|kemonomimi]] | 57
 1. [[exhentai-tag-kimono|kimono]] | 9
 1. [[exhentai-tag-kindergarten-uniform|kindergarten-uniform]] | 3
 1. [[exhentai-tag-kissing|kissing]] | 19
@@ -169,11 +170,11 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-lactation|lactation]] | 4
 1. [[exhentai-tag-large-insertions|large-insertions]] | 6
 1. [[exhentai-tag-layer-cake|layer-cake]] | 3
-1. [[exhentai-tag-leash|leash]] | 16
+1. [[exhentai-tag-leash|leash]] | 17
 1. [[exhentai-tag-leg-lock|leg-lock]] | 2
 1. [[exhentai-tag-leotard|leotard]] | 1
 1. [[exhentai-tag-lingerie|lingerie]] | 4
-1. [[exhentai-tag-lolicon|lolicon]] | 391
+1. [[exhentai-tag-lolicon|lolicon]] | 392
 1. [[exhentai-tag-low-lolicon|low-lolicon]] | 1
 1. [[exhentai-tag-low-scat|low-scat]] | 2
 1. [[exhentai-tag-low-shotacon|low-shotacon]] | 3
@@ -201,11 +202,11 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-multiple-paizuri|multiple-paizuri]] | 1
 1. [[exhentai-tag-muscle|muscle]] | 7
 1. [[exhentai-tag-mute|mute]] | 1
-1. [[exhentai-tag-nakadashi|nakadashi]] | 116
+1. [[exhentai-tag-nakadashi|nakadashi]] | 117
 1. [[exhentai-tag-necrophilia|necrophilia]] | 1
 1. [[exhentai-tag-netorare|netorare]] | 9
 1. [[exhentai-tag-niece|niece]] | 6
-1. [[exhentai-tag-nipple-stimulation|nipple-stimulation]] | 8
+1. [[exhentai-tag-nipple-stimulation|nipple-stimulation]] | 9
 1. [[exhentai-tag-no-penetration|no-penetration]] | 11
 1. [[exhentai-tag-nudity-only|nudity-only]] | 1
 1. [[exhentai-tag-nun|nun]] | 1
@@ -219,7 +220,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-painted-nails|painted-nails]] | 1
 1. [[exhentai-tag-paizuri|paizuri]] | 4
 1. [[exhentai-tag-pantyhose|pantyhose]] | 9
-1. [[exhentai-tag-pasties|pasties]] | 1
+1. [[exhentai-tag-pasties|pasties]] | 2
 1. [[exhentai-tag-petplay|petplay]] | 5
 1. [[exhentai-tag-phimosis|phimosis]] | 1
 1. [[exhentai-tag-piercing|piercing]] | 3
@@ -244,7 +245,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-school-gym-uniform|school-gym-uniform]] | 5
 1. [[exhentai-tag-school-swimsuit|school-swimsuit]] | 15
 1. [[exhentai-tag-schoolboy-uniform|schoolboy-uniform]] | 5
-1. [[exhentai-tag-schoolgirl-uniform|schoolgirl-uniform]] | 37
+1. [[exhentai-tag-schoolgirl-uniform|schoolgirl-uniform]] | 38
 1. [[exhentai-tag-selfcest|selfcest]] | 1
 1. [[exhentai-tag-sentou|sentou]] | 1
 1. [[exhentai-tag-sex-toys|sex-toys]] | 28
@@ -265,11 +266,11 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-snuff|snuff]] | 4
 1. [[exhentai-tag-sockjob|sockjob]] | 1
 1. [[exhentai-tag-sole-dickgirl|sole-dickgirl]] | 1
-1. [[exhentai-tag-sole-female|sole-female]] | 202
-1. [[exhentai-tag-sole-male|sole-male]] | 204
+1. [[exhentai-tag-sole-female|sole-female]] | 203
+1. [[exhentai-tag-sole-male|sole-male]] | 205
 1. [[exhentai-tag-solo-action|solo-action]] | 5
 1. [[exhentai-tag-soushuuhen|soushuuhen]] | 2
-1. [[exhentai-tag-spanking|spanking]] | 1
+1. [[exhentai-tag-spanking|spanking]] | 2
 1. [[exhentai-tag-squirting|squirting]] | 8
 1. [[exhentai-tag-stockings|stockings]] | 74
 1. [[exhentai-tag-stomach-deformation|stomach-deformation]] | 34
@@ -317,7 +318,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-vtuber|vtuber]] | 3
 1. [[exhentai-tag-watermarked|watermarked]] | 2
 1. [[exhentai-tag-widower|widower]] | 1
-1. [[exhentai-tag-wings|wings]] | 23
+1. [[exhentai-tag-wings|wings]] | 24
 1. [[exhentai-tag-witch|witch]] | 1
 1. [[exhentai-tag-wooden-horse|wooden-horse]] | 1
 1. [[exhentai-tag-x-ray|x-ray]] | 36

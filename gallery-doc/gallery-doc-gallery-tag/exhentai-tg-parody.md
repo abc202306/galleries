@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:33+08:00
-mtime: 2026-01-26T14:45:52+08:00
+mtime: 2026-01-27T18:41:01+08:00
 ---
 
 # exhentai-tg-parody
@@ -16,7 +16,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-avatar-the-last-airbender|avatar-the-last-airbender]] | 1
 1. [[exhentai-tag-azur-lane|azur-lane]] | 8
 1. [[exhentai-tag-bakemonogatari|bakemonogatari]] | 2
-1. [[exhentai-tag-blue-archive|blue-archive]] | 103
+1. [[exhentai-tag-blue-archive|blue-archive]] | 104
 1. [[exhentai-tag-bocchi-the-rock|bocchi-the-rock]] | 1
 1. [[exhentai-tag-boruto|boruto]] | 4
 1. [[exhentai-tag-buddy-daddies|buddy-daddies]] | 1

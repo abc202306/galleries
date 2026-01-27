@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-26T14:45:52+08:00
+mtime: 2026-01-27T18:41:01+08:00
 ---
 
 # exhentai-tg-artist
@@ -144,6 +144,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-hatomugi-munmun|hatomugi-munmun]] | 1
 1. [[exhentai-tag-hayake|hayake]] | 4
 1. [[exhentai-tag-healthyman|healthyman]] | 2
+1. [[exhentai-tag-hekoman|hekoman]] | 1
 1. [[exhentai-tag-henreader|henreader]] | 5
 1. [[exhentai-tag-herishop-or-herijp|herishop-or-herijp]] | 1
 1. [[exhentai-tag-hi-geepon|hi-geepon]] | 2

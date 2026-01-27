@@ -1,6 +1,6 @@
 ---
 ctime: 2026-01-01T00:05:35+08:00
-mtime: 2026-01-26T14:45:52+08:00
+mtime: 2026-01-27T18:41:01+08:00
 ---
 
 # exhentai-tg-character
@@ -119,7 +119,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-kitchen-dragonmaid|kitchen-dragonmaid]] | 1
 1. [[exhentai-tag-koakuma|koakuma]] | 1
 1. [[exhentai-tag-kobo-kanaeru|kobo-kanaeru]] | 1
-1. [[exhentai-tag-koharu-shimoe|koharu-shimoe]] | 10
+1. [[exhentai-tag-koharu-shimoe|koharu-shimoe]] | 11
 1. [[exhentai-tag-koi-yoshinaga|koi-yoshinaga]] | 1
 1. [[exhentai-tag-koishi-komeiji|koishi-komeiji]] | 3
 1. [[exhentai-tag-kokkoro-or-kokoro-natsume|kokkoro-or-kokoro-natsume]] | 1
@@ -237,7 +237,7 @@ mtime: 2026-01-26T14:45:52+08:00
 1. [[exhentai-tag-satori-komeiji|satori-komeiji]] | 3
 1. [[exhentai-tag-seia-yurizono|seia-yurizono]] | 5
 1. [[exhentai-tag-senko|senko]] | 1
-1. [[exhentai-tag-sensei|sensei]] | 55
+1. [[exhentai-tag-sensei|sensei]] | 56
 1. [[exhentai-tag-serena-fuoco-le-brillante-de-la-grazia|serena-fuoco-le-brillante-de-la-grazia]] | 1
 1. [[exhentai-tag-shamare|shamare]] | 1
 1. [[exhentai-tag-shana|shana]] | 2
